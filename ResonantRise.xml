@@ -9,14 +9,14 @@
     <mod url="http://adf.ly/673885/http://files.minecraftforge.net/minecraftforge/minecraftforge-universal-1.5.2-7.8.1.737.zip" file="minecraftforge-universal-1.5.2-7.8.1.737.zip" download="browser"
          type="jar" name="Forge"
          version="" website="" description=""/> 
-    
     <mod url="packs/ResonantRise/files/CodeChickenCore%200.8.7.3.jar" file="CodeChickenCore 0.8.7.3.jar" md5="46286e43c7cd1ed054ecbcb6ee21921a" download="server"
          name="CodeChickenCore" type="coremods" 
          version="0.8.7.3" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" description="" />
     <mod url="packs/ResonantRise/files/CoFHCore-1.5.2.5.jar" file="CoFHCore-1.5.2.5.jar" md5="6c15b8c217005540d1f310b8e10cdced" download="server"
          name="CoFH Core" type="coremods" version="" website="" description="" />
     <mod url="packs/ResonantRise/files/immibis-microblocks-55.0.7.jar" file="immibis-microblocks-55.0.7.jar" md5="e20b95e9be437c57ce2184dfd2c760cd" download="server"
-         name="Immibis Microblocks" depends="ImmibisCore" type="coremods" version="" website="" description=""  />
+         name="Immibis Microblocks" depends="ImmibisCore" type="coremods" 
+         version="55.0.7" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description=""  />
     <mod url="packs/ResonantRise/files/NotEnoughItems%201.5.2.28.jar" file="NotEnoughItems 1.5.2.28.jar" md5="6c8a09e69828bcf7ee66f6dc94a186b8" download="server"
          name="Not Enough Items" type="coremods" 
          version="1.5.2.28" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" description=""  />
@@ -74,24 +74,27 @@
     <mod url="packs/ResonantRise/files/gregtechmod-3.09g.zip" file="gregtechmod-3.09g.zip" md5="b67af5ad615b5885666ac7cd9874003d" download="server"
          name="Gregtech pre-insanity" depends="IndustrialCraft2" type="mods" version="" website="" description=""  />
     <mod url="packs/ResonantRise/files/immibis-core-55.1.6.jar" file="immibis-core-55.1.6.jar" md5="7b592cefb90b8a003dcc635b619e6335" download="server"
-         name="ImmibisCore"  type="mods"  version="" website="" description="" />
+         name="ImmibisCore"  type="mods"  
+         version="55.1.6" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="" />
     <mod url="packs/ResonantRise/files/immibis-peripherals-55.0.4.jar" file="immibis-peripherals-55.0.4.jar" md5="6b129921bb0b73eeb70f9d9a13092893" download="server"
-         name="Immibis Peripherals" depends="ImmibisCore,ComputerCraft"  type="mods" version="" website="" description=""  />
+         name="Immibis Peripherals" depends="ImmibisCore,ComputerCraft"  type="mods" 
+         version="55.0.4" website="" description=""  />
     <mod url="packs/ResonantRise/files/industrialcraft-2_1.117.385-lf.jar" file="industrialcraft-2_1.117.385-lf.jar" md5="8b3dcdd4abcd853346a59b2a85f8898c" download="server"
          name="IndustrialCraft2"  type="mods" version="" website="" description=""  />
     <mod url="packs/ResonantRise/files/infinitubes-55.0.6.jar" file="infinitubes-55.0.6.jar" md5="deb4eda793d03c7a4aaa431eabfa51e9" download="server"
-         name="Infinitubes" depends="ImmibisCore"  type="mods"  version="" website="" description="" />
+         name="Infinitubes" depends="ImmibisCore"  type="mods"  
+         version="55.0.6" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="" />
     <mod url="packs/ResonantRise/files/ironchest-universal-1.5.2-5.2.6.424.zip" file="ironchest-universal-1.5.2-5.2.6.424.zip" md5="5fd2fd7b2afe70738bfdbad2650c4366" download="server"
          name="Iron Chests"  type="mods"  version="" website="" description="" />
     <mod url="packs/ResonantRise/files/liquid-xp-55.1.5.jar" file="liquid-xp-55.1.5.jar" md5="eaa844909f96f8ec020c01f74e2498dd" download="server"
-         name="Liquid XP" depends="ImmibisCore"  type="mods" version="" website="" description=""  />
+         name="Liquid XP" depends="ImmibisCore"  type="mods" 
+         version="55.1.5" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description=""  />
     <mod url="packs/ResonantRise/files/magicbees-2.0.2.jar" file="magicbees-2.0.2.jar" md5="233e71fb829ac5e56e42aea98ef01fc0" download="server"
          name="Magic Bees" depends="Forestry"  type="mods" version="" website="" description=""  />
-    <!-- TODO: Make this not on the server -->
+    <!-- Client only mods -->
     <mod url="packs/ResonantRise/files/mapwriter-2.0.5.zip" file="mapwriter-2.0.5.zip" md5="40c83e1c98a62a99bca47087b0147ef2" download="server"
-         name="Map Writer"  type="mods" server="no"
+         name="Map Writer"  type="mods" server="no" optional="yes" group="Minimap"
          version="2.0.5" website="http://www.minecraftforum.net/topic/1570989-152-forge-mapwriter-an-open-source-mini-map/" description=""  />
-    <!-- TODO: Link to core -->
     <mod url="packs/ResonantRise/files/MineFactoryReloaded-2.7.0B6-1061.jar" file="MineFactoryReloaded-2.7.0B6-1061.jar" md5="44f33c5e485974a83b2c657135f82b4d" download="server"
          name="Minefactory Reloaded" type="mods" depends="PowerCrystalsCore" version="" website="" description=""  />
     <mod url="packs/ResonantRise/files/miscperipherals-3.3f.jar" file="miscperipherals-3.3f.jar" md5="fe55753bb426192de7fc903d4cdbc5e7" download="server"
@@ -113,7 +116,8 @@
     <mod url="packs/ResonantRise/files/OmniTools-3.1.6.0.jar" file="OmniTools-3.1.6.0.jar" md5="6c20c5fec23df58954570239b4129c54" download="server"
          name="OmniTools" depends="CoFH Core"  type="mods" version="" website="" description=""  />
     <mod url="packs/ResonantRise/files/redlogic-55.4.1.jar" file="redlogic-55.4.1.jar" md5="fcd71724694c7eabe3a0cdfcda4706e5" download="server"
-         name="Red Logic" depends="ImmibisCore"  type="mods" version="" website="" description=""  />
+         name="Red Logic" depends="ImmibisCore"  type="mods" 
+         version="55.4.1" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description=""  />
     <mod url="packs/ResonantRise/files/Reliquary1.0.6d.zip" file="Reliquary1.0.6d.zip" md5="08999bfbeb21203a610d69055287f15d" download="server"
          name="Xeno's Reliquary" type="mods" version="" website="" description=""  />
     <mod url="packs/ResonantRise/files/SoulShards-1.0.36-universal-srg.jar" file="SoulShards-1.0.36-universal-srg.jar" md5="02e25d56898802aae0d77415c2792d8d" download="server"
@@ -130,7 +134,8 @@
          name="Translocator"  type="mods" 
          version="1.1.0.3" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" description=""  />
     <mod url="packs/ResonantRise/files/tubestuff-55.0.4.jar" file="tubestuff-55.0.4.jar" md5="c58f8e97b77dc5834bfbe7a3c6d16651" download="server"
-         name="TubeStuff" depends="ImmibisCore"  type="mods" version="" website="" description=""  />
+         name="TubeStuff" depends="ImmibisCore"  type="mods" 
+         version="55.0.4" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description=""  />
     <mod url="packs/ResonantRise/files/UndergroundBiomes%201.5.x%20-%200.4.1.zip" file="UndergroundBiomes 1.5.x - 0.4.1.zip" md5="e1e34ae22a3c12243e7ad09ec57bff97" download="server"
          name="Underground Biomes"  type="mods" version="" website="" description=""  />
     <!-- Externally linked mods -->
