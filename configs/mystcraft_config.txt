@@ -1,0 +1,317 @@
+# Configuration file
+
+####################
+# block
+####################
+
+block {
+    I:block.bookbinder.id=1285
+    I:block.bookstand.id=1275
+    I:block.crystal.id=1276
+    I:block.lectern.id=1277
+    I:block.linkmodifier.id=1278
+    I:block.linkportal.id=1279
+    I:block.receptacle.id=1280
+    I:block.starfissure.id=1281
+    I:block.unstable.id=1282
+    I:block.writingdesk.id=1283
+}
+
+
+####################
+# entity
+####################
+
+entity {
+    I:entity.book.id=219
+    I:entity.falling.id=218
+    I:entity.meteor.id=217
+}
+
+
+####################
+# general
+####################
+
+general {
+    B:options.crafting.binder.enabled=true
+    B:options.crafting.bookstand.enabled=true
+    B:options.crafting.desk.enabled=true
+    B:options.crafting.lectern.enabled=true
+    B:options.crafting.linkbook.enabled=true
+    B:options.crafting.notebook.enabled=true
+    B:options.crafting.receptacle.enabled=true
+    S:options.difficultyoverride=
+    B:options.instability=true
+    I:options.providerId=5
+    B:options.renderlabels=false
+    I:villager.archivist.id=1210950779
+}
+
+
+####################
+# instability
+####################
+
+instability {
+    B:blindness.enabled=true
+    B:confusion.enabled=true
+    B:crumble.enabled=true
+    B:decayblack.enabled=true
+    B:decayblue.enabled=true
+    B:decaypurple.enabled=true
+    B:decayred.enabled=true
+    B:decaywhite.enabled=true
+    B:enemyregeneration.enabled=true
+    B:erosion.enabled=true
+    B:explosion.enabled=true
+    B:fatigue.enabled=true
+    B:hunger.enabled=true
+    B:lightning.enabled=true
+    B:meteors.enabled=true
+    B:poisonedsurface.enabled=true
+    B:scorched.enabled=true
+    B:slow.enabled=true
+    B:weakness.enabled=true
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:item.agebook.id=8700
+    I:item.linkbook.id=8701
+    I:item.liquid.id=8705
+    I:item.notebook.id=8702
+    I:item.page.id=8704
+    I:item.vial.id=8706
+    I:item.writingdesk.id=8703
+}
+
+
+####################
+# symbol
+####################
+
+symbol {
+    B:alps.enabled=true
+    B:arctic.enabled=true
+    B:atumdesert.enabled=true
+    B:badlands.enabled=true
+    B:bamboo_forest.enabled=true
+    B:bayou.enabled=true
+    B:beach.enabled=true
+    B:bioconhuge.enabled=true
+    B:bioconlarge.enabled=true
+    B:bioconmedium.enabled=true
+    B:bioconnative.enabled=true
+    B:bioconsingle.enabled=true
+    B:bioconsmall.enabled=true
+    B:biocontiled.enabled=true
+    B:biocontiny.enabled=true
+    B:birch_forest.enabled=true
+    B:bog.enabled=true
+    B:boreal_forest.enabled=true
+    B:canyon.enabled=true
+    B:caves.enabled=true
+    B:chaparral.enabled=true
+    B:cherry_blossom_grove.enabled=true
+    B:clearing_border.enabled=true
+    B:colorcloud.enabled=true
+    B:colorfog.enabled=true
+    B:colorhorizon.enabled=true
+    B:colorsky.enabled=true
+    B:colorskynight.enabled=true
+    B:coniferous_forest.enabled=true
+    B:crag.enabled=true
+    B:cryformcry.enabled=true
+    B:cryformglow.enabled=true
+    B:cryformquartz.enabled=true
+    B:dark_forest.enabled=true
+    B:dead_forest.enabled=true
+    B:dead_swamp.enabled=true
+    B:deadlands.enabled=true
+    B:deciduous_forest.enabled=true
+    B:dense_twilight_forest.enabled=true
+    B:denseores.enabled=true
+    B:desert.enabled=true
+    B:deserthills.enabled=true
+    B:drylands.enabled=true
+    B:dunes.enabled=true
+    B:dungeons.enabled=true
+    B:enchanted_forest.enabled=true
+    B:envaccel.enabled=true
+    B:envexplosions.enabled=true
+    B:envlightning.enabled=true
+    B:envmeteor.enabled=true
+    B:envscorch.enabled=true
+    B:extreme_hills.enabled=true
+    B:extreme_hills_edge.enabled=true
+    B:fen.enabled=true
+    B:field.enabled=true
+    B:fire_swamp.enabled=true
+    B:flat.enabled=true
+    B:forest.enabled=true
+    B:foresthills.enabled=true
+    B:frost_forest.enabled=true
+    B:frozenocean.enabled=true
+    B:frozenriver.enabled=true
+    B:fungi_forest.enabled=true
+    B:garden.enabled=true
+    B:glacier.enabled=true
+    B:grassland.enabled=true
+    B:grove.enabled=true
+    B:heathland.enabled=true
+    B:hell.enabled=true
+    B:highland.enabled=true
+    B:highlands.enabled=true
+    B:hugetrees.enabled=true
+    B:ice_mountains.enabled=true
+    B:ice_plains.enabled=true
+    B:ice_sheet.enabled=true
+    B:icy_hills.enabled=true
+    B:jade_cliffs.enabled=true
+    B:jungle.enabled=true
+    B:junglehills.enabled=true
+    B:lake_border.enabled=true
+    B:lakes.enabled=true
+    B:lavalakes.enabled=true
+    B:lightingbright.enabled=true
+    B:lightingdark.enabled=true
+    B:lightingnormal.enabled=true
+    B:lots_of_mushrooms.enabled=true
+    B:lush_desert.enabled=true
+    B:lush_swamp.enabled=true
+    B:major_feature.enabled=true
+    B:mangrove.enabled=true
+    B:maple_woods.enabled=true
+    B:marsh.enabled=true
+    B:meadow.enabled=true
+    B:mesa.enabled=true
+    B:mineshafts.enabled=true
+    B:minor_feature.enabled=true
+    B:modblack.enabled=true
+    B:modblue.enabled=true
+    B:modclear.enabled=true
+    B:modcyan.enabled=true
+    B:moddouble.enabled=true
+    B:modeast.enabled=true
+    B:modend.enabled=true
+    B:modfull.enabled=true
+    B:modgradient.enabled=true
+    B:modgreen.enabled=true
+    B:modhalf.enabled=true
+    B:modmagenta.enabled=true
+    B:modmat_tile.glass.enabled=true
+    B:modmat_tile.hellrock.enabled=true
+    B:modmat_tile.ice.enabled=true
+    B:modmat_tile.lava.enabled=true
+    B:modmat_tile.log.birch.enabled=true
+    B:modmat_tile.log.jungle.enabled=true
+    B:modmat_tile.log.oak.enabled=true
+    B:modmat_tile.log.spruce.enabled=true
+    B:modmat_tile.netherbrick.enabled=true
+    B:modmat_tile.oilstill.enabled=true
+    B:modmat_tile.orecoal.enabled=true
+    B:modmat_tile.orediamond.enabled=true
+    B:modmat_tile.oregold.enabled=true
+    B:modmat_tile.oreiron.enabled=true
+    B:modmat_tile.stone.enabled=true
+    B:modmat_tile.water.enabled=true
+    B:modmat_tile.whitestone.enabled=true
+    B:modnoon.enabled=true
+    B:modnorth.enabled=true
+    B:modred.enabled=true
+    B:modrising.enabled=true
+    B:modsetting.enabled=true
+    B:modsouth.enabled=true
+    B:modwest.enabled=true
+    B:modwhite.enabled=true
+    B:modyellow.enabled=true
+    B:modzero.enabled=true
+    B:moondark.enabled=true
+    B:moonnormal.enabled=true
+    B:moor.enabled=true
+    B:mountain.enabled=true
+    B:mushroomisland.enabled=true
+    B:mushroomislandshore.enabled=true
+    B:mushrooms.enabled=true
+    B:mystic_grove.enabled=true
+    B:netherfort.enabled=true
+    B:nohorizon.enabled=true
+    B:nosea.enabled=true
+    B:oasis.enabled=true
+    B:obelisks.enabled=true
+    B:ocean.enabled=true
+    B:ominous_woods.enabled=true
+    B:orchard.enabled=true
+    B:origin_valley.enabled=true
+    B:outback.enabled=true
+    B:pasture.enabled=true
+    B:plains.enabled=true
+    B:prairie.enabled=true
+    B:promised_land.enabled=true
+    B:quagmire.enabled=true
+    B:rainbow.enabled=true
+    B:rainforest.enabled=true
+    B:ravines.enabled=true
+    B:redwood_forest.enabled=true
+    B:river.enabled=true
+    B:sacred_springs.enabled=true
+    B:savanna.enabled=true
+    B:scrubland.enabled=true
+    B:seasonal_forest.enabled=true
+    B:shield.enabled=true
+    B:shore.enabled=true
+    B:shrubland.enabled=true
+    B:sky.enabled=true
+    B:skylands.enabled=true
+    B:snowy_forest.enabled=true
+    B:snowy_woods.enabled=true
+    B:spruce_woods.enabled=true
+    B:starfissure.enabled=true
+    B:starsdark.enabled=true
+    B:starsendsky.enabled=true
+    B:starsnormal.enabled=true
+    B:steppe.enabled=true
+    B:strongholds.enabled=true
+    B:sundark.enabled=true
+    B:sunnormal.enabled=true
+    B:swampland.enabled=true
+    B:swampwoods.enabled=true
+    B:taiga.enabled=true
+    B:taigahills.enabled=true
+    B:temperate_rainforest.enabled=true
+    B:tendrils.enabled=true
+    B:terrainend.enabled=true
+    B:terrainnether.enabled=true
+    B:terrainnormal.enabled=true
+    B:thicket.enabled=true
+    B:tropical_rainforest.enabled=true
+    B:tropics.enabled=true
+    B:tundra.enabled=true
+    B:twilight_clearing.enabled=true
+    B:twilight_forest.enabled=true
+    B:twilight_lake.enabled=true
+    B:twilight_stream.enabled=true
+    B:twilight_swamp.enabled=true
+    B:villages.enabled=true
+    B:void.enabled=true
+    B:volcano.enabled=true
+    B:wasteland.enabled=true
+    B:weathercloudy.enabled=true
+    B:weatherfast.enabled=true
+    B:weathernorm.enabled=true
+    B:weatheroff.enabled=true
+    B:weatheron.enabled=true
+    B:weatherrain.enabled=true
+    B:weatherslow.enabled=true
+    B:weathersnow.enabled=true
+    B:weatherstorm.enabled=true
+    B:wetland.enabled=true
+    B:woodland.enabled=true
+}
+
+
