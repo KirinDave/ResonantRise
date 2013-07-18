@@ -90,11 +90,7 @@
          name="Liquid XP" depends="ImmibisCore"  type="mods" 
          version="55.1.5" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description=""  />
     <mod url="packs/ResonantRise/files/magicbees-2.0.2.jar" file="magicbees-2.0.2.jar" md5="233e71fb829ac5e56e42aea98ef01fc0" download="server"
-         name="Magic Bees" depends="Forestry"  type="mods" version="" website="" description=""  />
-    <!-- Client only mods -->
-    <mod url="packs/ResonantRise/files/mapwriter-2.0.5.zip" file="mapwriter-2.0.5.zip" md5="40c83e1c98a62a99bca47087b0147ef2" download="server"
-         name="Map Writer"  type="mods" server="no" optional="yes" group="Minimap"
-         version="2.0.5" website="http://www.minecraftforum.net/topic/1570989-152-forge-mapwriter-an-open-source-mini-map/" description=""  />
+         name="Magic Bees" depends="Forestry"  type="mods" version="" website="" description=""  />         
     <mod url="packs/ResonantRise/files/MineFactoryReloaded-2.7.0B6-1061.jar" file="MineFactoryReloaded-2.7.0B6-1061.jar" md5="44f33c5e485974a83b2c657135f82b4d" download="server"
          name="Minefactory Reloaded" type="mods" depends="PowerCrystalsCore" version="" website="" description=""  />
     <mod url="packs/ResonantRise/files/miscperipherals-3.3f.jar" file="miscperipherals-3.3f.jar" md5="fe55753bb426192de7fc903d4cdbc5e7" download="server"
@@ -138,6 +134,13 @@
          version="55.0.4" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description=""  />
     <mod url="packs/ResonantRise/files/UndergroundBiomes%201.5.x%20-%200.4.1.zip" file="UndergroundBiomes 1.5.x - 0.4.1.zip" md5="e1e34ae22a3c12243e7ad09ec57bff97" download="server"
          name="Underground Biomes"  type="mods" version="" website="" description=""  />
+   <!-- Client only mods -->
+   <mod url="packs/ResonantRise/files/mapwriter-2.0.5.zip" file="mapwriter-2.0.5.zip" md5="40c83e1c98a62a99bca47087b0147ef2" download="server"
+        name="Map Writer"  type="mods" server="no" optional="yes" group="Minimap"
+        version="2.0.5" website="http://www.minecraftforum.net/topic/1570989-152-forge-mapwriter-an-open-source-mini-map/" description=""  />
+   <mod url="packs/ResonantRise/files/[1.5.2]ReiMinimap_v3.3_06.zip" file="[1.5.2]ReiMinimap_v3.3_06.zip" md5="1392997c0165ada3f21c772b7278e5f1" download="server" 
+        name="ReiMinimap" optional="yes" type="mods" group="Minimap"
+        version="3.3_06" website="http://www.minecraftforum.net/topic/482147-162-jul08-reis-minimap-v34-01/" description="" />
     <!-- Externally linked mods -->
     <mod url="http://adf.ly/P1buE" file="1.5.2HarkenScythe_v2.1.6Forge.zip" download="browser" name="Harkens Scythe" type="mods" version="" website="" description="" />
     <mod url="http://api.viglink.com/api/click?format=go&amp;key=9b4efad421c8b103b2c94b796db973b0&amp;loc=http%3A%2F%2Funiversalelectricity.com%2Fassembly%2520line%2Fdownloads&amp;subId=8240d9b1db1708d334dd983d36458303&amp;v=1&amp;libId=2be12bd3-9610-4b9b-be37-1de53f1a3dcd&amp;out=http%3A%2F%2Fcalclavia.com%2Fdownload.php%3Fname%3DAssembly%2520Line%26r%3Dhttp%253A%252F%252Fcalclavia.com%252Fjenkins%252Fjobs%252FAssembly%2BLine%252Fbuilds%252F149%252Farchive%252Foutput%252FAssemblyLine_v0.3.5.149.jar&amp;ref=http%3A%2F%2Funiversalelectricity.com%2Fassembly-line&amp;title=Assembly%20Line%20Downloads%20%7C%20Universal%20Electricity&amp;txt=AssemblyLine_v0.3.5.149&amp;jsonp=vglnk_jsonp_13739518864247" 
