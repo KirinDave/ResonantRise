@@ -5,10 +5,13 @@
     <mainclass>net.minecraft.main.Main</mainclass>
   </pack>
   <mods>
-    
-    <mod url="http://adf.ly/673885/http://files.minecraftforge.net/minecraftforge/minecraftforge-universal-1.5.2-7.8.1.737.zip" file="minecraftforge-universal-1.5.2-7.8.1.737.zip" download="browser"
+    <!-- Dat Core -->
+    <mod url="packs/ResonantRise/files/minecraftforge-universal-1.5.2-7.8.1.737.zip" file="minecraftforge-universal-1.5.2-7.8.1.737.zip" md5="ea0aa5a84703b7d07ec0431c4e8745a3" download="server"
          type="jar" name="Forge"
-         version="" website="" description=""/> 
+         version="7.8.1.737" website="http://www.minecraftforge.net/" description=""/> 
+    <!-- <mod name="MinecraftForge-libraries" version="1.5.2" website="http://files.minecraftforge.net/" donation="https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&amp;SESSION=jUYCcdZ9JAxhDO5TWqrN-0hidxOL7vZ95zJHhAbqYDFDlUh97bk3e7IZbyu&amp;dispatch=5885d80a13c0db1f8e263663d3faee8d4e181b3aff599f99a338772351021e7d" 
+         type="extract" extractto="root" optional="no" description="Libaries required by MinecraftForge." url="http://uswest.atlcdn.net/packs/RedwoodServer/files/MinecraftForgeLibs.zip" file="MinecraftForgeLibs.zip" md5="62b3100af038601fe02d38e5e55d64aa" download="direct" />   -->
+    <!-- Coremods -->
     <mod url="packs/ResonantRise/files/CodeChickenCore%200.8.7.3.jar" file="CodeChickenCore 0.8.7.3.jar" md5="46286e43c7cd1ed054ecbcb6ee21921a" download="server"
          name="CodeChickenCore" type="coremods" 
          version="0.8.7.3" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" description="" />
@@ -23,6 +26,8 @@
          version="1.5.2.28" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" description=""  />
     <mod url="packs/ResonantRise/files/PowerCrystalsCore-1.1.8B1-122.jar" file="PowerCrystalsCore-1.1.8B1-122.jar" md5="2e397b805dfb4f11f5681a17302a674e" download="server"
          name="PowerCrystalsCore" type="coremods" version="1.1.8B1-122" website="http://www.minecraftforum.net/topic/1629898-" description=""  />
+    <mod url="packs/ResonantRise/files/denLib-1.5.2-3.0.14.jar" file="denLib-1.5.2-3.0.14.jar" md5="4f210b9a27893b206e901989c327042d" download="server"
+         name="DenLib" type="coremods" version="3.0.14" website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" description="" />
     <!-- Publicly or Permission-distribution mods -->
     <mod name="AdvancedReactors" url="packs/ResonantRise/files/AdvancedReactors-1.5.2_alpha7.jar" file="AdvancedReactors-1.5.2_alpha7.jar" 
          md5="46fb5d8e8ded9633671312d2c569af8d" download="server"
@@ -139,13 +144,15 @@
          name="TubeStuff" depends="ImmibisCore"  type="mods" 
          version="55.0.4" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description=""  />
     <mod url="packs/ResonantRise/files/UndergroundBiomes%201.5.x%20-%200.4.1.zip" file="UndergroundBiomes 1.5.x - 0.4.1.zip" md5="e1e34ae22a3c12243e7ad09ec57bff97" download="server"
-         name="Underground Biomes"  type="mods" version="" website="" description=""  />
+         name="Underground Biomes"  type="mods" version="0.4.1" website="" description=""  />
+    <mod url="packs/ResonantRise/files/PluginsforForestry-1.5.2-3.0.17.jar" file="PluginsforForestry-1.5.2-3.0.17.jar" md5="157c389917ef3051cb00e4759f6d160c" download="server"
+         name="Plugins For Forestry" type="mods" depends="DenLib" version ="3.0.17" website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" description=""/>
    <!-- Client only mods -->
    <mod url="packs/ResonantRise/files/mapwriter-2.0.5.zip" file="mapwriter-2.0.5.zip" md5="40c83e1c98a62a99bca47087b0147ef2" download="server"
         name="Map Writer"  type="mods" server="no" optional="yes" group="Minimap"
         version="2.0.5" website="http://www.minecraftforum.net/topic/1570989-152-forge-mapwriter-an-open-source-mini-map/" description=""  />
    <mod url="packs/ResonantRise/files/[1.5.2]ReiMinimap_v3.3_06.zip" file="[1.5.2]ReiMinimap_v3.3_06.zip" md5="1392997c0165ada3f21c772b7278e5f1" download="server" 
-        name="ReiMinimap" optional="yes" type="mods" group="Minimap"
+        name="ReiMinimap" optional="yes" type="mods" group="Minimap"  server="no"
         version="3.3_06" website="http://www.minecraftforum.net/topic/482147-162-jul08-reis-minimap-v34-01/" description="" />
     <!-- Externally linked mods -->
     <mod url="http://adf.ly/P1buE" file="1.5.2HarkenScythe_v2.1.6Forge.zip" download="browser" name="Harkens Scythe" type="mods" version="" website="" description="" />
