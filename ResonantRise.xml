@@ -48,8 +48,8 @@
       version="1.3.2.14" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" description="" />
     <mod url="packs/ResonantRise/files/ComputerCraft1.53.zip" file="ComputerCraft1.53.zip" md5="be7b77384b966e66e264de6868cd25f9" download="server" 
          name="ComputerCraft" type="mods"  version="" website="" description="" />
-    <mod url="packs/ResonantRise/files/DartCraft%20Beta%200.1.17.jar" file="DartCraft Beta 0.1.17.jar" md5="afa9c5cd77e1495c668dcb3f422e806e" download="server"
-         name="DartCraft" type="mods"  version="" website="" description="" />
+    <mod url="packs/ResonantRise/files/DartCraft%20Beta%200.1.18.jar" file="DartCraft Beta 0.1.18.jar" md5="42cb4d0027ba4fc2519745aa82a75669" download="server"
+         name="DartCraft" type="mods"  version="0.1.18" website="http://www.minecraftforum.net/topic/1686840-151-152-dartcraft-beta-0118/" description="" />
     <mod url="packs/ResonantRise/files/dimensional-anchor-55.0.3.jar" file="dimensional-anchor-55.0.3.jar" md5="68a81302d5c745a5a880cc381549f230" download="server"
          name="Dimensional Anchor" type="mods"  version="" website="" description=""  />
     <mod url="packs/ResonantRise/files/DimensionalDoors-1.5.2R1.4.0RC1-172.zip" file="DimensionalDoors-1.5.2R1.4.0RC1-172.zip" md5="cd463c906fb105329da511f591964947" download="server"
@@ -67,8 +67,8 @@
          name="Factorization"  type="mods"  version="" website="" description="" />
     <mod url="packs/ResonantRise/files/forestry-A-2.2.8.3.jar" file="forestry-A-2.2.8.3.jar" md5="bad0532160cd7452684a7308f034f25a" download="server"
          name="Forestry" type="mods"  version="" website="" description=""  />
-    <mod url="packs/ResonantRise/files/GregsLighting-1.8.1-mc1.5.1.jar" file="GregsLighting-1.8.1-mc1.5.1.jar" md5="f1f29277c8b4e3a0e4a58da24c2d1581" download="server"
-         name="Gregs Lighting"  type="mods" version="" website="" description=""  />
+    <mod url="packs/ResonantRise/files/GregsLighting-1.8.4-mc1.5.1.jar" file="GregsLighting-1.8.4-mc1.5.1.jar" md5="05ca4b99595a8617440019f0ca056cf5" download="server"
+         name="Gregs Lighting"  type="mods" version="1.8.4" website="http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/GregsLighting/" description=""  />
     <mod url="packs/ResonantRise/files/gregtechmod-3.09g.zip" file="gregtechmod-3.09g.zip" md5="b67af5ad615b5885666ac7cd9874003d" download="server"
          name="Gregtech pre-insanity" depends="IndustrialCraft2" type="mods" version="" website="" description=""  />
     <mod url="packs/ResonantRise/files/immibis-core-55.1.6.jar" file="immibis-core-55.1.6.jar" md5="7b592cefb90b8a003dcc635b619e6335" download="server"
@@ -124,9 +124,9 @@
          name="Soul Shards"  type="mods" version="" website="" description=""  />
     <mod url="packs/ResonantRise/files/StevesCarts2.0.0.a122.zip" file="StevesCarts2.0.0.a122.zip" md5="85b02c0532c723916f3cab133721cedc" download="server"
          name="Steve's Carts"  type="mods" version="" website="" description=""  />
-    <mod url="packs/ResonantRise/files/TConstruct_1.4.0.jar" file="TConstruct_1.4.0.jar" md5="547716b582ba0ca256976a56545d794b" download="server"
+    <mod url="packs/ResonantRise/files/TConstruct_1.4.1.4.jar" file="TConstruct_1.4.1.4.jar" md5="d806e49cfa3e1e011abd6bd401cb83de" download="server"
          name="Tinker's Construct"  type="mods" 
-         version="1.4.0" website="http://www.minecraftforum.net/topic/1659892-15xtinkers-construct/" description=""  />
+         version="1.4.1.4" website="http://www.minecraftforum.net/topic/1659892-15xtinkers-construct/" description=""  />
     <mod url="packs/ResonantRise/files/Thaumic%20Tinkerer%20[1.0.7].zip" file="Thaumic Tinkerer [1.0.7].zip" md5="5552215b3c402209803ebb3d6c70996b" download="server"
          name="Thaumic Tinkerer" depends="Thaumcraft"  type="mods" version="1.0.7" website="" description=""/>
     <mod url="packs/ResonantRise/files/ThermalExpansion-2.4.6.0.jar" file="ThermalExpansion-2.4.6.0.jar" md5="33a060dd4b58e6cf5df564487314dc43" download="server"
