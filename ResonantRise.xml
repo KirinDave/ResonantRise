@@ -147,6 +147,7 @@
          name="Underground Biomes"  type="mods" version="0.4.1" website="" description=""  />
     <mod url="packs/ResonantRise/files/PluginsforForestry-1.5.2-3.0.17.jar" file="PluginsforForestry-1.5.2-3.0.17.jar" md5="157c389917ef3051cb00e4759f6d160c" download="server"
          name="Plugins For Forestry" type="mods" depends="DenLib" version ="3.0.17" website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" description=""/>
+ 
    <!-- Client only mods -->
    <mod url="packs/ResonantRise/files/mapwriter-2.0.5.zip" file="mapwriter-2.0.5.zip" md5="40c83e1c98a62a99bca47087b0147ef2" download="server"
         name="Map Writer"  type="mods" server="no" optional="yes" group="Minimap"
