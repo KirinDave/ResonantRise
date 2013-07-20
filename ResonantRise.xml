@@ -9,8 +9,8 @@
     <mod url="packs/ResonantRise/files/minecraftforge-universal-1.5.2-7.8.1.737.zip" file="minecraftforge-universal-1.5.2-7.8.1.737.zip" md5="ea0aa5a84703b7d07ec0431c4e8745a3" download="server"
          type="jar" name="Forge"
          version="7.8.1.737" website="http://www.minecraftforge.net/" description=""/> 
-    <!-- <mod name="MinecraftForge-libraries" version="1.5.2" website="http://files.minecraftforge.net/" donation="https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&amp;SESSION=jUYCcdZ9JAxhDO5TWqrN-0hidxOL7vZ95zJHhAbqYDFDlUh97bk3e7IZbyu&amp;dispatch=5885d80a13c0db1f8e263663d3faee8d4e181b3aff599f99a338772351021e7d" 
-         type="extract" extractto="root" optional="no" description="Libaries required by MinecraftForge." url="http://uswest.atlcdn.net/packs/RedwoodServer/files/MinecraftForgeLibs.zip" file="MinecraftForgeLibs.zip" md5="62b3100af038601fe02d38e5e55d64aa" download="direct" />   -->
+    <mod name="MinecraftForge-libraries" version="1.5.2" website="http://files.minecraftforge.net/" donation="https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&amp;SESSION=jUYCcdZ9JAxhDO5TWqrN-0hidxOL7vZ95zJHhAbqYDFDlUh97bk3e7IZbyu&amp;dispatch=5885d80a13c0db1f8e263663d3faee8d4e181b3aff599f99a338772351021e7d" 
+         type="extract" extractto="root" optional="no" description="Libaries required by MinecraftForge."url="packs/ResonantRise/files/MinecraftForgeLibs.zip" file="MinecraftForgeLibs.zip" md5="62b3100af038601fe02d38e5e55d64aa" download="server" />   -->
     <!-- Coremods -->
     <mod url="packs/ResonantRise/files/CodeChickenCore%200.8.7.3.jar" file="CodeChickenCore 0.8.7.3.jar" md5="46286e43c7cd1ed054ecbcb6ee21921a" download="server"
          name="CodeChickenCore" type="coremods" 
