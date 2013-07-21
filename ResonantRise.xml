@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>0.9.3</version>
+    <version>0.9.4</version>
     <minecraft>1.5.2</minecraft>
     <mainclass>net.minecraft.main.Main</mainclass>
   </pack>
@@ -8,9 +8,10 @@
     <!-- Dat Core -->
     <mod url="packs/ResonantRise/files/minecraftforge-universal-1.5.2-7.8.1.737.zip" file="minecraftforge-universal-1.5.2-7.8.1.737.zip" md5="ea0aa5a84703b7d07ec0431c4e8745a3" download="server"
          type="jar" name="Forge"
-         version="7.8.1.737" website="http://www.minecraftforge.net/" description=""/> 
+         version="7.8.1.737" website="http://www.minecraftforge.net/" description=""/>
     <mod name="MinecraftForge-libraries" version="1.5.2" website="http://files.minecraftforge.net/" donation="https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&amp;SESSION=jUYCcdZ9JAxhDO5TWqrN-0hidxOL7vZ95zJHhAbqYDFDlUh97bk3e7IZbyu&amp;dispatch=5885d80a13c0db1f8e263663d3faee8d4e181b3aff599f99a338772351021e7d" 
-         type="extract" extractto="root" optional="no" description="Libaries required by MinecraftForge."url="packs/ResonantRise/files/MinecraftForgeLibs.zip" file="MinecraftForgeLibs.zip" md5="62b3100af038601fe02d38e5e55d64aa" download="server" />   -->
+         type="extract" extractto="root" optional="no" description="Libaries required by MinecraftForge."
+         url="packs/ResonantRise/files/MinecraftForgeLibs.zip" file="MinecraftForgeLibs.zip" md5="62b3100af038601fe02d38e5e55d64aa" download="server" />
     <!-- Coremods -->
     <mod url="packs/ResonantRise/files/CodeChickenCore%200.8.7.3.jar" file="CodeChickenCore 0.8.7.3.jar" md5="46286e43c7cd1ed054ecbcb6ee21921a" download="server"
          name="CodeChickenCore" type="coremods" 
@@ -46,8 +47,8 @@
          name="BiomesOPlenty"  type="mods"  version="" website="" description="" />
     <mod url="packs/ResonantRise/files/binnie-mods-1.7.0b.jar" file="binnie-mods-1.7.0b.jar" md5="b4b39aa51204fb4b2693788dd1cef0c2" download="server"
          name="Binne's Mods" depends="Forestry,Buildcraft" type="mods" version="" website="" description=""  />
-    <mod url="packs/ResonantRise/files/buildcraft-A-3.7.1.jar" file="buildcraft-A-3.7.1.jar" md5="a9f1323c7c89ec4b122f5805b50252bf" download="server"
-         name="Buildcraft" type="mods"  version="" website="" description="" />
+    <mod url="packs/ResonantRise/files/buildcraft-A-3.7.2.jar" file="buildcraft-A-3.7.2.jar" md5="4495f0087053a8434863d08677420b62" download="server"
+         name="Buildcraft" type="mods"  version="3.7.2" website="" description="" />
     <mod url="packs/ResonantRise/files/ChickenChunks%201.3.2.14.jar" file="ChickenChunks 1.3.2.14.jar" md5="9a613b4b5fd287e4ce4f20875f72ec04" download="server"
       name="ChickenChunks" type="mods" 
       version="1.3.2.14" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" description="" />
@@ -70,8 +71,8 @@
          name="Extra Utilities"  type="mods" version="" website="" description=""  />
     <mod url="packs/ResonantRise/files/Factorization-0.7.37.jar" file="Factorization-0.7.37.jar" md5="b002a5443d454beabd46b7bc01442428" download="server"
          name="Factorization"  type="mods"  version="" website="" description="" />
-    <mod url="packs/ResonantRise/files/forestry-A-2.2.8.3.jar" file="forestry-A-2.2.8.3.jar" md5="bad0532160cd7452684a7308f034f25a" download="server"
-         name="Forestry" type="mods"  version="" website="" description=""  />
+    <mod url="packs/ResonantRise/files/forestry-A-2.2.8.4.jar" file="forestry-A-2.2.8.4.jar" md5="7e2e64c34087e6ce755f4c85f801d837" download="server"
+         name="Forestry" type="mods"  version="2.2.8.4" website="" description=""  />
     <mod url="packs/ResonantRise/files/GregsLighting-1.8.4-mc1.5.1.jar" file="GregsLighting-1.8.4-mc1.5.1.jar" md5="05ca4b99595a8617440019f0ca056cf5" download="server"
          name="Gregs Lighting"  type="mods" version="1.8.4" website="http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/GregsLighting/" description=""  />
     <mod url="packs/ResonantRise/files/gregtechmod-3.09g.zip" file="gregtechmod-3.09g.zip" md5="b67af5ad615b5885666ac7cd9874003d" download="server"
@@ -96,8 +97,8 @@
     <mod url="packs/ResonantRise/files/liquid-xp-55.1.5.jar" file="liquid-xp-55.1.5.jar" md5="eaa844909f96f8ec020c01f74e2498dd" download="server"
          name="Liquid XP" depends="ImmibisCore"  type="mods" 
          version="55.1.5" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description=""  />
-    <mod url="packs/ResonantRise/files/magicbees-2.0.2.jar" file="magicbees-2.0.2.jar" md5="233e71fb829ac5e56e42aea98ef01fc0" download="server"
-         name="Magic Bees" depends="Forestry"  type="mods" version="" website="" description=""  />         
+    <mod url="packs/ResonantRise/files/magicbees-2.0.5.jar" file="magicbees-2.0.5.jar" md5="f5e969c2f8285a66fa6a0a4e419fa590" download="server"
+         name="Magic Bees" depends="Forestry"  type="mods" version="2.0.5" website="" description=""  />         
     <mod url="packs/ResonantRise/files/MineFactoryReloaded-2.7.0B6-1061.jar" file="MineFactoryReloaded-2.7.0B6-1061.jar" md5="44f33c5e485974a83b2c657135f82b4d" download="server"
          name="Minefactory Reloaded" type="mods" depends="PowerCrystalsCore" 
          version="2.7.0B6-1061.jar" website="http://www.minecraftforum.net/topic/1629898-" description=""  />
@@ -133,9 +134,9 @@
          name="Soul Shards"  type="mods" version="" website="" description=""  />
     <mod url="packs/ResonantRise/files/StevesCarts2.0.0.a122.zip" file="StevesCarts2.0.0.a122.zip" md5="85b02c0532c723916f3cab133721cedc" download="server"
          name="Steve's Carts"  type="mods" version="" website="" description=""  />
-    <mod url="packs/ResonantRise/files/TConstruct_1.4.1.4.jar" file="TConstruct_1.4.1.4.jar" md5="d806e49cfa3e1e011abd6bd401cb83de" download="server"
+    <mod url="packs/ResonantRise/files/TConstruct_1.4.1.5.jar" file="TConstruct_1.4.1.5.jar" md5="c16ea944f0bd64b9cd423336a1183867" download="server"
          name="Tinker's Construct"  type="mods" 
-         version="1.4.1.4" website="http://www.minecraftforum.net/topic/1659892-15xtinkers-construct/" description=""  />
+         version="1.4.1.5" website="http://www.minecraftforum.net/topic/1659892-15xtinkers-construct/" description=""  />
     <mod url="packs/ResonantRise/files/Thaumic%20Tinkerer%20[1.0.7].zip" file="Thaumic Tinkerer [1.0.7].zip" md5="5552215b3c402209803ebb3d6c70996b" download="server"
          name="Thaumic Tinkerer" depends="Thaumcraft"  type="mods" version="1.0.7" website="" description=""/>
     <mod url="packs/ResonantRise/files/ThermalExpansion-2.4.6.0.jar" file="ThermalExpansion-2.4.6.0.jar" md5="33a060dd4b58e6cf5df564487314dc43" download="server"

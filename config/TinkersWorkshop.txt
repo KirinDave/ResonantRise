@@ -81,7 +81,9 @@ block {
     B:"Enable mod wooden tools"=true
     B:"Keep hunger on death"=true
     B:"Keep levels on death"=true
+    B:"Lower bronze output to 2 ingots"=false
     B:"Remove Overworld void fog"=true
+    B:"Remove Vanilla GregTech Nerfs"=true
     B:"Remove Vanilla Tool Recipes"=false
     B:"Spawn beginner book"=true
     B:"Turn water clear"=true
@@ -227,6 +229,7 @@ tools {
     B:"Add World Border"=false
     B:"Change Crafting Recipes"=false
     B:"Change Ghast drops to Gold Ingots"=false
+    B:"Craft Stencil Tables"=true
     B:"Passive Health Regen"=true
     B:"Players drop heads on death"=false
     I:"World Border Radius"=1000
