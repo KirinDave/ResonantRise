@@ -78,7 +78,7 @@
     <mod url="packs/ResonantRise/files/gregtechmod-3.09g.zip" file="gregtechmod-3.09g.zip" md5="b67af5ad615b5885666ac7cd9874003d" download="server"
          name="Gregtech pre-insanity" depends="IndustrialCraft2" type="mods" version="" website="" description=""  />
     <mod url="packs/ResonantRise/files/immibis-core-55.1.6.jar" file="immibis-core-55.1.6.jar" md5="7b592cefb90b8a003dcc635b619e6335" download="server"
-         name="ImmibisCore"  type="mods"  
+         name="ImmibisCore"  type="mods"
          version="55.1.6" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="" />
     <mod url="packs/ResonantRise/files/immibis-peripherals-55.0.4.jar" file="immibis-peripherals-55.0.4.jar" md5="6b129921bb0b73eeb70f9d9a13092893" download="server"
          name="Immibis Peripherals" depends="ImmibisCore,ComputerCraft"  type="mods" 
@@ -152,7 +152,8 @@
          name="Underground Biomes"  type="mods" version="0.4.1" website="" description=""  />
     <mod url="packs/ResonantRise/files/PluginsforForestry-1.5.2-3.0.17.jar" file="PluginsforForestry-1.5.2-3.0.17.jar" md5="157c389917ef3051cb00e4759f6d160c" download="server"
          name="Plugins For Forestry" type="mods" depends="DenLib" version ="3.0.17" website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" description=""/>
- 
+    <mod url="packs/ResonantRise/files/LogisticsPipes-MC1.5.2-0.7.3.6.jar" file="LogisticsPipes-MC1.5.2-0.7.3.6.jar" md5="1c549348f4c4c83c2e9adbd2e096aa94" download="server"
+         name="LogisticsPipes" type="mods" version="0.7.3.6" website="http://www.minecraftforum.net/topic/1831791-152buildcraft-logistics-pipes/" description="Even more amazing pipes." />
    <!-- Client only mods -->
    <mod url="packs/ResonantRise/files/mapwriter-2.0.5.zip" file="mapwriter-2.0.5.zip" md5="40c83e1c98a62a99bca47087b0147ef2" download="server"
         name="Map Writer"  type="mods" server="no" optional="yes" group="Minimap"
