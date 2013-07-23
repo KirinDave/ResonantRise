@@ -150,7 +150,7 @@
     <mod url="packs/ResonantRise/files/mod_zGraviSuite_1_9_3.zip" file="mod_zGraviSuite_1_9_3.zip" md5="94def1c4634295d7ba5d785baa2f2ec3" download="server"
          name="Gravity Suite" depends="IndustrialCraft2"  type="mods" 
          version="1.9.3" 
-         website="http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915" 
+         website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=6915" 
          description="Gravity Suit in flight. Afternoon delight."  />
     <mod url="packs/ResonantRise/files/ModularPowersuits-0.7.1-569.jar" file="ModularPowersuits-0.7.1-569.jar" md5="aaaeddae475b1f597fa1535578f982e1" download="server"
          name="MachineMuse Modular Powersuits"  type="mods" 
