@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>0.9.5</version>
+    <version>0.9.6-dev</version>
     <minecraft>1.5.2</minecraft>
     <mainclass>net.minecraft.main.Main</mainclass>
   </pack>
@@ -225,6 +225,25 @@
          version="55.0.3"
          website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9335"
          description="" />
+    <mod url="packs/ResonantRise/files/EmasherCore-1.6.2.zip" file="EmasherCore-1.6.2.zip" md5="37d9b8690e70245dc9eb4bba47383041" download="server"
+         name="EmasherCore" type="mods" version="1.6.2"
+         website="http://emashersmods.wikispaces.com"
+         description="Needed by other Emasher mods." />
+    <mod url="packs/ResonantRise/files/GasCraft-1.6.2.zip" file="GasCraft-1.6.2.zip" md5="6ad439fb8d00581dbdcb4a6f0eacf044" download="server"
+         name="GasCraft" type="mods" version="1.6.2"
+         depends="EmasherCore"
+         website=""
+         description="Gas goes boom." />
+    <mod url="packs/ResonantRise/files/EngineersToolbox-1.5.6.zip" file="EngineersToolbox-1.5.6.zip" md5="567d8ad22590ea89c0a74d568ff64c79" download="server"
+         name="Engineer's Toolbox" type="mods" version="1.5.6"
+         depends="EmasherCore"
+         website="http://emashersmods.wikispaces.com"
+         description="Build big or build tiny." />
+    <mod url="packs/ResonantRise/files/Defense-1.4.2.zip" file="Defense-1.4.2.zip" md5="9a4995a8a7de95c8db484ace776f1ff9" download="server"
+         name="Defense" type="mods" version="1.4.2"
+         depends="EmasherCore"
+         website="http://emashersmods.wikispaces.com"
+         description="Stay out of my house, witches!" />
 
    <!-- Client only mods -->
 
