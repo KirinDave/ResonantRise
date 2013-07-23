@@ -219,7 +219,15 @@
          name="LogisticsPipes" type="mods" version="0.7.3.dev.595" 
          website="http://www.minecraftforum.net/topic/1831791-152buildcraft-logistics-pipes/" 
          description="Even more amazing pipes." />
+
+    <mod url="packs/ResonantRise/files/advanced-machines-55.0.3.jar" file="advanced-machines-55.0.3.jar" md5="782aaf99bd0d69a2a7745256650fe293" download="server"
+         name="Advanced Machines" type="mods" depends="IndustrialCraft2,ImmibisCore"
+         version="55.0.3"
+         website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9335"
+         description="">
+
    <!-- Client only mods -->
+
    <mod url="packs/ResonantRise/files/mapwriter-2.0.5.zip" file="mapwriter-2.0.5.zip" md5="40c83e1c98a62a99bca47087b0147ef2" download="server"
         name="Map Writer"  type="mods" server="no" optional="yes" group="Minimap"
         version="2.0.5" 
