@@ -224,7 +224,7 @@
          name="Advanced Machines" type="mods" depends="IndustrialCraft2,ImmibisCore"
          version="55.0.3"
          website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9335"
-         description="">
+         description="" />
 
    <!-- Client only mods -->
 
@@ -237,6 +237,16 @@
         name="ReiMinimap" optional="yes" type="mods" group="Minimap"  server="no"
         version="3.3_06" website="http://www.minecraftforum.net/topic/482147-162-jul08-reis-minimap-v34-01/" 
         description="The Most Popular Minimap, really." />
+
+   <mod url="http://adf.ly/404181/optifined.net/adloadx.php?f=OptiFine_1.5.2_HD_U_D5.zip" 
+        file="OptiFine_1.5.2_HD_U_D5.zip" download="browser"
+        type="jar" name="Optifine"
+        version="1.5.2_HD_U_D5" 
+        optional="yes"
+        server="no"
+        website="http://www.minecraftforum.net/topic/249637-162-optifine-hd-b4-fps-boost-hd-textures-aa-af-and-much-more/" 
+        description="Helps some people, hurts almost everyone." />
+
     <!-- Externally linked mods -->
     <mod url="http://adf.ly/P1buE" file="1.5.2HarkenScythe_v2.1.6Forge.zip" download="browser" name="Harkens Scythe"
          type="mods" version="2.1.6"
