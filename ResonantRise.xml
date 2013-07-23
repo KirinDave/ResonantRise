@@ -99,9 +99,9 @@
          version="55.1.5" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description=""  />
     <mod url="packs/ResonantRise/files/magicbees-2.0.5.jar" file="magicbees-2.0.5.jar" md5="f5e969c2f8285a66fa6a0a4e419fa590" download="server"
          name="Magic Bees" depends="Forestry"  type="mods" version="2.0.5" website="" description=""  />         
-    <mod url="packs/ResonantRise/files/MineFactoryReloaded-2.7.0B6-1061.jar" file="MineFactoryReloaded-2.7.0B6-1061.jar" md5="44f33c5e485974a83b2c657135f82b4d" download="server"
+    <mod url="packs/ResonantRise/files/MineFactoryReloaded-2.7.0B8-1093.jar" file="MineFactoryReloaded-2.7.0B8-1093.jar" md5="de25dd14cfec868710c95bb9cef8ddb2" download="server"
          name="Minefactory Reloaded" type="mods" depends="PowerCrystalsCore" 
-         version="2.7.0B6-1061.jar" website="http://www.minecraftforum.net/topic/1629898-" description=""  />
+         version="2.7.0B6-1093.jar" website="http://www.minecraftforum.net/topic/1629898-" description=""  />
     <mod url="packs/ResonantRise/files/miscperipherals-3.3f.jar" file="miscperipherals-3.3f.jar" md5="fe55753bb426192de7fc903d4cdbc5e7" download="server"
          name="MiscPeripherals" depends="ComputerCraft" type="mods"  version="" website="" description="" />
     <mod url="packs/ResonantRise/files/mod_zGraviSuite_1_9_3.zip" file="mod_zGraviSuite_1_9_3.zip" md5="94def1c4634295d7ba5d785baa2f2ec3" download="server"
