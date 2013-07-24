@@ -232,10 +232,10 @@
     <mod url="packs/ResonantRise/files/GasCraft-1.6.2.zip" file="GasCraft-1.6.2.zip" md5="6ad439fb8d00581dbdcb4a6f0eacf044" download="server"
          name="GasCraft" type="mods" version="1.6.2"
          depends="EmasherCore"
-         website=""
+         website="http://emashersmods.wikispaces.com"
          description="Gas goes boom." />
-    <mod url="packs/ResonantRise/files/EngineersToolbox-1.5.6.zip" file="EngineersToolbox-1.5.6.zip" md5="567d8ad22590ea89c0a74d568ff64c79" download="server"
-         name="Engineer's Toolbox" type="mods" version="1.5.6"
+    <mod url="packs/ResonantRise/files/EngineersToolbox-1.5.7.zip" file="EngineersToolbox-1.5.7.zip" md5="1d19794c839c21328ff6d1b3178b0635" download="server"
+         name="Engineer's Toolbox" type="mods" version="1.5.7"
          depends="EmasherCore"
          website="http://emashersmods.wikispaces.com"
          description="Build big or build tiny." />
@@ -244,6 +244,11 @@
          depends="EmasherCore"
          website="http://emashersmods.wikispaces.com"
          description="Stay out of my house, witches!" />
+
+    <mod url="packs/ResonantRise/files/TickProfiler-1.5.2-1.0.0.42.jar" file="TickProfiler-1.5.2-1.0.0.42.jar" md5="183120d4fed94151487c6f1e3f420104" download="server"
+         name="TickProfiler" type="mods" version="1.5.6"
+         website="https://github.com/nallar/TickProfiler"
+         description="Find out what's slow, and where." />
 
    <!-- Client only mods -->
 
