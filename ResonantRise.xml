@@ -234,7 +234,7 @@
          depends="EmasherCore"
          website="http://emashersmods.wikispaces.com"
          description="Gas goes boom." />
-    <mod url="packs/ResonantRise/files/EngineersToolbox-1.5.7.zip" file="EngineersToolbox-1.5.7.zip" md5="1d19794c839c21328ff6d1b3178b0635" download="server"
+    <mod url="packs/ResonantRise/files/EngineersToolbox-1.5.7.zip" file="EngineersToolbox-1.5.7.zip" md5="a13027318aee7437a3d64b29d7df88b3" download="server"
          name="Engineer's Toolbox" type="mods" version="1.5.7"
          depends="EmasherCore"
          website="http://emashersmods.wikispaces.com"
