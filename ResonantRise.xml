@@ -229,11 +229,6 @@
          name="EmasherCore" type="mods" version="1.6.2"
          website="http://emashersmods.wikispaces.com"
          description="Needed by other Emasher mods." />
-    <mod url="packs/ResonantRise/files/GasCraft-1.6.2.zip" file="GasCraft-1.6.2.zip" md5="6ad439fb8d00581dbdcb4a6f0eacf044" download="server"
-         name="GasCraft" type="mods" version="1.6.2"
-         depends="EmasherCore"
-         website="http://emashersmods.wikispaces.com"
-         description="Gas goes boom." />
     <mod url="packs/ResonantRise/files/EngineersToolbox-1.5.7.zip" file="EngineersToolbox-1.5.7.zip" md5="a13027318aee7437a3d64b29d7df88b3" download="server"
          name="Engineer's Toolbox" type="mods" version="1.5.7"
          depends="EmasherCore"
@@ -246,9 +241,15 @@
          description="Stay out of my house, witches!" />
 
     <mod url="packs/ResonantRise/files/TickProfiler-1.5.2-1.0.0.42.jar" file="TickProfiler-1.5.2-1.0.0.42.jar" md5="183120d4fed94151487c6f1e3f420104" download="server"
-         name="TickProfiler" type="mods" version="1.5.6"
+         name="TickProfiler" type="mods" version="1.0.0.42"
          website="https://github.com/nallar/TickProfiler"
          description="Find out what's slow, and where." />
+         
+    <mod url="packs/ResonantRise/files/ForgeIRC-1.0.18-universal-srg.jar" file="ForgeIRC-1.0.18-universal-srg.jar" md5="262562bbe73a7d2612855eec97798eb0" download="server"
+         name="ForgeIRC" type="mods" version="1.0.18"
+         website="http://www.minecraftforum.net/topic/1475847-152-forgeirc-v1018-soul-shards-v1036-and-recipe-remover-v11-updated-6092013/"
+         description="Your grandpa used IRC."
+         optional="yes" />
 
    <!-- Client only mods -->
 
@@ -270,6 +271,14 @@
         server="no"
         website="http://www.minecraftforum.net/topic/249637-162-optifine-hd-b4-fps-boost-hd-textures-aa-af-and-much-more/" 
         description="Helps some people, hurts almost everyone." />
+        
+    <!-- Server only mods -->
+    
+    <mod url="packs/ResonantRise/files/forgebackup-universal-coremod-1.5.2-1.1.2.98.jar" file="forgebackup-universal-coremod-1.5.2-1.1.2.98.jar" md5="9e1bcd713d4e56342681542a60ae035a" download="server"
+         type="coremods" name="ForgeBackup" optional="yes" server="yes"
+         version="1.1.2.98"
+         website="http://www.minecraftforge.net/forum/index.php?topic=4606.0"
+         description="Don't lose worlds." />
 
     <!-- Externally linked mods -->
     <mod url="http://adf.ly/P1buE" file="1.5.2HarkenScythe_v2.1.6Forge.zip" download="browser" name="Harkens Scythe"
