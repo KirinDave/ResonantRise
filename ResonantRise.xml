@@ -139,9 +139,9 @@
          name="Magic Bees" depends="Forestry"  type="mods" version="2.1.0" 
          website="http://forestry.sengir.net/forum/viewtopic.php?id=17" 
          description="Even more bees. Also a way to get metal bees in Underground Biomes." />
-    <mod url="packs/ResonantRise/files/MineFactoryReloaded-2.7.0B8-1093.jar" file="MineFactoryReloaded-2.7.0B8-1093.jar" md5="de25dd14cfec868710c95bb9cef8ddb2" download="server"
+    <mod url="packs/ResonantRise/files/MineFactoryReloaded-2.7.0B8-1099.jar" file="MineFactoryReloaded-2.7.0B8-1099.jar" md5="fe7d4153aa9ad51b075a66fe85f1a6bd" download="server"
          name="Minefactory Reloaded" type="mods" depends="PowerCrystalsCore" 
-         version="2.7.0B6-1093.jar" website="http://www.minecraftforum.net/topic/1629898-" description=""  />
+         version="2.7.0B8-1099.jar" website="http://www.minecraftforum.net/topic/1629898-" description=""  />
     <mod url="packs/ResonantRise/files/miscperipherals-3.3f.jar" file="miscperipherals-3.3f.jar" md5="fe55753bb426192de7fc903d4cdbc5e7" download="server"
          name="MiscPeripherals" depends="ComputerCraft" type="mods"  
          version="3.3f" 
