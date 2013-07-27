@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>0.9.8</version>
+    <version>0.9.9-dev</version>
     <minecraft>1.5.2</minecraft>
     <mainclass>net.minecraft.main.Main</mainclass>
   </pack>
@@ -183,6 +183,10 @@
     <mod url="packs/ResonantRise/files/Natura_2.1.2.jar" file="Natura_2.1.2.jar" md5="0d79131f51e13f9e39a46c28a035fe8c" download="server"
          name="Natura"  type="mods" 
          version="2.1.2" website="http://www.minecraftforum.net/topic/1753754-15xnatura/" description=""  />
+    <mod url="packs/ResonantRise/files/NEIPlugins-1.0.9.3.jar" file="NEIPlugins-1.0.9.3.jar" md5="e17c0a2dae6fabf37aa62f41445fba29" download="server"
+         name="NEI Plugins" version="1.0.9.3" type="mods" depends="Not Enough Items"
+         website="https://bitbucket.org/mistaqur/nei_plugins/wiki/Home" 
+         description="We require more assistance." />
     <mod url="packs/ResonantRise/files/neiaddons-1.5.2-1.8.1.r27.jar" file="neiaddons-1.5.2-1.8.1.r27.jar" md5="166297a726836e7832a9153ed40afdbd" download="server"
          name="NEI Addons" depends="Not Enough Items"  type="mods" 
          version="1.8.1" 
