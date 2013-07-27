@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>0.9.7</version>
+    <version>0.9.8</version>
     <minecraft>1.5.2</minecraft>
     <mainclass>net.minecraft.main.Main</mainclass>
   </pack>
@@ -313,11 +313,6 @@
           file="AssemblyLine_v0.3.5.149.jar" download="browser" name="Assembly Line" type="mods" version="0.3.5.149" website="http://http://universalelectricity.com/assembly%20line/" description=""  />
     <mod url="http://api.viglink.com/api/click?format=go&amp;key=9b4efad421c8b103b2c94b796db973b0&amp;loc=http%3A%2F%2Funiversalelectricity.com%2Fatomic-science%2Fdownloads&amp;subId=8240d9b1db1708d334dd983d36458303&amp;v=1&amp;libId=eb767904-b60d-4adb-8db0-7f8c7f8357aa&amp;out=http%3A%2F%2Fcalclavia.com%2Fdownload.php%3Fname%3DAtomic%2520Science%26r%3Dhttp%253A%252F%252Fcalclavia.com%252Fjenkins%252Fjobs%252FAtomic%2BScience%252Fbuilds%252F80%252Farchive%252Foutput%252FAtomic_Science_v0.6.1.80.jar&amp;ref=http%3A%2F%2Funiversalelectricity.com%2Fatomic-science&amp;title=Atomic%20Science%20Downloads%20%7C%20Universal%20Electricity&amp;txt=Atomic_Science_v0.6.1.80&amp;jsonp=vglnk_jsonp_13743073334157" 
            file="Atomic_Science_v0.6.1.80.jar" download="browser" name="Atomic Science" type="mods" version="" website="http://universalelectricity.com/atomic-science" description=""  />
-    <mod url="http://api.viglink.com/api/click?format=go&amp;key=9b4efad421c8b103b2c94b796db973b0&amp;loc=http%3A%2F%2Funiversalelectricity.com%2Felectric%2520expansion%2Fdownloads&amp;subId=8240d9b1db1708d334dd983d36458303&amp;v=1&amp;libId=6d9375b9-e336-430b-ac09-c3898c6afac4&amp;out=http%3A%2F%2Fadf.ly%2F2424086%2Fcalclavia.com%2Fdownload.php%3Fd%3Dee%2F%26f%3DElectricExpansion_v2.0.0.jar&amp;ref=http%3A%2F%2Funiversalelectricity.com%2Felectric-expansion&amp;title=Electric%20Expansion%20Downloads%20%7C%20Universal%20Electricity&amp;txt=ElectricExpansion_v2.0.0&amp;jsonp=vglnk_jsonp_13739520172496" 
-           file="ElectricExpansion_v2.0.0.jar" download="browser" name="Electric Expansion" 
-           type="mods" version="2.0.0" 
-           website="http://universalelectricity.com/electric%20expansion/"
-           description=""  />
     <mod url="http://api.viglink.com/api/click?format=go&amp;key=9b4efad421c8b103b2c94b796db973b0&amp;loc=http%3A%2F%2Funiversalelectricity.com%2Ficbm%2Fdownloads&amp;subId=8240d9b1db1708d334dd983d36458303&amp;v=1&amp;libId=658d6851-c3b7-4ed7-8f09-280a0d6faadb&amp;out=http%3A%2F%2Fcalclavia.com%2Fdownload.php%3Fname%3DICBM%26r%3Dhttp%253A%252F%252Fcalclavia.com%252Fjenkins%252Fjobs%252FICBM%252Fbuilds%252F172%252Farchive%252Foutput%252FICBM_Contraption_v1.2.1.172.jar&amp;ref=http%3A%2F%2Funiversalelectricity.com%2Ficbm&amp;title=ICBM%20Downloads%20%7C%20Universal%20Electricity&amp;txt=ICBM_Contraption_v1.2.1.172&amp;jsonp=vglnk_jsonp_13743074429846" 
          file="ICBM_Contraption_v1.2.1.172.jar" download="browser" name="ICBM Contraption" type="mods" version="1.2.1.172"
          website="http://universalelectricity.com/icbm"
