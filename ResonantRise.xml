@@ -74,7 +74,12 @@
       name="ChickenChunks" type="mods" 
       version="1.3.2.14" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" description="" />
     <mod url="packs/ResonantRise/files/ComputerCraft1.53.zip" file="ComputerCraft1.53.zip" md5="be7b77384b966e66e264de6868cd25f9" download="server" 
-         name="ComputerCraft" type="mods"  version="" website="" description="" />
+         name="ComputerCraft" type="mods"  version="1.53" website="http://computercraft.info/" 
+         description="" />
+    <mod url="packs/ResonantRise/files/backpack-1.12.15-1.5.2.zip" file="backpack-1.12.15-1.5.2.zip" md5="90755f5d91667d03fb54c1c2f0f7a56f" download="server"
+         name="Backpacks" version="1.12.15" type="mods" 
+         website="http://www.minecraftforum.net/topic/1492661-15x-16x-backpacks-v-11213/" 
+         description="" />
     <mod url="packs/ResonantRise/files/DartCraft%20Beta%200.1.18.jar" file="DartCraft Beta 0.1.18.jar" md5="42cb4d0027ba4fc2519745aa82a75669" download="server"
          name="DartCraft" type="mods"  version="0.1.18" optional="yes"
          website="http://www.minecraftforum.net/topic/1686840-151-152-dartcraft-beta-0118/" 
