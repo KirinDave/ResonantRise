@@ -76,7 +76,7 @@
     <mod url="packs/ResonantRise/files/ComputerCraft1.53.zip" file="ComputerCraft1.53.zip" md5="be7b77384b966e66e264de6868cd25f9" download="server" 
          name="ComputerCraft" type="mods"  version="" website="" description="" />
     <mod url="packs/ResonantRise/files/DartCraft%20Beta%200.1.18.jar" file="DartCraft Beta 0.1.18.jar" md5="42cb4d0027ba4fc2519745aa82a75669" download="server"
-         name="DartCraft" type="mods"  version="0.1.18" 
+         name="DartCraft" type="mods"  version="0.1.18" optional="yes"
          website="http://www.minecraftforum.net/topic/1686840-151-152-dartcraft-beta-0118/" 
          description="Convenience is king." />
     <mod url="packs/ResonantRise/files/dimensional-anchor-55.0.3.jar" file="dimensional-anchor-55.0.3.jar" md5="68a81302d5c745a5a880cc381549f230" download="server"
