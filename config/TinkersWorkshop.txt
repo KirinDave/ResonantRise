@@ -72,16 +72,23 @@ block {
 ####################
 
 "difficulty changes" {
+    B:"Craft Stencil Tables"=true
     B:"Craft metals with Wood Patterns"=false
     B:"Craft vanilla metal blocks"=true
     B:"Enable Auto-Smelt and Fortune interaction"=true
+    B:"Enable mod blue slime tools"=true
     B:"Enable mod bone tools"=true
     B:"Enable mod cactus tools"=true
+    B:"Enable mod flint tools"=true
+    B:"Enable mod netherrack tools"=true
+    B:"Enable mod paper tools"=true
+    B:"Enable mod slime tools"=true
     B:"Enable mod stone tools"=true
     B:"Enable mod wooden tools"=true
     B:"Keep hunger on death"=true
     B:"Keep levels on death"=true
     B:"Lower bronze output to 2 ingots"=false
+    B:"Modifiers increase Mining Level"=true
     B:"Remove Overworld void fog"=true
     B:"Remove Vanilla GregTech Nerfs"=true
     B:"Remove Vanilla Tool Recipes"=false
