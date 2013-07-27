@@ -191,9 +191,9 @@
          version="2.0.0.a122" 
          website="http://www.minecraftforum.net/topic/680276-16-steves-carts-2-v200a123/" 
          description="Choo choooooooo!" />
-    <mod url="packs/ResonantRise/files/TConstruct_1.4.1.5.jar" file="TConstruct_1.4.1.5.jar" md5="c16ea944f0bd64b9cd423336a1183867" download="server"
+    <mod url="packs/ResonantRise/files/TConstruct_1.4.1.7.jar" file="TConstruct_1.4.1.7.jar" md5="b2dd16b2ff0eae48990bc48223ee491b" download="server"
          name="Tinker's Construct"  type="mods" 
-         version="1.4.1.5" 
+         version="1.4.1.7" 
          website="http://www.minecraftforum.net/topic/1659892-15xtinkers-construct/" 
          description="TINK TINK TINK TINK" />
     <mod url="packs/ResonantRise/files/Thaumic%20Tinkerer%20[1.0.7].zip" file="Thaumic Tinkerer [1.0.7].zip" md5="5552215b3c402209803ebb3d6c70996b" download="server"
