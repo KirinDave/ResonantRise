@@ -257,8 +257,8 @@
          name="EmasherCore" type="mods" version="1.6.2"
          website="http://emashersmods.wikispaces.com"
          description="Needed by other Emasher mods." />
-    <mod url="packs/ResonantRise/files/EngineersToolbox-1.5.7.zip" file="EngineersToolbox-1.5.7.zip" md5="a13027318aee7437a3d64b29d7df88b3" download="server"
-         name="Engineer's Toolbox" type="mods" version="1.5.7"
+    <mod url="packs/ResonantRise/files/EngineersToolbox-1.5.8.zip" file="EngineersToolbox-1.5.8.zip" md5="811f1804b74cfd58cf626e8b741bd17b" download="server"
+         name="Engineer's Toolbox" type="mods" version="1.5.8"
          depends="EmasherCore"
          website="http://emashersmods.wikispaces.com"
          description="Build big or build tiny." />
@@ -307,6 +307,12 @@
          version="1.1.2.98"
          website="http://www.minecraftforge.net/forum/index.php?topic=4606.0"
          description="Don't lose worlds." />
+
+    <mod url="packs/ResonantRise/files/inventorytweaks-1.54b.jar" file="inventorytweaks-1.54b.jar" md5="94525b13ceb6d31dbe362a11fbe26043" download="server"
+         type="mods" name="InventoryTweaks" optional="yes" server="no"
+         version="1.54b"
+         website="http://www.minecraftforum.net/topic/1720872-162-inventory-tweaks-155b-july-19/"
+         description="" />
 
     <!-- Externally linked mods -->
     <mod url="http://adf.ly/P1buE" file="1.5.2HarkenScythe_v2.1.6Forge.zip" download="browser" name="Harkens Scythe"
