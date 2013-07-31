@@ -257,8 +257,8 @@
          name="EmasherCore" type="mods" version="1.6.2"
          website="http://emashersmods.wikispaces.com"
          description="Needed by other Emasher mods." />
-    <mod url="packs/ResonantRise/files/EngineersToolbox-1.5.8.zip" file="EngineersToolbox-1.5.8.zip" md5="811f1804b74cfd58cf626e8b741bd17b" download="server"
-         name="Engineer's Toolbox" type="mods" version="1.5.8"
+    <mod url="packs/ResonantRise/files/EngineersToolbox-1.5.10.zip" file="EngineersToolbox-1.5.10.zip" md5="1e656fc6a0418ee1d8a410254ba3e376" download="server"
+         name="Engineer's Toolbox" type="mods" version="1.5.10"
          depends="EmasherCore"
          website="http://emashersmods.wikispaces.com"
          description="Build big or build tiny." />
@@ -291,9 +291,12 @@
         version="3.3_06" website="http://www.minecraftforum.net/topic/482147-162-jul08-reis-minimap-v34-01/" 
         description="The Most Popular Minimap, really." />
 
-   <mod 
-
-/>
+   <mod url="packs/ResonantRise/files/ZansMinimap1.5.2.zip" file="ZansMinimap1.5.2.zip" md5="b1b46410b7e6a5048efe33b51130e7af" download="server"
+        name="Zan's Minimap"
+        optional="yes" type="mods" group="Minimap" server="no"
+        version="1.5.2"
+        website="http://www.minecraftforum.net/topic/1116564-162-152-mamiyaotarus-mods-zans-minimap-voxelmap-chatbubbles-etc/"
+        description="YAM"/>
 
    <mod url="http://adf.ly/404181/optifined.net/adloadx.php?f=OptiFine_1.5.2_HD_U_D5.zip" 
         file="OptiFine_1.5.2_HD_U_D5.zip" download="browser"
