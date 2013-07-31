@@ -124,9 +124,6 @@
     <mod url="packs/ResonantRise/files/GregsLighting-1.8.4-mc1.5.1.jar" file="GregsLighting-1.8.4-mc1.5.1.jar" md5="05ca4b99595a8617440019f0ca056cf5" download="server"
          name="Gregs Lighting"  type="mods" version="1.8.4" 
          website="http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/GregsLighting/" description=""  />
-    <mod url="packs/ResonantRise/files/gregtechmod-3.09g.zip" file="gregtechmod-3.09g.zip" md5="b67af5ad615b5885666ac7cd9874003d" download="server"
-         name="Gregtech pre-insanity" depends="IndustrialCraft2" type="mods" 
-         version="3.09g" optional="yes" website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=7156" description="Yucky. Why bother?"  />
     <mod url="packs/ResonantRise/files/immibis-core-55.1.6.jar" file="immibis-core-55.1.6.jar" md5="7b592cefb90b8a003dcc635b619e6335" download="server"
          name="ImmibisCore"  type="mods"
          version="55.1.6" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="" />
