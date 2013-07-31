@@ -243,8 +243,8 @@
          optional="yes"/>
     <mod url="packs/ResonantRise/files/PluginsforForestry-1.5.2-3.0.17.jar" file="PluginsforForestry-1.5.2-3.0.17.jar" md5="157c389917ef3051cb00e4759f6d160c" download="server"
          name="Plugins For Forestry" type="mods" depends="DenLib" version ="3.0.17" website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" description=""/>
-    <mod url="packs/ResonantRise/files/LogisticsPipes-MC1.5.2-0.7.3.dev.595.jar" file="LogisticsPipes-MC1.5.2-0.7.3.dev.595.jar" md5="fb152cca072370900548d8557ab3dece" download="server"
-         name="LogisticsPipes" type="mods" version="0.7.3.dev.595" 
+    <mod url="packs/ResonantRise/files/LogisticsPipes-MC1.5.2-0.7.3.dev.603.jar" file="LogisticsPipes-MC1.5.2-0.7.3.dev.603.jar" md5="81bde98ac92306060916c3f2985b50b7" download="server"
+         name="LogisticsPipes" type="mods" version="0.7.3.dev.603" 
          website="http://www.minecraftforum.net/topic/1831791-152buildcraft-logistics-pipes/" 
          description="Even more amazing pipes." />
 
@@ -328,8 +328,8 @@
          description="Cut what you will." />
     <mod url="http://api.viglink.com/api/click?format=go&amp;key=9b4efad421c8b103b2c94b796db973b0&amp;loc=http%3A%2F%2Funiversalelectricity.com%2Fassembly%2520line%2Fdownloads&amp;subId=8240d9b1db1708d334dd983d36458303&amp;v=1&amp;libId=ab2932c0-87ba-420a-9a23-e694b76aeea1&amp;out=http%3A%2F%2Fcalclavia.com%2Fdownload.php%3Fname%3DAssembly%2520Line%26r%3Dhttp%253A%252F%252Fcalclavia.com%252Fjenkins%252Fjobs%252FAssembly%2BLine%252Fbuilds%252F149%252Farchive%252Foutput%252FAssemblyLine_v0.3.5.149.jar&amp;title=Assembly%20Line%20Downloads%20%7C%20Universal%20Electricity&amp;txt=AssemblyLine_v0.3.5.149&amp;jsonp=vglnk_jsonp_13743091724467"
           file="AssemblyLine_v0.3.5.149.jar" download="browser" name="Assembly Line" type="mods" version="0.3.5.149" website="http://http://universalelectricity.com/assembly%20line/" description=""  />
-    <mod url="http://api.viglink.com/api/click?format=go&amp;key=9b4efad421c8b103b2c94b796db973b0&amp;loc=http%3A%2F%2Funiversalelectricity.com%2Fatomic-science%2Fdownloads&amp;subId=8240d9b1db1708d334dd983d36458303&amp;v=1&amp;libId=eb767904-b60d-4adb-8db0-7f8c7f8357aa&amp;out=http%3A%2F%2Fcalclavia.com%2Fdownload.php%3Fname%3DAtomic%2520Science%26r%3Dhttp%253A%252F%252Fcalclavia.com%252Fjenkins%252Fjobs%252FAtomic%2BScience%252Fbuilds%252F80%252Farchive%252Foutput%252FAtomic_Science_v0.6.1.80.jar&amp;ref=http%3A%2F%2Funiversalelectricity.com%2Fatomic-science&amp;title=Atomic%20Science%20Downloads%20%7C%20Universal%20Electricity&amp;txt=Atomic_Science_v0.6.1.80&amp;jsonp=vglnk_jsonp_13743073334157" 
-           file="Atomic_Science_v0.6.1.80.jar" download="browser" name="Atomic Science" type="mods" version="" website="http://universalelectricity.com/atomic-science" description=""  />
+    <mod url="http://api.viglink.com/api/click?format=go&amp;key=9b4efad421c8b103b2c94b796db973b0&amp;loc=http%3A%2F%2Funiversalelectricity.com%2Fatomic-science%2Fdownloads&amp;subId=8240d9b1db1708d334dd983d36458303&amp;v=1&amp;libId=9cb39169-7a26-4027-9e08-3605c2120603&amp;out=http%3A%2F%2Fcalclavia.com%2Fdownload.php%3Fname%3DAtomic%2520Science%26r%3Dhttp%253A%252F%252Fcalclavia.com%252Fjenkins%252Fjobs%252FAtomic%2BScience%252Fbuilds%252F80%252Farchive%252Foutput%252FAtomic_Science_v0.6.1.80.jar&amp;ref=http%3A%2F%2Funiversalelectricity.com%2Fatomic-science&amp;title=Atomic%20Science%20Downloads%20%7C%20Universal%20Electricity&amp;txt=Atomic_Science_v0.6.1.80&amp;jsonp=vglnk_jsonp_13752528185827"
+           file="Atomic_Science_v0.6.1.80.jar" download="browser" name="Atomic Science" type="mods" version="0.6.1.80" website="http://universalelectricity.com/atomic-science" description=""  />
     <mod url="http://api.viglink.com/api/click?format=go&amp;key=9b4efad421c8b103b2c94b796db973b0&amp;loc=http%3A%2F%2Funiversalelectricity.com%2Ficbm%2Fdownloads&amp;subId=8240d9b1db1708d334dd983d36458303&amp;v=1&amp;libId=658d6851-c3b7-4ed7-8f09-280a0d6faadb&amp;out=http%3A%2F%2Fcalclavia.com%2Fdownload.php%3Fname%3DICBM%26r%3Dhttp%253A%252F%252Fcalclavia.com%252Fjenkins%252Fjobs%252FICBM%252Fbuilds%252F172%252Farchive%252Foutput%252FICBM_Contraption_v1.2.1.172.jar&amp;ref=http%3A%2F%2Funiversalelectricity.com%2Ficbm&amp;title=ICBM%20Downloads%20%7C%20Universal%20Electricity&amp;txt=ICBM_Contraption_v1.2.1.172&amp;jsonp=vglnk_jsonp_13743074429846" 
          file="ICBM_Contraption_v1.2.1.172.jar" download="browser" name="ICBM Contraption" type="mods" version="1.2.1.172"
          website="http://universalelectricity.com/icbm"
@@ -365,13 +365,5 @@
     <mod url="http://adf.ly/PctfX" 
          file="GravityGun1.5.1.zip" download="browser" name="GravityGun" type="mods" version="" website="http://ichun.us/mods/gravity-gun/" description="" 
          depends="iChunUtil"/>  
-    <mod url="http://www.mediafire.com/download/x8dd4d5bna3qbk5/Recipear-1.5.1_1.4-universal.zip"
-         file="Recipear-1.5.1_1.4-universal.zip"
-         download="browser"
-         name="Recipear"
-         type="mods"
-         version="1.5.1_1.4"
-         website="http://www.minecraftforum.net/topic/1621605-151152forge-recipear-14-make-recipes-vanish-ic2tc3mcpc-support/"
-         description="" />
   </mods>
 </version>
