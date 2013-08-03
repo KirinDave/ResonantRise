@@ -29,18 +29,13 @@
          name="PowerCrystalsCore" type="coremods" version="1.1.8B1-122" website="http://www.minecraftforum.net/topic/1629898-" description=""  />
     <mod url="packs/ResonantRise/files/denLib-1.5.2-3.0.14.jar" file="denLib-1.5.2-3.0.14.jar" md5="4f210b9a27893b206e901989c327042d" download="server"
          name="DenLib" type="coremods" version="3.0.14" website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" description="" />
-    <mod url="packs/ResonantRise/files/ForgeMultipart-universal-1.5.2-1.0.0.103.jar" file="ForgeMultipart-universal-1.5.2-1.0.0.103.jar" md5="d9196936115cbe1ff0d5f3ed13c47af0" download="server"
-         name="ForgeMultipart" type="coremods" version="1.0.0.103"
-         website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/"
-         description="Leeloo Dallas Multipart. MUL TEE PART. MULTIPART" />
-         
-         
 
     <!-- Publicly or Permission-distribution mods -->
     <mod url="packs/ResonantRise/files/Artifice-1.1.2-146.jar" file="Artifice-1.1.2-146.jar" md5="30220a61dbfd2ee26625a1f7dcd03a53" download="server"
+         optional="yes"
          name="Artifice" version="1.1.2-146" type="mods"
          website="http://www.minecraftforum.net/topic/1860869-15x162-artifice-we-have-the-technology/"
-         description="Purrty blocks. Better scaffolds." />
+         description="Purrty blocks. Better scaffolds. Experimental, has some crashes so use at your own risk." />
     <mod name="AdvancedReactors" url="packs/ResonantRise/files/AdvancedReactors-1.5.2_alpha7.jar" file="AdvancedReactors-1.5.2_alpha7.jar" 
          md5="46fb5d8e8ded9633671312d2c569af8d" download="server"
          type="mods" optional="yes" 
@@ -296,24 +291,6 @@
          name="Waila" type="mods" version="1.3.4"
          website="http://www.minecraftforum.net/topic/1846244-152-waila-134-block-and-mod-info-ingame/"
          description="What am I looking at?" />
-
-    <mod url="packs/ResonantRise/files/WR-CBE%20Core%201.4.jar" file="WR-CBE Core 1.4.jar" md5="d9623a3c606db2558a4da5b90bde3448" download="server"
-         name="WRCBECore" type="mods" version="1.4"
-         depends="ForgeMultipart"
-         website="http://www.minecraftforum.net/topic/909223-162-smp-chickenbones-mods/"
-         description="" />
-
-    <mod url="packs/ResonantRise/files/WR-CBE%20Addons%201.4.jar" file="WR-CBE Addons 1.4.jar" md5="9ebfb5e2d6e93e58da5992af7e40dfdf" download="server"
-         name="WRCBE Addons" type="mods" version="1.4"
-         depends="WRCBECore,ForgeMultipart"
-         website="http://www.minecraftforum.net/topic/909223-162-smp-chickenbones-mods/"
-         description="http://www.minecraftforum.net/topic/909223-162-smp-chickenbones-mods/" />
-
-    <mod url="packs/ResonantRise/files/WR-CBE%20Logic%201.4.0.2.jar" file="WR-CBE Logic 1.4.0.2.jar" md5="55a6fcb98d758457933b2e83f2cc0aef" download="server"
-         name="WRCBE Logic" type="mods" version="1.4.0.2"
-         depends="WRCBECore,ForgeMultipart"
-         website=""
-         description="" />
 
    <!-- Client only mods -->
 
