@@ -23,7 +23,10 @@ block {
     I:"Glowing Mushroom"=3270
     I:"Green Glowshroom"=3274
     I:"Hopseed Door"=3265
+    I:"Log Slab"=3290
     I:"Nether Berry Bush"=3255
+    I:"Plank Slab One"=3288
+    I:"Plank Slab Two"=3289
     I:"Planks Block"=3262
     I:"Purple Glowshroom"=3275
     I:"Rare Leaves"=3278
