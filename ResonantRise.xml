@@ -299,19 +299,19 @@
 
     <mod url="packs/ResonantRise/files/WR-CBE%20Core%201.4.jar" file="WR-CBE Core 1.4.jar" md5="d9623a3c606db2558a4da5b90bde3448" download="server"
          name="WRCBECore" type="mods" version="1.4"
-         requires="ForgeMultipart"
+         depends="ForgeMultipart"
          website="http://www.minecraftforum.net/topic/909223-162-smp-chickenbones-mods/"
          description="" />
 
     <mod url="packs/ResonantRise/files/WR-CBE%20Addons%201.4.jar" file="WR-CBE Addons 1.4.jar" md5="9ebfb5e2d6e93e58da5992af7e40dfdf" download="server"
          name="WRCBE Addons" type="mods" version="1.4"
-         requires="WRCBECore,ForgeMultipart"
+         depends="WRCBECore,ForgeMultipart"
          website="http://www.minecraftforum.net/topic/909223-162-smp-chickenbones-mods/"
          description="http://www.minecraftforum.net/topic/909223-162-smp-chickenbones-mods/" />
 
     <mod url="packs/ResonantRise/files/WR-CBE%20Logic%201.4.0.2.jar" file="WR-CBE Logic 1.4.0.2.jar" md5="55a6fcb98d758457933b2e83f2cc0aef" download="server"
          name="WRCBE Logic" type="mods" version="1.4.0.2"
-         requires="WRCBECore,ForgeMultipart"
+         depends="WRCBECore,ForgeMultipart"
          website=""
          description="" />
 
