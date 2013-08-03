@@ -29,18 +29,32 @@
          name="PowerCrystalsCore" type="coremods" version="1.1.8B1-122" website="http://www.minecraftforum.net/topic/1629898-" description=""  />
     <mod url="packs/ResonantRise/files/denLib-1.5.2-3.0.14.jar" file="denLib-1.5.2-3.0.14.jar" md5="4f210b9a27893b206e901989c327042d" download="server"
          name="DenLib" type="coremods" version="3.0.14" website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" description="" />
+    <mod url="packs/ResonantRise/files/ForgeMultipart-universal-1.5.2-1.0.0.103.jar" file="ForgeMultipart-universal-1.5.2-1.0.0.103.jar" md5="d9196936115cbe1ff0d5f3ed13c47af0" download="server"
+         name="ForgeMultipart" type="coremods" version="1.0.0.103"
+         website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/"
+         description="Leeloo Dallas Multipart. MUL TEE PART. MULTIPART" />
+         
+         
 
     <!-- Publicly or Permission-distribution mods -->
+    <mod url="packs/ResonantRise/files/Artifice-1.1.2-146.jar" file="Artifice-1.1.2-146.jar" md5="30220a61dbfd2ee26625a1f7dcd03a53" download="server"
+         name="Artifice" version="1.1.2-146" type="mods"
+         website="http://www.minecraftforum.net/topic/1860869-15x162-artifice-we-have-the-technology/"
+         description="Purrty blocks. Better scaffolds." />
     <mod name="AdvancedReactors" url="packs/ResonantRise/files/AdvancedReactors-1.5.2_alpha7.jar" file="AdvancedReactors-1.5.2_alpha7.jar" 
          md5="46fb5d8e8ded9633671312d2c569af8d" download="server"
          type="mods" optional="yes" 
          version="alpha7" 
          website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9212" 
          description="" />
-    <mod url="packs/ResonantRise/files/appeng-rv11-e-mc15x.zip" file="appeng-rv11-e-mc15x.zip" md5="3e148597818f220b53ae08e004a253c4" download="server"
+    <mod url="packs/ResonantRise/files/appeng-rv12-a-mc15x.zip" file="appeng-rv12-a-mc15x.zip" md5="b2e9655e88cb86b2f48a284940a16298" download="server"
          name="Applied Energistics" optional="no" type="mods" 
-         version="rv11e"
+         version="rv12a"
          website="http://ae-mod.info/"
+         description="" />
+    <mod url="packs/ResonantRise/files/backpack-1.12.15-1.5.2.zip" file="backpack-1.12.15-1.5.2.zip" md5="90755f5d91667d03fb54c1c2f0f7a56f" download="server"
+         name="Backpacks" version="1.12.15" type="mods" 
+         website="http://www.minecraftforum.net/topic/1492661-15x-16x-backpacks-v-11213/" 
          description="" />
     <mod url="packs/ResonantRise/files/BechillTPS-universal-v0.5.0.1.zip" file="BechillTPS-universal-v0.5.0.1.zip" md5="482ce27b1bdfd8bf2cf397e3f2d9762b" download="server"
          name="Bechilli TPS" optional="no" type="mods" 
@@ -62,11 +76,11 @@
          version="0.1.13A" 
          website="http://www.big-reactors.com/" 
          description="Really big. Not small. Huge, really." />
-    <mod url="packs/ResonantRise/files/Biomes-O-Plenty-0.5.5.zip" file="Biomes-O-Plenty-0.5.5.zip" md5="d4c5fc08c8c43facf0962360d44daa90" download="server"
+    <mod url="packs/ResonantRise/files/Biomes-O-Plenty-0.5.9.2-1.5.2.jar" file="Biomes-O-Plenty-0.5.9.2-1.5.2.jar" md5="95ac1b8883e5e52d1ebd05ef5142b67b" download="server"
          name="BiomesOPlenty" type="mods"
-         version="0.5.5"
+         version="0.5.9.2-1.5.2"
          website="https://github.com/BiomesOPlenty/BiomesOPlenty/releases"
-         description="" />
+         description="More Everything." />
     <mod url="packs/ResonantRise/files/binnie-mods-1.7.0b.jar" file="binnie-mods-1.7.0b.jar" md5="b4b39aa51204fb4b2693788dd1cef0c2" download="server"
          name="Binne's Mods" depends="Forestry,Buildcraft" type="mods"
          version="1.7.0b"
@@ -76,16 +90,18 @@
          name="Buildcraft" type="mods"  version="3.7.2"
          website="http://www.mod-buildcraft.com/"
          description="Burning oil forever." />
+
     <mod url="packs/ResonantRise/files/ChickenChunks%201.3.2.14.jar" file="ChickenChunks 1.3.2.14.jar" md5="9a613b4b5fd287e4ce4f20875f72ec04" download="server"
       name="ChickenChunks" type="mods" 
       version="1.3.2.14" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" description="" />
     <mod url="packs/ResonantRise/files/ComputerCraft1.53.zip" file="ComputerCraft1.53.zip" md5="be7b77384b966e66e264de6868cd25f9" download="server" 
          name="ComputerCraft" type="mods"  version="1.53" website="http://computercraft.info/" 
          description="" />
-    <mod url="packs/ResonantRise/files/backpack-1.12.15-1.5.2.zip" file="backpack-1.12.15-1.5.2.zip" md5="90755f5d91667d03fb54c1c2f0f7a56f" download="server"
-         name="Backpacks" version="1.12.15" type="mods" 
-         website="http://www.minecraftforum.net/topic/1492661-15x-16x-backpacks-v-11213/" 
-         description="" />
+
+    <mod url="packs/ResonantRise/files/Chococraft_2.8.8.zip" file="Chococraft_2.8.8.zip" md5="49b269f3bfc519b0f541cfd0fca68a76" download="server"
+         name="ChocoCraft" type="mods" version="2.8.8"
+         website="http://www.minecraftforum.net/topic/1119809-"
+         description="Wark?" />
     <mod url="packs/ResonantRise/files/DartCraft%20Beta%200.1.18.jar" file="DartCraft Beta 0.1.18.jar" md5="42cb4d0027ba4fc2519745aa82a75669" download="server"
          name="DartCraft" type="mods"  version="0.1.18" optional="yes"
          website="http://www.minecraftforum.net/topic/1686840-151-152-dartcraft-beta-0118/" 
@@ -177,9 +193,9 @@
     <mod url="packs/ResonantRise/files/MPSA-176_Requires_MPS-561+.jar" file="MPSA-176_Requires_MPS-561+.jar" md5="c03bfdc7179b688f9494ebb71f9ccb9c" download="server"
          name="Modular Powersuit Addons" depends="MachineMuse Modular Powersuits" type="mods" 
          version="176" website="http://www.machinemuse.net/" description=""  />
-    <mod url="packs/ResonantRise/files/Natura_2.1.2.jar" file="Natura_2.1.2.jar" md5="0d79131f51e13f9e39a46c28a035fe8c" download="server"
+    <mod url="packs/ResonantRise/files/Natura_1.5.1_2.1.4.jar" file="Natura_1.5.1_2.1.4.jar" md5="cd1a2c70fa51fceae3d5fb067e6cb9df" download="server"
          name="Natura"  type="mods" 
-         version="2.1.2" website="http://www.minecraftforum.net/topic/1753754-15xnatura/" description=""  />
+         version="2.1.4" website="http://www.minecraftforum.net/topic/1753754-15xnatura/" description=""  />
     <mod url="packs/ResonantRise/files/NEIPlugins-1.0.9.3.jar" file="NEIPlugins-1.0.9.3.jar" md5="e17c0a2dae6fabf37aa62f41445fba29" download="server"
          name="NEI Plugins" version="1.0.9.3" type="mods" depends="Not Enough Items"
          website="https://bitbucket.org/mistaqur/nei_plugins/wiki/Home" 
@@ -216,11 +232,11 @@
          version="2.0.0.a122" 
          website="http://www.minecraftforum.net/topic/680276-16-steves-carts-2-v200a123/" 
          description="Choo choooooooo!" />
-    <mod url="packs/ResonantRise/files/TConstruct_1.4.1.7.jar" file="TConstruct_1.4.1.7.jar" md5="b2dd16b2ff0eae48990bc48223ee491b" download="server"
+    <mod url="packs/ResonantRise/files/TConstruct_1.5.2_1.4.2.jar" file="TConstruct_1.5.2_1.4.2.jar" md5="a17ab992dfff11c4a993b8c14c431a2a" download="server"
          name="Tinker's Construct"  type="mods" 
-         version="1.4.1.7" 
+         version="1.4.2" 
          website="http://www.minecraftforum.net/topic/1659892-15xtinkers-construct/" 
-         description="TINK TINK TINK TINK" />
+         description="Dat Glass, Dem Tools" />
     <mod url="packs/ResonantRise/files/Thaumic%20Tinkerer%20[1.0.8].zip" file="Thaumic Tinkerer [1.0.8].zip" md5="2cdeae7133bd366c20848fe8b1c8ff9a" download="server"
          name="Thaumic Tinkerer" depends="Thaumcraft"  type="mods" version="1.0.8" 
          website="http://www.minecraftforum.net/topic/1813058-thaumic-tinkerer-thaumcraft-addon-evolve-knowledge-v107-20k-downloads/" 
@@ -276,6 +292,29 @@
          description="Your grandpa used IRC."
          optional="yes" />
 
+    <mod url="packs/ResonantRise/files/Waila_1.3.4.zip" file="Waila_1.3.4.zip" md5="4510bf93bd5782deb4ba2233a61b227a" download="server"
+         name="Waila" type="mods" version="1.3.4"
+         website="http://www.minecraftforum.net/topic/1846244-152-waila-134-block-and-mod-info-ingame/"
+         description="What am I looking at?" />
+
+    <mod url="packs/ResonantRise/files/WR-CBE%20Core%201.4.jar" file="WR-CBE Core 1.4.jar" md5="d9623a3c606db2558a4da5b90bde3448" download="server"
+         name="WRCBECore" type="mods" version="1.4"
+         requires="ForgeMultipart"
+         website="http://www.minecraftforum.net/topic/909223-162-smp-chickenbones-mods/"
+         description="" />
+
+    <mod url="packs/ResonantRise/files/WR-CBE%20Addons%201.4.jar" file="WR-CBE Addons 1.4.jar" md5="9ebfb5e2d6e93e58da5992af7e40dfdf" download="server"
+         name="WRCBE Addons" type="mods" version="1.4"
+         requires="WRCBECore,ForgeMultipart"
+         website="http://www.minecraftforum.net/topic/909223-162-smp-chickenbones-mods/"
+         description="http://www.minecraftforum.net/topic/909223-162-smp-chickenbones-mods/" />
+
+    <mod url="packs/ResonantRise/files/WR-CBE%20Logic%201.4.0.2.jar" file="WR-CBE Logic 1.4.0.2.jar" md5="55a6fcb98d758457933b2e83f2cc0aef" download="server"
+         name="WRCBE Logic" type="mods" version="1.4.0.2"
+         requires="WRCBECore,ForgeMultipart"
+         website=""
+         description="" />
+
    <!-- Client only mods -->
 
    <mod url="packs/ResonantRise/files/mapwriter-2.0.5.zip" file="mapwriter-2.0.5.zip" md5="40c83e1c98a62a99bca47087b0147ef2" download="server"
@@ -324,7 +363,7 @@
          website="http://www.minecraftforum.net/topic/1519704-harken-scythe-reap-what-you-sow-biomass-blocks-and-adjustmentsv216-upd-may-14/"
          description="Cut what you will." />
     <mod url="http://api.viglink.com/api/click?format=go&amp;key=9b4efad421c8b103b2c94b796db973b0&amp;loc=http%3A%2F%2Funiversalelectricity.com%2Fassembly%2520line%2Fdownloads&amp;subId=8240d9b1db1708d334dd983d36458303&amp;v=1&amp;libId=ab2932c0-87ba-420a-9a23-e694b76aeea1&amp;out=http%3A%2F%2Fcalclavia.com%2Fdownload.php%3Fname%3DAssembly%2520Line%26r%3Dhttp%253A%252F%252Fcalclavia.com%252Fjenkins%252Fjobs%252FAssembly%2BLine%252Fbuilds%252F149%252Farchive%252Foutput%252FAssemblyLine_v0.3.5.149.jar&amp;title=Assembly%20Line%20Downloads%20%7C%20Universal%20Electricity&amp;txt=AssemblyLine_v0.3.5.149&amp;jsonp=vglnk_jsonp_13743091724467"
-          file="AssemblyLine_v0.3.5.149.jar" download="browser" name="Assembly Line" type="mods" version="0.3.5.149" website="http://http://universalelectricity.com/assembly%20line/" description=""  />
+          file="AssemblyLine_v0.3.5.149.jar" optional="yes" download="browser" name="Assembly Line" type="mods" version="0.3.5.149" website="http://http://universalelectricity.com/assembly%20line/" description="This mod is being deprecated."  />
     <mod url="http://api.viglink.com/api/click?format=go&amp;key=9b4efad421c8b103b2c94b796db973b0&amp;loc=http%3A%2F%2Funiversalelectricity.com%2Fatomic-science%2Fdownloads&amp;subId=8240d9b1db1708d334dd983d36458303&amp;v=1&amp;libId=9cb39169-7a26-4027-9e08-3605c2120603&amp;out=http%3A%2F%2Fcalclavia.com%2Fdownload.php%3Fname%3DAtomic%2520Science%26r%3Dhttp%253A%252F%252Fcalclavia.com%252Fjenkins%252Fjobs%252FAtomic%2BScience%252Fbuilds%252F80%252Farchive%252Foutput%252FAtomic_Science_v0.6.1.80.jar&amp;ref=http%3A%2F%2Funiversalelectricity.com%2Fatomic-science&amp;title=Atomic%20Science%20Downloads%20%7C%20Universal%20Electricity&amp;txt=Atomic_Science_v0.6.1.80&amp;jsonp=vglnk_jsonp_13752528185827"
            file="Atomic_Science_v0.6.1.80.jar" download="browser" name="Atomic Science" type="mods" version="0.6.1.80" website="http://universalelectricity.com/atomic-science" description=""  />
     <mod url="http://api.viglink.com/api/click?format=go&amp;key=9b4efad421c8b103b2c94b796db973b0&amp;loc=http%3A%2F%2Funiversalelectricity.com%2Ficbm%2Fdownloads&amp;subId=8240d9b1db1708d334dd983d36458303&amp;v=1&amp;libId=658d6851-c3b7-4ed7-8f09-280a0d6faadb&amp;out=http%3A%2F%2Fcalclavia.com%2Fdownload.php%3Fname%3DICBM%26r%3Dhttp%253A%252F%252Fcalclavia.com%252Fjenkins%252Fjobs%252FICBM%252Fbuilds%252F172%252Farchive%252Foutput%252FICBM_Contraption_v1.2.1.172.jar&amp;ref=http%3A%2F%2Funiversalelectricity.com%2Ficbm&amp;title=ICBM%20Downloads%20%7C%20Universal%20Electricity&amp;txt=ICBM_Contraption_v1.2.1.172&amp;jsonp=vglnk_jsonp_13743074429846" 
