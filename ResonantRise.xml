@@ -30,7 +30,7 @@
     <mod url="packs/ResonantRise/files/denLib-1.5.2-3.0.14.jar" file="denLib-1.5.2-3.0.14.jar" md5="4f210b9a27893b206e901989c327042d" download="server"
          name="DenLib" type="coremods" version="3.0.14" website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" description="" />
    <mod url="packs/ResonantRise/files/ForgeMultipart-universal-1.5.2-1.0.0.103.jar" file="ForgeMultipart-universal-1.5.2-1.0.0.103.jar" md5="d9196936115cbe1ff0d5f3ed13c47af0" download="server"
-        name="ForgeMultipart"  type="coremods" version="1.0.0.103"
+        name="ForgeMultipart"  type="mods" version="1.0.0.103"
         website="https://github.com/Chicken-Bones/ForgeMultipart"
         description="A plethora of microblocks."/>
 
@@ -318,6 +318,22 @@
          name="OpenBlocks" type="mods" version="1.0.0-beta"
          website="http://www.minecraftforum.net/topic/1908118-mc-152-openblocks/"
          description="Better Metal Snake!" />
+
+   <mod url="packs/ResonantRise/files/WR-CBE%20Core%201.4.0.1.jar" file="WR-CBE Core 1.4.0.1.jar" md5="dbf8bb6bae941b9714673d9d467cf425" download="server"
+        name="WRCBE Core" type="mods" version="1.4.0.1"
+        depends="ForgeMultipart"
+        website="http://www.chickenbones.craftsaddle.org/wr.html"
+        description="ZutZut The Amazing" />
+
+   <mod url="packs/ResonantRise/files/WR-CBE%20Logic%201.4.0.3.jar" file="WR-CBE Logic 1.4.0.3.jar" md5="67118ebfb5a732ff862ca636185a2936" download="server"
+        name="WRCBE Logic" type="mods" version="1.4.0.3" depends="WRCBE Core"
+        website="http://www.chickenbones.craftsaddle.org/wr.html"
+        description="Logical Awesome." />
+   
+   <mod url="packs/ResonantRise/files/WR-CBE%20Addons%201.4.jar" file="WR-CBE Addons 1.4.jar" md5="9ebfb5e2d6e93e58da5992af7e40dfdf" download="server"
+        name="WRCBE Addons" type="mods" version="1.4" depends="WRCBE Core"
+        website="http://www.chickenbones.craftsaddle.org/wr.html"
+        description="You will basically use none of this mod." />
 
    <!-- Client only mods -->
 
