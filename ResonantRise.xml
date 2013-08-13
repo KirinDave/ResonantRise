@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>0.9.12</version>
+    <version>0.9.13</version>
     <minecraft>1.5.2</minecraft>
     <mainclass>net.minecraft.main.Main</mainclass>
   </pack>
@@ -127,9 +127,9 @@
          version="1.4.1RC1-195" 
          website="http://www.minecraftforum.net/topic/1650007-152universal-dimensional-doors-v141-eyes-in-the-darkupdatedagain/" 
          description="Machin Shin, anyone?" />
-    <mod url="packs/ResonantRise/files/DynamicLiquidTanks%200.1.32.jar" file="DynamicLiquidTanks 0.1.32.jar" md5="c1a3a770b1cad950a607b4db8d3a8ca3" download="server"
+    <mod url="packs/ResonantRise/files/DynamicLiquidTanks%200.1.33.jar" file="DynamicLiquidTanks 0.1.33.jar" md5="f85a5f3950c0216d94312aa0a37c3f54" download="server"
          name="DynamicLiquidTanks" type="mods"
-         version="0.1.32"
+         version="0.1.33"
          website="http://www.minecraftforum.net/topic/1861781-15x162-dynamic-liquid-tanks-color-and-camo-tanks-store-potions-built-in-endertanks-resize-with-bcte-power/"
          description="TreeTank"/>
     <mod url="packs/ResonantRise/files/ee3-universal-pre1h-16.jar" file="ee3-universal-pre1h-16.jar" md5="123f7cf27ad8b5ad17a443f7f94b6051" download="server"
@@ -314,8 +314,8 @@
          website="http://www.minecraftforum.net/topic/1846244-152-waila-134-block-and-mod-info-ingame/"
          description="What am I looking at?" />
     
-    <mod url="packs/ResonantRise/files/OpenBlocks-1.0.0-beta.jar" file="OpenBlocks-1.0.0-beta.jar" md5="bb23f409c799aa3866ec765a045826db" download="server" 
-         name="OpenBlocks" type="mods" version="1.0.0-beta"
+    <mod url="packs/ResonantRise/files/OpenBlocks-1.0.0-gamma.jar" file="OpenBlocks-1.0.0-gamma.jar" md5="388963175091d9d0561a2242d361209b" download="server"
+         name="OpenBlocks" type="mods" version="1.0.0-gamma"
          website="http://www.minecraftforum.net/topic/1908118-mc-152-openblocks/"
          description="Better Metal Snake!" />
 
@@ -334,6 +334,13 @@
         name="WRCBE Addons" type="mods" version="1.4" depends="WRCBE Core"
         website="http://www.chickenbones.craftsaddle.org/wr.html"
         description="You will basically use none of this mod." />
+        
+  <mod url="packs/ResonantRise/files/Mekanism-v5.5.6.bugfix2.jar" file="Mekanism-v5.5.6.bugfix2.jar" md5="9c5caa78370a315cb96760d8ca2aff14" download="server"
+       name="Mekanism" type="mods" version="5.5.6-bugfix2" website="http://http://universalelectricity.com/mekanism" description=""  />
+  <mod url="packs/ResonantRise/files/MekanismGenerators-v5.5.6.bugfix2.jar" file="MekanismGenerators-v5.5.6.bugfix2.jar" md5="b01c1563c66fd4ced72e023d7923d25a" download="server"
+       name="Mekanism Generators" type="mods" version="5.5.6-bugfix2" website="http://http://universalelectricity.com/mekanism" description=""  />
+  <mod url="packs/ResonantRise/files/MekanismTools-v5.5.6.bugfix2.jar" file="MekanismTools-v5.5.6.bugfix2.jar" md5="1eaf6a0f054d47f7c5a565230926f071" download="server"
+       name="Mekanism Tools" type="mods" version="5.5.6-bugfix2" website="http://http://universalelectricity.com/mekanism" description=""  />
 
    <!-- Client only mods -->
 
@@ -395,12 +402,6 @@
     <mod url="http://api.viglink.com/api/click?format=go&amp;key=9b4efad421c8b103b2c94b796db973b0&amp;loc=http%3A%2F%2Funiversalelectricity.com%2Ficbm%2Fdownloads&amp;subId=8240d9b1db1708d334dd983d36458303&amp;v=1&amp;libId=658d6851-c3b7-4ed7-8f09-280a0d6faadb&amp;out=http%3A%2F%2Fcalclavia.com%2Fdownload.php%3Fname%3DICBM%26r%3Dhttp%253A%252F%252Fcalclavia.com%252Fjenkins%252Fjobs%252FICBM%252Fbuilds%252F172%252Farchive%252Foutput%252FICBM_Sentry_v1.2.1.172.jar&amp;ref=http%3A%2F%2Funiversalelectricity.com%2Ficbm&amp;title=ICBM%20Downloads%20%7C%20Universal%20Electricity&amp;txt=ICBM_Sentry_v1.2.1.172&amp;jsonp=vglnk_jsonp_13743074907408" 
            file="ICBM_Sentry_v1.2.1.172.jar" download="browser" name="ICBM Sentry" type="mods" version="1.2.1.172" 
            website="http://universalelectricity.com/icbm" description=""  />
-    <mod url="packs/ResonantRise/files/Mekanism-v5.5.6.bugfix1.jar" file="Mekanism-v5.5.6.bugfix1.jar" md5="47322141c82657586d4124c89478fa6a" download="server"
-         name="Mekanism" type="mods" version="5.5.6-bugfix1" website="http://http://universalelectricity.com/mekanism" description=""  />
-    <mod url="packs/ResonantRise/files/MekanismGenerators-v5.5.6.bugfix1.jar" file="MekanismGenerators-v5.5.6.bugfix1.jar" md5="b0312cf9ee7ddfc6b2894698a8a1d58e" download="server"
-         name="Mekanism Generators" type="mods" version="5.5.6-bugfix1" website="http://http://universalelectricity.com/mekanism" description=""  />
-    <mod url="packs/ResonantRise/files/MekanismTools-v5.5.6.bugfix1.jar" file="MekanismTools-v5.5.6.bugfix1.jar" md5="9d26c0064702b80718c0154d3413ee60" download="server"
-         name="Mekanism Tools" type="mods" version="5.5.6-bugfix1" website="http://http://universalelectricity.com/mekanism" description=""  />
     <mod url="http://api.viglink.com/api/click?format=go&amp;key=9b4efad421c8b103b2c94b796db973b0&amp;loc=http%3A%2F%2Funiversalelectricity.com%2Fmffs%2Fdownloads&amp;subId=8240d9b1db1708d334dd983d36458303&amp;v=1&amp;libId=69fe044a-ace5-45a4-9035-dc6930d0fda7&amp;out=http%3A%2F%2Fcalclavia.com%2Fdownload.php%3Fname%3DModular%2520Force%2520Field%2520System%26r%3Dhttp%253A%252F%252Fcalclavia.com%252Fjenkins%252Fjobs%252FModular%2BForce%2BField%2BSystem%252Fbuilds%252F175%252Farchive%252Foutput%252FMFFS_v3.1.0.175.jar&amp;ref=http%3A%2F%2Funiversalelectricity.com%2Fmffs&amp;title=MFFS%20Downloads%20%7C%20Universal%20Electricity&amp;txt=MFFS_v3.1.0.175&amp;jsonp=vglnk_jsonp_13743075718106" 
            file="MFFS_v3.1.0.175.jar" download="browser" name="MFFS3" type="mods" version="3.1.0.175" website="http://universalelectricity.com/mffs" description=""  />
     <mod url="http://binarymage.com/mystcraft/publish/mystcraft-uni-1.5.2-0.10.5.00.zip" 
