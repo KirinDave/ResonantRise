@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>0.9.14</version>
+    <version>0.9.15</version>
     <minecraft>1.5.2</minecraft>
     <mainclass>net.minecraft.main.Main</mainclass>
   </pack>
@@ -210,9 +210,9 @@
     <mod url="packs/ResonantRise/files/MPSA-176_Requires_MPS-561+.jar" file="MPSA-176_Requires_MPS-561+.jar" md5="c03bfdc7179b688f9494ebb71f9ccb9c" download="server"
          name="Modular Powersuit Addons" depends="MachineMuse Modular Powersuits" type="mods" 
          version="176" website="http://www.machinemuse.net/" description=""  />
-    <mod url="packs/ResonantRise/files/Natura_1.5.1_2.1.4.jar" file="Natura_1.5.1_2.1.4.jar" md5="cd1a2c70fa51fceae3d5fb067e6cb9df" download="server"
+    <mod url="packs/ResonantRise/files/Natura_1.5.1_2.1.5.jar" file="Natura_1.5.1_2.1.5.jar" md5="c01b8c9ead89ade91018a15780de5838" download="server"
          name="Natura"  type="mods" 
-         version="2.1.4" website="http://www.minecraftforum.net/topic/1753754-15xnatura/" description=""  />
+         version="2.1.5" website="http://www.minecraftforum.net/topic/1753754-15xnatura/" description=""  />
     <mod url="packs/ResonantRise/files/NEIPlugins-1.0.9.3.jar" file="NEIPlugins-1.0.9.3.jar" md5="e17c0a2dae6fabf37aa62f41445fba29" download="server"
          name="NEI Plugins" version="1.0.9.3" type="mods" depends="Not Enough Items"
          website="https://bitbucket.org/mistaqur/nei_plugins/wiki/Home" 
@@ -249,9 +249,9 @@
          version="2.0.0.a122" 
          website="http://www.minecraftforum.net/topic/680276-16-steves-carts-2-v200a123/" 
          description="Choo choooooooo!" />
-    <mod url="packs/ResonantRise/files/TConstruct_1.5.2_1.4.2.jar" file="TConstruct_1.5.2_1.4.2.jar" md5="a17ab992dfff11c4a993b8c14c431a2a" download="server"
+    <mod url="packs/ResonantRise/files/TConstruct_1.5.2_1.4.2.7.jar" file="TConstruct_1.5.2_1.4.2.7.jar" md5="716e8ec1d74899e90c235ca23f77d0da" download="server"
          name="Tinker's Construct"  type="mods" 
-         version="1.4.2" 
+         version="1.4.2.7" 
          website="http://www.minecraftforum.net/topic/1659892-15xtinkers-construct/" 
          description="Dat Glass, Dem Tools" />
     <mod url="packs/ResonantRise/files/Thaumic%20Tinkerer%20[1.0.8].zip" file="Thaumic Tinkerer [1.0.8].zip" md5="2cdeae7133bd366c20848fe8b1c8ff9a" download="server"
@@ -273,8 +273,8 @@
          optional="yes"/>
     <mod url="packs/ResonantRise/files/PluginsforForestry-1.5.2-3.0.17.jar" file="PluginsforForestry-1.5.2-3.0.17.jar" md5="157c389917ef3051cb00e4759f6d160c" download="server"
          name="Plugins For Forestry" type="mods" depends="DenLib" version ="3.0.17" website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" description=""/>
-    <mod url="packs/ResonantRise/files/LogisticsPipes-MC1.5.2-0.7.3.dev.658.jar" file="LogisticsPipes-MC1.5.2-0.7.3.dev.658.jar" md5="c7d9b353530c15c9792ca8bde1f3e8eb" download="server"
-         name="LogisticsPipes" type="mods" version="0.7.3.dev.658"
+    <mod url="packs/ResonantRise/files/LogisticsPipes-MC1.5.2-0.7.3.dev.672.jar" file="LogisticsPipes-MC1.5.2-0.7.3.dev.672.jar" md5="04fd64a5b9664e8be2b1c983b86cac40" download="server"
+         name="LogisticsPipes" type="mods" version="0.7.3.dev.672"
          website="http://www.minecraftforum.net/topic/1831791-152buildcraft-logistics-pipes/"
          description="Even more amazing pipes." />
 
@@ -314,8 +314,8 @@
          website="http://www.minecraftforum.net/topic/1846244-152-waila-134-block-and-mod-info-ingame/"
          description="What am I looking at?" />
     
-    <mod url="packs/ResonantRise/files/OpenBlocks-1.0.0-gamma.jar" file="OpenBlocks-1.0.0-gamma.jar" md5="388963175091d9d0561a2242d361209b" download="server"
-         name="OpenBlocks" type="mods" version="1.0.0-gamma"
+    <mod url="packs/ResonantRise/files/OpenBlocks-1.0.1.jar" file="OpenBlocks-1.0.1.jar" md5="ab7e41a76ebc1707b28f8a50bd327a00" download="server"
+         name="OpenBlocks" type="mods" version="1.0.1"
          website="http://www.minecraftforum.net/topic/1908118-mc-152-openblocks/"
          description="Better Metal Snake!" />
 
