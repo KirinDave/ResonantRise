@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>0.9.15c</version>
+    <version>1.0.0-RC3</version>
     <minecraft>1.5.2</minecraft>
     <mainclass>net.minecraft.main.Main</mainclass>
   </pack>
@@ -89,9 +89,9 @@
          version="0.5.5"
          website="https://github.com/BiomesOPlenty/BiomesOPlenty/releases"
          description="More Everything." />
-    <mod url="packs/ResonantRise/files/binnie-mods-1.7.2.jar" file="binnie-mods-1.7.2.jar" md5="1a4bd8132d462cd71d064e3857c6cc6c" download="server"
+    <mod url="packs/ResonantRise/files/binnie-mods-1.7.3b.jar" file="binnie-mods-1.7.3b.jar" md5="15047958a51a62ca4fecfff2e5cc59f1" download="server"
          name="Binne's Mods" depends="Forestry,Buildcraft" type="mods"
-         version="1.7.2"
+         version="1.7.3b"
          website="http://www.minecraftforum.net/topic/1324321-"
          description=""  />
     <mod url="packs/ResonantRise/files/buildcraft-A-3.7.2.jar" file="buildcraft-A-3.7.2.jar" md5="4495f0087053a8434863d08677420b62" download="server"
@@ -114,8 +114,8 @@
          name="ChocoCraft" type="mods" version="2.8.8"
          website="http://www.minecraftforum.net/topic/1119809-"
          description="Wark?" />
-    <mod url="packs/ResonantRise/files/DartCraft%20Beta%200.1.18.jar" file="DartCraft Beta 0.1.18.jar" md5="42cb4d0027ba4fc2519745aa82a75669" download="server"
-         name="DartCraft" type="mods"  version="0.1.18" optional="yes"
+    <mod url="packs/ResonantRise/files/DartCraft%20Beta%200.1.20.jar" file="DartCraft Beta 0.1.20.jar" md5="4139150ad61dd839b7049f3df9e4056d" download="server"
+         name="DartCraft" type="mods"  version="0.1.20" optional="yes"
          website="http://www.minecraftforum.net/topic/1686840-151-152-dartcraft-beta-0118/" 
          description="Convenience is king." />
     <mod url="packs/ResonantRise/files/dimensional-anchor-55.0.3.jar" file="dimensional-anchor-55.0.3.jar" md5="68a81302d5c745a5a880cc381549f230" download="server"
@@ -273,11 +273,10 @@
          optional="yes"/>
     <mod url="packs/ResonantRise/files/PluginsforForestry-1.5.2-3.0.17.jar" file="PluginsforForestry-1.5.2-3.0.17.jar" md5="157c389917ef3051cb00e4759f6d160c" download="server"
          name="Plugins For Forestry" type="mods" depends="DenLib" version ="3.0.17" website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" description=""/>
-    <mod url="packs/ResonantRise/files/LogisticsPipes-MC1.5.2-0.7.3.dev.672.jar" file="LogisticsPipes-MC1.5.2-0.7.3.dev.672.jar" md5="04fd64a5b9664e8be2b1c983b86cac40" download="server"
+    <mod url="packs/ResonantRise/files/LogisticsPipes-MC1.5.2-0.7.3.dev.677.jar" file="LogisticsPipes-MC1.5.2-0.7.3.dev.677.jar" md5="1628eabcf97aff87418055e7c47ea330" download="server"
          name="LogisticsPipes" type="mods" version="0.7.3.dev.672"
          website="http://www.minecraftforum.net/topic/1831791-152buildcraft-logistics-pipes/"
          description="Even more amazing pipes." />
-
     <mod url="packs/ResonantRise/files/advanced-machines-55.0.3.jar" file="advanced-machines-55.0.3.jar" md5="782aaf99bd0d69a2a7745256650fe293" download="server"
          name="Advanced Machines" type="mods" depends="IndustrialCraft2,ImmibisCore"
          version="55.0.3"
@@ -314,8 +313,8 @@
          website="http://www.minecraftforum.net/topic/1846244-152-waila-134-block-and-mod-info-ingame/"
          description="What am I looking at?" />
     
-    <mod url="packs/ResonantRise/files/OpenBlocks-1.0.1.jar" file="OpenBlocks-1.0.1.jar" md5="ab7e41a76ebc1707b28f8a50bd327a00" download="server"
-         name="OpenBlocks" type="mods" version="1.0.1"
+    <mod url="packs/ResonantRise/files/OpenBlocks-1.0.2.jar" file="OpenBlocks-1.0.2.jar" md5="43b155c170f4dcf85482a4afb8f5a6dc" download="server"
+         name="OpenBlocks" type="mods" version="1.0.2"
          website="http://www.minecraftforum.net/topic/1908118-mc-152-openblocks/"
          description="Better Metal Snake!" />
 
