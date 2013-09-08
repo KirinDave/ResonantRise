@@ -3,15 +3,17 @@
     <version>2.0.0-alpha</version>
     <minecraft>1.6.2</minecraft>
     <mainclass>net.minecraft.main.Main</mainclass>
+    <extraarguments>--forge-runtime=minecraftforge-universal-1.6.2-9.10.1.858.jar</extraarguments>
   </pack>
-  <mods>
+  
     <!-- Dat Core -->
-    <mod url="packs/ResonantRise/files/minecraftforge-universal-1.6.2-9.10.1.858.jar" file="minecraftforge-universal-1.6.2-9.10.1.858.jar" md5="483b0c3efda3d6dca5074df4e78d6852" download="server"
-         type="jar" name="Forge"
-         version="9.10.1.858" website="http://www.minecraftforge.net/" description="What plants crave."/>
+  <libraries>
+    <library url="http://files.atlauncher.com/packs/ResonantRise/files/minecraftforge-universal-1.6.2-9.10.1.858.jar" file="minecraftforge-universal-1.6.2-9.10.1.858.jar" md5="483b0c3efda3d6dca5074df4e78d6852" />
     <!-- <mod name="MinecraftForge-libraries" version="1.5.2" website="http://files.minecraftforge.net/" donation="https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&amp;SESSION=jUYCcdZ9JAxhDO5TWqrN-0hidxOL7vZ95zJHhAbqYDFDlUh97bk3e7IZbyu&amp;dispatch=5885d80a13c0db1f8e263663d3faee8d4e181b3aff599f99a338772351021e7d" 
          type="extract" extractto="root" optional="no" description="Libaries required by MinecraftForge."
          url="packs/ResonantRise/files/MinecraftForgeLibs.zip" file="MinecraftForgeLibs.zip" md5="62b3100af038601fe02d38e5e55d64aa" download="server" /> -->
+  </libraries>
+  <mods>
     <!-- Coremods -->
     <mod url="packs/ResonantRise/files/immibis-microblocks-56.0.4.jar" file="immibis-microblocks-56.0.4.jar" md5="a9602428577a310e5eefb46d657ce0e7" download="server"
          name="Immibis Microblocks" depends="ImmibisCore" type="coremods" 
@@ -208,7 +210,7 @@
          file="Railcraft_1.6.2-8.0.2.0.jar" download="browser" name="Railcraft" type="mods" version="8.0.2.0" website="http://www.railcraft.info/" description="" 
          depends="Buildcraft"/>
     <mod url="http://adf.ly/V2t7z" 
-         file="twilightforest-1.19.0.zip" download="browser" name="Twilight Forest" type="mods" version="1.19.0" website="http://www.minecraftforum.net/topic/561673-152-the-twilight-forest-v1182-lost-halls-of-the-knights/" description=""  />
+         file="twilightforest-1.19.0.jar" download="browser" name="Twilight Forest" type="mods" version="1.19.0" website="http://www.minecraftforum.net/topic/561673-152-the-twilight-forest-v1182-lost-halls-of-the-knights/" description=""  />
          
     <mod url="http://adf.ly/V13HJ"
          file="PortalGun2.0.1.zip" download="browser" name="iChun's PortalGun" type="mods" 
