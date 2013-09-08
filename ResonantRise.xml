@@ -195,11 +195,28 @@
 
 
 
-    <!-- Remove Download, all types -->
-
-    <!-- Publicly or Permission-distribution mods -->
-    <mod url="http://api.viglink.com/api/click?format=go&amp;key=9b4efad421c8b103b2c94b796db973b0&amp;loc=http%3A%2F%2Funiversalelectricity.com%2Fatomic-science%2Fdownloads&amp;subId=8240d9b1db1708d334dd983d36458303&amp;v=1&amp;libId=9cb39169-7a26-4027-9e08-3605c2120603&amp;out=http%3A%2F%2Fcalclavia.com%2Fdownload.php%3Fname%3DAtomic%2520Science%26r%3Dhttp%253A%252F%252Fcalclavia.com%252Fjenkins%252Fjobs%252FAtomic%2BScience%252Fbuilds%252F80%252Farchive%252Foutput%252FAtomic_Science_v0.6.1.80.jar&amp;ref=http%3A%2F%2Funiversalelectricity.com%2Fatomic-science&amp;title=Atomic%20Science%20Downloads%20%7C%20Universal%20Electricity&amp;txt=Atomic_Science_v0.6.1.80&amp;jsonp=vglnk_jsonp_13752528185827"
-           file="Atomic_Science_v0.6.1.80.jar" download="browser" name="Atomic Science" type="mods" version="0.6.1.80" website="http://universalelectricity.com/atomic-science" description=""  />
+    <!-- Remote Download, all types -->
+    
+    
+    <mod url="http://api.viglink.com/api/click?format=go&amp;key=9b4efad421c8b103b2c94b796db973b0&amp;loc=http%3A%2F%2Funiversalelectricity.com%2Fatomic-science%2Fdownloads&amp;subId=8240d9b1db1708d334dd983d36458303&amp;v=1&amp;libId=14839233-86ca-4174-beca-61b0da2ff997&amp;out=http%3A%2F%2Fcalclavia.com%2Fdownload.php%3Fname%3DAtomic%2520Science%26r%3Dhttp%253A%252F%252Fcalclavia.com%252Fjenkins%252Fjobs%252FAtomic%2BScience%252Fbuilds%252F139%252Farchive%252Foutput%252FAtomic_Science_v0.7.1.139.jar&amp;ref=http%3A%2F%2Funiversalelectricity.com%2Fatomic-science&amp;title=Atomic%20Science%20Downloads%20%7C%20Universal%20Electricity&amp;txt=Atomic_Science_v0.7.1.139&amp;jsonp=vglnk_jsonp_137861606398911"
+           file="Atomic_Science_v0.7.1.139.jar" download="browser" name="Atomic Science" type="mods" version="0.7.1.139" website="http://universalelectricity.com/atomic-science" description=""  />
+    <mod url="http://api.viglink.com/api/click?format=go&amp;key=9b4efad421c8b103b2c94b796db973b0&amp;loc=http%3A%2F%2Funiversalelectricity.com%2Fmffs%2Fdownloads&amp;subId=8240d9b1db1708d334dd983d36458303&amp;v=1&amp;libId=c7db2b18-42b3-4189-bb76-2b90ba98d5b4&amp;out=http%3A%2F%2Fcalclavia.com%2Fdownload.php%3Fname%3DModular%2520Force%2520Field%2520System%26r%3Dhttp%253A%252F%252Fcalclavia.com%252Fjenkins%252Fjobs%252FModular%2BForce%2BField%2BSystem%252Fbuilds%252F223%252Farchive%252Foutput%252FMFFS_v3.3.1.223.jar&amp;ref=http%3A%2F%2Funiversalelectricity.com%2Fmffs&amp;title=MFFS%20Downloads%20%7C%20Universal%20Electricity&amp;txt=MFFS_v3.3.1.223&amp;jsonp=vglnk_jsonp_13786163035557"
+           file="MFFS_v3.1.0.175.jar" download="browser" name="MFFS3" type="mods" version="3.1.0.175" website="http://universalelectricity.com/mffs" description=""  />
+    <mod url="http://binarymage.com/mystcraft/publish/mystcraft-uni-1.6.2-0.10.6.00.zip"
+         file="mystcraft-uni-1.6.2-0.10.6.00.zip" download="direct" name="Mystcraft" type="mods" version="0.10.6.00" website="http://binarymage.com/2013/07/03/mystcraft-0-10-5-00/" description=""  />
+    <mod url="http://adf.ly/VCMjy" 
+         file="Railcraft_1.6.2-8.0.2.0.jar" download="browser" name="Railcraft" type="mods" version="8.0.2.0" website="http://www.railcraft.info/" description="" 
+         depends="Buildcraft"/>
+    <mod url="http://adf.ly/V2t7z" 
+         file="twilightforest-1.19.0.zip" download="browser" name="Twilight Forest" type="mods" version="1.19.0" website="http://www.minecraftforum.net/topic/561673-152-the-twilight-forest-v1182-lost-halls-of-the-knights/" description=""  />
+         
+    <mod url="http://adf.ly/V13HJ"
+         file="PortalGun2.0.1.zip" download="browser" name="iChun's PortalGun" type="mods" 
+         version="1.6.2" website="http://ichun.us/mods/portalgun/" description=""
+         depends="iChunUtil"/>
+    <mod url="http://adf.ly/Sl4mL" 
+         file="GravityGun2.0.0.zip" download="browser" name="GravityGun" type="mods" version="2.0.0" website="http://ichun.us/mods/gravity-gun/" description="" 
+         depends="iChunUtil"/>  
 
 
 
@@ -281,85 +298,5 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   <!-- Client only mods -->
-
-
-
-
-   <mod url="http://adf.ly/404181/optifined.net/adloadx.php?f=OptiFine_1.5.2_HD_U_D5.zip" 
-        file="OptiFine_1.5.2_HD_U_D5.zip" download="browser"
-        type="jar" name="Optifine"
-        version="1.5.2_HD_U_D5" 
-        optional="yes"
-        server="no"
-        website="http://www.minecraftforum.net/topic/249637-162-optifine-hd-b4-fps-boost-hd-textures-aa-af-and-much-more/" 
-        description="Helps some people, hurts almost everyone." />
-        
-    
-    <!-- Server only mods -->
-    
-    <mod url="packs/ResonantRise/files/forgebackup-universal-coremod-1.5.2-1.1.2.98.jar" file="forgebackup-universal-coremod-1.5.2-1.1.2.98.jar" md5="9e1bcd713d4e56342681542a60ae035a" download="server"
-         type="coremods" name="ForgeBackup" optional="yes" server="yes"
-         version="1.1.2.98"
-         website="http://www.minecraftforge.net/forum/index.php?topic=4606.0"
-         description="Don't lose worlds." />
-         
-
-    <mod url="packs/ResonantRise/files/inventorytweaks-1.54b.jar" file="inventorytweaks-1.54b.jar" md5="94525b13ceb6d31dbe362a11fbe26043" download="server"
-         type="mods" name="InventoryTweaks" optional="yes" server="no"
-         version="1.54b"
-         website="http://www.minecraftforum.net/topic/1720872-162-inventory-tweaks-155b-july-19/"
-         description="" />
-
-    <!-- Externally linked mods -->
-
-
-    <mod url="http://api.viglink.com/api/click?format=go&amp;key=9b4efad421c8b103b2c94b796db973b0&amp;loc=http%3A%2F%2Funiversalelectricity.com%2Ficbm%2Fdownloads&amp;subId=8240d9b1db1708d334dd983d36458303&amp;v=1&amp;libId=658d6851-c3b7-4ed7-8f09-280a0d6faadb&amp;out=http%3A%2F%2Fcalclavia.com%2Fdownload.php%3Fname%3DICBM%26r%3Dhttp%253A%252F%252Fcalclavia.com%252Fjenkins%252Fjobs%252FICBM%252Fbuilds%252F172%252Farchive%252Foutput%252FICBM_Contraption_v1.2.1.172.jar&amp;ref=http%3A%2F%2Funiversalelectricity.com%2Ficbm&amp;title=ICBM%20Downloads%20%7C%20Universal%20Electricity&amp;txt=ICBM_Contraption_v1.2.1.172&amp;jsonp=vglnk_jsonp_13743074429846" 
-         file="ICBM_Contraption_v1.2.1.172.jar" download="browser" name="ICBM Contraption" type="mods" version="1.2.1.172"
-         website="http://universalelectricity.com/icbm"
-         description=""  />
-    <mod url="http://api.viglink.com/api/click?format=go&amp;key=9b4efad421c8b103b2c94b796db973b0&amp;loc=http%3A%2F%2Funiversalelectricity.com%2Ficbm%2Fdownloads&amp;subId=8240d9b1db1708d334dd983d36458303&amp;v=1&amp;libId=658d6851-c3b7-4ed7-8f09-280a0d6faadb&amp;out=http%3A%2F%2Fcalclavia.com%2Fdownload.php%3Fname%3DICBM%26r%3Dhttp%253A%252F%252Fcalclavia.com%252Fjenkins%252Fjobs%252FICBM%252Fbuilds%252F172%252Farchive%252Foutput%252FICBM_Explosion_v1.2.1.172.jar&amp;ref=http%3A%2F%2Funiversalelectricity.com%2Ficbm&amp;title=ICBM%20Downloads%20%7C%20Universal%20Electricity&amp;txt=ICBM_Explosion_v1.2.1.172&amp;jsonp=vglnk_jsonp_13743074580057" 
-           file="ICBM_Explosion_v1.2.1.172.jar" download="browser" name="ICBM Explosion" type="mods" version="1.2.1.172" website="http://universalelectricity.com/icbm" description=""  />
-    <mod url="http://api.viglink.com/api/click?format=go&amp;key=9b4efad421c8b103b2c94b796db973b0&amp;loc=http%3A%2F%2Funiversalelectricity.com%2Ficbm%2Fdownloads&amp;subId=8240d9b1db1708d334dd983d36458303&amp;v=1&amp;libId=658d6851-c3b7-4ed7-8f09-280a0d6faadb&amp;out=http%3A%2F%2Fcalclavia.com%2Fdownload.php%3Fname%3DICBM%26r%3Dhttp%253A%252F%252Fcalclavia.com%252Fjenkins%252Fjobs%252FICBM%252Fbuilds%252F172%252Farchive%252Foutput%252FICBM_Sentry_v1.2.1.172.jar&amp;ref=http%3A%2F%2Funiversalelectricity.com%2Ficbm&amp;title=ICBM%20Downloads%20%7C%20Universal%20Electricity&amp;txt=ICBM_Sentry_v1.2.1.172&amp;jsonp=vglnk_jsonp_13743074907408" 
-           file="ICBM_Sentry_v1.2.1.172.jar" download="browser" name="ICBM Sentry" type="mods" version="1.2.1.172" 
-           website="http://universalelectricity.com/icbm" description=""  />
-    <mod url="http://api.viglink.com/api/click?format=go&amp;key=9b4efad421c8b103b2c94b796db973b0&amp;loc=http%3A%2F%2Funiversalelectricity.com%2Fmffs%2Fdownloads&amp;subId=8240d9b1db1708d334dd983d36458303&amp;v=1&amp;libId=69fe044a-ace5-45a4-9035-dc6930d0fda7&amp;out=http%3A%2F%2Fcalclavia.com%2Fdownload.php%3Fname%3DModular%2520Force%2520Field%2520System%26r%3Dhttp%253A%252F%252Fcalclavia.com%252Fjenkins%252Fjobs%252FModular%2BForce%2BField%2BSystem%252Fbuilds%252F175%252Farchive%252Foutput%252FMFFS_v3.1.0.175.jar&amp;ref=http%3A%2F%2Funiversalelectricity.com%2Fmffs&amp;title=MFFS%20Downloads%20%7C%20Universal%20Electricity&amp;txt=MFFS_v3.1.0.175&amp;jsonp=vglnk_jsonp_13743075718106" 
-           file="MFFS_v3.1.0.175.jar" download="browser" name="MFFS3" type="mods" version="3.1.0.175" website="http://universalelectricity.com/mffs" description=""  />
-    <mod url="http://binarymage.com/mystcraft/publish/mystcraft-uni-1.5.2-0.10.5.00.zip" 
-         file="mystcraft-uni-1.5.2-0.10.5.00.zip" download="direct" name="Mystcraft" type="mods" version="0.10.5.00" website="http://binarymage.com/2013/07/03/mystcraft-0-10-5-00/" description=""  />
-    <mod url="http://adf.ly/RSjbj" 
-         file="Railcraft_1.5.2-7.3.0.0.jar" download="browser" name="Railcraft" type="mods" version="7.3.0.0" website="http://www.railcraft.info/" description="" 
-         depends="Buildcraft"/>
-    <mod url="http://adf.ly/OvB6i" 
-         file="Thaumcraft3.0.5h.zip" download="browser" name="Thaumcraft" type="mods" version="3.0.5h" website="http://www.minecraftforum.net/topic/1585216-thaumcraft-305h-updated-172013/" description=""  />
-    <mod url="http://adf.ly/RLjPh" 
-         file="twilightforest-1.18.2.zip" download="browser" name="Twilight Forest" type="mods" version="1.18.2" website="http://www.minecraftforum.net/topic/561673-152-the-twilight-forest-v1182-lost-halls-of-the-knights/" description=""  />
-    <mod url="http://adf.ly/Pcus4"
-         file="PortalGun1.5.2.zip" download="browser" name="iChun's PortalGun" type="mods" 
-         version="1.5.2" website="http://ichun.us/mods/portalgun/" description=""
-         depends="iChunUtil"/>
-    <mod url="http://adf.ly/PctfX" 
-         file="GravityGun1.5.1.zip" download="browser" name="GravityGun" type="mods" version="" website="http://ichun.us/mods/gravity-gun/" description="" 
-         depends="iChunUtil"/>  
   </mods>
 </version>
