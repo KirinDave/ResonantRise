@@ -17,15 +17,15 @@
   </libraries>
   <mods>
     <!-- Coremods -->
+  
+    <!-- Mods -->
+    <mod url="packs/ResonantRise/files/minecraftforge-universal-1.6.2-9.10.1.858.jar" file="minecraftforge-universal-1.6.2-9.10.1.858.jar" md5="483b0c3efda3d6dca5074df4e78d6852" download="server"
+          name="Forge" type="forge" version="9.10.1.858" website="http://www.minecraftforge.com" description="The Core." />
+    <mod url="packs/ResonantRise/files/iChunUtil2.1.0.zip" file="iChunUtil2.1.0.zip" md5="71682300592a3d6f26b9794ec3f5771f" download="server"
+         name="iChunUtil" type="mods" version="2.1.0" website="http://ichun.us/mods/ichun-util/" description=""  />
     <mod url="packs/ResonantRise/files/immibis-microblocks-56.0.4.jar" file="immibis-microblocks-56.0.4.jar" md5="a9602428577a310e5eefb46d657ce0e7" download="server"
          name="Immibis Microblocks" depends="ImmibisCore" type="coremods" 
          version="56.0.3" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description=""  />
-    <!-- Mods -->
-
-    <mod url="packs/ResonantRise/files/iChunUtil2.1.0.zip" file="iChunUtil2.1.0.zip" md5="71682300592a3d6f26b9794ec3f5771f" download="server"
-         name="iChunUtil" type="mods" version="2.1.0" website="http://ichun.us/mods/ichun-util/" description=""  />
-
-
     <mod url="packs/ResonantRise/files/advanced-machines-56.0.0.jar" file="advanced-machines-56.0.0.jar" md5="76865d32e8ada9cb69d885f5b658560d" download="server"
          name="Advanced Machines" type="mods" depends="IndustrialCraft2,ImmibisCore"
          version="56.0.0"
@@ -56,11 +56,9 @@
          version="0.6.2"
          website="https://github.com/BiomesOPlenty/BiomesOPlenty/releases"
          description="More Everything." />
-    <mod url="packs/ResonantRise/files/binnie-mods-1.8-dev1.jar" file="binnie-mods-1.8-dev1.jar" md5="651eb39d797997ab75157dfcab2c2dd8" download="server"
-         name="Binne's Mods" depends="Forestry,Buildcraft" type="mods"
-         version="1.8-dev1"
-         website="http://www.minecraftforum.net/topic/1324321-"
-         description=""  />
+
+    <mod url="packs/ResonantRise/files/Blood%20Magic%20v0.4.1.zip" file="Blood Magic v0.4.1.zip" md5="73b06cd8ded16d08d29ccc9d58bf4f4b" download="server"
+         name="Blood Magic" type="mods" website="" version="0.4.1" description="Alphonse, not nose piercing."/>
     <mod url="packs/ResonantRise/files/buildcraft-A-4.0.2.jar" file="buildcraft-A-4.0.2.jar" md5="9e6cc9d41b0568c906fecf03337e0d2a" download="server"
          name="Buildcraft" type="mods"  version="4.0.2"
          website="http://www.mod-buildcraft.com/"
@@ -95,7 +93,7 @@
      name="EnderIO" type="mods" version="0.1.15.0"
      website=""
      description="" />
-<mod url="packs/ResonantRise/files/ExtraCells-universal-1.3.9%20(1.6.2).jar" file="ExtraCells-universal-1.3.9 (1.6.2).jar" md5="4a9d1c0ccb00f41574ab53f633148fa3" download="server"
+    <mod url="packs/ResonantRise/files/ExtraCells-universal-1.3.9%20(1.6.2).jar" file="ExtraCells-universal-1.3.9 (1.6.2).jar" md5="4a9d1c0ccb00f41574ab53f633148fa3" download="server"
          name="Extra Cells" depends="Applied Energistics"  type="mods" version="1.3.9" 
          website="http://www.minecraftforum.net/topic/1801643-m3gas-extracells-appliedenergistics-add-on/" 
          description=""  />
@@ -103,9 +101,7 @@
          name="Extra Utilities"  type="mods" version="pre-3a" 
          website="http://www.minecraftforum.net/topic/1776056-15xforge-extra-utilities-v024d/" 
          description="Angel Blocks? Angel Blocks!" />
-    <mod url="packs/ResonantRise/files/Factorization-0.8.01.jar" file="Factorization-0.8.01.jar" md5="4f97b69039279c963923e340fc196340" download="server"
-         name="Factorization"  type="mods"  version="0.8.1" website="http://www.minecraftforum.net/topic/1351802-152-factorization-0801/" 
-         description="Routers and Wrath Lamps and Servos, oh my!" />
+
     <mod url="packs/ResonantRise/files/forestry-A-2.3.0.1.jar" file="forestry-A-2.3.0.1.jar" md5="39ebd4def1ae7aebf06236e727a5fcbe" download="server"
          name="Forestry" type="mods"  version="2.3.0.1" 
          website="http://forestry.sengir.net/wiki.new/" 
@@ -125,8 +121,8 @@
     <mod url="packs/ResonantRise/files/OpenPeripheral-0.2.1-preview8.jar" file="OpenPeripheral-0.2.1-preview8.jar" md5="23c3a3d985aee7ddd79682d203cd6120" download="server"
          name="OpenPeripherals" version="0.2.1" 
          website="http://www.openperipheral.info/" description="" type="mods" />
-    <mod url="packs/ResonantRise/files/industrialcraft-2_1.118.401-lf.jar" file="industrialcraft-2_1.118.401-lf.jar" md5="55efbee41e23933ff95ec53f226ec8f5" download="server"
-         name="IndustrialCraft2"  type="mods" version="1.118.401" 
+    <mod url="packs/ResonantRise/files/industrialcraft-2_2.0.156-experimental.jar" file="industrialcraft-2_2.0.156-experimental.jar" md5="f5939a6a05651eb96d88206cbe031b17" download="server"
+         name="IndustrialCraft2"  type="mods" version="2.0.156" 
          website="http://www.industrial-craft.net/" 
          description=""  />
     <mod url="packs/ResonantRise/files/infinitubes-56.0.1.jar" file="infinitubes-56.0.1.jar" md5="dde275a283853a9335a118d771eacb6e" download="server"
@@ -204,8 +200,6 @@
     
     <mod url="http://api.viglink.com/api/click?format=go&amp;key=9b4efad421c8b103b2c94b796db973b0&amp;loc=http%3A%2F%2Funiversalelectricity.com%2Fatomic-science%2Fdownloads&amp;subId=8240d9b1db1708d334dd983d36458303&amp;v=1&amp;libId=14839233-86ca-4174-beca-61b0da2ff997&amp;out=http%3A%2F%2Fcalclavia.com%2Fdownload.php%3Fname%3DAtomic%2520Science%26r%3Dhttp%253A%252F%252Fcalclavia.com%252Fjenkins%252Fjobs%252FAtomic%2BScience%252Fbuilds%252F139%252Farchive%252Foutput%252FAtomic_Science_v0.7.1.139.jar&amp;ref=http%3A%2F%2Funiversalelectricity.com%2Fatomic-science&amp;title=Atomic%20Science%20Downloads%20%7C%20Universal%20Electricity&amp;txt=Atomic_Science_v0.7.1.139&amp;jsonp=vglnk_jsonp_137861606398911"
            file="Atomic_Science_v0.7.1.139.jar" download="browser" name="Atomic Science" type="mods" version="0.7.1.139" website="http://universalelectricity.com/atomic-science" description=""  />
-    <mod url="http://api.viglink.com/api/click?format=go&amp;key=9b4efad421c8b103b2c94b796db973b0&amp;loc=http%3A%2F%2Funiversalelectricity.com%2Fmffs%2Fdownloads&amp;subId=8240d9b1db1708d334dd983d36458303&amp;v=1&amp;libId=c7db2b18-42b3-4189-bb76-2b90ba98d5b4&amp;out=http%3A%2F%2Fcalclavia.com%2Fdownload.php%3Fname%3DModular%2520Force%2520Field%2520System%26r%3Dhttp%253A%252F%252Fcalclavia.com%252Fjenkins%252Fjobs%252FModular%2BForce%2BField%2BSystem%252Fbuilds%252F223%252Farchive%252Foutput%252FMFFS_v3.3.1.223.jar&amp;ref=http%3A%2F%2Funiversalelectricity.com%2Fmffs&amp;title=MFFS%20Downloads%20%7C%20Universal%20Electricity&amp;txt=MFFS_v3.3.1.223&amp;jsonp=vglnk_jsonp_13786163035557"
-           file="MFFS_v3.1.0.175.jar" download="browser" name="MFFS3" type="mods" version="3.1.0.175" website="http://universalelectricity.com/mffs" description=""  />
     <mod url="http://binarymage.com/mystcraft/publish/mystcraft-uni-1.6.2-0.10.6.00.zip"
          file="mystcraft-uni-1.6.2-0.10.6.00.zip" download="direct" name="Mystcraft" type="mods" version="0.10.6.00" website="http://binarymage.com/2013/07/03/mystcraft-0-10-5-00/" description=""  />
     <mod url="http://adf.ly/VCMjy" 
