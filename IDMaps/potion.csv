@@ -1,0 +1,27 @@
+ID,Unlocalised name,Class
+1,potion.moveSpeed,net.minecraft.potion.Potion
+2,potion.moveSlowdown,net.minecraft.potion.Potion
+3,potion.digSpeed,net.minecraft.potion.Potion
+4,potion.digSlowDown,net.minecraft.potion.Potion
+5,potion.damageBoost,net.minecraft.potion.PotionAttackDamage
+6,potion.heal,net.minecraft.potion.PotionHealth
+7,potion.harm,net.minecraft.potion.PotionHealth
+8,potion.jump,net.minecraft.potion.Potion
+9,potion.confusion,net.minecraft.potion.Potion
+10,potion.regeneration,net.minecraft.potion.Potion
+11,potion.resistance,net.minecraft.potion.Potion
+12,potion.fireResistance,net.minecraft.potion.Potion
+13,potion.waterBreathing,net.minecraft.potion.Potion
+14,potion.invisibility,net.minecraft.potion.Potion
+15,potion.blindness,net.minecraft.potion.Potion
+16,potion.nightVision,net.minecraft.potion.Potion
+17,potion.hunger,net.minecraft.potion.Potion
+18,potion.weakness,net.minecraft.potion.PotionAttackDamage
+19,potion.poison,net.minecraft.potion.Potion
+20,potion.wither,net.minecraft.potion.Potion
+21,potion.radiation,atomicscience.api.poison.PotionRadiation
+22,potion.absorption,net.minecraft.potion.PotionAbsoption
+23,potion.saturation,net.minecraft.potion.PotionHealth
+24,ic2.potion.radiation,ic2.core.IC2Potion
+32,potion.paralysis,biomesoplenty.potions.PotionParalysis
+100,Drowning,WayofTime.alchemicalWizardry.PotionDrowning
