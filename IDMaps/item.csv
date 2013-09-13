@@ -188,7 +188,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 242,Block,IC2,tile.blockRubLeaves,ic2.core.block.BlockRubLeaves
 243,Block,IC2,blockRubWood,ic2.core.block.BlockRubWood
 246,Block,IC2,blockOreLead,ic2.core.block.BlockMetaData
-247,Block,IC2,blockOreUran,ic2.core.block.BlockMetaData
 251,Block,ChickenChunks,tile.chickenChunkLoader,codechicken.chunkloader.BlockChunkLoader
 252,Block,EnderStorage,tile.enderchest,codechicken.enderstorage.common.BlockEnderStorage
 256,Block,Minecraft,tile.ForgeFiller,null
@@ -1073,6 +1072,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3502,Block,resonantinduction,tile.resonantinduction:contractor,resonantinduction.contractor.BlockEMContractor
 3503,Block,resonantinduction,tile.resonantinduction:battery,resonantinduction.battery.BlockBattery
 3504,Block,resonantinduction,tile.resonantinduction:wire,resonantinduction.wire.BlockWire
+3540,Block,HexWool,tile.hexwool.block.coloredWool,com.techjar.hexwool.block.BlockColoredWool
+3541,Block,HexWool,tile.hexwool.block.woolColorizer,com.techjar.hexwool.block.BlockWoolColorizer
 3558,Block,SuperCraftingFrame,tile.CraftingFrame,edgarallen.scf.content.BlockCraftingFrame
 3559,Block,SuperCraftingFrame,tile.SuperItemFrame,edgarallen.scf.content.BlockSuperItemFrame
 3611,Block,ArchimedesShipsMod,tile.markShip,shipmod.blockitem.BlockMarkShip
