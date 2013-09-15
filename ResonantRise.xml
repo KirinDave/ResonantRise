@@ -16,8 +16,6 @@
     <library url="https://s3.amazonaws.com/Minecraft.Download/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar" file="lzma-0.0.1.jar" server="lzma/lzma/0.0.1/lzma-0.0.1.jar" md5="a3e3c3186e41c4a1a3027ba2bb23cdc6" />
   </libraries>
   <mods>
-    <!-- Coremods -->
-  
     <!-- Mods -->
     <mod url="packs/ResonantRise/files/minecraftforge-universal-1.6.2-9.10.1.858.jar" file="minecraftforge-universal-1.6.2-9.10.1.858.jar" md5="483b0c3efda3d6dca5074df4e78d6852" download="server"
           name="Forge" type="forge" version="9.10.1.858" website="http://www.minecraftforge.com" description="The Core." />
@@ -30,6 +28,11 @@
          name="Advanced Machines" type="mods" depends="IndustrialCraft2,ImmibisCore"
          version="56.0.0"
          website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9335"
+         description="" />
+    <mod url="packs/ResonantRise/files/Artifice-1.1.2-181.jar" file="Artifice-1.1.2-181.jar" md5="781f8aba2baee8fbf2a6311539adefb9" download="server"
+         name="Artifice" type="mods" 
+         version="1.1.2-181"
+         website=""
          description="" />
     <mod url="packs/ResonantRise/files/CodeChickenCore%200.9.0.5.jar" file="CodeChickenCore 0.9.0.5.jar" md5="650a27460b8110f8ffb64f34058f4282" download="server"
          name="CodeChickenCore" type="mods" 
@@ -77,12 +80,12 @@
          name="Dimensional Anchor" type="mods" optional="yes" version="55.0.3" 
          website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" 
          description=""  />
-    <mod url="packs/ResonantRise/files/EmasherResource-1.2.1.0.zip" file="EmasherResource-1.2.1.0.zip" md5="74a27eb4ba0150a2d2858c7f420b7a35" download="server"
-         name="EmasherResource" type="mods" version="1.2.1.0"
+    <mod url="packs/ResonantRise/files/EmasherResource-1.2.1.2.zip" file="EmasherResource-1.2.1.2.zip" md5="5bc0289e02f593e5c1ddfd8eecda1a0e" download="server"
+         name="EmasherResource" type="mods" version="1.2.1.2"
          website="http://emashersmods.wikispaces.com"
          description="Build big or build tiny." />
-    <mod url="packs/ResonantRise/files/EngineersToolbox-1.1.2.0.zip" file="EngineersToolbox-1.1.2.0.zip" md5="69e5f9f4d2e4587d4879e404147b3486" download="server"
-         name="Engineer's Toolbox" type="mods" version="1.1.2.0"
+    <mod url="packs/ResonantRise/files/EngineersToolbox-1.1.3.0.zip" file="EngineersToolbox-1.1.3.0.zip" md5="3ca658e60395c1e59c2e0b7357ccc65a" download="server"
+         name="Engineer's Toolbox" type="mods" version="1.1.3.0"
          depends="EmasherResource"
          website="http://emashersmods.wikispaces.com"
          description="Build big or build tiny." />
@@ -110,6 +113,15 @@
         name="ForgeMultipart" type="mods" version="1.0.0.161"
         website="http://www.chickenbones.craftsaddle.org/wr.html" 
         description="" />
+    <mod url="packs/ResonantRise/files/GasCraft-2.0.0.0.zip" file="GasCraft-2.0.0.0.zip" md5="26b9fda7eaa702e2147dbac97414a219" download="server"
+        name="GasCraft" type="mods" version="2.0.0.0"
+        website="http://emashersmods.wikispaces.com/Downloads"
+        description="Flutey Toot." />
+    <mod url="packs/ResonantRise/files/mod_zGraviSuite_1_9_6_IC2_EXP.zip" file="mod_zGraviSuite_1_9_6_IC2_EXP.zip" md5="625c52752fd9d9641316edd4b1c68639" download="server"
+         name="Gravity Suite" depends="IndustrialCraft2"  type="mods" 
+         version="1.9.6-EXP" 
+         website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=6915" 
+         description="Gravity Suit in flight. Afternoon delight."  />
     <mod url="packs/ResonantRise/files/immibis-core-56.0.3.jar" file="immibis-core-56.0.3.jar" md5="54ace21637d97edc759a9b6b4b407936" download="server"
          name="ImmibisCore"  type="mods"
          version="56.0.3" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="" />
@@ -146,6 +158,15 @@
        website="http://http://universalelectricity.com/mekanism" description="" />
   <mod url="packs/ResonantRise/files/MekanismTools-v5.5.7.207.jar" file="MekanismTools-v5.5.7.207.jar" md5="921d0bb5ae9443b5e516c6a97bf57aee" download="server"
        name="Mekanism Tools" type="mods" version="5.5.7.207" website="http://http://universalelectricity.com/mekanism" description=""  />
+    <mod url="packs/ResonantRise/files/Metallurgy_3.2.3.zip" file="Metallurgy_3.2.3.zip" md5="44ffded2738a0bba08c7970b79c0d44e" download="server"
+         name="Metallurgy" type="mods" version="3.2.3"
+         website="http://www.minecraftforum.net/topic/744918-15x162forgesmp-metallurgy-putting-the-mine-back-in-minecraft/"
+         description="A bit of this, a bit of that." />
+    <mod url="packs/ResonantRise/files/KeithyUtils_1.2.zip" file="KeithyUtils_1.2.zip" md5="e6eeeb9a7c4b70604ce2b0cd84e85dc5" download="server"
+         name="KeithyUtils" version="1.2" type="mods"
+         website="http://www.minecraftforum.net/topic/744918-15x162forgesmp-metallurgy-putting-the-mine-back-in-minecraft/"
+         description="Old Murk-Eye" />
+         
     <mod url="packs/ResonantRise/files/obsidiplates-1.6.2-universal-2.0.0.15.jar" file="obsidiplates-1.6.2-universal-2.0.0.15.jar" md5="c64ea8742cd60ef359d36bb84d4b10a5" download="server"
          name="Obisiplates" type="mods"  version="2.0.0.15" 
          website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/" 
@@ -153,8 +174,8 @@
     <mod url="packs/ResonantRise/files/redlogic-56.0.3.jar" file="redlogic-56.0.3.jar" md5="51b07e2ae88972a9d00d58d1f8f5a204" download="server"
          name="Red Logic" depends="ImmibisCore"  type="mods" 
          version="56.0.3" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description=""  />
-    <mod url="packs/ResonantRise/files/LogisticsPipes-MC1.6.2-0.7.4.dev.5.jar" file="LogisticsPipes-MC1.6.2-0.7.4.dev.5.jar" md5="596d4eb8d8badfbbe4fa3fcbac60b174" download="server"
-         name="LogisticsPipes" type="mods" version="0.7.4.dev.5"
+    <mod url="packs/ResonantRise/files/LogisticsPipes-MC1.6.2-0.7.4.dev.17.jar" file="LogisticsPipes-MC1.6.2-0.7.4.dev.17.jar" md5="30a9fda01a2f78aa038cda3b4257dd70" download="server"
+         name="LogisticsPipes" type="mods" version="0.7.4.dev.17"
          website="http://www.minecraftforum.net/topic/1831791-152buildcraft-logistics-pipes/"
          description="Even more amazing pipes." />
     <mod url="packs/ResonantRise/files/Resonant_Induction_v0.2.0.169.jar" file="Resonant_Induction_v0.2.0.169.jar" md5="3382cfe43f56efbfc2063e94b8e50990" download="server"
@@ -252,11 +273,7 @@
          name="Magic Bees" depends="Forestry"  type="mods" version="2.1.1" 
          website="http://forestry.sengir.net/forum/viewtopic.php?id=17" 
          description="Even more bees. Also a way to get metal bees in Underground Biomes." />
-    <mod url="packs/ResonantRise/files/mod_zGraviSuite_1_9_3.zip" file="mod_zGraviSuite_1_9_3.zip" md5="94def1c4634295d7ba5d785baa2f2ec3" download="server"
-         name="Gravity Suite" depends="IndustrialCraft2"  type="mods" 
-         version="1.9.3" 
-         website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=6915" 
-         description="Gravity Suit in flight. Afternoon delight."  />
+
     <mod url="packs/ResonantRise/files/ModularPowersuits-0.7.1-574.jar" file="ModularPowersuits-0.7.1-574.jar" md5="4972ae3f1182d6ff09e56f4ebd261ae3" download="server"
          name="MachineMuse Modular Powersuits"  type="mods" 
          version="0.7.1-569" website="http://www.machinemuse.net/" description=""  />
