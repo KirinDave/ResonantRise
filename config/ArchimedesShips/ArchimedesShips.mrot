@@ -1,0 +1,6 @@
+# Archimedes' Ships block meta rotations
+# This file will be overwritten every start, changes will not be implemented!
+# blocknames/blockIDs; bitmask; 4 metadata values in the clockwise rotation order, separated by commas;
+
+markShip; 0x3; 0, 1, 2, 3;
+archiGauge; 0x3; 0, 1, 2, 3;

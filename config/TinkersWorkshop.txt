@@ -71,8 +71,10 @@ block {
     I:"Redstone Machines"=3226
     I:"Seared Slab"=3230
     I:"Seared Table"=1477
+    I:"Slime Channel"=3190
     I:"Slime Grass"=3238
     I:"Slime Grass Leaves"=3240
+    I:"Slime Pad"=3191
     I:"Slime Tall Grass"=3239
     I:"Slime Tree Sapling"=3241
     I:Smeltery=1474
@@ -114,6 +116,17 @@ block {
     B:"Modifiers increase Mining Level"=true
     B:"Remove Vanilla Tool Recipes"=false
     B:"Spawn beginner book"=true
+}
+
+
+####################
+# dimblacklist
+####################
+
+dimblacklist {
+    B:GenerateSlimeIslandInDim0Only=false
+    I:SlimeIslandDimBlacklist <
+     >
 }
 
 
@@ -160,6 +173,7 @@ looks {
     I:Buckets=14101
     I:"Essence Crystal"=14114
     I:"Golden Head"=14113
+    I:Jerky=14115
     I:"Jeweled Apple"=14107
     I:Materials=14020
     I:"Metal Pattern"=14024

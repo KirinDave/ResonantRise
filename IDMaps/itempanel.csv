@@ -1,0 +1,1265 @@
+Item ID,Item meta,Has NBT,Display Name
+35,6,false,Pink Wool
+52,219,false,Monster Spawner
+159,6,false,Pink Stained Clay
+171,6,false,Pink Carpet
+351,0,false,Ink Sac
+351,9,false,Pink Dye
+460,9,false,Pink Metal Post
+609,6,false,Pink decorative lamp
+610,6,false,Pink indicator lamp
+611,6,false,Pink indicator lamp
+612,6,false,Pink lamp
+613,6,false,Pink lamp
+614,7,false,Pink insulated wire
+614,16391,false,Pink freestanding wire
+903,9,false,Quantum Link Chamber
+1278,0,false,Link Modifier
+1284,0,false,Ink Mixer
+1286,0,false,Black Ink
+1381,6,false,Pink Stained Glass
+1430,34,true,Pink Ivory Wood Planks
+1431,66,true,Pink Ivory Fence
+1432,34,false,Pink Ivory Stairs
+1434,39,true,Pink Ivory Wood
+1437,34,true,Pink Ivory Wood Slab
+1439,66,true,Pink Ivory Gate
+1440,66,true,Pink Ivory Wood Door
+1467,0,false,Fancy Obsidian Brick
+1467,1,false,Fancy Sandstone Brick
+1467,2,false,Fancy Netherrack Brick
+1467,3,false,Fancy Polished Stone Brick
+1467,4,false,Fancy Iron Brick
+1467,5,false,Fancy Gold Brick
+1467,6,false,Fancy Lapis Brick
+1467,7,false,Fancy Diamond Brick
+1467,8,false,Fancy Redstone Brick
+1467,9,false,Fancy Bone Brick
+1467,10,false,Fancy Slime Brick
+1467,12,false,Fancy Endstone Brick
+1467,14,false,Fancy Stone Brick
+1467,15,false,Stone Road
+1468,0,false,Tool Forge
+1469,0,false,Oak Barricade
+1470,0,false,Landmine
+1470,1,false,Landmine
+1470,2,false,Landmine
+1470,3,false,Landmine
+1471,0,false,Tool Station
+1471,1,false,Part Builder
+1471,5,false,Pattern Chest
+1471,10,false,Stencil Table
+1472,0,false,tile.Frypan.name
+1473,0,false,Seared Tank
+1473,1,false,Seared Glass
+1473,2,false,Seared Window
+1474,0,false,Smeltery Controller
+1474,1,false,Smeltery Drain
+1474,2,false,Seared Bricks
+1474,4,false,Seared Stone
+1474,5,false,Seared Cobblestone
+1474,6,false,Seared Paver
+1474,7,false,Cracked Seared Bricks
+1474,8,false,Seared Road
+1474,9,false,Fancy Seared Bricks
+1474,10,false,Chiseled Seared Bricks
+1475,1,false,Cobalt Ore
+1475,2,false,Ardite Ore
+1475,3,false,Copper Ore
+1475,4,false,Tin Ore
+1475,5,false,Aluminum Ore
+1476,0,false,Slimy Mud
+1476,1,false,Grout
+1476,3,false,Graveyard Soil
+1476,4,false,Consecrated Soil
+1476,5,false,Blue Slimedirt
+1477,0,false,Casting Table
+1477,1,false,Seared Faucet
+1477,2,false,Casting Basin
+1478,0,false,Block of Cobalt
+1478,1,false,Block of Ardite
+1478,2,false,Block of Manyullyn
+1478,3,false,Block of Copper
+1478,4,false,Block of Bronze
+1478,5,false,Block of Tin
+1478,6,false,Block of Aluminum
+1478,7,false,Block of Aluminum Brass
+1478,8,false,Block of Alumite
+1478,9,false,Block of Steel
+1478,10,false,Block of Solid Ender
+1481,0,false,Obsidian Brick
+1481,1,false,Sandstone Brick
+1481,2,false,Netherrack Brick
+1481,3,false,Polished Stone Brick
+1481,4,false,Iron Brick
+1481,5,false,Gold Brick
+1481,6,false,Lapis Brick
+1481,7,false,Diamond Brick
+1481,8,false,Redstone Brick
+1481,9,false,Bone Brick
+1481,10,false,Slime Brick
+1481,12,false,Endstone Brick
+1482,0,false,Spruce Barricade
+1483,0,false,Birch Barricade
+1484,0,false,Torch
+1485,8,false,Iron Oreberry Bush
+1485,9,false,Gold Oreberry Bush
+1485,10,false,Copper Oreberry Bush
+1485,11,false,Tin Oreberry Bush
+1486,8,false,Aluminum Oreberry Bush
+1486,9,false,Essence Berry Bush
+1487,0,false,Jungle Barricade
+1488,0,false,Iron Gravel Ore
+1488,1,false,Gold Gravel Ore
+1488,2,false,Copper Gravel Ore
+1488,3,false,Tin Gravel Ore
+1488,4,false,Aluminum Gravel Ore
+1488,5,false,Cobalt Gravel Ore
+1489,0,false,Rough Brownstone
+1489,1,false,Brownstone Road
+1489,2,false,Brownstone
+1489,3,false,Brownstone Brick
+1489,5,false,Fancy Brownstone
+1489,6,false,Chiseled Brownstone
+1901,9,false,Pink Force Stairs
+1903,9,false,Pink Force Brick
+1908,9,false,Pink Force Slab
+1912,9,false,Pink Force Torch
+1924,1,false,Pink Cherry Leaves
+1937,10,false,Pink Cherry Sapling
+2243,14,false,Golden Lantern
+2244,14,false,Fancy Lamp
+2504,6,false,Colored Bricks (Pink)
+2519,6,false,Colored Wood Planks (Pink)
+2836,6,false,Pink carpet block
+3180,0,false,Chain Link Fence
+3180,1,false,Chain Link Fence Post
+3190,0,false,tile.slime.channel.name
+3191,0,false,tile.slime.pad.name
+3195,0,false,Molten Silver
+3196,0,false,Molten Lead
+3197,0,false,Molten Nickel
+3198,0,false,Molten Shiny
+3199,0,false,Molten Invar
+3205,0,false,Molten Aluminum
+3206,0,false,Molten Cobalt
+3207,0,false,Molten Ardite
+3208,0,false,Molten Bronze
+3209,0,false,Molten Aluminum Brass
+3210,0,false,Molten Manyullyn
+3211,0,false,Molten Alumite
+3212,0,false,Molten Obsidian
+3213,0,false,Molten Steel
+3214,0,false,Molten Glass
+3215,0,false,Seared Stone
+3216,0,false,Liquified Emerald
+3217,0,false,Blood
+3218,0,false,Liquified Ender
+3223,0,false,Clear Glass
+3225,0,false,White Stained Glass
+3225,1,false,Orange Stained Glass
+3225,2,false,Magenta Stained Glass
+3225,3,false,Light Blue Stained Glass
+3225,4,false,Yellow Stained Glass
+3225,5,false,Lime Stained Glass
+3225,6,false,Pink Stained Glass
+3225,7,false,Gray Stained Glass
+3225,8,false,Light Gray Stained Glass
+3225,9,false,Cyan Stained Glass
+3225,10,false,Purple Stained Glass
+3225,11,false,Blue Stained Glass
+3225,12,false,Brown Stained Glass
+3225,13,false,Green Stained Glass
+3225,14,false,Red Stained Glass
+3225,15,false,Black Stained Glass
+3226,0,false,Drawbridge
+3226,1,false,Igniter
+3227,0,false,Drying Rack
+3228,0,false,Clear Pane
+3228,1,false,Soul Pane
+3228,2,false,block.glass.soul.pure.pane.name
+3229,0,false,White Stained Pane
+3229,1,false,Orange Stained Pane
+3229,2,false,Magenta Stained Pane
+3229,3,false,Light Blue Stained Pane
+3229,4,false,Yellow Stained Pane
+3229,5,false,Lime Stained Pane
+3229,6,false,Pink Stained Pane
+3229,7,false,Gray Stained Pane
+3229,8,false,Light Gray Stained Pane
+3229,9,false,Cyan Stained Pane
+3229,10,false,Purple Stained Pane
+3229,11,false,Blue Stained Pane
+3229,12,false,Brown Stained Pane
+3229,13,false,Green Stained Pane
+3229,14,false,Red Stained Pane
+3229,15,false,Black Stained Pane
+3230,0,false,Seared Brick Slab
+3230,1,false,Seared Stone Slab
+3230,2,false,Seared Cobblestone Slab
+3230,3,false,Seared Paver Slab
+3230,4,false,Seared Road Slab
+3230,5,false,Fancy Seared Slab
+3230,6,false,Chiseled Seared Slab
+3231,0,false,Rough Brownstone Slab
+3231,1,false,Brownstone Road Slab
+3231,2,false,Brownstone Slab
+3231,3,false,Brownstone Brick Slab
+3231,5,false,Fancy Brownstone Slab
+3231,6,false,Chiseled Brownstone Slab
+3232,0,false,Punji Stick
+3233,0,false,Crafting Station
+3234,0,false,Essence Extractor
+3235,0,false,tile.liquid.slime.name
+3237,0,false,Congealed Blue Slime
+3237,1,false,Congealed Green Slime
+3238,0,false,Slimy Grass
+3239,0,false,Slimy Grass
+3240,0,false,Slimy Leaves
+3241,0,false,Slimy Sapling
+3242,0,false,Hambone
+3243,0,false,Crafting Station
+3243,1,false,Tool Station
+3243,2,false,Part Builder
+3243,3,false,Stencil Table
+3243,4,false,Pattern Chest
+3243,5,false,Tool Forge
+3244,0,false,Wool Slab
+3244,1,false,Orange Wool Slab
+3244,2,false,Magenta Wool Slab
+3244,3,false,Light Blue Wool Slab
+3244,4,false,Yellow Wool Slab
+3244,5,false,Lime Wool Slab
+3244,6,false,Pink Wool Slab
+3244,7,false,Gray Wool Slab
+3245,0,false,Light Gray Wool Slab
+3245,1,false,Cyan Wool Slab
+3245,2,false,Purple Wool Slab
+3245,3,false,Blue Wool Slab
+3245,4,false,Brown Wool Slab
+3245,5,false,Green Wool Slab
+3245,6,false,Red Wool Slab
+3245,7,false,Black Wool Slab
+3249,0,false,Casting Channel
+3251,0,false,Eucalyptus Wood
+3256,1,false,Eucalyptus Sapling
+3259,1,false,Eucalyptus Leaves
+3262,0,false,Eucalyptus Planks
+3288,0,false,Eucalyptus Slab
+4072,9,false,Pink Planks
+4091,0,false,Liquid Tin
+4092,0,false,Molten Copper
+4093,0,false,Molten Gold
+4094,0,false,Molten Iron
+4095,0,false,tile.metal.molten.electrum.name
+4373,1,true,ME Wireless Access Terminal
+4373,1,true,ME Wireless Access Terminal
+4441,0,false,Pink Spray Paint
+4601,19,true,Myst ink black Barrel
+4700,19,true,Myst ink black Wooden Bucket
+5313,29,false,Heat Sinks
+5313,34,false,Data-Link
+6307,393,false,Pink Mob Chunk
+6307,409,false,Pink Mob Ingot
+7127,1,false,ItemSink module
+7127,4,false,Polymorphic ItemSink module
+7127,9,false,BeeSink module
+7127,12,false,Mod Based ItemSink module
+7127,13,false,OreDict ItemSink module
+7127,30,false,Thaumic AspectSink module
+7148,0,false,BeeSink Logistics Pipe
+7812,0,false,Crowbar
+7813,0,false,Reinforced Crowbar
+8957,0,false,Linking Book
+8962,0,false,Ink Vial
+8963,0,false,Unlinked Link Book
+11387,0,true,Remote Controller
+11410,0,true,Link Card
+12662,1,false,Eucalyptus Door
+13384,0,true,Ginkgo Sapling
+13384,0,true,Pink Ivory Sapling
+13384,0,true,Ginkgo Sapling
+13384,0,true,Pink Ivory Sapling
+13389,0,true,Ginkgo Pollen
+13389,0,true,Pink Ivory Pollen
+13389,0,true,Ginkgo Pollen
+13389,0,true,Pink Ivory Pollen
+14274,0,false,Materials and You
+14274,1,false,Materials and You
+14274,2,false,Mighty Smelting
+14275,0,false,Blank Pattern
+14275,1,false,Blank Cast
+14276,0,false,Paper Stack
+14276,1,false,Slime Crystal
+14276,2,false,Seared Brick
+14276,3,false,Cobalt Ingot
+14276,4,false,Ardite Ingot
+14276,5,false,Manyullyn Ingot
+14276,6,false,Ball of Moss
+14276,7,false,Lava Crystal
+14276,8,false,Necrotic Bone
+14276,9,false,Copper Ingot
+14276,10,false,Tin Ingot
+14276,11,false,Aluminum Ingot
+14276,12,false,Raw Aluminum
+14276,13,false,Bronze Ingot
+14276,14,false,Aluminum Brass Ingot
+14276,15,false,Alumite Ingot
+14276,16,false,Steel Ingot
+14276,17,false,Slime Crystal
+14276,18,false,Obsidian Ingot
+14276,19,false,Iron Nugget
+14276,20,false,Copper Nugget
+14276,21,false,Tin Nugget
+14276,22,false,Aluminum Nugget
+14276,23,false,Fake Essence Crystal
+14276,24,false,Aluminum Brass Nugget
+14276,25,false,Silky Cloth
+14276,26,false,Silky Jewel
+14276,27,false,Obsidian Nugget
+14276,28,false,Cobalt Nugget
+14276,29,false,Ardite Nugget
+14276,30,false,Manyullyn Nugget
+14276,31,false,Bronze Nugget
+14276,32,false,Alumite Nugget
+14276,33,false,Steel Nugget
+14277,0,false,Wooden Tool Rod
+14277,1,false,Stone Tool Rod
+14277,2,false,Iron Tool Rod
+14277,3,false,Flint Tool Rod
+14277,4,false,Cactus Tool Rod
+14277,5,false,Bone Tool Rod
+14277,6,false,Obsidian Tool Rod
+14277,7,false,Netherrack Tool Rod
+14277,8,false,Slime Tool Rod
+14277,9,false,Paper Tool Rod
+14277,10,false,Cobalt Tool Rod
+14277,11,false,Ardite Tool Rod
+14277,12,false,Manyullyn Tool Rod
+14277,13,false,Copper Tool Rod
+14277,14,false,Bronze Tool Rod
+14277,15,false,Alumite Tool Rod
+14277,16,false,Steel Tool Rod
+14278,1,false,Stone toolpart.ToolShard
+14278,2,false,Iron toolpart.ToolShard
+14278,3,false,Flint toolpart.ToolShard
+14278,4,false,Cactus toolpart.ToolShard
+14278,6,false,Obsidian toolpart.ToolShard
+14278,7,false,Netherrack toolpart.ToolShard
+14278,8,false,Slime toolpart.ToolShard
+14278,10,false,Cobalt toolpart.ToolShard
+14278,11,false,Ardite toolpart.ToolShard
+14278,12,false,Manyullyn toolpart.ToolShard
+14278,13,false,Copper toolpart.ToolShard
+14278,14,false,Bronze toolpart.ToolShard
+14278,15,false,Alumite toolpart.ToolShard
+14278,16,false,Steel toolpart.ToolShard
+14279,1,false,Tool Rod Pattern
+14279,2,false,Pickaxe Head Pattern
+14279,3,false,Shovel Head Pattern
+14279,4,false,Axe Head Pattern
+14279,5,false,Sword Blade Pattern
+14279,6,false,Wide Guard Pattern
+14279,7,false,Hand Guard Pattern
+14279,8,false,Crossbar Pattern
+14279,9,false,Tool Binding Pattern
+14279,10,false,Pan Pattern
+14279,11,false,Board Pattern
+14279,12,false,Knife Blade Pattern
+14279,13,false,Chisel Head Pattern
+14279,14,false,Tough Tool Rod Pattern
+14279,15,false,Tough Binding Pattern
+14279,16,false,Large Plate Pattern
+14279,17,false,Broad Axe Head Pattern
+14279,18,false,Scythe Head Pattern
+14279,19,false,Broad Shovel Head Pattern
+14279,20,false,Large Blade Pattern
+14279,21,false,Hammer Head Pattern
+14279,22,false,Full Guard Pattern
+14279,23,false,Bowstring Pattern
+14279,24,false,Fletching Pattern
+14279,25,false,Arrowhead Pattern
+14280,0,false,Ingot Cast
+14280,1,false,Tool Rod Cast
+14280,2,false,Pickaxe Head Cast
+14280,3,false,Shovel Head Cast
+14280,4,false,Axe Head Cast
+14280,5,false,Sword Blade Cast
+14280,6,false,Wide Guard Cast
+14280,7,false,Hand Guard Cast
+14280,8,false,Crossbar Cast
+14280,9,false,Tool Binding Cast
+14280,10,false,Pan Cast
+14280,11,false,Board Cast
+14280,12,false,Knife Blade Cast
+14280,13,false,Chisel Head Cast
+14280,14,false,Tough Tool Rod Cast
+14280,15,false,Tough Binding Cast
+14280,16,false,Large Plate Cast
+14280,17,false,Broad Axe Head Cast
+14280,18,false,Scythe Head Cast
+14280,19,false,Broad Shovel Head Cast
+14280,20,false,Large Blade Cast
+14280,21,false,Hammer Head Cast
+14280,22,false,Full Guard Cast
+14280,25,false,Arrowhead Cast
+14282,0,false,Wooden Pickaxe Head
+14282,1,false,Stone Pickaxe Head
+14282,2,false,Iron Pickaxe Head
+14282,3,false,Flint Pickaxe Head
+14282,4,false,Cactus Pickaxe Head
+14282,5,false,Bone Pickaxe Head
+14282,6,false,Obsidian Pickaxe Head
+14282,7,false,Netherrack Pickaxe Head
+14282,8,false,Slime Pickaxe Head
+14282,9,false,Paper Pickaxe Head
+14282,10,false,Cobalt Pickaxe Head
+14282,11,false,Ardite Pickaxe Head
+14282,12,false,Manyullyn Pickaxe Head
+14282,13,false,Copper Pickaxe Head
+14282,14,false,Bronze Pickaxe Head
+14282,15,false,Alumite Pickaxe Head
+14282,16,false,Steel Pickaxe Head
+14283,0,false,Wooden Shovel Head
+14283,1,false,Stone Shovel Head
+14283,2,false,Iron Shovel Head
+14283,3,false,Flint Shovel Head
+14283,4,false,Cactus Shovel Head
+14283,5,false,Bone Shovel Head
+14283,6,false,Obsidian Shovel Head
+14283,7,false,Netherrack Shovel Head
+14283,8,false,Slime Shovel Head
+14283,9,false,Paper Shovel Head
+14283,10,false,Cobalt Shovel Head
+14283,11,false,Ardite Shovel Head
+14283,12,false,Manyullyn Shovel Head
+14283,13,false,Copper Shovel Head
+14283,14,false,Bronze Shovel Head
+14283,15,false,Alumite Shovel Head
+14283,16,false,Steel Shovel Head
+14284,0,false,Wooden Axe Head
+14284,1,false,Stone Axe Head
+14284,2,false,Iron Axe Head
+14284,3,false,Flint Axe Head
+14284,4,false,Cactus Axe Head
+14284,5,false,Bone Axe Head
+14284,6,false,Obsidian Axe Head
+14284,7,false,Netherrack Axe Head
+14284,8,false,Slime Axe Head
+14284,9,false,Paper Axe Head
+14284,10,false,Cobalt Axe Head
+14284,11,false,Ardite Axe Head
+14284,12,false,Manyullyn Axe Head
+14284,13,false,Copper Axe Head
+14284,14,false,Bronze Axe Head
+14284,15,false,Alumite Axe Head
+14284,16,false,Steel Axe Head
+14286,0,false,Wooden Sword Blade
+14286,1,false,Stone Sword Blade
+14286,2,false,Iron Sword Blade
+14286,3,false,Flint Sword Blade
+14286,4,false,Cactus Sword Blade
+14286,5,false,Bone Sword Blade
+14286,6,false,Obsidian Sword Blade
+14286,7,false,Netherrack Sword Blade
+14286,8,false,Slime Sword Blade
+14286,9,false,Paper Sword Blade
+14286,10,false,Cobalt Sword Blade
+14286,11,false,Ardite Sword Blade
+14286,12,false,Manyullyn Sword Blade
+14286,13,false,Copper Sword Blade
+14286,14,false,Bronze Sword Blade
+14286,15,false,Alumite Sword Blade
+14286,16,false,Steel Sword Blade
+14287,0,false,Wooden Large Guard
+14287,1,false,Stone Large Guard
+14287,2,false,Iron Large Guard
+14287,3,false,Flint Large Guard
+14287,4,false,Cactus Large Guard
+14287,5,false,Bone Large Guard
+14287,6,false,Obsidian Large Guard
+14287,7,false,Netherrack Large Guard
+14287,8,false,Slime Large Guard
+14287,9,false,Paper Large Guard
+14287,10,false,Cobalt Large Guard
+14287,11,false,Ardite Large Guard
+14287,12,false,Manyullyn Large Guard
+14287,13,false,Copper Large Guard
+14287,14,false,Bronze Large Guard
+14287,15,false,Alumite Large Guard
+14287,16,false,Steel Large Guard
+14288,0,false,Wooden Medium Guard
+14288,1,false,Stone Medium Guard
+14288,2,false,Iron Medium Guard
+14288,3,false,Flint Medium Guard
+14288,4,false,Cactus Medium Guard
+14288,5,false,Bone Medium Guard
+14288,6,false,Obsidian Medium Guard
+14288,7,false,Netherrack Medium Guard
+14288,8,false,Slime Medium Guard
+14288,9,false,Paper Medium Guard
+14288,10,false,Cobalt Medium Guard
+14288,11,false,Ardite Medium Guard
+14288,12,false,Manyullyn Medium Guard
+14288,13,false,Copper Medium Guard
+14288,14,false,Bronze Medium Guard
+14288,15,false,Alumite Medium Guard
+14288,16,false,Steel Medium Guard
+14289,0,false,Wooden Crossbar
+14289,1,false,Stone Crossbar
+14289,2,false,Iron Crossbar
+14289,3,false,Flint Crossbar
+14289,4,false,Cactus Crossbar
+14289,5,false,Bone Crossbar
+14289,6,false,Obsidian Crossbar
+14289,7,false,Netherrack Crossbar
+14289,8,false,Slime Crossbar
+14289,9,false,Paper Crossbar
+14289,10,false,Cobalt Crossbar
+14289,11,false,Ardite Crossbar
+14289,12,false,Manyullyn Crossbar
+14289,13,false,Copper Crossbar
+14289,14,false,Bronze Crossbar
+14289,15,false,Alumite Crossbar
+14289,16,false,Steel Crossbar
+14290,0,false,Wooden Binding
+14290,1,false,Stone Binding
+14290,2,false,Iron Binding
+14290,3,false,Flint Binding
+14290,4,false,Cactus Binding
+14290,5,false,Bone Binding
+14290,6,false,Obsidian Binding
+14290,7,false,Netherrack Binding
+14290,8,false,Slime Binding
+14290,9,false,Paper Binding
+14290,10,false,Cobalt Binding
+14290,11,false,Ardite Binding
+14290,12,false,Manyullyn Binding
+14290,13,false,Copper Binding
+14290,14,false,Bronze Binding
+14290,15,false,Alumite Binding
+14290,16,false,Steel Binding
+14291,0,false,Wooden Pan
+14291,1,false,Stone Pan
+14291,2,false,Iron Pan
+14291,3,false,Flint Pan
+14291,4,false,Cactus Pan
+14291,5,false,Bone Pan
+14291,6,false,Obsidian Pan
+14291,7,false,Netherrack Pan
+14291,8,false,Slime Pan
+14291,9,false,Paper Pan
+14291,10,false,Cobalt Pan
+14291,11,false,Ardite Pan
+14291,12,false,Manyullyn Pan
+14291,13,false,Copper Pan
+14291,14,false,Bronze Pan
+14291,15,false,Alumite Pan
+14291,16,false,Steel Pan
+14292,0,false,Wooden Sign Head
+14292,1,false,Stone Sign Head
+14292,2,false,Iron Sign Head
+14292,3,false,Flint Sign Head
+14292,4,false,Cactus Sign Head
+14292,5,false,Bone Sign Head
+14292,6,false,Obsidian Sign Head
+14292,7,false,Netherrack Sign Head
+14292,8,false,Slime Sign Head
+14292,9,false,Paper Sign Head
+14292,10,false,Cobalt Sign Head
+14292,11,false,Ardite Sign Head
+14292,12,false,Manyullyn Sign Head
+14292,13,false,Copper Sign Head
+14292,14,false,Bronze Sign Head
+14292,15,false,Alumite Sign Head
+14292,16,false,Steel Sign Head
+14293,0,false,Wooden Broad Axe Head
+14293,1,false,Stone Broad Axe Head
+14293,2,false,Iron Broad Axe Head
+14293,3,false,Flint Broad Axe Head
+14293,4,false,Cactus Broad Axe Head
+14293,5,false,Bone Broad Axe Head
+14293,6,false,Obsidian Broad Axe Head
+14293,7,false,Netherrack Broad Axe Head
+14293,8,false,Slime Broad Axe Head
+14293,9,false,Paper Broad Axe Head
+14293,10,false,Cobalt Broad Axe Head
+14293,11,false,Ardite Broad Axe Head
+14293,12,false,Manyullyn Broad Axe Head
+14293,13,false,Copper Broad Axe Head
+14293,14,false,Bronze Broad Axe Head
+14293,15,false,Alumite Broad Axe Head
+14293,16,false,Steel Broad Axe Head
+14294,0,false,Wooden Knife Blade
+14294,1,false,Stone Knife Blade
+14294,2,false,Iron Knife Blade
+14294,3,false,Flint Knife Blade
+14294,4,false,Cactus Knife Blade
+14294,5,false,Bone Knife Blade
+14294,6,false,Obsidian Knife Blade
+14294,7,false,Netherrack Knife Blade
+14294,8,false,Slime Knife Blade
+14294,9,false,Paper Knife Blade
+14294,10,false,Cobalt Knife Blade
+14294,11,false,Ardite Knife Blade
+14294,12,false,Manyullyn Knife Blade
+14294,13,false,Copper Knife Blade
+14294,14,false,Bronze Knife Blade
+14294,15,false,Alumite Knife Blade
+14294,16,false,Steel Knife Blade
+14295,0,false,Wooden Chisel Head
+14295,1,false,Stone Chisel Head
+14295,2,false,Iron Chisel Head
+14295,3,false,Flint Chisel Head
+14295,4,false,Cactus Chisel Head
+14295,5,false,Bone Chisel Head
+14295,6,false,Obsidian Chisel Head
+14295,7,false,Netherrack Chisel Head
+14295,8,false,Slime Chisel Head
+14295,9,false,Paper Chisel Head
+14295,10,false,Cobalt Chisel Head
+14295,11,false,Ardite Chisel Head
+14295,12,false,Manyullyn Chisel Head
+14295,13,false,Copper Chisel Head
+14295,14,false,Bronze Chisel Head
+14295,15,false,Alumite Chisel Head
+14295,16,false,Steel Chisel Head
+14296,0,false,Wooden Scythe Head
+14296,1,false,Stone Scythe Head
+14296,2,false,Iron Scythe Head
+14296,3,false,Flint Scythe Head
+14296,4,false,Cactus Scythe Head
+14296,5,false,Bone Scythe Head
+14296,6,false,Obsidian Scythe Head
+14296,7,false,Netherrack Scythe Head
+14296,8,false,Slime Scythe Head
+14296,9,false,Paper Scythe Head
+14296,10,false,Cobalt Scythe Head
+14296,11,false,Ardite Scythe Head
+14296,12,false,Manyullyn Scythe Head
+14296,13,false,Copper Scythe Head
+14296,14,false,Bronze Scythe Head
+14296,15,false,Alumite Scythe Head
+14296,16,false,Steel Scythe Head
+14297,0,false,Wooden Tough Binding
+14297,1,false,Stone Tough Binding
+14297,2,false,Iron Tough Binding
+14297,3,false,Flint Tough Binding
+14297,4,false,Cactus Tough Binding
+14297,5,false,Bone Tough Binding
+14297,6,false,Obsidian Tough Binding
+14297,7,false,Netherrack Tough Binding
+14297,8,false,Slime Tough Binding
+14297,9,false,Paper Tough Binding
+14297,10,false,Cobalt Tough Binding
+14297,11,false,Ardite Tough Binding
+14297,12,false,Manyullyn Tough Binding
+14297,13,false,Copper Tough Binding
+14297,14,false,Bronze Tough Binding
+14297,15,false,Alumite Tough Binding
+14297,16,false,Steel Tough Binding
+14298,0,false,Wooden Tough Rod
+14298,1,false,Stone Tough Rod
+14298,2,false,Iron Tough Rod
+14298,3,false,Flint Tough Rod
+14298,4,false,Cactus Tough Rod
+14298,5,false,Bone Tough Rod
+14298,6,false,Obsidian Tough Rod
+14298,7,false,Netherrack Tough Rod
+14298,8,false,Slime Tough Rod
+14298,9,false,Paper Tough Rod
+14298,10,false,Cobalt Tough Rod
+14298,11,false,Ardite Tough Rod
+14298,12,false,Manyullyn Tough Rod
+14298,13,false,Copper Tough Rod
+14298,14,false,Bronze Tough Rod
+14298,15,false,Alumite Tough Rod
+14298,16,false,Steel Tough Rod
+14299,0,false,Wooden Large Sword Blade
+14299,1,false,Stone Large Sword Blade
+14299,2,false,Iron Large Sword Blade
+14299,3,false,Flint Large Sword Blade
+14299,4,false,Cactus Large Sword Blade
+14299,5,false,Bone Large Sword Blade
+14299,6,false,Obsidian Large Sword Blade
+14299,7,false,Netherrack Large Sword Blade
+14299,8,false,Slime Large Sword Blade
+14299,9,false,Paper Large Sword Blade
+14299,10,false,Cobalt Large Sword Blade
+14299,11,false,Ardite Large Sword Blade
+14299,12,false,Manyullyn Large Sword Blade
+14299,13,false,Copper Large Sword Blade
+14299,14,false,Bronze Large Sword Blade
+14299,15,false,Alumite Large Sword Blade
+14299,16,false,Steel Large Sword Blade
+14300,0,false,Wooden Large Plate
+14300,1,false,Stone Large Plate
+14300,2,false,Iron Large Plate
+14300,3,false,Flint Large Plate
+14300,4,false,Cactus Large Plate
+14300,5,false,Bone Large Plate
+14300,6,false,Obsidian Large Plate
+14300,7,false,Netherrack Large Plate
+14300,8,false,Slime Large Plate
+14300,9,false,Paper Large Plate
+14300,10,false,Cobalt Large Plate
+14300,11,false,Ardite Large Plate
+14300,12,false,Manyullyn Large Plate
+14300,13,false,Copper Large Plate
+14300,14,false,Bronze Large Plate
+14300,15,false,Alumite Large Plate
+14300,16,false,Steel Large Plate
+14301,0,false,Wooden Excavator Head
+14301,1,false,Stone Excavator Head
+14301,2,false,Iron Excavator Head
+14301,3,false,Flint Excavator Head
+14301,4,false,Cactus Excavator Head
+14301,5,false,Bone Excavator Head
+14301,6,false,Obsidian Excavator Head
+14301,7,false,Netherrack Excavator Head
+14301,8,false,Slime Excavator Head
+14301,9,false,Paper Excavator Head
+14301,10,false,Cobalt Excavator Head
+14301,11,false,Ardite Excavator Head
+14301,12,false,Manyullyn Excavator Head
+14301,13,false,Copper Excavator Head
+14301,14,false,Bronze Excavator Head
+14301,15,false,Alumite Excavator Head
+14301,16,false,Steel Excavator Head
+14302,0,false,Wooden Hammer Head
+14302,1,false,Stone Hammer Head
+14302,2,false,Iron Hammer Head
+14302,3,false,Flint Hammer Head
+14302,4,false,Cactus Hammer Head
+14302,5,false,Bone Hammer Head
+14302,6,false,Obsidian Hammer Head
+14302,7,false,Netherrack Hammer Head
+14302,8,false,Slime Hammer Head
+14302,9,false,Paper Hammer Head
+14302,10,false,Cobalt Hammer Head
+14302,11,false,Ardite Hammer Head
+14302,12,false,Manyullyn Hammer Head
+14302,13,false,Copper Hammer Head
+14302,14,false,Bronze Hammer Head
+14302,15,false,Alumite Hammer Head
+14302,16,false,Steel Hammer Head
+14303,0,false,Wooden Full Guard
+14303,1,false,Stone Full Guard
+14303,2,false,Iron Full Guard
+14303,3,false,Flint Full Guard
+14303,4,false,Cactus Full Guard
+14303,5,false,Bone Full Guard
+14303,6,false,Obsidian Full Guard
+14303,7,false,Netherrack Full Guard
+14303,8,false,Slime Full Guard
+14303,9,false,Paper Full Guard
+14303,10,false,Cobalt Full Guard
+14303,11,false,Ardite Full Guard
+14303,12,false,Manyullyn Full Guard
+14303,13,false,Copper Full Guard
+14303,14,false,Bronze Full Guard
+14303,15,false,Alumite Full Guard
+14304,0,false,Bowstring
+14304,2,false,Fiery Bowstring
+14305,0,false,Wooden Arrowhead
+14305,1,false,Stone Arrowhead
+14305,2,false,Iron Arrowhead
+14305,3,false,Flint Arrowhead
+14305,4,false,Cactus Arrowhead
+14305,5,false,Bone Arrowhead
+14305,6,false,Obsidian Arrowhead
+14305,7,false,Netherrack Arrowhead
+14305,8,false,Slime Arrowhead
+14305,9,false,Paper Arrowhead
+14305,10,false,Cobalt Arrowhead
+14305,11,false,Ardite Arrowhead
+14305,12,false,Manyullyn Arrowhead
+14305,13,false,Copper Arrowhead
+14305,14,false,Bronze Arrowhead
+14305,15,false,Alumite Arrowhead
+14305,16,false,Steel Arrowhead
+14306,0,false,Feather Fletching
+14306,1,false,Leaf Fletching
+14306,2,false,Slime Fletching
+14306,3,false,Slime Fletching
+14307,0,true,Wooden Pickaxe
+14307,0,true,Stone Pickaxe
+14307,0,true,Iron Pickaxe
+14307,0,true,Flint Pickaxe
+14307,0,true,Cactus Pickaxe
+14307,0,true,Bone Pickaxe
+14307,0,true,Obsidian Pickaxe
+14307,0,true,Netherrack Pickaxe
+14307,0,true,Slime Pickaxe
+14307,0,true,Paper Pickaxe
+14307,0,true,Cobalt Pickaxe
+14307,0,true,Ardite Pickaxe
+14307,0,true,Manyullyn Pickaxe
+14307,0,true,Copper Pickaxe
+14307,0,true,Bronze Pickaxe
+14307,0,true,Alumite Pickaxe
+14307,0,true,Slime Pickaxe
+14307,0,true,Steel Pickaxe
+14308,0,true,Wooden Shovel
+14308,0,true,Stone Shovel
+14308,0,true,Iron Shovel
+14308,0,true,Flint Shovel
+14308,0,true,Cactus Shovel
+14308,0,true,Bone Shovel
+14308,0,true,Obsidian Shovel
+14308,0,true,Netherrack Shovel
+14308,0,true,Slime Shovel
+14308,0,true,Paper Shovel
+14308,0,true,Cobalt Shovel
+14308,0,true,Ardite Shovel
+14308,0,true,Manyullyn Shovel
+14308,0,true,Copper Shovel
+14308,0,true,Bronze Shovel
+14308,0,true,Alumite Shovel
+14308,0,true,Slime Shovel
+14308,0,true,Steel Shovel
+14309,0,true,Wooden Hatchet
+14309,0,true,Stone Hatchet
+14309,0,true,Iron Hatchet
+14309,0,true,Flint Hatchet
+14309,0,true,Cactus Hatchet
+14309,0,true,Bone Hatchet
+14309,0,true,Obsidian Hatchet
+14309,0,true,Netherrack Hatchet
+14309,0,true,Slime Hatchet
+14309,0,true,Paper Hatchet
+14309,0,true,Cobalt Hatchet
+14309,0,true,Ardite Hatchet
+14309,0,true,Manyullyn Hatchet
+14309,0,true,Copper Hatchet
+14309,0,true,Bronze Hatchet
+14309,0,true,Alumite Hatchet
+14309,0,true,Slime Hatchet
+14309,0,true,Steel Hatchet
+14311,0,true,Wooden Broadsword
+14311,0,true,Stone Broadsword
+14311,0,true,Iron Broadsword
+14311,0,true,Flint Broadsword
+14311,0,true,Cactus Broadsword
+14311,0,true,Bone Broadsword
+14311,0,true,Obsidian Broadsword
+14311,0,true,Netherrack Broadsword
+14311,0,true,Slime Broadsword
+14311,0,true,Paper Broadsword
+14311,0,true,Cobalt Broadsword
+14311,0,true,Ardite Broadsword
+14311,0,true,Manyullyn Broadsword
+14311,0,true,Copper Broadsword
+14311,0,true,Bronze Broadsword
+14311,0,true,Alumite Broadsword
+14311,0,true,Slime Broadsword
+14311,0,true,Steel Broadsword
+14312,0,true,Wooden Longsword
+14312,0,true,Stone Longsword
+14312,0,true,Iron Longsword
+14312,0,true,Flint Longsword
+14312,0,true,Cactus Longsword
+14312,0,true,Bone Longsword
+14312,0,true,Obsidian Longsword
+14312,0,true,Netherrack Longsword
+14312,0,true,Slime Longsword
+14312,0,true,Paper Longsword
+14312,0,true,Cobalt Longsword
+14312,0,true,Ardite Longsword
+14312,0,true,Manyullyn Longsword
+14312,0,true,Copper Longsword
+14312,0,true,Bronze Longsword
+14312,0,true,Alumite Longsword
+14312,0,true,Slime Longsword
+14312,0,true,Steel Longsword
+14313,0,true,Wooden Rapier
+14313,0,true,Stone Rapier
+14313,0,true,Iron Rapier
+14313,0,true,Flint Rapier
+14313,0,true,Cactus Rapier
+14313,0,true,Bone Rapier
+14313,0,true,Obsidian Rapier
+14313,0,true,Netherrack Rapier
+14313,0,true,Slime Rapier
+14313,0,true,Paper Rapier
+14313,0,true,Cobalt Rapier
+14313,0,true,Ardite Rapier
+14313,0,true,Manyullyn Rapier
+14313,0,true,Copper Rapier
+14313,0,true,Bronze Rapier
+14313,0,true,Alumite Rapier
+14313,0,true,Slime Rapier
+14313,0,true,Steel Rapier
+14314,0,true,Wooden Frying Pan
+14314,0,true,Stone Frying Pan
+14314,0,true,Iron Frying Pan
+14314,0,true,Flint Frying Pan
+14314,0,true,Cactus Frying Pan
+14314,0,true,Bone Frying Pan
+14314,0,true,Obsidian Frying Pan
+14314,0,true,Netherrack Frying Pan
+14314,0,true,Slime Frying Pan
+14314,0,true,Paper Frying Pan
+14314,0,true,Cobalt Frying Pan
+14314,0,true,Ardite Frying Pan
+14314,0,true,Manyullyn Frying Pan
+14314,0,true,Copper Frying Pan
+14314,0,true,Bronze Frying Pan
+14314,0,true,Alumite Frying Pan
+14314,0,true,Slime Frying Pan
+14314,0,true,Steel Frying Pan
+14314,0,true,Bane of Pigs
+14315,0,true,Wooden Battlesign
+14315,0,true,Stone Battlesign
+14315,0,true,Iron Battlesign
+14315,0,true,Flint Battlesign
+14315,0,true,Cactus Battlesign
+14315,0,true,Bone Battlesign
+14315,0,true,Obsidian Battlesign
+14315,0,true,Netherrack Battlesign
+14315,0,true,Slime Battlesign
+14315,0,true,Paper Battlesign
+14315,0,true,Cobalt Battlesign
+14315,0,true,Ardite Battlesign
+14315,0,true,Manyullyn Battlesign
+14315,0,true,Copper Battlesign
+14315,0,true,Bronze Battlesign
+14315,0,true,Alumite Battlesign
+14315,0,true,Slime Battlesign
+14315,0,true,Steel Battlesign
+14316,0,true,Wooden Mattock
+14316,0,true,Stone Mattock
+14316,0,true,Iron Mattock
+14316,0,true,Flint Mattock
+14316,0,true,Cactus Mattock
+14316,0,true,Bone Mattock
+14316,0,true,Obsidian Mattock
+14316,0,true,Netherrack Mattock
+14316,0,true,Slime Mattock
+14316,0,true,Paper Mattock
+14316,0,true,Cobalt Mattock
+14316,0,true,Ardite Mattock
+14316,0,true,Manyullyn Mattock
+14316,0,true,Copper Mattock
+14316,0,true,Bronze Mattock
+14316,0,true,Alumite Mattock
+14316,0,true,Slime Mattock
+14316,0,true,Steel Mattock
+14317,0,true,Wooden Lumber Axe
+14317,0,true,Stone Lumber Axe
+14317,0,true,Iron Lumber Axe
+14317,0,true,Flint Lumber Axe
+14317,0,true,Cactus Lumber Axe
+14317,0,true,Bone Lumber Axe
+14317,0,true,Obsidian Lumber Axe
+14317,0,true,Netherrack Lumber Axe
+14317,0,true,Slime Lumber Axe
+14317,0,true,Paper Lumber Axe
+14317,0,true,Cobalt Lumber Axe
+14317,0,true,Ardite Lumber Axe
+14317,0,true,Manyullyn Lumber Axe
+14317,0,true,Copper Lumber Axe
+14317,0,true,Bronze Lumber Axe
+14317,0,true,Alumite Lumber Axe
+14317,0,true,Slime Lumber Axe
+14317,0,true,Steel Lumber Axe
+14319,0,true,Wooden Shortbow
+14319,0,true,Stone Shortbow
+14319,0,true,Iron Shortbow
+14319,0,true,Flint Shortbow
+14319,0,true,Cactus Shortbow
+14319,0,true,Bone Shortbow
+14319,0,true,Obsidian Shortbow
+14319,0,true,Netherrack Shortbow
+14319,0,true,Slime Shortbow
+14319,0,true,Paper Shortbow
+14319,0,true,Cobalt Shortbow
+14319,0,true,Ardite Shortbow
+14319,0,true,Manyullyn Shortbow
+14319,0,true,Copper Shortbow
+14319,0,true,Bronze Shortbow
+14319,0,true,Alumite Shortbow
+14319,0,true,Slime Shortbow
+14319,0,true,Steel Shortbow
+14320,0,true,Potion Launcher
+14321,0,true,Wooden Dagger
+14321,0,true,Stone Dagger
+14321,0,true,Iron Dagger
+14321,0,true,Flint Dagger
+14321,0,true,Cactus Dagger
+14321,0,true,Bone Dagger
+14321,0,true,Obsidian Dagger
+14321,0,true,Netherrack Dagger
+14321,0,true,Slime Dagger
+14321,0,true,Paper Dagger
+14321,0,true,Cobalt Dagger
+14321,0,true,Ardite Dagger
+14321,0,true,Manyullyn Dagger
+14321,0,true,Copper Dagger
+14321,0,true,Bronze Dagger
+14321,0,true,Alumite Dagger
+14321,0,true,Slime Dagger
+14321,0,true,Steel Dagger
+14322,0,true,Wooden Chisel
+14322,0,true,Stone Chisel
+14322,0,true,Iron Chisel
+14322,0,true,Flint Chisel
+14322,0,true,Cactus Chisel
+14322,0,true,Bone Chisel
+14322,0,true,Obsidian Chisel
+14322,0,true,Netherrack Chisel
+14322,0,true,Slime Chisel
+14322,0,true,Paper Chisel
+14322,0,true,Cobalt Chisel
+14322,0,true,Ardite Chisel
+14322,0,true,Manyullyn Chisel
+14322,0,true,Copper Chisel
+14322,0,true,Bronze Chisel
+14322,0,true,Alumite Chisel
+14322,0,true,Slime Chisel
+14322,0,true,Steel Chisel
+14323,0,true,Wooden Scythe
+14323,0,true,Stone Scythe
+14323,0,true,Iron Scythe
+14323,0,true,Flint Scythe
+14323,0,true,Cactus Scythe
+14323,0,true,Bone Scythe
+14323,0,true,Obsidian Scythe
+14323,0,true,Netherrack Scythe
+14323,0,true,Slime Scythe
+14323,0,true,Paper Scythe
+14323,0,true,Cobalt Scythe
+14323,0,true,Ardite Scythe
+14323,0,true,Manyullyn Scythe
+14323,0,true,Copper Scythe
+14323,0,true,Bronze Scythe
+14323,0,true,Alumite Scythe
+14323,0,true,Slime Scythe
+14323,0,true,Steel Scythe
+14324,0,true,Wooden Cleaver
+14324,0,true,Stone Cleaver
+14324,0,true,Iron Cleaver
+14324,0,true,Flint Cleaver
+14324,0,true,Cactus Cleaver
+14324,0,true,Bone Cleaver
+14324,0,true,Obsidian Cleaver
+14324,0,true,Netherrack Cleaver
+14324,0,true,Slime Cleaver
+14324,0,true,Paper Cleaver
+14324,0,true,Cobalt Cleaver
+14324,0,true,Ardite Cleaver
+14324,0,true,Manyullyn Cleaver
+14324,0,true,Copper Cleaver
+14324,0,true,Bronze Cleaver
+14324,0,true,Alumite Cleaver
+14324,0,true,Slime Cleaver
+14324,0,true,Steel Cleaver
+14325,0,true,Wooden Excavator
+14325,0,true,Stone Excavator
+14325,0,true,Iron Excavator
+14325,0,true,Flint Excavator
+14325,0,true,Cactus Excavator
+14325,0,true,Bone Excavator
+14325,0,true,Obsidian Excavator
+14325,0,true,Netherrack Excavator
+14325,0,true,Slime Excavator
+14325,0,true,Paper Excavator
+14325,0,true,Cobalt Excavator
+14325,0,true,Ardite Excavator
+14325,0,true,Manyullyn Excavator
+14325,0,true,Copper Excavator
+14325,0,true,Bronze Excavator
+14325,0,true,Alumite Excavator
+14325,0,true,Slime Excavator
+14325,0,true,Steel Excavator
+14326,0,true,Wooden Hammer
+14326,0,true,Stone Hammer
+14326,0,true,Iron Hammer
+14326,0,true,Flint Hammer
+14326,0,true,Cactus Hammer
+14326,0,true,Bone Hammer
+14326,0,true,Obsidian Hammer
+14326,0,true,Netherrack Hammer
+14326,0,true,Slime Hammer
+14326,0,true,Paper Hammer
+14326,0,true,Cobalt Hammer
+14326,0,true,Ardite Hammer
+14326,0,true,Manyullyn Hammer
+14326,0,true,Copper Hammer
+14326,0,true,Bronze Hammer
+14326,0,true,Alumite Hammer
+14326,0,true,Slime Hammer
+14326,0,true,Steel Hammer
+14327,0,true,Wooden Battleaxe
+14327,0,true,Stone Battleaxe
+14327,0,true,Iron Battleaxe
+14327,0,true,Flint Battleaxe
+14327,0,true,Cactus Battleaxe
+14327,0,true,Bone Battleaxe
+14327,0,true,Obsidian Battleaxe
+14327,0,true,Netherrack Battleaxe
+14327,0,true,Slime Battleaxe
+14327,0,true,Paper Battleaxe
+14327,0,true,Cobalt Battleaxe
+14327,0,true,Ardite Battleaxe
+14327,0,true,Manyullyn Battleaxe
+14327,0,true,Copper Battleaxe
+14327,0,true,Bronze Battleaxe
+14327,0,true,Alumite Battleaxe
+14327,0,true,Slime Battleaxe
+14327,0,true,Steel Battleaxe
+14328,0,true,Wooden Cutlass
+14328,0,true,Stone Cutlass
+14328,0,true,Iron Cutlass
+14328,0,true,Flint Cutlass
+14328,0,true,Cactus Cutlass
+14328,0,true,Bone Cutlass
+14328,0,true,Obsidian Cutlass
+14328,0,true,Netherrack Cutlass
+14328,0,true,Slime Cutlass
+14328,0,true,Paper Cutlass
+14328,0,true,Cobalt Cutlass
+14328,0,true,Ardite Cutlass
+14328,0,true,Manyullyn Cutlass
+14328,0,true,Copper Cutlass
+14328,0,true,Bronze Cutlass
+14328,0,true,Alumite Cutlass
+14328,0,true,Slime Cutlass
+14328,0,true,Steel Cutlass
+14329,0,true,Arrow
+14329,0,true,Random Streamer
+14329,0,true,Wooden Arrow
+14329,0,true,Stone Arrow
+14329,0,true,Iron Arrow
+14329,0,true,Flint Arrow
+14329,0,true,Cactus Arrow
+14329,0,true,Bone Arrow
+14329,0,true,Obsidian Arrow
+14329,0,true,Netherrack Arrow
+14329,0,true,Slime Arrow
+14329,0,true,Paper Arrow
+14329,0,true,Cobalt Arrow
+14329,0,true,Ardite Arrow
+14329,0,true,Manyullyn Arrow
+14329,0,true,Copper Arrow
+14329,0,true,Bronze Arrow
+14329,0,true,Alumite Arrow
+14329,0,true,Slime Arrow
+14329,0,true,Steel Arrow
+14357,0,false,Molten Iron Bucket
+14357,1,false,Molten Gold Bucket
+14357,2,false,Molten Copper Bucket
+14357,3,false,Molten Tin Bucket
+14357,4,false,Molten Aluminum Bucket
+14357,5,false,Molten Cobalt Bucket
+14357,6,false,Molten Ardite Bucket
+14357,7,false,Molten Bronze Bucket
+14357,8,false,Molten Aluminum Brass Bucket
+14357,9,false,Molten Manyullyn Bucket
+14357,10,false,Molten Alumite Bucket
+14357,11,false,Molten Obsidian Bucket
+14357,12,false,Molten Steel Bucket
+14357,13,false,Molten Glass Bucket
+14357,14,false,Seared Stone Bucket
+14357,15,false,Liquified Emerald Bucket
+14357,16,false,Bucket o' Blood
+14357,17,false,Molten Nickel Bucket
+14357,18,false,Molten Lead Bucket
+14357,19,false,Molten Silver Bucket
+14357,20,false,Molten Shiny Bucket
+14357,21,false,Molten Invar Bucket
+14357,22,false,Molten Electrum Bucket
+14357,23,false,Liquified Ender Bucket
+14357,24,false,Liquid Slime Bucket
+14358,0,false,Spawn Blue Slime
+14358,1,false,Spawn King Slime
+14359,0,false,Gelatinous Slime
+14360,0,false,Iron Oreberry
+14360,1,false,Gold Oreberry
+14360,2,false,Copper Oreberry
+14360,3,false,Tin Oreberry
+14360,4,false,Aluminum Oreberry
+14360,5,false,Concentrated Essence Berry
+14361,0,false,Empty Canister
+14361,1,false,Miniature Red Heart
+14361,2,false,Heart Canister
+14363,0,false,Jeweled Apple
+14368,0,false,Knapsack
+14369,0,false,Golden Head
+14370,0,true,Essence Crystal
+14370,0,true,Essence Crystal
+14370,0,true,Essence Crystal
+14370,0,true,Essence Crystal
+14370,0,true,Essence Crystal
+14370,0,true,Essence Crystal
+14370,0,true,Essence Crystal
+14371,0,false,Beef Jerky
+14371,1,false,Chicken Jerky
+14371,2,false,Bacon Jerky
+14371,3,false,Mutton Jerky
+14371,4,false,Fish Jerky
+14371,5,false,Monster Jerky
+17271,0,false,Elemental Ink: Water
+17272,0,false,Elemental Ink: Fire
+17273,0,false,Elemental Ink: Earth
+17274,0,false,Elemental Ink: Air
+17586,9,false,Pink Backpack
+17586,41,false,Big Pink Backpack
+19397,0,true,Facade: Pink Ivory Wood Planks
+19397,0,true,Facade: Pink Wool
+19397,0,true,Facade: Pink Stained Clay
+19397,0,true,Facade: Pink Force Brick
+20408,0,false,Electrostatic Linker
+23256,28,false,Pink Salmon
+25131,1,true,Pink Stained Clay Cover
+25131,1,true,Pink Wool Cover
+25131,1,true,Colored Bricks (Pink) Cover
+25131,1,true,Colored Wood Planks (Pink) Cover
+25131,2,true,Pink Stained Clay Panel
+25131,2,true,Pink Wool Panel
+25131,2,true,Colored Bricks (Pink) Panel
+25131,2,true,Colored Wood Planks (Pink) Panel
+25131,4,true,Pink Stained Clay Slab
+25131,4,true,Pink Wool Slab
+25131,4,true,Colored Bricks (Pink) Slab
+25131,4,true,Colored Wood Planks (Pink) Slab
+25131,257,true,Pink Stained Clay Hollow Cover
+25131,257,true,Pink Wool Hollow Cover
+25131,257,true,Colored Bricks (Pink) Hollow Cover
+25131,257,true,Colored Wood Planks (Pink) Hollow Cover
+25131,258,true,Pink Stained Clay Hollow Panel
+25131,258,true,Pink Wool Hollow Panel
+25131,258,true,Colored Bricks (Pink) Hollow Panel
+25131,258,true,Colored Wood Planks (Pink) Hollow Panel
+25131,260,true,Pink Stained Clay Hollow Slab
+25131,260,true,Pink Wool Hollow Slab
+25131,260,true,Colored Bricks (Pink) Hollow Slab
+25131,260,true,Colored Wood Planks (Pink) Hollow Slab
+25131,513,true,Pink Stained Clay Nook
+25131,513,true,Pink Wool Nook
+25131,513,true,Colored Bricks (Pink) Nook
+25131,513,true,Colored Wood Planks (Pink) Nook
+25131,514,true,Pink Stained Clay Corner
+25131,514,true,Pink Wool Corner
+25131,514,true,Colored Bricks (Pink) Corner
+25131,514,true,Colored Wood Planks (Pink) Corner
+25131,516,true,Pink Stained Clay Notch
+25131,516,true,Pink Wool Notch
+25131,516,true,Colored Bricks (Pink) Notch
+25131,516,true,Colored Wood Planks (Pink) Notch
+25131,769,true,Pink Stained Clay Strip
+25131,769,true,Pink Wool Strip
+25131,769,true,Colored Bricks (Pink) Strip
+25131,769,true,Colored Wood Planks (Pink) Strip
+25131,770,true,Pink Stained Clay Post
+25131,770,true,Pink Wool Post
+25131,770,true,Colored Bricks (Pink) Post
+25131,770,true,Colored Wood Planks (Pink) Post
+25131,772,true,Pink Stained Clay Pillar
+25131,772,true,Pink Wool Pillar
+25131,772,true,Colored Bricks (Pink) Pillar
+25131,772,true,Colored Wood Planks (Pink) Pillar
+30160,0,false,Pink Painter
+30169,0,false,Black Painter
+30851,0,false,Energy Link Card
+30852,0,false,Energy Link Card (Blank)
