@@ -97,6 +97,7 @@ Item ID,Item meta,Has NBT,Display Name
 49,0,false,Obsidian
 50,0,false,Torch
 51,0,false,Fire
+52,219,false,Monster Spawner
 53,0,false,Oak Wood Stairs
 54,0,false,Chest
 56,0,false,Diamond Ore
@@ -3794,6 +3795,16 @@ Item ID,Item meta,Has NBT,Display Name
 3067,1,false,Reinforced Scaffolding
 3067,2,false,Industrial Scaffolding
 3067,3,false,Advanced Scaffolding
+3160,0,false,Chimney
+3161,0,false,naturalGas
+3162,0,false,Gas Pocket
+3163,0,false,Hydrogen
+3164,0,false,Deadly Neurotoxin
+3165,0,false,Propellent
+3166,0,false,Shale Gas
+3166,1,false,Shale Oil
+3167,0,false,Smoke
+3168,0,false,Weaponized Gas
 3171,0,false,Hemp Block
 3172,0,false,Machine Chasis
 3173,0,false,Bauxite Ore
@@ -4199,6 +4210,7 @@ Item ID,Item meta,Has NBT,Display Name
 4072,14,false,Orange Planks
 4072,15,false,White Planks
 4073,0,false,Ground Limestone
+4074,0,false,Drum
 4091,0,false,Liquid Tin
 4092,0,false,Molten Copper
 4093,0,false,Molten Gold
@@ -4347,6 +4359,12 @@ Item ID,Item meta,Has NBT,Display Name
 4427,91,false,Kiln
 4427,92,false,Multi Smelter
 4427,93,false,Centrifuge
+4427,94,false,Mixer
+4427,100,false,Fracker
+4427,101,false,Photobioreactor
+4427,102,false,Fan
+4427,103,false,Vent
+4427,104,false,Exhaust
 4428,0,false,Blank Module
 4429,0,false,Engineer's Wrench
 4430,0,false,Redstone Wand
@@ -4393,6 +4411,7 @@ Item ID,Item meta,Has NBT,Display Name
 4448,23,false,Pure Platinum Dust
 4448,24,false,Pure Silver Dust
 4448,25,false,Pure Tin Dust
+4449,0,false,Slickwater Bucket
 4600,0,false,Sugar Charcoal
 4600,1,false,Sugar Coke
 4600,2,false,Cactus Charcoal
@@ -4434,6 +4453,7 @@ Item ID,Item meta,Has NBT,Display Name
 4601,34,true,Life essence Barrel
 4601,35,true,Liquidforce Barrel
 4601,36,true,Immibis liquidxp Barrel
+4601,42,true,Slickwater Barrel
 4601,37,true,Peat Barrel
 4601,38,true,Vegetable Barrel
 4601,39,true,Short mead Barrel
@@ -4477,10 +4497,20 @@ Item ID,Item meta,Has NBT,Display Name
 4700,34,true,Life essence Wooden Bucket
 4700,35,true,Liquidforce Wooden Bucket
 4700,36,true,Immibis liquidxp Wooden Bucket
+4700,42,true,Slickwater Wooden Bucket
 4700,37,true,Peat Wooden Bucket
 4700,38,true,Vegetable Wooden Bucket
 4700,39,true,Short mead Wooden Bucket
 4700,0,false,Wooden Bucket
+4826,0,false,Gas Mask
+4827,0,false,Smoke Grenade
+4828,0,false,Empty Gas Vial
+4829,0,false,Natural Gas Vial
+4829,1,false,Propellent Vial
+4829,2,false,Hydrogen Vial
+4829,3,false,Smoke Vial
+4829,4,false,Toxic Gas Vial
+4829,5,false,Neurotoxin Vial
 5256,0,false,Floppy Disk
 5257,0,false,Floppy Disk
 5258,0,true,Printed Page
@@ -4964,7 +4994,7 @@ Item ID,Item meta,Has NBT,Display Name
 8957,0,false,Linking Book
 8958,0,true,Notebook
 8959,0,false,Writing Desk
-8960,0,false,Page
+8960,0,true,Blank Page
 8962,0,false,Ink Vial
 8963,0,false,Unlinked Link Book
 9257,0,true,Bag of Holding
@@ -4989,10 +5019,10 @@ Item ID,Item meta,Has NBT,Display Name
 9286,0,false,Mirror
 9287,0,false,Auto-Ejector
 9288,0,false,Deprecated Extra-Dimensional Storage
-9289,0,false,Battery Block
-9289,1,false,Battery Block
-9289,2,false,Battery Block
-9289,3,false,Battery Block
+9289,0,true,Battery Block
+9289,1,true,Battery Block
+9289,2,true,Battery Block
+9289,3,true,Battery Block
 9290,0,false,Dirty Iron Gravel
 9290,1,false,Dirty Gold Gravel
 9290,3,false,Dirty Tin Gravel
@@ -11215,7 +11245,7 @@ Item ID,Item meta,Has NBT,Display Name
 30067,4,false,Mixed Metal Ingot
 30067,5,false,Lead
 30076,1,true,Obscurator
-30076,27,false,Obscurator
+30076,27,true,Obscurator
 30077,0,false,Carbon Fiber Canoe
 30077,1,false,Rubber Dinghy
 30077,2,false,Damaged Rubber Dinghy
@@ -11329,7 +11359,7 @@ Item ID,Item meta,Has NBT,Display Name
 30147,0,false,Iridium Reinforced Plate
 30148,0,false,ic2.itemNanoSaberOff
 30149,1,true,Nano Saber
-30149,27,false,Nano Saber
+30149,27,true,Nano Saber
 30150,0,false,Carbon Plate
 30151,0,false,Raw Carbon Mesh
 30152,0,false,Raw Carbon Fibre
@@ -11485,7 +11515,7 @@ Item ID,Item meta,Has NBT,Display Name
 30481,1,true,Advanced Electric Jetpack
 30481,27,false,Advanced Electric Jetpack
 30482,1,true,GraviTool
-30482,27,false,GraviTool
+30482,27,true,GraviTool
 30483,1,true,Advanced NanoChestPlate
 30483,27,false,Advanced NanoChestPlate
 30786,0,false,Lapis Plate
