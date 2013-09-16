@@ -97,8 +97,6 @@ Item ID,Item meta,Has NBT,Display Name
 49,0,false,Obsidian
 50,0,false,Torch
 51,0,false,Fire
-52,26,false,Monster Spawner
-52,219,false,Monster Spawner
 53,0,false,Oak Wood Stairs
 54,0,false,Chest
 56,0,false,Diamond Ore
@@ -488,12 +486,25 @@ Item ID,Item meta,Has NBT,Display Name
 380,0,false,Cauldron
 381,0,false,Eye of Ender
 382,0,false,Glistering Melon
-383,3,false,Spawn entity.FallenAngel.name
-383,4,false,Spawn Cold Cow
-383,5,false,Spawn Cold Chicken
-383,6,false,Spawn Cold Pig
-383,7,false,Spawn Ender Tot
-383,23,false,Spawn Creeper Tot
+383,3,false,Spawn Fallen Angel
+383,4,false,Spawn Lower Stone Guardian
+383,5,false,Spawn Bile Demon
+383,6,false,Spawn Winged Fire Demon
+383,7,false,Spawn Small Earth Golem
+383,23,false,Spawn Ice Demon
+383,24,false,Spawn Boulder Fist
+383,25,false,Spawn Shade
+383,26,false,Spawn Air Elemental
+383,27,false,Spawn Water Elemental
+383,28,false,Spawn Earth Elemental
+383,29,false,Spawn Fire Elemental
+383,30,false,Spawn Shade Elemental
+383,31,false,Spawn Holy Elemental
+383,32,false,Spawn Cold Cow
+383,33,false,Spawn Cold Chicken
+383,34,false,Spawn Cold Pig
+383,35,false,Spawn Ender Tot
+383,36,false,Spawn Creeper Tot
 383,50,false,Spawn Creeper
 383,51,false,Spawn Skeleton
 383,52,false,Spawn Spider
@@ -1057,6 +1068,10 @@ Item ID,Item meta,Has NBT,Display Name
 717,0,false,Painted Slab
 718,0,false,Painted Slab
 719,0,false,SAG Mill
+740,0,false,Magik Altar
+741,0,false,Dust Generator MKI
+742,0,false,Dust Generator MKII
+743,0,false,Dust Generator MKIII
 816,0,false,Iron Scaffold
 817,0,false,ic2.blockBarrel
 818,0,false,Crop
@@ -1128,6 +1143,8 @@ Item ID,Item meta,Has NBT,Display Name
 850,14,false,Mass Fabricator
 850,15,false,Terraformer
 854,0,false,Reinforced Construction Foam
+855,0,false,UU-Matter.name
+856,0,false,Construction Foam.name
 860,0,false,Rotary Macerator
 860,1,false,Singularity Compressor
 860,2,false,Centrifuge Extractor
@@ -2188,8 +2205,10 @@ Item ID,Item meta,Has NBT,Display Name
 1615,0,false,Soul Armour Forge
 1616,0,false,Large Bloodstone Brick
 1617,0,false,Bloodstone Brick
-1618,0,false,tile.blockWritingTable.name
+1618,0,false,Alchemic Chemistry Set
 1619,0,false,Spell Table
+1620,0,false,Arcane Plinth
+1621,0,false,Arcane Pedestal
 1681,0,false,Force Field
 1682,0,false,Coercion Deriver
 1683,0,false,Fortron Capacitor
@@ -2399,6 +2418,7 @@ Item ID,Item meta,Has NBT,Display Name
 1721,0,false,LE TNT
 1722,0,false,Measuring Laser
 1730,0,false,Tartarite Enchanter
+1890,0,false,Teleport Tether
 1900,0,false,Power Ore
 1900,1,false,Nether Ore
 1901,0,false,Black Force Stairs
@@ -4160,8 +4180,6 @@ Item ID,Item meta,Has NBT,Display Name
 3970,0,false,Copper Ore
 3971,0,false,Tin Ore
 3972,0,false,Copper Wire
-4037,0,false,UU-Matter.name
-4038,0,false,Construction Foam.name
 4070,0,false,Modular Socket
 4071,0,false,TempRS
 4072,0,false,Black Planks
@@ -7966,7 +7984,28 @@ Item ID,Item meta,Has NBT,Display Name
 17291,0,false,Bound Boots
 17292,0,false,Weak Blood Shard
 17293,0,false,Sigil of the Green Grove
+17294,0,false,Master Blood Orb
 17295,0,false,Unbound Crystal
+17296,0,false,Potion Flask
+17297,0,false,Standard Binding Agent
+17298,0,false,Mundane Power Catalyst
+17299,0,false,Average Power Catalyst
+17300,0,false,Greater Power Catalyst
+17301,0,false,Mundane Lengthening Catalyst
+17302,0,false,Average Lengthening Catalyst
+17303,0,false,Greater Lengthening Catalyst
+17304,0,false,Demon Blood Shard
+17305,0,false,Archmage's Blood Orb
+17316,0,false,Simple Catalyst
+17317,0,false,Incendium
+17318,0,false,Magicales
+17319,0,false,Sanctus
+17320,0,false,Aether
+17321,0,false,Crepitous
+17322,0,false,Crystallos
+17323,0,false,Terrae
+17324,0,false,Aquasalus
+17325,0,false,Tennebrae
 17586,0,false,Black Backpack
 17586,1,false,Red Backpack
 17586,2,false,Green Backpack
@@ -8405,7 +8444,6 @@ Item ID,Item meta,Has NBT,Display Name
 19397,0,true,Facade: Red Rock Cobblestone
 19397,0,true,Facade: Giant Red Flower
 19397,0,true,Facade: Giant Yellow Flower
-19397,0,true,Facade: Certus Quartz Block
 19397,0,true,Facade: Stone
 19397,0,true,Facade: Dirt
 19397,0,true,Facade: Cobblestone
@@ -8523,6 +8561,7 @@ Item ID,Item meta,Has NBT,Display Name
 19397,0,true,Facade: Hay Bale
 19397,0,true,Facade: Hardened Clay
 19397,0,true,Facade: Block of Coal
+19397,0,true,Facade: Certus Quartz Block
 19397,0,true,Facade: Black Force Brick
 19397,0,true,Facade: Red Force Brick
 19397,0,true,Facade: Green Force Brick
@@ -8583,6 +8622,8 @@ Item ID,Item meta,Has NBT,Display Name
 19763,0,false,Wood to Iron Chest Upgrade
 19764,0,false,Wood to Copper Chest Upgrade
 19765,0,false,Diamond to Obsidian Chest Upgrade
+20256,0,false,Automatic Wooden Pipe
+20257,0,false,Valve Pipe
 20262,0,false,Efficiency Upgrade
 20263,0,false,Drain Conversion Module
 20263,1,false,Damage Conversion Module
@@ -8755,6 +8796,57 @@ Item ID,Item meta,Has NBT,Display Name
 23278,0,false,Neptunium Legs
 23279,0,false,Neptunium Boots
 23281,0,false,Admin Fishing Rod
+25002,0,false,Magik Dust
+25003,0,false,Advance Magik Dust
+25004,0,false,Epic Magik Dust
+25005,0,false,Magik Book
+25006,0,false,Basic Staff
+25007,0,false,Advanced Staff
+25008,0,false,Epic Staff
+25009,0,false,Elemental Staff
+25010,0,false,Water Staff
+25011,0,false,Life Staff
+25012,0,false,Shield Staff
+25013,0,false,Cold Staff
+25014,0,false,Lightning Staff
+25015,0,false,Arcane Staff
+25016,0,false,Earth Staff
+25017,0,false,Fire Staff
+25018,0,false,Steam Staff
+25019,0,false,Ice Staff
+25020,0,false,Mana Staff
+25021,0,false,Power Staff
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25056,0,true,Unlock Scroll
+25057,0,false,Star Dust
 25130,0,false,Diamond Nugget
 25131,1,true,Block of Coal Cover
 25131,1,true,Block of Diamond Cover
@@ -11431,6 +11523,17 @@ Item ID,Item meta,Has NBT,Display Name
 31266,1,false,Liquid Sensor Location Card
 31267,0,false,Text Card
 31756,0,false,Water Cell
+31983,0,false,Water Pump Pipe
+31984,0,false,item.PipeSwitchFluids
+31985,0,false,Switch Transport Pipe
+31986,0,false,Switch Conductive Pipe
+31987,0,false,Closed Transport Pipe
+31988,0,false,Phased Conductive Pipe
+31989,0,false,Phased Waterproof Pipe
+31990,0,false,Phased Transport Pipe
+31991,0,false,Distribution Transport Pipe
+31992,0,false,Adv. Wooden Transport Pipe
+31993,0,false,Insertion Transport Pipe
 31996,0,false,Copper Ingot
 31997,0,false,Apatite
 31998,0,false,Fertilizer
