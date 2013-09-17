@@ -11,6 +11,16 @@
 
 
 ####################
+# battlegear
+####################
+
+battlegear {
+    B:"Are Hatches also weapons"=true
+    B:"Can Cleavers have shields"=true
+}
+
+
+####################
 # block
 ####################
 
@@ -127,6 +137,7 @@ dimblacklist {
     B:GenerateSlimeIslandInDim0Only=false
     I:SlimeIslandDimBlacklist <
      >
+    B:slimeIslGenDim0=true
 }
 
 
@@ -142,6 +153,15 @@ equipables {
     I:"Heavy Helmet"=14106
     I:"Heavy Pants"=14109
     I:Knapsack=14112
+}
+
+
+####################
+# experimental
+####################
+
+experimental {
+    B:"Items can be thrown into smelteries"=true
 }
 
 

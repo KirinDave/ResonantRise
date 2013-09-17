@@ -29,14 +29,17 @@
 # Fence gate
 107; 0x3; 0, 1, 2, 3;
 
-# Furnace, dispenser, chest
-61, 62, 23, 54; 0x7; 2, 5, 3, 4;
+# Furnace, dispenser, chest, pistons
+61, 62, 23, 54, 29, 33; 0x7; 2, 5, 3, 4;
 
 # Redstone repeater
 93, 94; 0x3; 0, 1, 2, 3;
 
 # Doors
 64, 71; 0x3; 0, 1, 2, 3;
+
+# Trapdoor
+96; 0x3; 3, 1, 2, 0;
 
 # Bed
 26; 0x3; 0, 1, 2, 3;

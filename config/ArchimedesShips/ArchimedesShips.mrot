@@ -4,3 +4,4 @@
 
 markShip; 0x3; 0, 1, 2, 3;
 archiGauge; 0x3; 0, 1, 2, 3;
+archiSeat; 0x3; 0, 1, 2, 3;
