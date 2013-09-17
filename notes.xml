@@ -41,22 +41,10 @@
     <mod url="packs/ResonantRise/files/MPSA-176_Requires_MPS-561+.jar" file="MPSA-176_Requires_MPS-561+.jar" md5="c03bfdc7179b688f9494ebb71f9ccb9c" download="server"
          name="Modular Powersuit Addons" depends="MachineMuse Modular Powersuits" type="mods" 
          version="176" website="http://www.machinemuse.net/" description=""  />
-    <mod url="packs/ResonantRise/files/NEIPlugins-1.0.9.3.jar" file="NEIPlugins-1.0.9.3.jar" md5="e17c0a2dae6fabf37aa62f41445fba29" download="server"
-         name="NEI Plugins" version="1.0.9.3" type="mods" depends="Not Enough Items"
-         website="https://bitbucket.org/mistaqur/nei_plugins/wiki/Home" 
-         description="We require more assistance." />
-    <mod url="packs/ResonantRise/files/neiaddons-1.5.2-1.8.1.r27.jar" file="neiaddons-1.5.2-1.8.1.r27.jar" md5="166297a726836e7832a9153ed40afdbd" download="server"
-         name="NEI Addons" depends="Not Enough Items"  type="mods" 
-         version="1.8.1" 
-         website="http://www.minecraftforum.net/topic/1803460-nei-addons-v181-with-forestry-2280-support/" 
-         description=""  />
     <mod url="packs/ResonantRise/files/NetherOres-2.1.5-76.jar" file="NetherOres-2.1.5-76.jar" md5="0087015c1fc1c0fab2e35137d8cc9205" download="server"
          name="Nether Ores" type="mods" 
          version="2.1.5-76" website="http://www.minecraftforum.net/topic/1629898-151152-powercrystals-mods-the-updates-never-stop/" description=""  />
-    <mod url="packs/ResonantRise/files/tubestuff-55.0.4.jar" file="tubestuff-55.0.4.jar" md5="c58f8e97b77dc5834bfbe7a3c6d16651" download="server"
-         name="TubeStuff" depends="ImmibisCore"  type="mods" 
-         version="55.0.4" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description=""  />
-
+    
     <mod url="packs/ResonantRise/files/TickProfiler-1.5.2-1.0.0.42.jar" file="TickProfiler-1.5.2-1.0.0.42.jar" md5="183120d4fed94151487c6f1e3f420104" download="server"
          name="TickProfiler" type="mods" version="1.0.0.42"
          website="https://github.com/nallar/TickProfiler"

@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.0.2-TESTING</version>
+    <version>2.0.3-TESTING</version>
     <minecraft>1.6.2</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
@@ -269,11 +269,7 @@
         name="Super Crafting Frame" type="mods" version="1.6.2.7"
         website=""
         description="" />
-    <mod url="packs/ResonantRise/files/TabbyChat-1.9.02.jar" file="TabbyChat-1.9.02.jar" md5="d62aea4444dd2cac731001360c91718a" download="server"
-        name="TabbyChat" type="mods" version="1.9.02"
-        website=""
-        description="" />
-	<mod url="packs/ResonantRise/files/TConstruct_1.6.2_1.4.5.1.jar" file="TConstruct_1.6.2_1.4.5.1.jar" md5="cccd2e113b64a615f67ad0588bdad5ae" download="server"
+    <mod url="packs/ResonantRise/files/TConstruct_1.6.2_1.4.5.1.jar" file="TConstruct_1.6.2_1.4.5.1.jar" md5="cccd2e113b64a615f67ad0588bdad5ae" download="server"
          name="Tinker's Construct"  type="mods" 
          version="1.4.5.1" 
          website="http://www.minecraftforum.net/topic/1659892-15xtinkers-construct/" 
@@ -320,6 +316,10 @@
         version="1.5.6b77" 
         website="" 
         description="The mod Velo can't live without." />
+	<mod url="packs/ResonantRise/files/TabbyChat-1.9.02.jar" file="TabbyChat-1.9.02.jar" md5="d62aea4444dd2cac731001360c91718a" download="server"
+        name="TabbyChat" type="mods" server="no" version="1.9.02"
+        website=""
+        description="Minecraft chat customisation at long last!" />
 
 
 
