@@ -1,0 +1,88 @@
+
+
+    <!-- TODO MODS -->
+    <!-- <mod url="packs/ResonantRise/files/Chococraft_2.8.8.zip" file="Chococraft_2.8.8.zip" md5="49b269f3bfc519b0f541cfd0fca68a76" download="server"
+         name="ChocoCraft" type="mods" version="2.8.8"
+         website="http://www.minecraftforum.net/topic/1119809-"
+         description="Wark?" />
+
+    <mod url="packs/ResonantRise/files/DimensionalDoors-1.5.2R1.4.1RC1-195.zip" file="DimensionalDoors-1.5.2R1.4.1RC1-195.zip" md5="e3fb5800a3cf792e6c96e118b7784b95" download="server"
+         name="Dimensional Doors"  type="mods"  
+         version="1.4.1RC1-195" 
+         website="http://www.minecraftforum.net/topic/1650007-152universal-dimensional-doors-v141-eyes-in-the-darkupdatedagain/" 
+         description="Machin Shin, anyone?" /> 
+
+    <mod url="packs/ResonantRise/files/ee3-universal-pre1h-16.jar" file="ee3-universal-pre1h-16.jar" md5="123f7cf27ad8b5ad17a443f7f94b6051" download="server"
+         name="Equivalent Exchange 3"  type="mods" version="pre1h-16"
+         website="http://www.minecraftforum.net/topic/1540010-"
+         description=""  /> 
+
+       <mod url="packs/ResonantRise/files/GregsLighting-1.8.4-mc1.5.1.jar" file="GregsLighting-1.8.4-mc1.5.1.jar" md5="05ca4b99595a8617440019f0ca056cf5" download="server"
+         name="Gregs Lighting"  type="mods" version="1.8.4" 
+         website="http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/GregsLighting/" description=""  /> -->
+<!--    <mod url="packs/ResonantRise/files/OpenBlocks-1.0.2.jar" file="OpenBlocks-1.0.2.jar" md5="43b155c170f4dcf85482a4afb8f5a6dc" download="server"
+         name="OpenBlocks" type="mods" version="1.0.2"
+         website="http://www.minecraftforum.net/topic/1908118-mc-152-openblocks/"
+         description="Better Metal Snake!" />
+
+    <mod url="packs/ResonantRise/files/OpenCCSensors-1.5.2.0.jar" file="OpenCCSensors-1.5.2.0.jar" md5="58c1305806e2a93221d09a4131fa41a3" download="server"
+         name="OpenCCSensors" version="1.5.2.0" 
+         website="http://www.computercraft.info/forums2/index.php?/topic/5996-151152-cc-152153-openccsensors/" 
+         description="" type="mods"/>
+
+    <mod url="packs/ResonantRise/files/magicbees-2.1.1.jar" file="magicbees-2.1.1.jar" md5="7ace0e0429fadf09800c9e5cdb041ee2" download="server"
+         name="Magic Bees" depends="Forestry"  type="mods" version="2.1.1" 
+         website="http://forestry.sengir.net/forum/viewtopic.php?id=17" 
+         description="Even more bees. Also a way to get metal bees in Underground Biomes." />
+
+    <mod url="packs/ResonantRise/files/ModularPowersuits-0.7.1-574.jar" file="ModularPowersuits-0.7.1-574.jar" md5="4972ae3f1182d6ff09e56f4ebd261ae3" download="server"
+         name="MachineMuse Modular Powersuits"  type="mods" 
+         version="0.7.1-569" website="http://www.machinemuse.net/" description=""  />
+    <mod url="packs/ResonantRise/files/MPSA-176_Requires_MPS-561+.jar" file="MPSA-176_Requires_MPS-561+.jar" md5="c03bfdc7179b688f9494ebb71f9ccb9c" download="server"
+         name="Modular Powersuit Addons" depends="MachineMuse Modular Powersuits" type="mods" 
+         version="176" website="http://www.machinemuse.net/" description=""  />
+    <mod url="packs/ResonantRise/files/NEIPlugins-1.0.9.3.jar" file="NEIPlugins-1.0.9.3.jar" md5="e17c0a2dae6fabf37aa62f41445fba29" download="server"
+         name="NEI Plugins" version="1.0.9.3" type="mods" depends="Not Enough Items"
+         website="https://bitbucket.org/mistaqur/nei_plugins/wiki/Home" 
+         description="We require more assistance." />
+    <mod url="packs/ResonantRise/files/neiaddons-1.5.2-1.8.1.r27.jar" file="neiaddons-1.5.2-1.8.1.r27.jar" md5="166297a726836e7832a9153ed40afdbd" download="server"
+         name="NEI Addons" depends="Not Enough Items"  type="mods" 
+         version="1.8.1" 
+         website="http://www.minecraftforum.net/topic/1803460-nei-addons-v181-with-forestry-2280-support/" 
+         description=""  />
+    <mod url="packs/ResonantRise/files/NetherOres-2.1.5-76.jar" file="NetherOres-2.1.5-76.jar" md5="0087015c1fc1c0fab2e35137d8cc9205" download="server"
+         name="Nether Ores" type="mods" 
+         version="2.1.5-76" website="http://www.minecraftforum.net/topic/1629898-151152-powercrystals-mods-the-updates-never-stop/" description=""  />
+    <mod url="packs/ResonantRise/files/tubestuff-55.0.4.jar" file="tubestuff-55.0.4.jar" md5="c58f8e97b77dc5834bfbe7a3c6d16651" download="server"
+         name="TubeStuff" depends="ImmibisCore"  type="mods" 
+         version="55.0.4" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description=""  />
+
+    <mod url="packs/ResonantRise/files/TickProfiler-1.5.2-1.0.0.42.jar" file="TickProfiler-1.5.2-1.0.0.42.jar" md5="183120d4fed94151487c6f1e3f420104" download="server"
+         name="TickProfiler" type="mods" version="1.0.0.42"
+         website="https://github.com/nallar/TickProfiler"
+         description="Find out what's slow, and where." />
+         
+    <mod url="packs/ResonantRise/files/ForgeIRC-1.0.18-universal-srg.jar" file="ForgeIRC-1.0.18-universal-srg.jar" md5="262562bbe73a7d2612855eec97798eb0" download="server"
+         name="ForgeIRC" type="mods" version="1.0.18"
+         website="http://www.minecraftforum.net/topic/1475847-152-forgeirc-v1018-soul-shards-v1036-and-recipe-remover-v11-updated-6092013/"
+         description="Your grandpa used IRC."
+         optional="yes" />
+		 
+	== MOD W/ DISTRO PERMS SKELETON ==
+	
+    <mod url="PLACEHOLDER" file="PLACEHOLDER" md5="LONG STRING OF TEXT" download="server"
+        name="COOL MOD" type="mods" version="NUMBERS"
+        website=""
+        description="" />
+		
+	== MOD W/O DISTRO PERMS SKELETON ==
+	
+	<mod url="adf.ly LINK" 
+         file="PLACEHOLDER" download="browser" name="COOL MOD" type="mods" version="NUMBERS" website="EXTRA INFO" description="" 
+         />
+-->
+
+
+
+
+
