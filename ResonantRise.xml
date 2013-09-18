@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.0.3-TESTING</version>
+    <version>2.0.4-TESTING</version>
     <minecraft>1.6.2</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
@@ -32,16 +32,6 @@
         name="Additional BuildCraft Objects" type="mods" version="1.0.6.172"
         website=""
         description="" />
-	<mod url="packs/ResonantRise/files/advanced-machines-56.0.0.jar" file="advanced-machines-56.0.0.jar" md5="76865d32e8ada9cb69d885f5b658560d" download="server"
-         name="Advanced Machines" type="mods" depends="IndustrialCraft2,ImmibisCore"
-         version="56.0.0"
-         website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9335"
-         description="" />
-    <mod url="packs/ResonantRise/files/AdditionalPipes2.4.1-BC4.0.2.jar" file="AdditionalPipes2.4.1-BC4.0.2.jar" md5="d6f56ae2139ab95e5d779ff50a784c3b" download="server"
-        name="Additional Pipes" type="mods" version="2.4.1"
-        website="https://github.com/tcooc/AdditionalPipesBC"
-        description=""
-	depends="BuildCraft" />
     <mod url="packs/ResonantRise/files/Aquaculture_1.2.4.zip" file="Aquaculture_1.2.4.zip" md5="799b10909d91b0c0f5a0bcf7c7ea9799" download="server"
         name="Aquaculture" type="mods" version="1.2.4"
         website="http://www.minecraftforum.net/topic/1285120-162smpforge-aquaculture/"
@@ -57,15 +47,7 @@
     <mod url="packs/ResonantRise/files/NotEnoughItems%201.6.1.3.jar" file="NotEnoughItems 1.6.1.3.jar" md5="24efaf7c06969c25fb248ddebb976dd6" download="server"
          name="Not Enough Items" type="mods" 
          version="1.6.1.3" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" description=""  />
-    <mod url="packs/ResonantRise/files/neiaddons-1.6.2-1.9.0.r40.jar" file="neiaddons-1.6.2-1.9.0.r40.jar" md5="c4b5ef93b541c79cefefc15d79784e0b" download="server"
-        name="NEI Addons" type="mods" version="1.9.0.r40"
-        website=""
-        description="" />
-	<mod url="packs/ResonantRise/files/NEIPlugins-1.1.0.0pre1.jar" file="NEIPlugins-1.1.0.0pre1.jar" md5="fa0a3bc407a9f2df5ec4c832e9639374" download="server"
-        name="NEI Plugins" type="mods" version="1.1.0.0pre1"
-        website=""
-        description="" />
-	<mod url="packs/ResonantRise/files/appeng-rv13-b-mc162.jar" file="appeng-rv13-b-mc162.jar" md5="f4e8d34b52c460f0a9ecdde342fb50f6" download="server"
+    <mod url="packs/ResonantRise/files/appeng-rv13-b-mc162.jar" file="appeng-rv13-b-mc162.jar" md5="f4e8d34b52c460f0a9ecdde342fb50f6" download="server"
          name="Applied Energistics" optional="no" type="mods" 
          version="rv13b"
          website="http://ae-mod.info/"
@@ -141,9 +123,9 @@
          name="Ender Storage" depends="CodeChickenCore"  type="mods"  
          version="1.4.3.3" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" description=""  />
     <mod url="packs/ResonantRise/files/EnderIO-1.6.2-0.1.25.0.jar" file="EnderIO-1.6.2-0.1.25.0.jar" md5="e4ad6679e25d6be8d2476df77246ef6c" download="server"
-     name="EnderIO" type="mods" version="0.1.25.0"
-     website=""
-     description="" />
+		name="EnderIO" type="mods" version="0.1.25.0"
+		website=""
+		description="" />
     <mod url="packs/ResonantRise/files/ExtraCells-universal-1.4.1%20(1.6.2).jar" file="ExtraCells-universal-1.4.1 (1.6.2).jar" md5="a378d3a3e2b30c842ff045f3d3629533" download="server"
          name="Extra Cells" depends="Applied Energistics"  type="mods" version="1.4.1" 
          website="http://www.minecraftforum.net/topic/1801643-m3gas-extracells-appliedenergistics-add-on/" 
@@ -282,7 +264,7 @@
         website=""
         description="" />
 	<mod url="packs/ResonantRise/files/UndergroundBiomes%201.6.x%20-%200.4.2a.zip" file="UndergroundBiomes 1.6.x - 0.4.2a.zip" md5="a56e2caaa6d3986fdb533f277154b206" download="server"
-        name="Underground Biomes" type="mods" version="0.4.2a"
+        name="Underground Biomes" type="mods" optional="yes" version="0.4.2a"
         website=""
         description="" />
 	<mod url="packs/ResonantRise/files/Waila_1.3.9_1.6.2.zip" file="Waila_1.3.9_1.6.2.zip" md5="c29b78466fb5318c8748c6b7b64792c2" download="server"
@@ -320,6 +302,14 @@
         name="TabbyChat" type="mods" server="no" version="1.9.02"
         website=""
         description="Minecraft chat customisation at long last!" />
+	<mod url="packs/ResonantRise/files/neiaddons-1.6.2-1.9.0.r40.jar" file="neiaddons-1.6.2-1.9.0.r40.jar" md5="c4b5ef93b541c79cefefc15d79784e0b" download="server"
+        name="NEI Addons" type="mods" server="no" version="1.9.0.r40"
+        website=""
+        description="" />
+	<mod url="packs/ResonantRise/files/NEIPlugins-1.1.0.0pre1.jar" file="NEIPlugins-1.1.0.0pre1.jar" md5="fa0a3bc407a9f2df5ec4c832e9639374" download="server"
+        name="NEI Plugins" type="mods" server= "no" version="1.1.0.0pre1"
+        website=""
+        description="" />
 
 
 
@@ -328,11 +318,8 @@
     
     <mod url="http://tinyurl.com/q7w72rj"
 		 file="Atomic_Science_v0.7.1.140.jar" download="direct" name="Atomic Science" type="mods" version="0.7.1.140" website="http://universalelectricity.com/atomic-science" description=""  />
-	<mod url="http://www.minecraftprojects.net/archimedes-ships" 
-         file="ArchimedesShips.zip" download="browser" name="Archimedes' Ships" type="mods" version="1.4.1" website="http://www.minecraftforum.net/topic/1857899-162-152forge-archimedes-ships-v14-passenger-seats/" description="" 
-         />
-	<mod url="http://tinyurl.com/pvpuw36" 
-         file="Basic_Components_v1.0.0.13.jar" download="direct" name="Basic Components" type="mods" version="1.0.0.13" website="http://universalelectricity.com/basiccomponents/downloads" description="" 
+	<mod url="https://dl.dropboxusercontent.com/u/31316462/ArchimedesShips.zip" 
+         file="ArchimedesShips.zip" download="direct" name="Archimedes' Ships" type="mods" version="1.4.2" website="http://www.minecraftforum.net/topic/1857899-162-152forge-archimedes-ships-v14-passenger-seats/" description="" 
          />
 	<mod url="http://addons.curse.cursecdn.com/files/720/249/flatsigns-1.6.2-universal-1.4.0.15.jar" 
          file="flatsigns-1.6.2-universal-1.4.0.15.jar" download="direct" name="Flat Signs" type="mods" version="1.4.0.15" website="EXTRA INFO" description="" 
@@ -350,10 +337,7 @@
     <mod url="http://tinyurl.com/os3ul77" 
          file="UniversalElectricity_Core_v2.2.0.168.jar" download="direct" name="Universal Electricity API" type="mods" version="2.2.0.168" website="http://universalelectricity.com/" description="" 
          />     
-    <mod url="http://adf.ly/VqXxa" 
-         file="Somnia-Pre2a.jar" download="browser" name="Somnia" type="mods" version="pre2a" website="http://www.minecraftforum.net/topic/1938500-162forgesmp-somnia-simulating-the-world-while-you-sleep/" description="" 
-         />
-	<mod url="http://adf.ly/V13HJ"
+    <mod url="http://adf.ly/V13HJ"
          file="PortalGun2.0.1.zip" download="browser" name="iChun's PortalGun" type="mods" 
          version="1.6.2" website="http://ichun.us/mods/portalgun/" description=""
          depends="iChunUtil"/>
