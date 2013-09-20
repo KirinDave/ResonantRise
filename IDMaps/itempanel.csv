@@ -1069,6 +1069,7 @@ Item ID,Item meta,Has NBT,Display Name
 717,0,false,Painted Slab
 718,0,false,Painted Slab
 719,0,false,SAG Mill
+720,0,false,Dimensional Transceiver
 740,0,false,Magik Altar
 741,0,false,Dust Generator MKI
 742,0,false,Dust Generator MKII
@@ -1149,15 +1150,6 @@ Item ID,Item meta,Has NBT,Display Name
 860,0,false,Rotary Macerator
 860,1,false,Singularity Compressor
 860,2,false,Centrifuge Extractor
-865,0,false,LV Charging Bench
-865,1,false,MV Charging Bench
-865,2,false,HV Charging Bench
-865,6,false,Adjustable Transformer
-865,7,false,Adjustable Emitter
-865,8,false,LV Battery Station
-865,9,false,MV Battery Station
-865,10,false,HV Battery Station
-865,11,false,Storage Monitor
 870,0,false,Static Charge Pad
 870,1,false,Crystalizor Charge Pad
 870,2,false,Lapotronic Charge Pad
@@ -1280,6 +1272,7 @@ Item ID,Item meta,Has NBT,Display Name
 975,4,false,Silver Chest
 975,5,false,Crystal Chest
 975,6,false,Obsidian Chest
+975,7,false,DirtChest 9000!
 1000,26,true,Leyden Jar
 9318,9125,true,Creative Block of Diamond Barrel
 9318,2720,true,Oak Wood Barrel
@@ -2419,7 +2412,6 @@ Item ID,Item meta,Has NBT,Display Name
 1721,0,false,LE TNT
 1722,0,false,Measuring Laser
 1730,0,false,Tartarite Enchanter
-1890,0,false,Teleport Tether
 1900,0,false,Power Ore
 1900,1,false,Nether Ore
 1901,0,false,Black Force Stairs
@@ -2979,6 +2971,45 @@ Item ID,Item meta,Has NBT,Display Name
 2265,0,false,Music Disc
 2266,0,false,Music Disc
 2267,0,false,Music Disc
+2270,0,false,Molten Angmallen
+2271,0,false,Molten Damascus Steel
+2272,0,false,Molten Hepatizon
+2273,0,false,Molten Manganese
+2274,0,false,Molten Brass
+2275,0,false,Molten Zinc
+2276,0,false,Molten Amordrine
+2277,0,false,Molten Alduorite
+2278,0,false,Molten Ceruclase
+2279,0,false,Molten Ignatius
+2280,0,false,Molten Inolashite
+2281,0,false,Molten Kalendrite
+2282,0,false,Molten Lemurite
+2283,0,false,Molten Midasium
+2284,0,false,Molten Sanguinite
+2285,0,false,Molten Shadow Iron
+2286,0,false,Molten Shadow Steel
+2287,0,false,Molten Vulcanite
+2288,0,false,Molten Vyroxeres
+2289,0,false,Molten Adamantine
+2290,0,false,Molten Astral Silver
+2291,0,false,Molten Atlarus
+2292,0,false,Molten Black Steel
+2293,0,false,Molten Carmot
+2294,0,false,Molten Celenegil
+2295,0,false,Molten Deep Iron
+2296,0,false,Molten Haderoth
+2297,0,false,Molten Infuscolium
+2298,0,false,Molten Mithril
+2299,0,false,Molten Orichalcum
+2300,0,false,Molten Oureclase
+2301,0,false,Molten Prometheum
+2302,0,false,Molten Quicksilver
+2303,0,false,Molten Rubracium
+2304,0,false,Molten Tartarite
+2305,0,false,Molten Desichalkos
+2306,0,false,Molten Eximite
+2307,0,false,Molten Meutoite
+2308,0,false,Molten Platinum
 2401,0,false,Carpenter's Slope
 2402,0,false,Carpenter's Stairs
 2403,0,false,Carpenter's Barrier
@@ -2991,6 +3022,7 @@ Item ID,Item meta,Has NBT,Display Name
 2410,0,false,Carpenter's Hatch
 2411,0,false,Carpenter's Door
 2412,0,false,Carpenter's Bed
+2413,0,false,Carpenter's Ladder
 2500,0,false,Angel Block
 2501,0,false,Block Update Detector
 2501,3,false,Block Update Detector (Advanced)
@@ -3825,16 +3857,6 @@ Item ID,Item meta,Has NBT,Display Name
 3174,7,false,Steel Block
 3174,8,false,Tin Block
 3175,0,false,Algae
-3180,0,false,Chain Link Fence
-3180,1,false,Chain Link Fence Post
-3180,2,false,Barbed Wire Fence
-3180,3,false,Barbed Wire Fence Wood Post
-3180,4,false,Barbed Wire Fence Post
-3180,5,false,Razor Wire Fence
-3181,0,false,Deflector Generator
-3182,0,false,Deflector
-3183,0,false,Emery Tile
-3184,0,false,Sandbags
 3190,0,false,tile.slime.channel.name
 3191,0,false,tile.slime.pad.name
 3195,0,false,Molten Silver
@@ -4188,9 +4210,8 @@ Item ID,Item meta,Has NBT,Display Name
 3941,0,false,Item Translocator
 3941,1,false,Liquid Translocator
 3942,0,false,Drum
-3970,0,false,Copper Ore
-3971,0,false,Tin Ore
-3972,0,false,Copper Wire
+3970,0,false,tile.basiccomponents:oreCopper.name
+3971,0,false,tile.basiccomponents:oreTin.name
 4070,0,false,Modular Socket
 4071,0,false,TempRS
 4072,0,false,Black Planks
@@ -4434,13 +4455,13 @@ Item ID,Item meta,Has NBT,Display Name
 4601,15,true,Resin Barrel
 4601,16,true,Latex Barrel
 4601,17,true,Turpentine Barrel
-4601,18,true,Fortron Barrel
-4601,19,true,Myst ink black Barrel
 4601,20,true,Seared stone Barrel
 4601,21,true,Liquified emerald Barrel
 4601,22,true,Blood Barrel
 4601,23,true,Ender Barrel
 4601,24,true,Slime blue Barrel
+4601,18,true,Fortron Barrel
+4601,19,true,Myst ink black Barrel
 4601,25,true,Glass Barrel
 4601,26,true,Milk Barrel
 4601,27,true,Biomass Barrel
@@ -4478,13 +4499,13 @@ Item ID,Item meta,Has NBT,Display Name
 4700,15,true,Resin Wooden Bucket
 4700,16,true,Latex Wooden Bucket
 4700,17,true,Turpentine Wooden Bucket
-4700,18,true,Fortron Wooden Bucket
-4700,19,true,Myst ink black Wooden Bucket
 4700,20,true,Seared stone Wooden Bucket
 4700,21,true,Liquified emerald Wooden Bucket
 4700,22,true,Blood Wooden Bucket
 4700,23,true,Ender Wooden Bucket
 4700,24,true,Slime blue Wooden Bucket
+4700,18,true,Fortron Wooden Bucket
+4700,19,true,Myst ink black Wooden Bucket
 4700,25,true,Glass Wooden Bucket
 4700,26,true,Milk Wooden Bucket
 4700,27,true,Biomass Wooden Bucket
@@ -4789,6 +4810,7 @@ Item ID,Item meta,Has NBT,Display Name
 7122,21,false,Advanced Satellite Upgrade
 7122,22,false,Fluid Crafting Upgrade
 7122,23,false,Crafting Byproduct Extraction Upgrade
+7122,24,false,Placement Rules Upgrade
 7123,0,false,Logistics HUD Bow
 7123,1,false,Logistics HUD Glass
 7123,2,false,Logistics HUD Nose Bridge
@@ -4970,31 +4992,35 @@ Item ID,Item meta,Has NBT,Display Name
 8782,0,false,Conduit Facade
 8783,0,false,Redstone Conduit
 8783,1,false,Conduit Switch
-8784,0,false,Power Conduit
-8784,1,false,Enhanced Power Conduit
-8784,2,false,Ender Power Conduit
+8784,0,false,Energy Conduit
+8784,1,false,Enhanced Energy Conduit
+8784,2,false,Ender Energy Conduit
 8785,0,false,Liquid Conduit
 8786,0,false,Industrial Binder
 8787,0,false,Capacitor
-8787,1,false,Activated Capacitor
-8787,2,false,Ender Capacitor
+8787,1,false,D-L Capacitor
+8787,2,false,Hybrid Capacitor
 8788,0,false,Activated Iron
 8788,1,false,Activated Gold
 8788,2,false,Ender Iron
 8788,3,false,Ender Gold
 8788,4,false,Blue Steel
-8788,5,false,Activated Iron Nugget
-8788,6,false,Activated Gold Nugget
-8788,7,false,Ender Iron Nugget
-8788,8,false,Ender Gold Nugget
-8788,9,false,Blue Steel Nugget
 8789,0,false,Fused Quartz Frame
 8790,0,false,Yeta Wrench
+8791,0,false,Machine Chassi
+8791,1,false,Basic Gear
+8791,2,false,Redstone Inductor
+8792,0,false,Coal Powder
+8792,1,false,Iron Powder
+8792,2,false,Gold Powder
+8792,3,false,Copper Powder
+8792,4,false,Tin Powder
+8793,0,false,MJ Reader (WIP)
 8956,0,false,Descriptive Book
 8957,0,false,Linking Book
 8958,0,true,Notebook
 8959,0,false,Writing Desk
-8960,0,true,Blank Page
+8960,0,false,Page
 8962,0,false,Ink Vial
 8963,0,false,Unlinked Link Book
 9257,0,true,Bag of Holding
@@ -5019,10 +5045,10 @@ Item ID,Item meta,Has NBT,Display Name
 9286,0,false,Mirror
 9287,0,false,Auto-Ejector
 9288,0,false,Deprecated Extra-Dimensional Storage
-9289,0,true,Battery Block
-9289,1,true,Battery Block
-9289,2,true,Battery Block
-9289,3,true,Battery Block
+9289,0,false,Battery Block
+9289,1,false,Battery Block
+9289,2,false,Battery Block
+9289,3,false,Battery Block
 9290,0,false,Dirty Iron Gravel
 9290,1,false,Dirty Gold Gravel
 9290,3,false,Dirty Tin Gravel
@@ -5323,8 +5349,6 @@ Item ID,Item meta,Has NBT,Display Name
 12299,0,false,Hemp Tunic
 12300,0,false,Hemp Pants
 12301,0,false,Hemp Shoes
-12313,0,false,Chain Sheet
-12314,0,false,Fence Wire
 12329,0,false,Control Circuit
 12330,0,false,PSU
 12331,0,false,Emery
@@ -7011,19 +7035,19 @@ Item ID,Item meta,Has NBT,Display Name
 14033,1,false,Uranium-238
 14036,0,false,Toxic Waste Bucket
 14037,0,false,Breeder Fuel Rod
-14228,0,false,Wrench
-14229,0,false,Motor
-14230,0,false,Basic Circuit
-14231,0,false,Advanced Circuit
-14232,0,false,Elite Circuit
-14235,0,false,Bronze Plate
-14236,0,false,Steel Plate
-14239,0,false,Copper Ingot
-14240,0,false,Tin Ingot
-14241,0,false,Steel Ingot
-14242,0,false,Bronze Ingot
-14243,0,false,Steel Dust
-14244,0,false,Bronze Dust
+14228,0,false,item.basiccomponents:wrench.name
+14229,0,false,item.basiccomponents:motor.name
+14230,0,false,item.basiccomponents:circuitBasic.name
+14231,0,false,item.basiccomponents:circuitAdvanced.name
+14232,0,false,item.basiccomponents:circuitElite.name
+14235,0,false,item.basiccomponents:plateBronze.name
+14236,0,false,item.basiccomponents:plateSteel.name
+14239,0,false,item.basiccomponents:ingotCopper.name
+14240,0,false,item.basiccomponents:ingotTin.name
+14241,0,false,item.basiccomponents:ingotSteel.name
+14242,0,false,item.basiccomponents:ingotBronze.name
+14243,0,false,item.basiccomponents:dustSteel.name
+14244,0,false,item.basiccomponents:dustBronze.name
 14274,0,false,Materials and You
 14274,1,false,Materials and You
 14274,2,false,Mighty Smelting
@@ -8474,6 +8498,7 @@ Item ID,Item meta,Has NBT,Display Name
 19397,0,true,Facade: Red Rock Cobblestone
 19397,0,true,Facade: Giant Red Flower
 19397,0,true,Facade: Giant Yellow Flower
+19397,0,true,Facade: Certus Quartz Block
 19397,0,true,Facade: Stone
 19397,0,true,Facade: Dirt
 19397,0,true,Facade: Cobblestone
@@ -8591,7 +8616,6 @@ Item ID,Item meta,Has NBT,Display Name
 19397,0,true,Facade: Hay Bale
 19397,0,true,Facade: Hardened Clay
 19397,0,true,Facade: Block of Coal
-19397,0,true,Facade: Certus Quartz Block
 19397,0,true,Facade: Black Force Brick
 19397,0,true,Facade: Red Force Brick
 19397,0,true,Facade: Green Force Brick
@@ -8654,6 +8678,7 @@ Item ID,Item meta,Has NBT,Display Name
 19765,0,false,Diamond to Obsidian Chest Upgrade
 20256,0,false,Automatic Wooden Pipe
 20257,0,false,Valve Pipe
+20258,0,false,Automatic Emerald Pipe
 20262,0,false,Efficiency Upgrade
 20263,0,false,Drain Conversion Module
 20263,1,false,Damage Conversion Module
@@ -9268,396 +9293,396 @@ Item ID,Item meta,Has NBT,Display Name
 25131,4,true,Spruce Wood Planks Slab
 25131,4,true,Birch Wood Planks Slab
 25131,4,true,Jungle Wood Planks Slab
-25131,257,true,Block of Coal Hollow Cover
-25131,257,true,Block of Diamond Hollow Cover
-25131,257,true,Block of Emerald Hollow Cover
-25131,257,true,Block of Gold Hollow Cover
-25131,257,true,Block of Iron Hollow Cover
-25131,257,true,Lapis Lazuli Block Hollow Cover
-25131,257,true,Block of Redstone Hollow Cover
-25131,257,true,Bookshelf Hollow Cover
-25131,257,true,Bricks Hollow Cover
-25131,257,true,Clay Hollow Cover
-25131,257,true,Hardened Clay Hollow Cover
-25131,257,true,White Stained Clay Hollow Cover
-25131,257,true,Orange Stained Clay Hollow Cover
-25131,257,true,Purple Stained Clay Hollow Cover
-25131,257,true,Blue Stained Clay Hollow Cover
-25131,257,true,Brown Stained Clay Hollow Cover
-25131,257,true,Green Stained Clay Hollow Cover
-25131,257,true,Red Stained Clay Hollow Cover
-25131,257,true,Black Stained Clay Hollow Cover
-25131,257,true,Magenta Stained Clay Hollow Cover
-25131,257,true,Light Blue Stained Clay Hollow Cover
-25131,257,true,Yellow Stained Clay Hollow Cover
-25131,257,true,Lime Stained Clay Hollow Cover
-25131,257,true,Pink Stained Clay Hollow Cover
-25131,257,true,Gray Stained Clay Hollow Cover
-25131,257,true,Light Gray Stained Clay Hollow Cover
-25131,257,true,Cyan Stained Clay Hollow Cover
-25131,257,true,Wool Hollow Cover
-25131,257,true,Orange Wool Hollow Cover
-25131,257,true,Purple Wool Hollow Cover
-25131,257,true,Blue Wool Hollow Cover
-25131,257,true,Brown Wool Hollow Cover
-25131,257,true,Green Wool Hollow Cover
-25131,257,true,Red Wool Hollow Cover
-25131,257,true,Black Wool Hollow Cover
-25131,257,true,Magenta Wool Hollow Cover
-25131,257,true,Light Blue Wool Hollow Cover
-25131,257,true,Yellow Wool Hollow Cover
-25131,257,true,Lime Wool Hollow Cover
-25131,257,true,Pink Wool Hollow Cover
-25131,257,true,Gray Wool Hollow Cover
-25131,257,true,Light Gray Wool Hollow Cover
-25131,257,true,Cyan Wool Hollow Cover
-25131,257,true,Dirt Hollow Cover
-25131,257,true,Angel Block Hollow Cover
-25131,257,true,Compressed Cobblestone Hollow Cover
-25131,257,true,Double Compressed Cobblestone Hollow Cover
-25131,257,true,Triple Compressed Cobblestone Hollow Cover
-25131,257,true,Quadruple Compressed Cobblestone Hollow Cover
-25131,257,true,Quintuple Compressed Cobblestone Hollow Cover
-25131,257,true,Sextuple Compressed Cobblestone Hollow Cover
-25131,257,true,Septuple Compressed Cobblestone Hollow Cover
-25131,257,true,Octuple Compressed Cobblestone Hollow Cover
-25131,257,true,Colored Bricks (White) Hollow Cover
-25131,257,true,Colored Bricks (Orange) Hollow Cover
-25131,257,true,Colored Bricks (Purple) Hollow Cover
-25131,257,true,Colored Bricks (Blue) Hollow Cover
-25131,257,true,Colored Bricks (Brown) Hollow Cover
-25131,257,true,Colored Bricks (Green) Hollow Cover
-25131,257,true,Colored Bricks (Red) Hollow Cover
-25131,257,true,Colored Bricks (Black) Hollow Cover
-25131,257,true,Colored Bricks (Magenta) Hollow Cover
-25131,257,true,Colored Bricks (Light Blue) Hollow Cover
-25131,257,true,Colored Bricks (Yellow) Hollow Cover
-25131,257,true,Colored Bricks (Lime) Hollow Cover
-25131,257,true,Colored Bricks (Pink) Hollow Cover
-25131,257,true,Colored Bricks (Gray) Hollow Cover
-25131,257,true,Colored Bricks (Light Gray) Hollow Cover
-25131,257,true,Colored Bricks (Cyan) Hollow Cover
-25131,257,true,Colored Wood Planks (White) Hollow Cover
-25131,257,true,Colored Wood Planks (Orange) Hollow Cover
-25131,257,true,Colored Wood Planks (Purple) Hollow Cover
-25131,257,true,Colored Wood Planks (Blue) Hollow Cover
-25131,257,true,Colored Wood Planks (Brown) Hollow Cover
-25131,257,true,Colored Wood Planks (Green) Hollow Cover
-25131,257,true,Colored Wood Planks (Red) Hollow Cover
-25131,257,true,Colored Wood Planks (Black) Hollow Cover
-25131,257,true,Colored Wood Planks (Magenta) Hollow Cover
-25131,257,true,Colored Wood Planks (Light Blue) Hollow Cover
-25131,257,true,Colored Wood Planks (Yellow) Hollow Cover
-25131,257,true,Colored Wood Planks (Lime) Hollow Cover
-25131,257,true,Colored Wood Planks (Pink) Hollow Cover
-25131,257,true,Colored Wood Planks (Gray) Hollow Cover
-25131,257,true,Colored Wood Planks (Light Gray) Hollow Cover
-25131,257,true,Colored Wood Planks (Cyan) Hollow Cover
-25131,257,true,Edged Stone Bricks Hollow Cover
-25131,257,true,Ender-infused Obsidian Hollow Cover
-25131,257,true,Smoked Quartz Hollow Cover
-25131,257,true,Frosted Stone Hollow Cover
-25131,257,true,Border Stone Hollow Cover
-25131,257,true,Unstable Ingot Block Hollow Cover
-25131,257,true,Gravel Bricks Hollow Cover
-25131,257,true,Ender-Thermic Pump Hollow Cover
-25131,257,true,Ethereal Glass Hollow Cover
-25131,257,true,Trading Post Hollow Cover
-25131,257,true,Glass Hollow Cover
-25131,257,true,Grass Block Hollow Cover
-25131,257,true,Netherrack Hollow Cover
-25131,257,true,Soul Sand Hollow Cover
-25131,257,true,Ice block Hollow Cover
-25131,257,true,Oak Leaves Hollow Cover
-25131,257,true,Spruce Leaves Hollow Cover
-25131,257,true,Birch Leaves Hollow Cover
-25131,257,true,Jungle Leaves Hollow Cover
-25131,257,true,Glowstone Hollow Cover
-25131,257,true,Oak Wood Hollow Cover
-25131,257,true,Spruce Wood Hollow Cover
-25131,257,true,Birch Wood Hollow Cover
-25131,257,true,Jungle Wood Hollow Cover
-25131,257,true,Mycelium Hollow Cover
-25131,257,true,Nether Brick Hollow Cover
-25131,257,true,Obsidian Hollow Cover
-25131,257,true,Block of Quartz Hollow Cover
-25131,257,true,Sandstone Hollow Cover
-25131,257,true,Chiseled Sandstone Hollow Cover
-25131,257,true,Smooth Sandstone Hollow Cover
-25131,257,true,Snow Hollow Cover
-25131,257,true,Sponge Hollow Cover
-25131,257,true,Stone Hollow Cover
-25131,257,true,Moss Stone Hollow Cover
-25131,257,true,Cobblestone Hollow Cover
-25131,257,true,Stone Bricks Hollow Cover
-25131,257,true,Mossy Stone Bricks Hollow Cover
-25131,257,true,Cracked Stone Bricks Hollow Cover
-25131,257,true,Chiseled Stone Bricks Hollow Cover
-25131,257,true,End Stone Hollow Cover
-25131,257,true,Oak Wood Planks Hollow Cover
-25131,257,true,Spruce Wood Planks Hollow Cover
-25131,257,true,Birch Wood Planks Hollow Cover
-25131,257,true,Jungle Wood Planks Hollow Cover
-25131,258,true,Block of Coal Hollow Panel
-25131,258,true,Block of Diamond Hollow Panel
-25131,258,true,Block of Emerald Hollow Panel
-25131,258,true,Block of Gold Hollow Panel
-25131,258,true,Block of Iron Hollow Panel
-25131,258,true,Lapis Lazuli Block Hollow Panel
-25131,258,true,Block of Redstone Hollow Panel
-25131,258,true,Bookshelf Hollow Panel
-25131,258,true,Bricks Hollow Panel
-25131,258,true,Clay Hollow Panel
-25131,258,true,Hardened Clay Hollow Panel
-25131,258,true,White Stained Clay Hollow Panel
-25131,258,true,Orange Stained Clay Hollow Panel
-25131,258,true,Purple Stained Clay Hollow Panel
-25131,258,true,Blue Stained Clay Hollow Panel
-25131,258,true,Brown Stained Clay Hollow Panel
-25131,258,true,Green Stained Clay Hollow Panel
-25131,258,true,Red Stained Clay Hollow Panel
-25131,258,true,Black Stained Clay Hollow Panel
-25131,258,true,Magenta Stained Clay Hollow Panel
-25131,258,true,Light Blue Stained Clay Hollow Panel
-25131,258,true,Yellow Stained Clay Hollow Panel
-25131,258,true,Lime Stained Clay Hollow Panel
-25131,258,true,Pink Stained Clay Hollow Panel
-25131,258,true,Gray Stained Clay Hollow Panel
-25131,258,true,Light Gray Stained Clay Hollow Panel
-25131,258,true,Cyan Stained Clay Hollow Panel
-25131,258,true,Wool Hollow Panel
-25131,258,true,Orange Wool Hollow Panel
-25131,258,true,Purple Wool Hollow Panel
-25131,258,true,Blue Wool Hollow Panel
-25131,258,true,Brown Wool Hollow Panel
-25131,258,true,Green Wool Hollow Panel
-25131,258,true,Red Wool Hollow Panel
-25131,258,true,Black Wool Hollow Panel
-25131,258,true,Magenta Wool Hollow Panel
-25131,258,true,Light Blue Wool Hollow Panel
-25131,258,true,Yellow Wool Hollow Panel
-25131,258,true,Lime Wool Hollow Panel
-25131,258,true,Pink Wool Hollow Panel
-25131,258,true,Gray Wool Hollow Panel
-25131,258,true,Light Gray Wool Hollow Panel
-25131,258,true,Cyan Wool Hollow Panel
-25131,258,true,Dirt Hollow Panel
-25131,258,true,Angel Block Hollow Panel
-25131,258,true,Compressed Cobblestone Hollow Panel
-25131,258,true,Double Compressed Cobblestone Hollow Panel
-25131,258,true,Triple Compressed Cobblestone Hollow Panel
-25131,258,true,Quadruple Compressed Cobblestone Hollow Panel
-25131,258,true,Quintuple Compressed Cobblestone Hollow Panel
-25131,258,true,Sextuple Compressed Cobblestone Hollow Panel
-25131,258,true,Septuple Compressed Cobblestone Hollow Panel
-25131,258,true,Octuple Compressed Cobblestone Hollow Panel
-25131,258,true,Colored Bricks (White) Hollow Panel
-25131,258,true,Colored Bricks (Orange) Hollow Panel
-25131,258,true,Colored Bricks (Purple) Hollow Panel
-25131,258,true,Colored Bricks (Blue) Hollow Panel
-25131,258,true,Colored Bricks (Brown) Hollow Panel
-25131,258,true,Colored Bricks (Green) Hollow Panel
-25131,258,true,Colored Bricks (Red) Hollow Panel
-25131,258,true,Colored Bricks (Black) Hollow Panel
-25131,258,true,Colored Bricks (Magenta) Hollow Panel
-25131,258,true,Colored Bricks (Light Blue) Hollow Panel
-25131,258,true,Colored Bricks (Yellow) Hollow Panel
-25131,258,true,Colored Bricks (Lime) Hollow Panel
-25131,258,true,Colored Bricks (Pink) Hollow Panel
-25131,258,true,Colored Bricks (Gray) Hollow Panel
-25131,258,true,Colored Bricks (Light Gray) Hollow Panel
-25131,258,true,Colored Bricks (Cyan) Hollow Panel
-25131,258,true,Colored Wood Planks (White) Hollow Panel
-25131,258,true,Colored Wood Planks (Orange) Hollow Panel
-25131,258,true,Colored Wood Planks (Purple) Hollow Panel
-25131,258,true,Colored Wood Planks (Blue) Hollow Panel
-25131,258,true,Colored Wood Planks (Brown) Hollow Panel
-25131,258,true,Colored Wood Planks (Green) Hollow Panel
-25131,258,true,Colored Wood Planks (Red) Hollow Panel
-25131,258,true,Colored Wood Planks (Black) Hollow Panel
-25131,258,true,Colored Wood Planks (Magenta) Hollow Panel
-25131,258,true,Colored Wood Planks (Light Blue) Hollow Panel
-25131,258,true,Colored Wood Planks (Yellow) Hollow Panel
-25131,258,true,Colored Wood Planks (Lime) Hollow Panel
-25131,258,true,Colored Wood Planks (Pink) Hollow Panel
-25131,258,true,Colored Wood Planks (Gray) Hollow Panel
-25131,258,true,Colored Wood Planks (Light Gray) Hollow Panel
-25131,258,true,Colored Wood Planks (Cyan) Hollow Panel
-25131,258,true,Edged Stone Bricks Hollow Panel
-25131,258,true,Ender-infused Obsidian Hollow Panel
-25131,258,true,Smoked Quartz Hollow Panel
-25131,258,true,Frosted Stone Hollow Panel
-25131,258,true,Border Stone Hollow Panel
-25131,258,true,Unstable Ingot Block Hollow Panel
-25131,258,true,Gravel Bricks Hollow Panel
-25131,258,true,Ender-Thermic Pump Hollow Panel
-25131,258,true,Ethereal Glass Hollow Panel
-25131,258,true,Trading Post Hollow Panel
-25131,258,true,Glass Hollow Panel
-25131,258,true,Grass Block Hollow Panel
-25131,258,true,Netherrack Hollow Panel
-25131,258,true,Soul Sand Hollow Panel
-25131,258,true,Ice block Hollow Panel
-25131,258,true,Oak Leaves Hollow Panel
-25131,258,true,Spruce Leaves Hollow Panel
-25131,258,true,Birch Leaves Hollow Panel
-25131,258,true,Jungle Leaves Hollow Panel
-25131,258,true,Glowstone Hollow Panel
-25131,258,true,Oak Wood Hollow Panel
-25131,258,true,Spruce Wood Hollow Panel
-25131,258,true,Birch Wood Hollow Panel
-25131,258,true,Jungle Wood Hollow Panel
-25131,258,true,Mycelium Hollow Panel
-25131,258,true,Nether Brick Hollow Panel
-25131,258,true,Obsidian Hollow Panel
-25131,258,true,Block of Quartz Hollow Panel
-25131,258,true,Sandstone Hollow Panel
-25131,258,true,Chiseled Sandstone Hollow Panel
-25131,258,true,Smooth Sandstone Hollow Panel
-25131,258,true,Snow Hollow Panel
-25131,258,true,Sponge Hollow Panel
-25131,258,true,Stone Hollow Panel
-25131,258,true,Moss Stone Hollow Panel
-25131,258,true,Cobblestone Hollow Panel
-25131,258,true,Stone Bricks Hollow Panel
-25131,258,true,Mossy Stone Bricks Hollow Panel
-25131,258,true,Cracked Stone Bricks Hollow Panel
-25131,258,true,Chiseled Stone Bricks Hollow Panel
-25131,258,true,End Stone Hollow Panel
-25131,258,true,Oak Wood Planks Hollow Panel
-25131,258,true,Spruce Wood Planks Hollow Panel
-25131,258,true,Birch Wood Planks Hollow Panel
-25131,258,true,Jungle Wood Planks Hollow Panel
-25131,260,true,Block of Coal Hollow Slab
-25131,260,true,Block of Diamond Hollow Slab
-25131,260,true,Block of Emerald Hollow Slab
-25131,260,true,Block of Gold Hollow Slab
-25131,260,true,Block of Iron Hollow Slab
-25131,260,true,Lapis Lazuli Block Hollow Slab
-25131,260,true,Block of Redstone Hollow Slab
-25131,260,true,Bookshelf Hollow Slab
-25131,260,true,Bricks Hollow Slab
-25131,260,true,Clay Hollow Slab
-25131,260,true,Hardened Clay Hollow Slab
-25131,260,true,White Stained Clay Hollow Slab
-25131,260,true,Orange Stained Clay Hollow Slab
-25131,260,true,Purple Stained Clay Hollow Slab
-25131,260,true,Blue Stained Clay Hollow Slab
-25131,260,true,Brown Stained Clay Hollow Slab
-25131,260,true,Green Stained Clay Hollow Slab
-25131,260,true,Red Stained Clay Hollow Slab
-25131,260,true,Black Stained Clay Hollow Slab
-25131,260,true,Magenta Stained Clay Hollow Slab
-25131,260,true,Light Blue Stained Clay Hollow Slab
-25131,260,true,Yellow Stained Clay Hollow Slab
-25131,260,true,Lime Stained Clay Hollow Slab
-25131,260,true,Pink Stained Clay Hollow Slab
-25131,260,true,Gray Stained Clay Hollow Slab
-25131,260,true,Light Gray Stained Clay Hollow Slab
-25131,260,true,Cyan Stained Clay Hollow Slab
-25131,260,true,Wool Hollow Slab
-25131,260,true,Orange Wool Hollow Slab
-25131,260,true,Purple Wool Hollow Slab
-25131,260,true,Blue Wool Hollow Slab
-25131,260,true,Brown Wool Hollow Slab
-25131,260,true,Green Wool Hollow Slab
-25131,260,true,Red Wool Hollow Slab
-25131,260,true,Black Wool Hollow Slab
-25131,260,true,Magenta Wool Hollow Slab
-25131,260,true,Light Blue Wool Hollow Slab
-25131,260,true,Yellow Wool Hollow Slab
-25131,260,true,Lime Wool Hollow Slab
-25131,260,true,Pink Wool Hollow Slab
-25131,260,true,Gray Wool Hollow Slab
-25131,260,true,Light Gray Wool Hollow Slab
-25131,260,true,Cyan Wool Hollow Slab
-25131,260,true,Dirt Hollow Slab
-25131,260,true,Angel Block Hollow Slab
-25131,260,true,Compressed Cobblestone Hollow Slab
-25131,260,true,Double Compressed Cobblestone Hollow Slab
-25131,260,true,Triple Compressed Cobblestone Hollow Slab
-25131,260,true,Quadruple Compressed Cobblestone Hollow Slab
-25131,260,true,Quintuple Compressed Cobblestone Hollow Slab
-25131,260,true,Sextuple Compressed Cobblestone Hollow Slab
-25131,260,true,Septuple Compressed Cobblestone Hollow Slab
-25131,260,true,Octuple Compressed Cobblestone Hollow Slab
-25131,260,true,Colored Bricks (White) Hollow Slab
-25131,260,true,Colored Bricks (Orange) Hollow Slab
-25131,260,true,Colored Bricks (Purple) Hollow Slab
-25131,260,true,Colored Bricks (Blue) Hollow Slab
-25131,260,true,Colored Bricks (Brown) Hollow Slab
-25131,260,true,Colored Bricks (Green) Hollow Slab
-25131,260,true,Colored Bricks (Red) Hollow Slab
-25131,260,true,Colored Bricks (Black) Hollow Slab
-25131,260,true,Colored Bricks (Magenta) Hollow Slab
-25131,260,true,Colored Bricks (Light Blue) Hollow Slab
-25131,260,true,Colored Bricks (Yellow) Hollow Slab
-25131,260,true,Colored Bricks (Lime) Hollow Slab
-25131,260,true,Colored Bricks (Pink) Hollow Slab
-25131,260,true,Colored Bricks (Gray) Hollow Slab
-25131,260,true,Colored Bricks (Light Gray) Hollow Slab
-25131,260,true,Colored Bricks (Cyan) Hollow Slab
-25131,260,true,Colored Wood Planks (White) Hollow Slab
-25131,260,true,Colored Wood Planks (Orange) Hollow Slab
-25131,260,true,Colored Wood Planks (Purple) Hollow Slab
-25131,260,true,Colored Wood Planks (Blue) Hollow Slab
-25131,260,true,Colored Wood Planks (Brown) Hollow Slab
-25131,260,true,Colored Wood Planks (Green) Hollow Slab
-25131,260,true,Colored Wood Planks (Red) Hollow Slab
-25131,260,true,Colored Wood Planks (Black) Hollow Slab
-25131,260,true,Colored Wood Planks (Magenta) Hollow Slab
-25131,260,true,Colored Wood Planks (Light Blue) Hollow Slab
-25131,260,true,Colored Wood Planks (Yellow) Hollow Slab
-25131,260,true,Colored Wood Planks (Lime) Hollow Slab
-25131,260,true,Colored Wood Planks (Pink) Hollow Slab
-25131,260,true,Colored Wood Planks (Gray) Hollow Slab
-25131,260,true,Colored Wood Planks (Light Gray) Hollow Slab
-25131,260,true,Colored Wood Planks (Cyan) Hollow Slab
-25131,260,true,Edged Stone Bricks Hollow Slab
-25131,260,true,Ender-infused Obsidian Hollow Slab
-25131,260,true,Smoked Quartz Hollow Slab
-25131,260,true,Frosted Stone Hollow Slab
-25131,260,true,Border Stone Hollow Slab
-25131,260,true,Unstable Ingot Block Hollow Slab
-25131,260,true,Gravel Bricks Hollow Slab
-25131,260,true,Ender-Thermic Pump Hollow Slab
-25131,260,true,Ethereal Glass Hollow Slab
-25131,260,true,Trading Post Hollow Slab
-25131,260,true,Glass Hollow Slab
-25131,260,true,Grass Block Hollow Slab
-25131,260,true,Netherrack Hollow Slab
-25131,260,true,Soul Sand Hollow Slab
-25131,260,true,Ice block Hollow Slab
-25131,260,true,Oak Leaves Hollow Slab
-25131,260,true,Spruce Leaves Hollow Slab
-25131,260,true,Birch Leaves Hollow Slab
-25131,260,true,Jungle Leaves Hollow Slab
-25131,260,true,Glowstone Hollow Slab
-25131,260,true,Oak Wood Hollow Slab
-25131,260,true,Spruce Wood Hollow Slab
-25131,260,true,Birch Wood Hollow Slab
-25131,260,true,Jungle Wood Hollow Slab
-25131,260,true,Mycelium Hollow Slab
-25131,260,true,Nether Brick Hollow Slab
-25131,260,true,Obsidian Hollow Slab
-25131,260,true,Block of Quartz Hollow Slab
-25131,260,true,Sandstone Hollow Slab
-25131,260,true,Chiseled Sandstone Hollow Slab
-25131,260,true,Smooth Sandstone Hollow Slab
-25131,260,true,Snow Hollow Slab
-25131,260,true,Sponge Hollow Slab
-25131,260,true,Stone Hollow Slab
-25131,260,true,Moss Stone Hollow Slab
-25131,260,true,Cobblestone Hollow Slab
-25131,260,true,Stone Bricks Hollow Slab
-25131,260,true,Mossy Stone Bricks Hollow Slab
-25131,260,true,Cracked Stone Bricks Hollow Slab
-25131,260,true,Chiseled Stone Bricks Hollow Slab
-25131,260,true,End Stone Hollow Slab
-25131,260,true,Oak Wood Planks Hollow Slab
-25131,260,true,Spruce Wood Planks Hollow Slab
-25131,260,true,Birch Wood Planks Hollow Slab
-25131,260,true,Jungle Wood Planks Hollow Slab
+25131,257,true,Hollow Block of Coal Cover
+25131,257,true,Hollow Block of Diamond Cover
+25131,257,true,Hollow Block of Emerald Cover
+25131,257,true,Hollow Block of Gold Cover
+25131,257,true,Hollow Block of Iron Cover
+25131,257,true,Hollow Lapis Lazuli Block Cover
+25131,257,true,Hollow Block of Redstone Cover
+25131,257,true,Hollow Bookshelf Cover
+25131,257,true,Hollow Bricks Cover
+25131,257,true,Hollow Clay Cover
+25131,257,true,Hollow Hardened Clay Cover
+25131,257,true,Hollow White Stained Clay Cover
+25131,257,true,Hollow Orange Stained Clay Cover
+25131,257,true,Hollow Purple Stained Clay Cover
+25131,257,true,Hollow Blue Stained Clay Cover
+25131,257,true,Hollow Brown Stained Clay Cover
+25131,257,true,Hollow Green Stained Clay Cover
+25131,257,true,Hollow Red Stained Clay Cover
+25131,257,true,Hollow Black Stained Clay Cover
+25131,257,true,Hollow Magenta Stained Clay Cover
+25131,257,true,Hollow Light Blue Stained Clay Cover
+25131,257,true,Hollow Yellow Stained Clay Cover
+25131,257,true,Hollow Lime Stained Clay Cover
+25131,257,true,Hollow Pink Stained Clay Cover
+25131,257,true,Hollow Gray Stained Clay Cover
+25131,257,true,Hollow Light Gray Stained Clay Cover
+25131,257,true,Hollow Cyan Stained Clay Cover
+25131,257,true,Hollow Wool Cover
+25131,257,true,Hollow Orange Wool Cover
+25131,257,true,Hollow Purple Wool Cover
+25131,257,true,Hollow Blue Wool Cover
+25131,257,true,Hollow Brown Wool Cover
+25131,257,true,Hollow Green Wool Cover
+25131,257,true,Hollow Red Wool Cover
+25131,257,true,Hollow Black Wool Cover
+25131,257,true,Hollow Magenta Wool Cover
+25131,257,true,Hollow Light Blue Wool Cover
+25131,257,true,Hollow Yellow Wool Cover
+25131,257,true,Hollow Lime Wool Cover
+25131,257,true,Hollow Pink Wool Cover
+25131,257,true,Hollow Gray Wool Cover
+25131,257,true,Hollow Light Gray Wool Cover
+25131,257,true,Hollow Cyan Wool Cover
+25131,257,true,Hollow Dirt Cover
+25131,257,true,Hollow Angel Block Cover
+25131,257,true,Hollow Compressed Cobblestone Cover
+25131,257,true,Hollow Double Compressed Cobblestone Cover
+25131,257,true,Hollow Triple Compressed Cobblestone Cover
+25131,257,true,Hollow Quadruple Compressed Cobblestone Cover
+25131,257,true,Hollow Quintuple Compressed Cobblestone Cover
+25131,257,true,Hollow Sextuple Compressed Cobblestone Cover
+25131,257,true,Hollow Septuple Compressed Cobblestone Cover
+25131,257,true,Hollow Octuple Compressed Cobblestone Cover
+25131,257,true,Hollow Colored Bricks (White) Cover
+25131,257,true,Hollow Colored Bricks (Orange) Cover
+25131,257,true,Hollow Colored Bricks (Purple) Cover
+25131,257,true,Hollow Colored Bricks (Blue) Cover
+25131,257,true,Hollow Colored Bricks (Brown) Cover
+25131,257,true,Hollow Colored Bricks (Green) Cover
+25131,257,true,Hollow Colored Bricks (Red) Cover
+25131,257,true,Hollow Colored Bricks (Black) Cover
+25131,257,true,Hollow Colored Bricks (Magenta) Cover
+25131,257,true,Hollow Colored Bricks (Light Blue) Cover
+25131,257,true,Hollow Colored Bricks (Yellow) Cover
+25131,257,true,Hollow Colored Bricks (Lime) Cover
+25131,257,true,Hollow Colored Bricks (Pink) Cover
+25131,257,true,Hollow Colored Bricks (Gray) Cover
+25131,257,true,Hollow Colored Bricks (Light Gray) Cover
+25131,257,true,Hollow Colored Bricks (Cyan) Cover
+25131,257,true,Hollow Colored Wood Planks (White) Cover
+25131,257,true,Hollow Colored Wood Planks (Orange) Cover
+25131,257,true,Hollow Colored Wood Planks (Purple) Cover
+25131,257,true,Hollow Colored Wood Planks (Blue) Cover
+25131,257,true,Hollow Colored Wood Planks (Brown) Cover
+25131,257,true,Hollow Colored Wood Planks (Green) Cover
+25131,257,true,Hollow Colored Wood Planks (Red) Cover
+25131,257,true,Hollow Colored Wood Planks (Black) Cover
+25131,257,true,Hollow Colored Wood Planks (Magenta) Cover
+25131,257,true,Hollow Colored Wood Planks (Light Blue) Cover
+25131,257,true,Hollow Colored Wood Planks (Yellow) Cover
+25131,257,true,Hollow Colored Wood Planks (Lime) Cover
+25131,257,true,Hollow Colored Wood Planks (Pink) Cover
+25131,257,true,Hollow Colored Wood Planks (Gray) Cover
+25131,257,true,Hollow Colored Wood Planks (Light Gray) Cover
+25131,257,true,Hollow Colored Wood Planks (Cyan) Cover
+25131,257,true,Hollow Edged Stone Bricks Cover
+25131,257,true,Hollow Ender-infused Obsidian Cover
+25131,257,true,Hollow Smoked Quartz Cover
+25131,257,true,Hollow Frosted Stone Cover
+25131,257,true,Hollow Border Stone Cover
+25131,257,true,Hollow Unstable Ingot Block Cover
+25131,257,true,Hollow Gravel Bricks Cover
+25131,257,true,Hollow Ender-Thermic Pump Cover
+25131,257,true,Hollow Ethereal Glass Cover
+25131,257,true,Hollow Trading Post Cover
+25131,257,true,Hollow Glass Cover
+25131,257,true,Hollow Grass Block Cover
+25131,257,true,Hollow Netherrack Cover
+25131,257,true,Hollow Soul Sand Cover
+25131,257,true,Hollow Ice block Cover
+25131,257,true,Hollow Oak Leaves Cover
+25131,257,true,Hollow Spruce Leaves Cover
+25131,257,true,Hollow Birch Leaves Cover
+25131,257,true,Hollow Jungle Leaves Cover
+25131,257,true,Hollow Glowstone Cover
+25131,257,true,Hollow Oak Wood Cover
+25131,257,true,Hollow Spruce Wood Cover
+25131,257,true,Hollow Birch Wood Cover
+25131,257,true,Hollow Jungle Wood Cover
+25131,257,true,Hollow Mycelium Cover
+25131,257,true,Hollow Nether Brick Cover
+25131,257,true,Hollow Obsidian Cover
+25131,257,true,Hollow Block of Quartz Cover
+25131,257,true,Hollow Sandstone Cover
+25131,257,true,Hollow Chiseled Sandstone Cover
+25131,257,true,Hollow Smooth Sandstone Cover
+25131,257,true,Hollow Snow Cover
+25131,257,true,Hollow Sponge Cover
+25131,257,true,Hollow Stone Cover
+25131,257,true,Hollow Moss Stone Cover
+25131,257,true,Hollow Cobblestone Cover
+25131,257,true,Hollow Stone Bricks Cover
+25131,257,true,Hollow Mossy Stone Bricks Cover
+25131,257,true,Hollow Cracked Stone Bricks Cover
+25131,257,true,Hollow Chiseled Stone Bricks Cover
+25131,257,true,Hollow End Stone Cover
+25131,257,true,Hollow Oak Wood Planks Cover
+25131,257,true,Hollow Spruce Wood Planks Cover
+25131,257,true,Hollow Birch Wood Planks Cover
+25131,257,true,Hollow Jungle Wood Planks Cover
+25131,258,true,Hollow Block of Coal Panel
+25131,258,true,Hollow Block of Diamond Panel
+25131,258,true,Hollow Block of Emerald Panel
+25131,258,true,Hollow Block of Gold Panel
+25131,258,true,Hollow Block of Iron Panel
+25131,258,true,Hollow Lapis Lazuli Block Panel
+25131,258,true,Hollow Block of Redstone Panel
+25131,258,true,Hollow Bookshelf Panel
+25131,258,true,Hollow Bricks Panel
+25131,258,true,Hollow Clay Panel
+25131,258,true,Hollow Hardened Clay Panel
+25131,258,true,Hollow White Stained Clay Panel
+25131,258,true,Hollow Orange Stained Clay Panel
+25131,258,true,Hollow Purple Stained Clay Panel
+25131,258,true,Hollow Blue Stained Clay Panel
+25131,258,true,Hollow Brown Stained Clay Panel
+25131,258,true,Hollow Green Stained Clay Panel
+25131,258,true,Hollow Red Stained Clay Panel
+25131,258,true,Hollow Black Stained Clay Panel
+25131,258,true,Hollow Magenta Stained Clay Panel
+25131,258,true,Hollow Light Blue Stained Clay Panel
+25131,258,true,Hollow Yellow Stained Clay Panel
+25131,258,true,Hollow Lime Stained Clay Panel
+25131,258,true,Hollow Pink Stained Clay Panel
+25131,258,true,Hollow Gray Stained Clay Panel
+25131,258,true,Hollow Light Gray Stained Clay Panel
+25131,258,true,Hollow Cyan Stained Clay Panel
+25131,258,true,Hollow Wool Panel
+25131,258,true,Hollow Orange Wool Panel
+25131,258,true,Hollow Purple Wool Panel
+25131,258,true,Hollow Blue Wool Panel
+25131,258,true,Hollow Brown Wool Panel
+25131,258,true,Hollow Green Wool Panel
+25131,258,true,Hollow Red Wool Panel
+25131,258,true,Hollow Black Wool Panel
+25131,258,true,Hollow Magenta Wool Panel
+25131,258,true,Hollow Light Blue Wool Panel
+25131,258,true,Hollow Yellow Wool Panel
+25131,258,true,Hollow Lime Wool Panel
+25131,258,true,Hollow Pink Wool Panel
+25131,258,true,Hollow Gray Wool Panel
+25131,258,true,Hollow Light Gray Wool Panel
+25131,258,true,Hollow Cyan Wool Panel
+25131,258,true,Hollow Dirt Panel
+25131,258,true,Hollow Angel Block Panel
+25131,258,true,Hollow Compressed Cobblestone Panel
+25131,258,true,Hollow Double Compressed Cobblestone Panel
+25131,258,true,Hollow Triple Compressed Cobblestone Panel
+25131,258,true,Hollow Quadruple Compressed Cobblestone Panel
+25131,258,true,Hollow Quintuple Compressed Cobblestone Panel
+25131,258,true,Hollow Sextuple Compressed Cobblestone Panel
+25131,258,true,Hollow Septuple Compressed Cobblestone Panel
+25131,258,true,Hollow Octuple Compressed Cobblestone Panel
+25131,258,true,Hollow Colored Bricks (White) Panel
+25131,258,true,Hollow Colored Bricks (Orange) Panel
+25131,258,true,Hollow Colored Bricks (Purple) Panel
+25131,258,true,Hollow Colored Bricks (Blue) Panel
+25131,258,true,Hollow Colored Bricks (Brown) Panel
+25131,258,true,Hollow Colored Bricks (Green) Panel
+25131,258,true,Hollow Colored Bricks (Red) Panel
+25131,258,true,Hollow Colored Bricks (Black) Panel
+25131,258,true,Hollow Colored Bricks (Magenta) Panel
+25131,258,true,Hollow Colored Bricks (Light Blue) Panel
+25131,258,true,Hollow Colored Bricks (Yellow) Panel
+25131,258,true,Hollow Colored Bricks (Lime) Panel
+25131,258,true,Hollow Colored Bricks (Pink) Panel
+25131,258,true,Hollow Colored Bricks (Gray) Panel
+25131,258,true,Hollow Colored Bricks (Light Gray) Panel
+25131,258,true,Hollow Colored Bricks (Cyan) Panel
+25131,258,true,Hollow Colored Wood Planks (White) Panel
+25131,258,true,Hollow Colored Wood Planks (Orange) Panel
+25131,258,true,Hollow Colored Wood Planks (Purple) Panel
+25131,258,true,Hollow Colored Wood Planks (Blue) Panel
+25131,258,true,Hollow Colored Wood Planks (Brown) Panel
+25131,258,true,Hollow Colored Wood Planks (Green) Panel
+25131,258,true,Hollow Colored Wood Planks (Red) Panel
+25131,258,true,Hollow Colored Wood Planks (Black) Panel
+25131,258,true,Hollow Colored Wood Planks (Magenta) Panel
+25131,258,true,Hollow Colored Wood Planks (Light Blue) Panel
+25131,258,true,Hollow Colored Wood Planks (Yellow) Panel
+25131,258,true,Hollow Colored Wood Planks (Lime) Panel
+25131,258,true,Hollow Colored Wood Planks (Pink) Panel
+25131,258,true,Hollow Colored Wood Planks (Gray) Panel
+25131,258,true,Hollow Colored Wood Planks (Light Gray) Panel
+25131,258,true,Hollow Colored Wood Planks (Cyan) Panel
+25131,258,true,Hollow Edged Stone Bricks Panel
+25131,258,true,Hollow Ender-infused Obsidian Panel
+25131,258,true,Hollow Smoked Quartz Panel
+25131,258,true,Hollow Frosted Stone Panel
+25131,258,true,Hollow Border Stone Panel
+25131,258,true,Hollow Unstable Ingot Block Panel
+25131,258,true,Hollow Gravel Bricks Panel
+25131,258,true,Hollow Ender-Thermic Pump Panel
+25131,258,true,Hollow Ethereal Glass Panel
+25131,258,true,Hollow Trading Post Panel
+25131,258,true,Hollow Glass Panel
+25131,258,true,Hollow Grass Block Panel
+25131,258,true,Hollow Netherrack Panel
+25131,258,true,Hollow Soul Sand Panel
+25131,258,true,Hollow Ice block Panel
+25131,258,true,Hollow Oak Leaves Panel
+25131,258,true,Hollow Spruce Leaves Panel
+25131,258,true,Hollow Birch Leaves Panel
+25131,258,true,Hollow Jungle Leaves Panel
+25131,258,true,Hollow Glowstone Panel
+25131,258,true,Hollow Oak Wood Panel
+25131,258,true,Hollow Spruce Wood Panel
+25131,258,true,Hollow Birch Wood Panel
+25131,258,true,Hollow Jungle Wood Panel
+25131,258,true,Hollow Mycelium Panel
+25131,258,true,Hollow Nether Brick Panel
+25131,258,true,Hollow Obsidian Panel
+25131,258,true,Hollow Block of Quartz Panel
+25131,258,true,Hollow Sandstone Panel
+25131,258,true,Hollow Chiseled Sandstone Panel
+25131,258,true,Hollow Smooth Sandstone Panel
+25131,258,true,Hollow Snow Panel
+25131,258,true,Hollow Sponge Panel
+25131,258,true,Hollow Stone Panel
+25131,258,true,Hollow Moss Stone Panel
+25131,258,true,Hollow Cobblestone Panel
+25131,258,true,Hollow Stone Bricks Panel
+25131,258,true,Hollow Mossy Stone Bricks Panel
+25131,258,true,Hollow Cracked Stone Bricks Panel
+25131,258,true,Hollow Chiseled Stone Bricks Panel
+25131,258,true,Hollow End Stone Panel
+25131,258,true,Hollow Oak Wood Planks Panel
+25131,258,true,Hollow Spruce Wood Planks Panel
+25131,258,true,Hollow Birch Wood Planks Panel
+25131,258,true,Hollow Jungle Wood Planks Panel
+25131,260,true,Hollow Block of Coal Slab
+25131,260,true,Hollow Block of Diamond Slab
+25131,260,true,Hollow Block of Emerald Slab
+25131,260,true,Hollow Block of Gold Slab
+25131,260,true,Hollow Block of Iron Slab
+25131,260,true,Hollow Lapis Lazuli Block Slab
+25131,260,true,Hollow Block of Redstone Slab
+25131,260,true,Hollow Bookshelf Slab
+25131,260,true,Hollow Bricks Slab
+25131,260,true,Hollow Clay Slab
+25131,260,true,Hollow Hardened Clay Slab
+25131,260,true,Hollow White Stained Clay Slab
+25131,260,true,Hollow Orange Stained Clay Slab
+25131,260,true,Hollow Purple Stained Clay Slab
+25131,260,true,Hollow Blue Stained Clay Slab
+25131,260,true,Hollow Brown Stained Clay Slab
+25131,260,true,Hollow Green Stained Clay Slab
+25131,260,true,Hollow Red Stained Clay Slab
+25131,260,true,Hollow Black Stained Clay Slab
+25131,260,true,Hollow Magenta Stained Clay Slab
+25131,260,true,Hollow Light Blue Stained Clay Slab
+25131,260,true,Hollow Yellow Stained Clay Slab
+25131,260,true,Hollow Lime Stained Clay Slab
+25131,260,true,Hollow Pink Stained Clay Slab
+25131,260,true,Hollow Gray Stained Clay Slab
+25131,260,true,Hollow Light Gray Stained Clay Slab
+25131,260,true,Hollow Cyan Stained Clay Slab
+25131,260,true,Hollow Wool Slab
+25131,260,true,Hollow Orange Wool Slab
+25131,260,true,Hollow Purple Wool Slab
+25131,260,true,Hollow Blue Wool Slab
+25131,260,true,Hollow Brown Wool Slab
+25131,260,true,Hollow Green Wool Slab
+25131,260,true,Hollow Red Wool Slab
+25131,260,true,Hollow Black Wool Slab
+25131,260,true,Hollow Magenta Wool Slab
+25131,260,true,Hollow Light Blue Wool Slab
+25131,260,true,Hollow Yellow Wool Slab
+25131,260,true,Hollow Lime Wool Slab
+25131,260,true,Hollow Pink Wool Slab
+25131,260,true,Hollow Gray Wool Slab
+25131,260,true,Hollow Light Gray Wool Slab
+25131,260,true,Hollow Cyan Wool Slab
+25131,260,true,Hollow Dirt Slab
+25131,260,true,Hollow Angel Block Slab
+25131,260,true,Hollow Compressed Cobblestone Slab
+25131,260,true,Hollow Double Compressed Cobblestone Slab
+25131,260,true,Hollow Triple Compressed Cobblestone Slab
+25131,260,true,Hollow Quadruple Compressed Cobblestone Slab
+25131,260,true,Hollow Quintuple Compressed Cobblestone Slab
+25131,260,true,Hollow Sextuple Compressed Cobblestone Slab
+25131,260,true,Hollow Septuple Compressed Cobblestone Slab
+25131,260,true,Hollow Octuple Compressed Cobblestone Slab
+25131,260,true,Hollow Colored Bricks (White) Slab
+25131,260,true,Hollow Colored Bricks (Orange) Slab
+25131,260,true,Hollow Colored Bricks (Purple) Slab
+25131,260,true,Hollow Colored Bricks (Blue) Slab
+25131,260,true,Hollow Colored Bricks (Brown) Slab
+25131,260,true,Hollow Colored Bricks (Green) Slab
+25131,260,true,Hollow Colored Bricks (Red) Slab
+25131,260,true,Hollow Colored Bricks (Black) Slab
+25131,260,true,Hollow Colored Bricks (Magenta) Slab
+25131,260,true,Hollow Colored Bricks (Light Blue) Slab
+25131,260,true,Hollow Colored Bricks (Yellow) Slab
+25131,260,true,Hollow Colored Bricks (Lime) Slab
+25131,260,true,Hollow Colored Bricks (Pink) Slab
+25131,260,true,Hollow Colored Bricks (Gray) Slab
+25131,260,true,Hollow Colored Bricks (Light Gray) Slab
+25131,260,true,Hollow Colored Bricks (Cyan) Slab
+25131,260,true,Hollow Colored Wood Planks (White) Slab
+25131,260,true,Hollow Colored Wood Planks (Orange) Slab
+25131,260,true,Hollow Colored Wood Planks (Purple) Slab
+25131,260,true,Hollow Colored Wood Planks (Blue) Slab
+25131,260,true,Hollow Colored Wood Planks (Brown) Slab
+25131,260,true,Hollow Colored Wood Planks (Green) Slab
+25131,260,true,Hollow Colored Wood Planks (Red) Slab
+25131,260,true,Hollow Colored Wood Planks (Black) Slab
+25131,260,true,Hollow Colored Wood Planks (Magenta) Slab
+25131,260,true,Hollow Colored Wood Planks (Light Blue) Slab
+25131,260,true,Hollow Colored Wood Planks (Yellow) Slab
+25131,260,true,Hollow Colored Wood Planks (Lime) Slab
+25131,260,true,Hollow Colored Wood Planks (Pink) Slab
+25131,260,true,Hollow Colored Wood Planks (Gray) Slab
+25131,260,true,Hollow Colored Wood Planks (Light Gray) Slab
+25131,260,true,Hollow Colored Wood Planks (Cyan) Slab
+25131,260,true,Hollow Edged Stone Bricks Slab
+25131,260,true,Hollow Ender-infused Obsidian Slab
+25131,260,true,Hollow Smoked Quartz Slab
+25131,260,true,Hollow Frosted Stone Slab
+25131,260,true,Hollow Border Stone Slab
+25131,260,true,Hollow Unstable Ingot Block Slab
+25131,260,true,Hollow Gravel Bricks Slab
+25131,260,true,Hollow Ender-Thermic Pump Slab
+25131,260,true,Hollow Ethereal Glass Slab
+25131,260,true,Hollow Trading Post Slab
+25131,260,true,Hollow Glass Slab
+25131,260,true,Hollow Grass Block Slab
+25131,260,true,Hollow Netherrack Slab
+25131,260,true,Hollow Soul Sand Slab
+25131,260,true,Hollow Ice block Slab
+25131,260,true,Hollow Oak Leaves Slab
+25131,260,true,Hollow Spruce Leaves Slab
+25131,260,true,Hollow Birch Leaves Slab
+25131,260,true,Hollow Jungle Leaves Slab
+25131,260,true,Hollow Glowstone Slab
+25131,260,true,Hollow Oak Wood Slab
+25131,260,true,Hollow Spruce Wood Slab
+25131,260,true,Hollow Birch Wood Slab
+25131,260,true,Hollow Jungle Wood Slab
+25131,260,true,Hollow Mycelium Slab
+25131,260,true,Hollow Nether Brick Slab
+25131,260,true,Hollow Obsidian Slab
+25131,260,true,Hollow Block of Quartz Slab
+25131,260,true,Hollow Sandstone Slab
+25131,260,true,Hollow Chiseled Sandstone Slab
+25131,260,true,Hollow Smooth Sandstone Slab
+25131,260,true,Hollow Snow Slab
+25131,260,true,Hollow Sponge Slab
+25131,260,true,Hollow Stone Slab
+25131,260,true,Hollow Moss Stone Slab
+25131,260,true,Hollow Cobblestone Slab
+25131,260,true,Hollow Stone Bricks Slab
+25131,260,true,Hollow Mossy Stone Bricks Slab
+25131,260,true,Hollow Cracked Stone Bricks Slab
+25131,260,true,Hollow Chiseled Stone Bricks Slab
+25131,260,true,Hollow End Stone Slab
+25131,260,true,Hollow Oak Wood Planks Slab
+25131,260,true,Hollow Spruce Wood Planks Slab
+25131,260,true,Hollow Birch Wood Planks Slab
+25131,260,true,Hollow Jungle Wood Planks Slab
 25131,513,true,Block of Coal Nook
 25131,513,true,Block of Diamond Nook
 25131,513,true,Block of Emerald Nook
@@ -11162,6 +11187,8 @@ Item ID,Item meta,Has NBT,Display Name
 29998,84,false,Blade Arm
 29999,0,false,Modular cart
 30031,0,false,Refined Iron Dust
+30035,1,true,Adv.Batpack
+30035,27,false,Adv.Batpack
 30036,1,true,Advanced RE-Battery
 30036,27,false,Advanced RE-Battery
 30037,0,false,Copper Item Casing
@@ -11224,6 +11251,7 @@ Item ID,Item meta,Has NBT,Display Name
 30065,4,false,Small Pile of Silver Dust
 30065,5,false,Small Pile of Lead Dust
 30065,6,false,Small Pile of Sulfur Dust
+30065,7,false,Small Pile of Lithium Dust
 30066,0,false,Bronze Dust
 30066,1,false,Clay Dust
 30066,2,false,Coal Dust
@@ -11238,6 +11266,7 @@ Item ID,Item meta,Has NBT,Display Name
 30066,11,false,Obsidian Dust
 30066,12,false,Lapis Lazuli Dust
 30066,13,false,Sulfur Dust
+30066,14,false,Lithium Dust
 30067,0,false,Copper
 30067,1,false,Tin
 30067,2,false,Bronze
@@ -11245,7 +11274,7 @@ Item ID,Item meta,Has NBT,Display Name
 30067,4,false,Mixed Metal Ingot
 30067,5,false,Lead
 30076,1,true,Obscurator
-30076,27,true,Obscurator
+30076,27,false,Obscurator
 30077,0,false,Carbon Fiber Canoe
 30077,1,false,Rubber Dinghy
 30077,2,false,Damaged Rubber Dinghy
@@ -11334,14 +11363,10 @@ Item ID,Item meta,Has NBT,Display Name
 30126,0,true,Hops Seeds
 30126,0,true,Carrots Seeds
 30126,0,true,Potato Seeds
-30127,1,true,Lappack
-30127,27,false,Lappack
 30128,0,false,Iridium Ore
 30129,0,true,CF Backpack
-30130,0,false,Silver Dust
 30131,0,true,CF Sprayer
 30132,0,false,CF Powder
-30133,0,false,Clay Dust
 30134,0,false,Frequency Transmitter
 30135,0,false,Industrial Diamond
 30136,0,false,Coal Chunk
@@ -11357,9 +11382,8 @@ Item ID,Item meta,Has NBT,Display Name
 30145,0,false,TFBP - Cultivation
 30146,0,false,TFBP - Empty
 30147,0,false,Iridium Reinforced Plate
-30148,0,false,ic2.itemNanoSaberOff
 30149,1,true,Nano Saber
-30149,27,true,Nano Saber
+30149,27,false,Nano Saber
 30150,0,false,Carbon Plate
 30151,0,false,Raw Carbon Mesh
 30152,0,false,Raw Carbon Fibre
@@ -11430,7 +11454,6 @@ Item ID,Item meta,Has NBT,Display Name
 30198,0,false,Bronze Sword
 30199,0,false,Bronze Axe
 30200,0,false,Bronze Pickaxe
-30201,0,false,Lithium Dust
 30202,0,false,Fuel Rod (Tritium)
 30203,0,false,Fuel Rod (Lithium)
 30204,0,false,Heat Exchanger
@@ -11481,18 +11504,6 @@ Item ID,Item meta,Has NBT,Display Name
 30241,27,false,Energy Crystal
 30242,1,true,RE-Battery
 30243,0,false,Enriched Uranium Nuclear Fuel
-30245,0,false,Mixed Metal Ingot
-30246,0,false,Bronze
-30247,0,false,Tin
-30248,0,false,Copper
-30249,0,false,Refined Iron
-30250,0,false,Small Pile of Iron Dust
-30251,0,false,Bronze Dust
-30252,0,false,Tin Dust
-30253,0,false,Copper Dust
-30254,0,false,Gold Dust
-30255,0,false,Iron Dust
-30256,0,false,Coal Dust
 30473,1,true,GraviChestPlate
 30473,27,false,GraviChestPlate
 30474,1,true,Ultimate Lappack
@@ -11515,7 +11526,7 @@ Item ID,Item meta,Has NBT,Display Name
 30481,1,true,Advanced Electric Jetpack
 30481,27,false,Advanced Electric Jetpack
 30482,1,true,GraviTool
-30482,27,true,GraviTool
+30482,27,false,GraviTool
 30483,1,true,Advanced NanoChestPlate
 30483,27,false,Advanced NanoChestPlate
 30786,0,false,Lapis Plate
@@ -11529,12 +11540,6 @@ Item ID,Item meta,Has NBT,Display Name
 30794,0,false,Weeping Coolant Cell
 30795,0,false,Dense Lead Plate
 30796,0,false,Infernal Ingot
-30851,0,false,Energy Link Card
-30852,0,false,Energy Link Card (Blank)
-30855,0,false,Charging Bench Toolkit
-30855,1,false,LV Charging Bench Components
-30855,2,false,MV Charging Bench Components
-30855,3,false,HV Charging Bench Components
 31256,0,false,Thermometer
 31257,1,true,Digital Thermometer
 31257,101,false,Digital Thermometer
@@ -11553,17 +11558,6 @@ Item ID,Item meta,Has NBT,Display Name
 31266,1,false,Liquid Sensor Location Card
 31267,0,false,Text Card
 31756,0,false,Water Cell
-31983,0,false,Water Pump Pipe
-31984,0,false,item.PipeSwitchFluids
-31985,0,false,Switch Transport Pipe
-31986,0,false,Switch Conductive Pipe
-31987,0,false,Closed Transport Pipe
-31988,0,false,Phased Conductive Pipe
-31989,0,false,Phased Waterproof Pipe
-31990,0,false,Phased Transport Pipe
-31991,0,false,Distribution Transport Pipe
-31992,0,false,Adv. Wooden Transport Pipe
-31993,0,false,Insertion Transport Pipe
 31996,0,false,Copper Ingot
 31997,0,false,Apatite
 31998,0,false,Fertilizer

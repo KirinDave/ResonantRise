@@ -420,6 +420,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 717,Block,EnderIO,tile.enderIO:blockCustomSlab,crazypants.enderio.machine.painter.BlockCustomSlab
 718,Block,EnderIO,tile.enderIO:blockCustomSlab,crazypants.enderio.machine.painter.BlockCustomSlab
 719,Block,EnderIO,tile.enderIO:blockCrusher,crazypants.enderio.machine.crusher.BlockCrusher
+720,Block,EnderIO,tile.enderIO:blockHyperCube,crazypants.enderio.machine.hypercube.BlockHyperCube
 740,Block,minegicka,tile.minegicka:magikAltar,willeze.minegicka.stuffs.objects.BlockMagikAltar
 741,Block,minegicka,tile.minegicka:dustGenerator1,willeze.minegicka.stuffs.objects.BlockDustGenerator
 742,Block,minegicka,tile.minegicka:dustGenerator2,willeze.minegicka.stuffs.objects.BlockDustGenerator
@@ -455,7 +456,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 855,Block,IC2,ic2.blockfluidUuMatter,ic2.core.block.BlockIC2Fluid
 856,Block,IC2,ic2.blockfluidCf,ic2.core.block.BlockIC2Fluid
 860,Block,AdvancedMachines,tile.null,ic2.advancedmachines.common.BlockAdvancedMachines
-865,Block,AdvancedPowerManagement,tile.AdvPwrMan,com.kaijin.AdvPowerMan.BlockAdvPwrMan
 870,Block,ChargePads,tile.chargePad,myrathi.ic2.chargepads.block.BlockChargePad
 880,Block,IC2NuclearControl,tile.blockThermalMonitor,shedar.mods.ic2.nuclearcontrol.BlockNuclearControlMain
 890,Block,AdvancedReactors,tile.highTempMachine,phero.mods.advancedreactors.blocks.BlockHighTempMachine
@@ -662,7 +662,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1721,Block,Metallurgy3Base,tile.M3LETNT,rebelkeithy.mods.metallurgy.metals.utilityItems.tnt.BlockMinersTNT
 1722,Block,Metallurgy3Machines,tile.MinersLaser,rebelkeithy.mods.metallurgy.machines.laser.BlockLaser
 1730,Block,Metallurgy3Machines,tile.Metallurgy:machines/enchanter/Enchanter,rebelkeithy.mods.metallurgy.machines.enchanter.BlockMetallurgyEnchantmentTable
-1890,Block,APUnofficial,tile.TeleportTether,buildcraft.additionalpipes.chunkloader.BlockChunkLoader
 1900,Block,DartCraft,tile.powerOre,bluedart.block.BlockPowerOre
 1901,Block,DartCraft,tile.forceStairs,bluedart.block.BlockForceStairs
 1902,Block,DartCraft,block.forceInfuser,bluedart.block.BlockForceInfuser
@@ -794,6 +793,45 @@ ID,Block/Item,Mod,Unlocalised name,Class
 2265,Block,Minecraft,tile.ForgeFiller,null
 2266,Block,Minecraft,tile.ForgeFiller,null
 2267,Block,Minecraft,tile.ForgeFiller,null
+2270,Block,ExtraTiC,tile.molten.angmallen,glassmaker.extratic.metals.MoltenMetalBlock
+2271,Block,ExtraTiC,tile.molten.damascus.steel,glassmaker.extratic.metals.MoltenMetalBlock
+2272,Block,ExtraTiC,tile.molten.hepatizon,glassmaker.extratic.metals.MoltenMetalBlock
+2273,Block,ExtraTiC,tile.molten.manganese,glassmaker.extratic.metals.MoltenMetalBlock
+2274,Block,ExtraTiC,tile.molten.brass,glassmaker.extratic.metals.MoltenMetalBlock
+2275,Block,ExtraTiC,tile.molten.zinc,glassmaker.extratic.metals.MoltenMetalBlock
+2276,Block,ExtraTiC,tile.molten.amordrine,glassmaker.extratic.metals.MoltenMetalBlock
+2277,Block,ExtraTiC,tile.molten.alduorite,glassmaker.extratic.metals.MoltenMetalBlock
+2278,Block,ExtraTiC,tile.molten.ceruclase,glassmaker.extratic.metals.MoltenMetalBlock
+2279,Block,ExtraTiC,tile.molten.ignatius,glassmaker.extratic.metals.MoltenMetalBlock
+2280,Block,ExtraTiC,tile.molten.inolashite,glassmaker.extratic.metals.MoltenMetalBlock
+2281,Block,ExtraTiC,tile.molten.kalendrite,glassmaker.extratic.metals.MoltenMetalBlock
+2282,Block,ExtraTiC,tile.molten.lemurite,glassmaker.extratic.metals.MoltenMetalBlock
+2283,Block,ExtraTiC,tile.molten.midasium,glassmaker.extratic.metals.MoltenMetalBlock
+2284,Block,ExtraTiC,tile.molten.sanguinite,glassmaker.extratic.metals.MoltenMetalBlock
+2285,Block,ExtraTiC,tile.molten.shadow.iron,glassmaker.extratic.metals.MoltenMetalBlock
+2286,Block,ExtraTiC,tile.molten.shadow.steel,glassmaker.extratic.metals.MoltenMetalBlock
+2287,Block,ExtraTiC,tile.molten.vulcanite,glassmaker.extratic.metals.MoltenMetalBlock
+2288,Block,ExtraTiC,tile.molten.vyroxeres,glassmaker.extratic.metals.MoltenMetalBlock
+2289,Block,ExtraTiC,tile.molten.adamantine,glassmaker.extratic.metals.MoltenMetalBlock
+2290,Block,ExtraTiC,tile.molten.astral.silver,glassmaker.extratic.metals.MoltenMetalBlock
+2291,Block,ExtraTiC,tile.molten.atlarus,glassmaker.extratic.metals.MoltenMetalBlock
+2292,Block,ExtraTiC,tile.molten.black.steel,glassmaker.extratic.metals.MoltenMetalBlock
+2293,Block,ExtraTiC,tile.molten.carmot,glassmaker.extratic.metals.MoltenMetalBlock
+2294,Block,ExtraTiC,tile.molten.celenegil,glassmaker.extratic.metals.MoltenMetalBlock
+2295,Block,ExtraTiC,tile.molten.deep.iron,glassmaker.extratic.metals.MoltenMetalBlock
+2296,Block,ExtraTiC,tile.molten.haderoth,glassmaker.extratic.metals.MoltenMetalBlock
+2297,Block,ExtraTiC,tile.molten.infuscolium,glassmaker.extratic.metals.MoltenMetalBlock
+2298,Block,ExtraTiC,tile.molten.mithril,glassmaker.extratic.metals.MoltenMetalBlock
+2299,Block,ExtraTiC,tile.molten.orichalcum,glassmaker.extratic.metals.MoltenMetalBlock
+2300,Block,ExtraTiC,tile.molten.oureclase,glassmaker.extratic.metals.MoltenMetalBlock
+2301,Block,ExtraTiC,tile.molten.prometheum,glassmaker.extratic.metals.MoltenMetalBlock
+2302,Block,ExtraTiC,tile.molten.quicksilver,glassmaker.extratic.metals.MoltenMetalBlock
+2303,Block,ExtraTiC,tile.molten.rubracium,glassmaker.extratic.metals.MoltenMetalBlock
+2304,Block,ExtraTiC,tile.molten.tartarite,glassmaker.extratic.metals.MoltenMetalBlock
+2305,Block,ExtraTiC,tile.molten.desichalkos,glassmaker.extratic.metals.MoltenMetalBlock
+2306,Block,ExtraTiC,tile.molten.eximite,glassmaker.extratic.metals.MoltenMetalBlock
+2307,Block,ExtraTiC,tile.molten.meutoite,glassmaker.extratic.metals.MoltenMetalBlock
+2308,Block,ExtraTiC,tile.molten.platinum,glassmaker.extratic.metals.MoltenMetalBlock
 2401,Block,CarpentersBlocks,tile.blockCarpentersSlope,carpentersblocks.block.BlockCarpentersSlope
 2402,Block,CarpentersBlocks,tile.blockCarpentersStairs,carpentersblocks.block.BlockCarpentersStairs
 2403,Block,CarpentersBlocks,tile.blockCarpentersBarrier,carpentersblocks.block.BlockCarpentersBarrier
@@ -806,6 +844,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 2410,Block,CarpentersBlocks,tile.blockCarpentersHatch,carpentersblocks.block.BlockCarpentersHatch
 2411,Block,CarpentersBlocks,tile.blockCarpentersDoor,carpentersblocks.block.BlockCarpentersDoor
 2412,Block,CarpentersBlocks,tile.blockCarpentersBed,carpentersblocks.block.BlockCarpentersBed
+2413,Block,CarpentersBlocks,tile.blockCarpentersLadder,carpentersblocks.block.BlockCarpentersLadder
 2500,Block,ExtraUtilities,tile.extrautils:angelBlock,extrautils.block.BlockAngelBlock
 2501,Block,ExtraUtilities,tile.extrautils:budoff,extrautils.block.BlockBUD
 2502,Block,ExtraUtilities,tile.extrautils:chandelier,extrautils.block.BlockChandelier
@@ -939,11 +978,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3173,Block,emashercore,tile.e_ore,emasher.core.block.BlockOre
 3174,Block,emashercore,tile.e_metal,emasher.core.block.BlockMetal
 3175,Block,emashercore,tile.pondScum,emasher.core.block.BlockPondScum
-3180,Block,emasherdefense,tile.chainFence,emasher.defense.BlockThin
-3181,Block,emasherdefense,tile.deflectorGenerator,emasher.defense.BlockDeflectorGen
-3182,Block,emasherdefense,tile.deflector,emasher.defense.BlockDeflector
-3183,Block,emasherdefense,tile.emeryTile,emasher.defense.BlockEmeryTile
-3184,Block,emasherdefense,tile.sandbag,emasher.defense.BlockSandBag
 3190,Block,TConstruct,tile.slime.channel,tconstruct.blocks.ConveyorBase
 3191,Block,TConstruct,tile.slime.pad,tconstruct.blocks.SlimePad
 3195,Block,TConstruct,tile.metal.molten.silver,tconstruct.blocks.LiquidMetalFinite
@@ -1132,7 +1166,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3942,Block,Translocator,tile.null,codechicken.translocator.BlockCraftingGrid
 3970,Block,BasicComponents,tile.basiccomponents:oreCopper,basiccomponents.BlockBase
 3971,Block,BasicComponents,tile.basiccomponents:oreTin,basiccomponents.BlockBase
-3972,Block,MFFS,tile.basiccomponents:copperWire,basiccomponents.common.block.BlockCopperWire
 4070,Block,eng_toolbox,tile.modular_socket,emasher.sockets.BlockSocket
 4071,Block,eng_toolbox,tile.tempRS,emasher.sockets.BlockTempRS
 4072,Block,eng_toolbox,tile.paintedPlanks,emasher.sockets.BlockPaintedWood
@@ -1440,6 +1473,9 @@ ID,Block/Item,Mod,Unlocalised name,Class
 8788,Item,EnderIO,item.enderIO:itemAlloy,crazypants.enderio.material.ItemAlloy
 8789,Item,EnderIO,item.enderIO:itemFusedQuartzFrame,crazypants.enderio.material.ItemFusedQuartzFrame
 8790,Item,EnderIO,item.enderIO:itemYetaWrench,crazypants.enderio.material.ItemYetaWrench
+8791,Item,EnderIO,item.enderIO:itemMachinePart,crazypants.enderio.material.ItemMachinePart
+8792,Item,EnderIO,item.enderIO:itemPowderIngot,crazypants.enderio.material.ItemPowderIngot
+8793,Item,EnderIO,item.enderIO:itemMJReader,crazypants.enderio.material.ItemMJReader
 8956,Item,Mystcraft,item.myst.agebook,com.xcompwiz.mystcraft.item.ItemAgebook
 8957,Item,Mystcraft,item.myst.linkbook,com.xcompwiz.mystcraft.item.ItemLinkbook
 8958,Item,Mystcraft,item.myst.notebook,com.xcompwiz.mystcraft.item.ItemNotebook
@@ -1666,8 +1702,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 12299,Item,emashercore,item.hempTunic,emasher.core.hemp.ItemHempTunic
 12300,Item,emashercore,item.hempPants,emasher.core.hemp.ItemHempPants
 12301,Item,emashercore,item.hempShoes,emasher.core.hemp.ItemHempShoes
-12313,Item,emasherdefense,item.chainSheet,emasher.defense.ItemChainSheet
-12314,Item,emasherdefense,item.fenceWire,emasher.defense.ItemFenceWire
 12329,Item,emashercore,item.circuit,emasher.core.item.ItemCircuit
 12330,Item,emashercore,item.psu,emasher.core.item.ItemEmasherGeneric
 12331,Item,emashercore,item.e_gem,emasher.core.item.ItemGem
@@ -2145,6 +2179,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 19765,Item,IronChest,item.ironchest:DIAMONDOBSIDIAN,cpw.mods.ironchest.ItemChestChanger
 20256,Item,DenPipes,item.null,denoflionsx.DenPipes.AddOns.Core.Pipe.DenItemPipe
 20257,Item,DenPipes,item.null,denoflionsx.DenPipes.AddOns.Core.Pipe.DenItemPipe
+20258,Item,DenPipes,item.null,denoflionsx.DenPipes.AddOns.Core.Pipe.DenItemPipe
 20262,Item,ChargePads,item.upgradeBasicModule,myrathi.ic2.chargepads.item.modules.ItemBasicModule
 20263,Item,ChargePads,item.upgradeEmitterModule,myrathi.ic2.chargepads.item.modules.ItemEmitterModule
 20264,Item,ChargePads,item.upgradeKit,myrathi.ic2.chargepads.item.ItemUpgradeKit
@@ -2767,6 +2802,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 29998,Item,StevesCarts,item.SC2unknowncomponent,vswe.stevescarts.Items.ItemCartComponent
 29999,Item,StevesCarts,item.SC2ModularCart,vswe.stevescarts.Items.ItemCarts
 30031,Item,AdvancedMachines,item.advancedmachines:refinedIronDust,ic2.advancedmachines.common.ItemDust
+30034,Item,IC2,itemArmorEnergypack,ic2.core.item.armor.ItemArmorEnergypack
+30035,Item,IC2,itemArmorAdvBatpack,ic2.core.item.armor.ItemArmorAdvBatpack
 30036,Item,IC2,itemAdvBat,ic2.core.item.ItemBattery
 30037,Item,IC2,itemCasing,ic2.core.item.resources.ItemCasing
 30038,Item,IC2,itemRecipePart,ic2.core.item.resources.ItemRecipePart
@@ -2844,7 +2881,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 30124,Item,IC2,itemTreetapElectric,ic2.core.item.tool.ItemTreetapElectric
 30125,Item,IC2,upgradeModule,ic2.core.item.ItemUpgradeModule
 30126,Item,IC2,itemCropSeed,ic2.core.item.ItemCropSeed
-30127,Item,IC2,itemArmorLappack,ic2.core.item.armor.ItemArmorLappack
+30127,Item,IC2,itemArmorLappack,ic2.core.migration.ItemMigrate
 30128,Item,IC2,itemOreIridium,ic2.core.item.ItemIC2
 30129,Item,IC2,itemArmorCFPack,ic2.core.item.armor.ItemArmorCFPack
 30130,Item,IC2,itemDustSilver,ic2.core.migration.ItemMigrate
@@ -2918,7 +2955,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 30198,Item,IC2,itemToolBronzeSword,ic2.core.item.tool.ItemIC2Sword
 30199,Item,IC2,itemToolBronzeAxe,ic2.core.item.tool.ItemIC2Axe
 30200,Item,IC2,itemToolBronzePickaxe,ic2.core.item.tool.ItemIC2Pickaxe
-30201,Item,IC2,itemLithium,ic2.core.item.ItemIC2
+30201,Item,IC2,itemLithium,ic2.core.migration.ItemMigrate
 30202,Item,IC2,itemTritiumCell,ic2.core.item.ItemIC2
 30203,Item,IC2,reactorLithiumCell,ic2.core.item.reactor.ItemReactorLithiumCell
 30204,Item,IC2,reactorHeatSwitch,ic2.core.item.reactor.ItemReactorHeatSwitch
@@ -2993,9 +3030,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 30794,Item,AdvancedReactors,item.weepingCoolantCell,phero.mods.advancedreactors.items.ItemWeepingCoolantCell
 30795,Item,AdvancedReactors,item.plateDenseLead,phero.mods.advancedreactors.items.ItemAR
 30796,Item,AdvancedReactors,item.ingotInfernal,phero.mods.advancedreactors.items.ItemAR
-30851,Item,AdvancedPowerManagement,item.Energy Link Card,com.kaijin.AdvPowerMan.ItemStorageLinkCard
-30852,Item,AdvancedPowerManagement,item.Energy Link Card (Blank),com.kaijin.AdvPowerMan.ItemStorageLinkCardCreator
-30855,Item,AdvancedPowerManagement,item.Charging Bench Toolkit,com.kaijin.AdvPowerMan.ItemBenchTools
 31256,Item,IC2NuclearControl,item.ItemToolThermometer,shedar.mods.ic2.nuclearcontrol.items.ItemToolThermometer
 31257,Item,IC2NuclearControl,item.ItemToolDigitalThermometer,shedar.mods.ic2.nuclearcontrol.items.ItemToolDigitalThermometer
 31258,Item,IC2NuclearControl,item.ItemRemoteSensorKit,shedar.mods.ic2.nuclearcontrol.items.ItemKitReactorSensor
@@ -3009,17 +3043,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 31266,Item,IC2NuclearControl,item.null,shedar.mods.ic2.nuclearcontrol.items.ItemCardMultipleSensorLocation
 31267,Item,IC2NuclearControl,item.ItemTextCard,shedar.mods.ic2.nuclearcontrol.items.ItemCardText
 31756,Item,AtomicScience,item.atomicscience:cellWater,atomicscience.wujian.ItCell
-31983,Item,APUnofficial,item.PipeLiquidsWaterPump,buildcraft.transport.ItemPipe
-31984,Item,APUnofficial,item.PipeSwitchFluids,buildcraft.transport.ItemPipe
-31985,Item,APUnofficial,item.PipeSwitchItems,buildcraft.transport.ItemPipe
-31986,Item,APUnofficial,item.PipeSwitchPower,buildcraft.transport.ItemPipe
-31987,Item,APUnofficial,item.PipeItemsClosed,buildcraft.transport.ItemPipe
-31988,Item,APUnofficial,item.PipePowerTeleport,buildcraft.additionalpipes.AdditionalPipes.ItemPipeAP
-31989,Item,APUnofficial,item.PipeLiquidsTeleport,buildcraft.additionalpipes.AdditionalPipes.ItemPipeAP
-31990,Item,APUnofficial,item.PipeItemsTeleport,buildcraft.additionalpipes.AdditionalPipes.ItemPipeAP
-31991,Item,APUnofficial,item.PipeItemsDistributor,buildcraft.transport.ItemPipe
-31992,Item,APUnofficial,item.PipeItemsAdvancedWood,buildcraft.transport.ItemPipe
-31993,Item,APUnofficial,item.PipeItemsAdvancedInsertion,buildcraft.transport.ItemPipe
 31996,Item,Forestry,item.ingotCopper,forestry.core.items.ItemForestry
 31997,Item,Forestry,item.apatite,forestry.core.items.ItemForestry
 31998,Item,Forestry,item.fertilizerCompound,forestry.core.items.ItemForestry
