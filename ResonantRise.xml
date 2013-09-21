@@ -47,7 +47,11 @@
     <mod url="packs/ResonantRise/files/NotEnoughItems%201.6.1.3.jar" file="NotEnoughItems 1.6.1.3.jar" md5="24efaf7c06969c25fb248ddebb976dd6" download="server"
          name="Not Enough Items" type="mods" 
          version="1.6.1.3" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" description=""  />
-    <mod url="packs/ResonantRise/files/appeng-rv13-c-mc162.jar" file="appeng-rv13-c-mc162.jar" md5="06bc64008c786ddd49511ba499902c8a" download="server"
+    <mod url="packs/ResonantRise/files/neiaddons-1.6.2-1.9.0.r40.jar" file="neiaddons-1.6.2-1.9.0.r40.jar" md5="c4b5ef93b541c79cefefc15d79784e0b" download="server"
+        name="NEI Addons" type="mods" version="1.9.0.r40"
+        website=""
+        description="" />
+	<mod url="packs/ResonantRise/files/appeng-rv13-c-mc162.jar" file="appeng-rv13-c-mc162.jar" md5="06bc64008c786ddd49511ba499902c8a" download="server"
          name="Applied Energistics" optional="no" type="mods" 
          version="rv13c"
          website="http://ae-mod.info/"
@@ -313,10 +317,6 @@
         name="TabbyChat" type="mods" server="no" version="1.9.02"
         website=""
         description="Minecraft chat customisation at long last!" />
-	<mod url="packs/ResonantRise/files/neiaddons-1.6.2-1.9.0.r40.jar" file="neiaddons-1.6.2-1.9.0.r40.jar" md5="c4b5ef93b541c79cefefc15d79784e0b" download="server"
-        name="NEI Addons" type="mods" server="no" version="1.9.0.r40"
-        website=""
-        description="" />
 	<mod url="packs/ResonantRise/files/NEIPlugins-1.1.0.0pre1.jar" file="NEIPlugins-1.1.0.0pre1.jar" md5="fa0a3bc407a9f2df5ec4c832e9639374" download="server"
         name="NEI Plugins" type="mods" server= "no" version="1.1.0.0pre1"
         website=""
