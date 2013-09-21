@@ -847,7 +847,6 @@ Item ID,Item meta,Has NBT,Display Name
 472,3,false,Ornate Frost Bound Stone
 472,4,false,Etched Frost Bound Stone
 472,5,false,Frost Bound Cobblestone
-473,0,false,Residual Heat
 474,0,false,Strengthened Glass
 490,0,false,Creosote
 491,0,false,Steam
@@ -1313,6 +1312,136 @@ Item ID,Item meta,Has NBT,Display Name
 1002,1,false,Block of Silver
 1002,2,false,Block of Lead
 1002,3,false,Block of Dark Iron
+1050,0,false,Luma Lamp
+1050,1,false,Orange Luma Lamp
+1050,2,false,Magenta Luma Lamp
+1050,3,false,Light Blue Luma Lamp
+1050,4,false,Yellow Luma Lamp
+1050,5,false,Light Green Luma Lamp
+1050,6,false,Pink Luma Lamp
+1050,7,false,Dark Grey Luma Lamp
+1050,8,false,Light Grey Luma Lamp
+1050,9,false,Cyan Luma Lamp
+1050,10,false,Purple Luma Lamp
+1050,11,false,Blue Luma Lamp
+1050,12,false,Brown Luma Lamp
+1050,13,false,Green Luma Lamp
+1050,14,false,Red Luma Lamp
+1050,15,false,Black Luma Lamp
+1052,0,false,Inverted Luma Lamp
+1052,1,false,Inverted Orange Luma Lamp
+1052,2,false,Inverted Magenta Luma Lamp
+1052,3,false,Inverted Light Blue Luma Lamp
+1052,4,false,Inverted Yellow Luma Lamp
+1052,5,false,Inverted Light Green Luma Lamp
+1052,6,false,Inverted Pink Luma Lamp
+1052,7,false,Inverted Dark Grey Luma Lamp
+1052,8,false,Inverted Light Grey Luma Lamp
+1052,9,false,Inverted Cyan Luma Lamp
+1052,10,false,Inverted Purple Luma Lamp
+1052,11,false,Inverted Blue Luma Lamp
+1052,12,false,Inverted Brown Luma Lamp
+1052,13,false,Inverted Green Luma Lamp
+1052,14,false,Inverted Red Luma Lamp
+1052,15,false,Inverted Black Luma Lamp
+1054,0,false,Caged Luma Lamp
+1054,1,false,Orange Caged Luma Lamp
+1054,2,false,Magenta Caged Luma Lamp
+1054,3,false,Light Blue Caged Luma Lamp
+1054,4,false,Yellow Caged Luma Lamp
+1054,5,false,Light Green Caged Luma Lamp
+1054,6,false,Pink Caged Luma Lamp
+1054,7,false,Dark Grey Caged Luma Lamp
+1054,8,false,Light Grey Caged Luma Lamp
+1054,9,false,Cyan Caged Luma Lamp
+1054,10,false,Purple Caged Luma Lamp
+1054,11,false,Blue Caged Luma Lamp
+1054,12,false,Brown Caged Luma Lamp
+1054,13,false,Green Caged Luma Lamp
+1054,14,false,Red Caged Luma Lamp
+1054,15,false,Black Caged Luma Lamp
+1056,0,false,Inverted Caged Luma Lamp
+1056,1,false,Inverted Orange Caged Luma Lamp
+1056,2,false,Inverted Magenta Caged Luma Lamp
+1056,3,false,Inverted Light Blue Caged Luma Lamp
+1056,4,false,Inverted Yellow Caged Luma Lamp
+1056,5,false,Inverted Light Green Caged Luma Lamp
+1056,6,false,Inverted Pink Caged Luma Lamp
+1056,7,false,Inverted Dark Grey Caged Luma Lamp
+1056,8,false,Inverted Light Grey Caged Luma Lamp
+1056,9,false,Inverted Cyan Caged Luma Lamp
+1056,10,false,Inverted Purple Caged Luma Lamp
+1056,11,false,Inverted Blue Caged Luma Lamp
+1056,12,false,Inverted Brown Caged Luma Lamp
+1056,13,false,Inverted Green Caged Luma Lamp
+1056,14,false,Inverted Red Caged Luma Lamp
+1056,15,false,Inverted Black Caged Luma Lamp
+1058,0,false,Multilamp
+1060,0,false,Caged Multilamp
+1062,0,false,Fixture
+1062,1,false,Orange Fixture
+1062,2,false,Magenta Fixture
+1062,3,false,Light Blue Fixture
+1062,4,false,Yellow Fixture
+1062,5,false,Light Green Fixture
+1062,6,false,Pink Fixture
+1062,7,false,Dark Grey Fixture
+1062,8,false,Light Grey Fixture
+1062,9,false,Cyan Fixture
+1062,10,false,Purple Fixture
+1062,11,false,Blue Fixture
+1062,12,false,Brown Fixture
+1062,13,false,Green Fixture
+1062,14,false,Red Fixture
+1062,15,false,Black Fixture
+1063,0,false,Caged Fixture
+1063,1,false,Orange Caged Fixture
+1063,2,false,Magenta Caged Fixture
+1063,3,false,Light Blue Caged Fixture
+1063,4,false,Yellow Caged Fixture
+1063,5,false,Light Green Caged Fixture
+1063,6,false,Pink Caged Fixture
+1063,7,false,Dark Grey Caged Fixture
+1063,8,false,Light Grey Caged Fixture
+1063,9,false,Cyan Caged Fixture
+1063,10,false,Purple Caged Fixture
+1063,11,false,Blue Caged Fixture
+1063,12,false,Brown Caged Fixture
+1063,13,false,Green Caged Fixture
+1063,14,false,Red Caged Fixture
+1063,15,false,Black Caged Fixture
+1066,0,false,Inverted Fixture
+1066,1,false,Inverted Orange Fixture
+1066,2,false,Inverted Magenta Fixture
+1066,3,false,Inverted Light Blue Fixture
+1066,4,false,Inverted Yellow Fixture
+1066,5,false,Inverted Light Green Fixture
+1066,6,false,Inverted Pink Fixture
+1066,7,false,Inverted Dark Grey Fixture
+1066,8,false,Inverted Light Grey Fixture
+1066,9,false,Inverted Cyan Fixture
+1066,10,false,Inverted Purple Fixture
+1066,11,false,Inverted Blue Fixture
+1066,12,false,Inverted Brown Fixture
+1066,13,false,Inverted Green Fixture
+1066,14,false,Inverted Red Fixture
+1066,15,false,Inverted Black Fixture
+1067,0,false,Inverted Caged Fixture
+1067,1,false,Inverted Orange Caged Fixture
+1067,2,false,Inverted Magenta Caged Fixture
+1067,3,false,Inverted Light Blue Caged Fixture
+1067,4,false,Inverted Yellow Caged Fixture
+1067,5,false,Inverted Light Green Caged Fixture
+1067,6,false,Inverted Pink Caged Fixture
+1067,7,false,Inverted Dark Grey Caged Fixture
+1067,8,false,Inverted Light Grey Caged Fixture
+1067,9,false,Inverted Cyan Caged Fixture
+1067,10,false,Inverted Purple Caged Fixture
+1067,11,false,Inverted Blue Caged Fixture
+1067,12,false,Inverted Brown Caged Fixture
+1067,13,false,Inverted Green Caged Fixture
+1067,14,false,Inverted Red Caged Fixture
+1067,15,false,Inverted Black Caged Fixture
 1100,0,false,tile.PortalMod.name
 1101,0,false,tile.PortalMultiBlock.name
 1225,0,false,Computer
@@ -4898,10 +5027,6 @@ Item ID,Item meta,Has NBT,Display Name
 7493,0,false,Ender Pouch
 7756,0,false,Trackman's Goggles
 7757,0,false,Engineer's Overalls
-7758,0,false,Steel Boots
-7759,0,false,Steel Helmet
-7760,0,false,Steel Leggings
-7761,0,false,Steel Chestplate
 7762,0,true,Iceman's Backpack
 7763,0,true,Woven Iceman's Backpack
 7764,0,true,Trackman's Backpack
@@ -4935,7 +5060,6 @@ Item ID,Item meta,Has NBT,Display Name
 7790,0,false,Steam Bottle
 7791,0,false,Creosote Capsule
 7792,0,false,Creosote Capsule
-7793,0,false,Steel Shears
 7794,0,false,Iron Nugget
 7794,1,false,Steel Nugget
 7795,0,false,Controller Circuit
@@ -4970,11 +5094,6 @@ Item ID,Item meta,Has NBT,Display Name
 7813,0,false,Reinforced Crowbar
 7814,0,false,Magnifying Glass
 7815,0,false,Signal Tuner
-7816,0,false,Steel Axe
-7817,0,false,Steel Hoe
-7818,0,false,Steel Pickaxe
-7819,0,false,Steel Shovel
-7820,0,false,Steel Sword
 7821,0,false,Signal Block Surveyor
 7822,0,false,Whistle Tuner
 8067,0,false,Chisel
@@ -5472,237 +5591,6 @@ Item ID,Item meta,Has NBT,Display Name
 13209,0,true,Marshy Species Serum
 13209,0,true,Rocky Species Serum
 13209,0,true,Water Species Serum
-13209,0,true,Valuable Species Serum
-13209,0,true,Caffeinated Species Serum
-13209,0,true,Vindictive Species Serum
-13209,0,true,Gravity Effect Serum
-13209,0,true,Aggress. Effect Serum
-13209,0,true,Explorer Effect Serum
-13209,0,true,Imperial Species Serum
-13209,0,true,Turquoise Species Serum
-13209,0,true,Repulsion Effect Serum
-13209,0,true,Fastest Flowering Serum
-13209,0,true,Volcanic Species Serum
-13209,0,true,Embittered Species Serum
-13209,0,true,Effect Cancelation Serum
-13209,0,true,Primeval Species Serum
-13209,0,true,Glacial Species Serum
-13209,0,true,Hermitic Species Serum
-13209,0,true,Sapling Pollination Serum
-13209,0,true,Infectious Species Serum
-13209,0,true,Sinister Species Serum
-13209,0,true,Longest Lifespan Serum
-13209,0,true,Flammable Effect Serum
-13209,0,true,Water Effect Serum
-13209,0,true,Down 1 Humid. Tol. Serum
-13209,0,true,Slow Flowering Serum
-13209,0,true,Wintry Species Serum
-13209,0,true,Down 2 Temp. Tol. Serum
-13209,0,true,Refined Species Serum
-13209,0,true,Tolerant Species Serum
-13209,0,true,Darkness Effect Serum
-13209,0,true,Glowering Species Serum
-13209,0,true,Reanimation Effect Serum
-13209,0,true,Amber Species Serum
-13209,0,true,Arid Species Serum
-13209,0,true,Thriving Species Serum
-13209,0,true,Prussian Species Serum
-13209,0,true,Fast Flowering Serum
-13209,0,true,Fireworks Effect Serum
-13209,0,true,Maximum Fertility Serum
-13209,0,true,Unweary Species Serum
-13209,0,true,Unstable Species Serum
-13209,0,true,Poison Effect Serum
-13209,0,true,Unstable Effect Serum
-13209,0,true,Desolate Species Serum
-13209,0,true,Snow Effect Serum
-13209,0,true,Lightning Effect Serum
-13209,0,true,Fossilised Species Serum
-13209,0,true,Flowers Pollination Serum
-13209,0,true,Hazardous Species Serum
-13209,0,true,Rural Species Serum
-13209,0,true,River Species Serum
-13209,0,true,Marshy Species Serum
-13209,0,true,Bleached Species Serum
-13209,0,true,Valiant Species Serum
-13209,0,true,Shining Species Serum
-13209,0,true,Decaying Species Serum
-13209,0,true,Growth Effect Serum
-13209,0,true,Acidic Species Serum
-13209,0,true,Wheat Pollination Serum
-13209,0,true,Austere Species Serum
-13209,0,true,Viscous Species Serum
-13209,0,true,Large Territory Serum
-13209,0,true,Robust Species Serum
-13209,0,true,Saffron Species Serum
-13209,0,true,Short Lifespan Serum
-13209,0,true,No Temp. Tol. Serum
-13209,0,true,Ebony Species Serum
-13209,0,true,Slower Flowering Serum
-13209,0,true,Steadfast Species Serum
-13209,0,true,Effect Cancelation Serum
-13209,0,true,Corroded Species Serum
-13209,0,true,Glittering Species Serum
-13209,0,true,Both 1 Temp. Tol. Serum
-13209,0,true,Both 2 Temp. Tol. Serum
-13209,0,true,Forest Species Serum
-13209,0,true,Fiendish Species Serum
-13209,0,true,Both 1 Humid. Tol. Serum
-13209,0,true,Both 2 Humid. Tol. Serum
-13209,0,true,Mushroom Effect Serum
-13209,0,true,Energetic Species Serum
-13209,0,true,Slower Productivity Serum
-13209,0,true,Heroic Species Serum
-13209,0,true,Sweetened Species Serum
-13209,0,true,Quantum Species Serum
-13209,0,true,Reeds Pollination Serum
-13209,0,true,Meteor Effect Serum
-13209,0,true,Largest Territory Serum
-13209,0,true,Tropical Species Serum
-13209,0,true,Excited Species Serum
-13209,0,true,Abyssal Species Serum
-13209,0,true,Radioactive Species Serum
-13209,0,true,Elongated Lifespan Serum
-13209,0,true,Mushroom Pollination Serum
-13209,0,true,Creepers Effect Serum
-13209,0,true,Demonic Species Serum
-13209,0,true,Teleport Effect Serum
-13209,0,true,Prehistoric Species Serum
-13209,0,true,No Humid. Tol. Serum
-13209,0,true,Farmed Species Serum
-13209,0,true,Slowest Productivity Serum
-13209,0,true,Distilled Species Serum
-13209,0,true,Default Territory Serum
-13209,0,true,Zombies Effect Serum
-13209,0,true,Merry Species Serum
-13209,0,true,Wither Effect Serum
-13209,0,true,Furious Species Serum
-13209,0,true,Avenging Species Serum
-13209,0,true,Celebratory Species Serum
-13209,0,true,Phantasmal Species Serum
-13209,0,true,Ruby Species Serum
-13209,0,true,Leporine Species Serum
-13209,0,true,Lily Pad Pollination Serum
-13209,0,true,Beatific Effect Serum
-13209,0,true,Ectoplasm Effect Serum
-13209,0,true,Cacti Pollination Serum
-13209,0,true,Shortened Lifespan Serum
-13209,0,true,Ashen Species Serum
-13209,0,true,Decomposing Species Serum
-13209,0,true,Normal Lifespan Serum
-13209,0,true,Vengeful Species Serum
-13209,0,true,Blooming Species Serum
-13209,0,true,Industrious Species Serum
-13209,0,true,Cultivated Species Serum
-13209,0,true,Barren Species Serum
-13209,0,true,Darkened Species Serum
-13209,0,true,Emerald Species Serum
-13209,0,true,Nocturnal Serum
-13209,0,true,Freezing Effect Serum
-13209,0,true,Skeletal Species Serum
-13209,0,true,Fuchsia Species Serum
-13209,0,true,Maroon Species Serum
-13209,0,true,Rainfall Serum
-13209,0,true,Cave Dwelling Serum
-13209,0,true,Up 1 Humid. Tol. Serum
-13209,0,true,Corrosive Species Serum
-13209,0,true,Longer Lifespan Serum
-13209,0,true,Up 1 Temp. Tol. Serum
-13209,0,true,Shortest Lifespan Serum
-13209,0,true,Normal Fertility Serum
-13209,0,true,Ender Species Serum
-13209,0,true,Lustered Species Serum
-13209,0,true,Slow Productivity Serum
-13209,0,true,Spatial Species Serum
-13209,0,true,Common Species Serum
-13209,0,true,Nuclear Species Serum
-13209,0,true,Slate Species Serum
-13209,0,true,Indigo Species Serum
-13209,0,true,Fruity Species Serum
-13209,0,true,Modest Species Serum
-13209,0,true,High Fertility Serum
-13209,0,true,Monastic Species Serum
-13209,0,true,Flowers Pollination Serum
-13209,0,true,Ends Effect Serum
-13209,0,true,Long Lifespan Serum
-13209,0,true,Jungle Pollination Serum
-13209,0,true,Secluded Species Serum
-13209,0,true,Exotic Species Serum
-13209,0,true,Elastic Species Serum
-13209,0,true,Slowest Flowering Serum
-13209,0,true,Fast Productivity Serum
-13209,0,true,Average Flowering Serum
-13209,0,true,Rusty Species Serum
-13209,0,true,Leaves Pollination Serum
-13209,0,true,Acidic Effect Serum
-13209,0,true,Lavender Species Serum
-13209,0,true,Caustic Species Serum
-13209,0,true,Sugary Species Serum
-13209,0,true,Rocky Species Serum
-13209,0,true,Normal Productivity Serum
-13209,0,true,Rocks Pollination Serum
-13209,0,true,Frigid Species Serum
-13209,0,true,Growing Species Serum
-13209,0,true,Water Species Serum
-13209,0,true,Resinous Species Serum
-13209,0,true,Oily Species Serum
-13209,0,true,Icy Species Serum
-13209,0,true,Majestic Species Serum
-13209,0,true,Sepia Species Serum
-13209,0,true,Noble Species Serum
-13209,0,true,Hunger Effect Serum
-13209,0,true,Minty Species Serum
-13209,0,true,Maximum Flowering Serum
-13209,0,true,Tipsy Species Serum
-13209,0,true,Shorter Lifespan Serum
-13209,0,true,Tarnished Species Serum
-13209,0,true,Edenic Species Serum
-13209,0,true,Glutinous Species Serum
-13209,0,true,Faster Flowering Serum
-13209,0,true,Nether Pollination Serum
-13209,0,true,Azure Species Serum
-13209,0,true,Diamond Species Serum
-13209,0,true,Meadows Species Serum
-13209,0,true,Heroic Effect Serum
-13209,0,true,Virulent Species Serum
-13209,0,true,Frugal Species Serum
-13209,0,true,Ancient Species Serum
-13209,0,true,Sticky Species Serum
-13209,0,true,Resurrection Effect Serum
-13209,0,true,Diligent Species Serum
-13209,0,true,End Pollination Serum
-13209,0,true,Shadowed Species Serum
-13209,0,true,Boggy Species Serum
-13209,0,true,Redstone Pollination Serum
-13209,0,true,Damp Species Serum
-13209,0,true,Radioact. Effect Serum
-13209,0,true,Malicious Species Serum
-13209,0,true,Slowness Effect Serum
-13209,0,true,Low Fertility Serum
-13209,0,true,Lapis Species Serum
-13209,0,true,Natural Species Serum
-13209,0,true,Creeper Effect Serum
-13209,0,true,Leaden Species Serum
-13209,0,true,Galvanized Species Serum
-13209,0,true,Preserved Species Serum
-13209,0,true,Abnormal Species Serum
-13209,0,true,Skeletons Effect Serum
-13209,0,true,Jaded Species Serum
-13209,0,true,Dead Bush Pollination Serum
-13209,0,true,Creepy Species Serum
-13209,0,true,Spectral Species Serum
-13209,0,true,Lime Species Serum
-13209,0,true,Sapphire Species Serum
-13209,0,true,Ripening Species Serum
-13209,0,true,Ripening Effect Serum
-13209,0,true,Resilient Species Serum
-13209,0,true,Fungal Species Serum
-13209,0,true,Ocean Species Serum
-13209,0,true,Stained Species Serum
-13209,0,true,Bovine Species Serum
-13209,0,true,Drunkard Effect Serum
-13209,0,true,Relic Species Serum
-13209,0,true,Absolute Species Serum
 13210,0,false,Watery Propolis
 13210,1,false,Oily Propolis
 13210,2,false,Petroleum Propolis
@@ -6013,62 +5901,6 @@ Item ID,Item meta,Has NBT,Display Name
 13329,0,true,Ringlet
 13329,0,true,Monarch
 13329,0,true,Marbled White
-13329,0,true,Brimstone
-13329,0,true,Latticed Heath
-13329,0,true,Atlas
-13329,0,true,Cabbage White
-13329,0,true,Brimstone
-13329,0,true,Orange Tip
-13329,0,true,Postillion
-13329,0,true,Palaeno Sulphur
-13329,0,true,Reseda
-13329,0,true,Spring Azure
-13329,0,true,Gozora Azure
-13329,0,true,Citrus Swallowtail
-13329,0,true,Emerald Peacock
-13329,0,true,Thoas Swallowtail
-13329,0,true,Spicebush Swallowtail
-13329,0,true,Black Swallowtail
-13329,0,true,Zebra Swallowtail
-13329,0,true,Diana Fritillary
-13329,0,true,Glasswing
-13329,0,true,Speckled Wood
-13329,0,true,Madeiran Speckled Wood
-13329,0,true,Canary Speckled Wood
-13329,0,true,Menelaus Blue Morpho
-13329,0,true,Peleides Blue Morpho
-13329,0,true,Rhetenor Blue Morpho
-13329,0,true,Comma
-13329,0,true,Painted Beauty
-13329,0,true,Blue Wing
-13329,0,true,Monarch
-13329,0,true,Blue Duke
-13329,0,true,Glassy Tiger
-13329,0,true,Postman
-13329,0,true,Malachite
-13329,0,true,Leopard Lacewing
-13329,0,true,White Admiral
-13329,0,true,Purple Emperor
-13329,0,true,Red Admiral
-13329,0,true,Painted Lady
-13329,0,true,Small Tortoiseshell
-13329,0,true,Camberwell Beauty
-13329,0,true,Peacock
-13329,0,true,Wall
-13329,0,true,Crimson Rose
-13329,0,true,Kaiser-i-Hind
-13329,0,true,Golden Birdwing
-13329,0,true,Marsh Fritillary
-13329,0,true,Pearl-bordered Fritillary
-13329,0,true,Queen of Spain Fritillary
-13329,0,true,Speckled Wood
-13329,0,true,Scotch Angus
-13329,0,true,Gatekeeper
-13329,0,true,Meadow Brown
-13329,0,true,Small Heath
-13329,0,true,Ringlet
-13329,0,true,Monarch
-13329,0,true,Marbled White
 13330,0,true,Brimstone
 13330,0,true,Cabbage White
 13330,0,true,Citrus Swallowtail
@@ -6113,144 +5945,6 @@ Item ID,Item meta,Has NBT,Display Name
 13340,0,true,Marshy Drone
 13340,0,true,Rocky Drone
 13340,0,true,Water Drone
-13340,0,true,Forest Drone
-13340,0,true,Meadows Drone
-13340,0,true,Common Drone
-13340,0,true,Cultivated Drone
-13340,0,true,Noble Drone
-13340,0,true,Majestic Drone
-13340,0,true,Imperial Drone
-13340,0,true,Diligent Drone
-13340,0,true,Unweary Drone
-13340,0,true,Industrious Drone
-13340,0,true,Steadfast Drone
-13340,0,true,Valiant Drone
-13340,0,true,Heroic Drone
-13340,0,true,Sinister Drone
-13340,0,true,Fiendish Drone
-13340,0,true,Demonic Drone
-13340,0,true,Modest Drone
-13340,0,true,Frugal Drone
-13340,0,true,Austere Drone
-13340,0,true,Tropical Drone
-13340,0,true,Exotic Drone
-13340,0,true,Edenic Drone
-13340,0,true,Ender Drone
-13340,0,true,Spectral Drone
-13340,0,true,Phantasmal Drone
-13340,0,true,Wintry Drone
-13340,0,true,Icy Drone
-13340,0,true,Glacial Drone
-13340,0,true,Vindictive Drone
-13340,0,true,Vengeful Drone
-13340,0,true,Avenging Drone
-13340,0,true,Leporine Drone
-13340,0,true,Merry Drone
-13340,0,true,Tipsy Drone
-13340,0,true,Rural Drone
-13340,0,true,Marshy Drone
-13340,0,true,Monastic Drone
-13340,0,true,Secluded Drone
-13340,0,true,Hermitic Drone
-13340,0,true,Arid Drone
-13340,0,true,Barren Drone
-13340,0,true,Desolate Drone
-13340,0,true,Decaying Drone
-13340,0,true,Skeletal Drone
-13340,0,true,Creepy Drone
-13340,0,true,Decomposing Drone
-13340,0,true,Rocky Drone
-13340,0,true,Tolerant Drone
-13340,0,true,Robust Drone
-13340,0,true,Resilient Drone
-13340,0,true,Corroded Drone
-13340,0,true,Tarnished Drone
-13340,0,true,Rusty Drone
-13340,0,true,Leaden Drone
-13340,0,true,Galvanized Drone
-13340,0,true,Glittering Drone
-13340,0,true,Shining Drone
-13340,0,true,Valuable Drone
-13340,0,true,Lapis Drone
-13340,0,true,Emerald Drone
-13340,0,true,Ruby Drone
-13340,0,true,Sapphire Drone
-13340,0,true,Diamond Drone
-13340,0,true,Unstable Drone
-13340,0,true,Nuclear Drone
-13340,0,true,Radioactive Drone
-13340,0,true,Ancient Drone
-13340,0,true,Primeval Drone
-13340,0,true,Prehistoric Drone
-13340,0,true,Relic Drone
-13340,0,true,Fossilised Drone
-13340,0,true,Resinous Drone
-13340,0,true,Oily Drone
-13340,0,true,Preserved Drone
-13340,0,true,Distilled Drone
-13340,0,true,Refined Drone
-13340,0,true,Elastic Drone
-13340,0,true,Water Drone
-13340,0,true,River Drone
-13340,0,true,Ocean Drone
-13340,0,true,Stained Drone
-13340,0,true,Growing Drone
-13340,0,true,Thriving Drone
-13340,0,true,Blooming Drone
-13340,0,true,Sweetened Drone
-13340,0,true,Sugary Drone
-13340,0,true,Ripening Drone
-13340,0,true,Fruity Drone
-13340,0,true,Farmed Drone
-13340,0,true,Bovine Drone
-13340,0,true,Caffeinated Drone
-13340,0,true,Minty Drone
-13340,0,true,Damp Drone
-13340,0,true,Boggy Drone
-13340,0,true,Fungal Drone
-13340,0,true,Embittered Drone
-13340,0,true,Furious Drone
-13340,0,true,Volcanic Drone
-13340,0,true,Malicious Drone
-13340,0,true,Infectious Drone
-13340,0,true,Virulent Drone
-13340,0,true,Viscous Drone
-13340,0,true,Glutinous Drone
-13340,0,true,Sticky Drone
-13340,0,true,Corrosive Drone
-13340,0,true,Caustic Drone
-13340,0,true,Acidic Drone
-13340,0,true,Excited Drone
-13340,0,true,Energetic Drone
-13340,0,true,Frigid Drone
-13340,0,true,Absolute Drone
-13340,0,true,Shadowed Drone
-13340,0,true,Darkened Drone
-13340,0,true,Abyssal Drone
-13340,0,true,Maroon Drone
-13340,0,true,Saffron Drone
-13340,0,true,Prussian Drone
-13340,0,true,Natural Drone
-13340,0,true,Ebony Drone
-13340,0,true,Bleached Drone
-13340,0,true,Sepia Drone
-13340,0,true,Amber Drone
-13340,0,true,Turquoise Drone
-13340,0,true,Indigo Drone
-13340,0,true,Slate Drone
-13340,0,true,Azure Drone
-13340,0,true,Lavender Drone
-13340,0,true,Lime Drone
-13340,0,true,Fuchsia Drone
-13340,0,true,Ashen Drone
-13340,0,true,Celebratory Drone
-13340,0,true,Jaded Drone
-13340,0,true,Glowering Drone
-13340,0,true,Hazardous Drone
-13340,0,true,Lustered Drone
-13340,0,true,Quantum Drone
-13340,0,true,Spatial Drone
-13340,0,true,Abnormal Drone
 13341,0,true,Forest Princess
 13341,0,true,Meadows Princess
 13341,0,true,Modest Princess
@@ -6259,144 +5953,6 @@ Item ID,Item meta,Has NBT,Display Name
 13341,0,true,Marshy Princess
 13341,0,true,Rocky Princess
 13341,0,true,Water Princess
-13341,0,true,Forest Princess
-13341,0,true,Meadows Princess
-13341,0,true,Common Princess
-13341,0,true,Cultivated Princess
-13341,0,true,Noble Princess
-13341,0,true,Majestic Princess
-13341,0,true,Imperial Princess
-13341,0,true,Diligent Princess
-13341,0,true,Unweary Princess
-13341,0,true,Industrious Princess
-13341,0,true,Steadfast Princess
-13341,0,true,Valiant Princess
-13341,0,true,Heroic Princess
-13341,0,true,Sinister Princess
-13341,0,true,Fiendish Princess
-13341,0,true,Demonic Princess
-13341,0,true,Modest Princess
-13341,0,true,Frugal Princess
-13341,0,true,Austere Princess
-13341,0,true,Tropical Princess
-13341,0,true,Exotic Princess
-13341,0,true,Edenic Princess
-13341,0,true,Ender Princess
-13341,0,true,Spectral Princess
-13341,0,true,Phantasmal Princess
-13341,0,true,Wintry Princess
-13341,0,true,Icy Princess
-13341,0,true,Glacial Princess
-13341,0,true,Vindictive Princess
-13341,0,true,Vengeful Princess
-13341,0,true,Avenging Princess
-13341,0,true,Leporine Princess
-13341,0,true,Merry Princess
-13341,0,true,Tipsy Princess
-13341,0,true,Rural Princess
-13341,0,true,Marshy Princess
-13341,0,true,Monastic Princess
-13341,0,true,Secluded Princess
-13341,0,true,Hermitic Princess
-13341,0,true,Arid Princess
-13341,0,true,Barren Princess
-13341,0,true,Desolate Princess
-13341,0,true,Decaying Princess
-13341,0,true,Skeletal Princess
-13341,0,true,Creepy Princess
-13341,0,true,Decomposing Princess
-13341,0,true,Rocky Princess
-13341,0,true,Tolerant Princess
-13341,0,true,Robust Princess
-13341,0,true,Resilient Princess
-13341,0,true,Corroded Princess
-13341,0,true,Tarnished Princess
-13341,0,true,Rusty Princess
-13341,0,true,Leaden Princess
-13341,0,true,Galvanized Princess
-13341,0,true,Glittering Princess
-13341,0,true,Shining Princess
-13341,0,true,Valuable Princess
-13341,0,true,Lapis Princess
-13341,0,true,Emerald Princess
-13341,0,true,Ruby Princess
-13341,0,true,Sapphire Princess
-13341,0,true,Diamond Princess
-13341,0,true,Unstable Princess
-13341,0,true,Nuclear Princess
-13341,0,true,Radioactive Princess
-13341,0,true,Ancient Princess
-13341,0,true,Primeval Princess
-13341,0,true,Prehistoric Princess
-13341,0,true,Relic Princess
-13341,0,true,Fossilised Princess
-13341,0,true,Resinous Princess
-13341,0,true,Oily Princess
-13341,0,true,Preserved Princess
-13341,0,true,Distilled Princess
-13341,0,true,Refined Princess
-13341,0,true,Elastic Princess
-13341,0,true,Water Princess
-13341,0,true,River Princess
-13341,0,true,Ocean Princess
-13341,0,true,Stained Princess
-13341,0,true,Growing Princess
-13341,0,true,Thriving Princess
-13341,0,true,Blooming Princess
-13341,0,true,Sweetened Princess
-13341,0,true,Sugary Princess
-13341,0,true,Ripening Princess
-13341,0,true,Fruity Princess
-13341,0,true,Farmed Princess
-13341,0,true,Bovine Princess
-13341,0,true,Caffeinated Princess
-13341,0,true,Minty Princess
-13341,0,true,Damp Princess
-13341,0,true,Boggy Princess
-13341,0,true,Fungal Princess
-13341,0,true,Embittered Princess
-13341,0,true,Furious Princess
-13341,0,true,Volcanic Princess
-13341,0,true,Malicious Princess
-13341,0,true,Infectious Princess
-13341,0,true,Virulent Princess
-13341,0,true,Viscous Princess
-13341,0,true,Glutinous Princess
-13341,0,true,Sticky Princess
-13341,0,true,Corrosive Princess
-13341,0,true,Caustic Princess
-13341,0,true,Acidic Princess
-13341,0,true,Excited Princess
-13341,0,true,Energetic Princess
-13341,0,true,Frigid Princess
-13341,0,true,Absolute Princess
-13341,0,true,Shadowed Princess
-13341,0,true,Darkened Princess
-13341,0,true,Abyssal Princess
-13341,0,true,Maroon Princess
-13341,0,true,Saffron Princess
-13341,0,true,Prussian Princess
-13341,0,true,Natural Princess
-13341,0,true,Ebony Princess
-13341,0,true,Bleached Princess
-13341,0,true,Sepia Princess
-13341,0,true,Amber Princess
-13341,0,true,Turquoise Princess
-13341,0,true,Indigo Princess
-13341,0,true,Slate Princess
-13341,0,true,Azure Princess
-13341,0,true,Lavender Princess
-13341,0,true,Lime Princess
-13341,0,true,Fuchsia Princess
-13341,0,true,Ashen Princess
-13341,0,true,Celebratory Princess
-13341,0,true,Jaded Princess
-13341,0,true,Glowering Princess
-13341,0,true,Hazardous Princess
-13341,0,true,Lustered Princess
-13341,0,true,Quantum Princess
-13341,0,true,Spatial Princess
-13341,0,true,Abnormal Princess
 13342,0,false,Beealyzer
 13343,0,true,Lepidopterist's Backpack
 13344,0,true,Woven Miner's Backpack
@@ -6576,120 +6132,6 @@ Item ID,Item meta,Has NBT,Display Name
 13384,0,true,Juniper Sapling
 13384,0,true,Gooseberry Sapling
 13384,0,true,Golden Raspberry Sapling
-13384,0,true,Apple Oak Sapling
-13384,0,true,Silver Birch Sapling
-13384,0,true,Silver Lime Sapling
-13384,0,true,Common Walnut Sapling
-13384,0,true,Sweet Chestnut Sapling
-13384,0,true,Hill Cherry Sapling
-13384,0,true,Lemon Sapling
-13384,0,true,Plum Sapling
-13384,0,true,Sugar Maple Sapling
-13384,0,true,Red Spruce Sapling
-13384,0,true,Mundane Larch Sapling
-13384,0,true,Bull Pine Sapling
-13384,0,true,Coast Sequoia Sapling
-13384,0,true,Giant Sequoia Sapling
-13384,0,true,Jungle Sapling
-13384,0,true,Teak Sapling
-13384,0,true,Kapok Sapling
-13384,0,true,Myrtle Ebony Sapling
-13384,0,true,Yellow Meranti Sapling
-13384,0,true,Desert Acacia Sapling
-13384,0,true,Balsa Sapling
-13384,0,true,Wenge Sapling
-13384,0,true,Grandidier's Baobab Sapling
-13384,0,true,Blue Mahoe Sapling
-13384,0,true,White Willow Sapling
-13384,0,true,Sipiri Sapling
-13384,0,true,Papaya Sapling
-13384,0,true,Date Palm Sapling
-13384,0,true,White Poplar Sapling
-13384,0,true,Orchard Apple Sapling
-13384,0,true,Sweet Crabapple Sapling
-13384,0,true,Flowering Crabapple Sapling
-13384,0,true,Prairie Crabapple Sapling
-13384,0,true,Blackthorn Sapling
-13384,0,true,Cherry Plum Sapling
-13384,0,true,Peach Sapling
-13384,0,true,Nectarine Sapling
-13384,0,true,Apricot Sapling
-13384,0,true,Almond Sapling
-13384,0,true,Wild Cherry Sapling
-13384,0,true,Sour Cherry Sapling
-13384,0,true,Black Cherry Sapling
-13384,0,true,Orange Sapling
-13384,0,true,Manderine Sapling
-13384,0,true,Satsuma Sapling
-13384,0,true,Tangerine Sapling
-13384,0,true,Lime Sapling
-13384,0,true,Key Lime Sapling
-13384,0,true,Finger Lime Sapling
-13384,0,true,Pomelo Sapling
-13384,0,true,Grapefruit Sapling
-13384,0,true,Kumquat Sapling
-13384,0,true,Citron Sapling
-13384,0,true,Buddha's Hand Sapling
-13384,0,true,Banana Sapling
-13384,0,true,Red Banana Sapling
-13384,0,true,Plantain Sapling
-13384,0,true,Butternut Sapling
-13384,0,true,Common Rowan Sapling
-13384,0,true,Western Hemlock Sapling
-13384,0,true,Common Ash Sapling
-13384,0,true,Common Alder Sapling
-13384,0,true,Common Beech Sapling
-13384,0,true,Copper Beech Sapling
-13384,0,true,Aspen Sapling
-13384,0,true,Common Yew Sapling
-13384,0,true,Lawson Cypress Sapling
-13384,0,true,Douglas-fir Sapling
-13384,0,true,Common Hazel Sapling
-13384,0,true,Sycamore Fig Sapling
-13384,0,true,Whitebeam Sapling
-13384,0,true,Common Hawthorn Sapling
-13384,0,true,Pecan Sapling
-13384,0,true,Common Elm Sapling
-13384,0,true,Elderberry Sapling
-13384,0,true,Common Holly Sapling
-13384,0,true,Common Hornbeam Sapling
-13384,0,true,Great Sallow Sapling
-13384,0,true,Acorn Oak Sapling
-13384,0,true,Silver Fir Sapling
-13384,0,true,Great Cedar Sapling
-13384,0,true,Olive Sapling
-13384,0,true,Red Maple Sapling
-13384,0,true,Balsam Fir Sapling
-13384,0,true,Loblolly Pine Sapling
-13384,0,true,Sweetgum Sapling
-13384,0,true,Black Locust Sapling
-13384,0,true,Cultivated Pear Sapling
-13384,0,true,Osange-Orange Sapling
-13384,0,true,Old Fustic Sapling
-13384,0,true,Brazilwood Sapling
-13384,0,true,Logwood Sapling
-13384,0,true,Rosewood Sapling
-13384,0,true,Purpleheart Sapling
-13384,0,true,Iroko Sapling
-13384,0,true,Ginkgo Sapling
-13384,0,true,Brazil Nut Sapling
-13384,0,true,Rose Gum Sapling
-13384,0,true,Swamp Gum Sapling
-13384,0,true,Boxwood Sapling
-13384,0,true,Clove Sapling
-13384,0,true,Coffee Sapling
-13384,0,true,Monkey Puzzle Sapling
-13384,0,true,Rainbow Gum Sapling
-13384,0,true,Pink Ivory Sapling
-13384,0,true,Blackcurrant Sapling
-13384,0,true,Redcurrant Sapling
-13384,0,true,Blackberry Sapling
-13384,0,true,Raspberry Sapling
-13384,0,true,Blueberry Sapling
-13384,0,true,Cranberry Sapling
-13384,0,true,Juniper Sapling
-13384,0,true,Gooseberry Sapling
-13384,0,true,Golden Raspberry Sapling
 13385,0,false,Treealyzer
 13386,0,false,Cherry
 13386,1,false,Walnut
@@ -6725,120 +6167,6 @@ Item ID,Item meta,Has NBT,Display Name
 13389,0,true,Sugar Maple Pollen
 13389,0,true,Papaya Pollen
 13389,0,true,Date Palm Pollen
-13389,0,true,Orchard Apple Pollen
-13389,0,true,Sweet Crabapple Pollen
-13389,0,true,Flowering Crabapple Pollen
-13389,0,true,Prairie Crabapple Pollen
-13389,0,true,Blackthorn Pollen
-13389,0,true,Cherry Plum Pollen
-13389,0,true,Peach Pollen
-13389,0,true,Nectarine Pollen
-13389,0,true,Apricot Pollen
-13389,0,true,Almond Pollen
-13389,0,true,Wild Cherry Pollen
-13389,0,true,Sour Cherry Pollen
-13389,0,true,Black Cherry Pollen
-13389,0,true,Orange Pollen
-13389,0,true,Manderine Pollen
-13389,0,true,Satsuma Pollen
-13389,0,true,Tangerine Pollen
-13389,0,true,Lime Pollen
-13389,0,true,Key Lime Pollen
-13389,0,true,Finger Lime Pollen
-13389,0,true,Pomelo Pollen
-13389,0,true,Grapefruit Pollen
-13389,0,true,Kumquat Pollen
-13389,0,true,Citron Pollen
-13389,0,true,Buddha's Hand Pollen
-13389,0,true,Banana Pollen
-13389,0,true,Red Banana Pollen
-13389,0,true,Plantain Pollen
-13389,0,true,Butternut Pollen
-13389,0,true,Common Rowan Pollen
-13389,0,true,Western Hemlock Pollen
-13389,0,true,Common Ash Pollen
-13389,0,true,Common Alder Pollen
-13389,0,true,Common Beech Pollen
-13389,0,true,Copper Beech Pollen
-13389,0,true,Aspen Pollen
-13389,0,true,Common Yew Pollen
-13389,0,true,Lawson Cypress Pollen
-13389,0,true,Douglas-fir Pollen
-13389,0,true,Common Hazel Pollen
-13389,0,true,Sycamore Fig Pollen
-13389,0,true,Whitebeam Pollen
-13389,0,true,Common Hawthorn Pollen
-13389,0,true,Pecan Pollen
-13389,0,true,Common Elm Pollen
-13389,0,true,Elderberry Pollen
-13389,0,true,Common Holly Pollen
-13389,0,true,Common Hornbeam Pollen
-13389,0,true,Great Sallow Pollen
-13389,0,true,Acorn Oak Pollen
-13389,0,true,Silver Fir Pollen
-13389,0,true,Great Cedar Pollen
-13389,0,true,Olive Pollen
-13389,0,true,Red Maple Pollen
-13389,0,true,Balsam Fir Pollen
-13389,0,true,Loblolly Pine Pollen
-13389,0,true,Sweetgum Pollen
-13389,0,true,Black Locust Pollen
-13389,0,true,Cultivated Pear Pollen
-13389,0,true,Osange-Orange Pollen
-13389,0,true,Old Fustic Pollen
-13389,0,true,Brazilwood Pollen
-13389,0,true,Logwood Pollen
-13389,0,true,Rosewood Pollen
-13389,0,true,Purpleheart Pollen
-13389,0,true,Iroko Pollen
-13389,0,true,Ginkgo Pollen
-13389,0,true,Brazil Nut Pollen
-13389,0,true,Rose Gum Pollen
-13389,0,true,Swamp Gum Pollen
-13389,0,true,Boxwood Pollen
-13389,0,true,Clove Pollen
-13389,0,true,Coffee Pollen
-13389,0,true,Monkey Puzzle Pollen
-13389,0,true,Rainbow Gum Pollen
-13389,0,true,Pink Ivory Pollen
-13389,0,true,Blackcurrant Pollen
-13389,0,true,Redcurrant Pollen
-13389,0,true,Blackberry Pollen
-13389,0,true,Raspberry Pollen
-13389,0,true,Blueberry Pollen
-13389,0,true,Cranberry Pollen
-13389,0,true,Juniper Pollen
-13389,0,true,Gooseberry Pollen
-13389,0,true,Golden Raspberry Pollen
-13389,0,true,Apple Oak Pollen
-13389,0,true,Silver Birch Pollen
-13389,0,true,Silver Lime Pollen
-13389,0,true,Common Walnut Pollen
-13389,0,true,Sweet Chestnut Pollen
-13389,0,true,Hill Cherry Pollen
-13389,0,true,Lemon Pollen
-13389,0,true,Plum Pollen
-13389,0,true,Sugar Maple Pollen
-13389,0,true,Red Spruce Pollen
-13389,0,true,Mundane Larch Pollen
-13389,0,true,Bull Pine Pollen
-13389,0,true,Coast Sequoia Pollen
-13389,0,true,Giant Sequoia Pollen
-13389,0,true,Jungle Pollen
-13389,0,true,Teak Pollen
-13389,0,true,Kapok Pollen
-13389,0,true,Myrtle Ebony Pollen
-13389,0,true,Yellow Meranti Pollen
-13389,0,true,Desert Acacia Pollen
-13389,0,true,Balsa Pollen
-13389,0,true,Wenge Pollen
-13389,0,true,Grandidier's Baobab Pollen
-13389,0,true,Blue Mahoe Pollen
-13389,0,true,White Willow Pollen
-13389,0,true,Sipiri Pollen
-13389,0,true,Papaya Pollen
-13389,0,true,Date Palm Pollen
-13389,0,true,White Poplar Pollen
 13389,0,true,Orchard Apple Pollen
 13389,0,true,Sweet Crabapple Pollen
 13389,0,true,Flowering Crabapple Pollen
@@ -7963,6 +7291,8 @@ Item ID,Item meta,Has NBT,Display Name
 14371,3,false,Mutton Jerky
 14371,4,false,Fish Jerky
 14371,5,false,Monster Jerky
+15256,0,false,Chroma Stone
+15257,0,false,KelMai Debug Item
 15446,0,false,Gravity Gun
 15446,1,false,Gravity Gun
 15457,0,false,Portal Gun
