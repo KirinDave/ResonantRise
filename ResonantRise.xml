@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.0.5-TESTING</version>
+    <version>2.0.5b-TESTING</version>
     <minecraft>1.6.2</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
@@ -329,9 +329,6 @@
     
     <mod url="http://tinyurl.com/q7w72rj"
 		 file="Atomic_Science_v0.7.1.140.jar" download="direct" name="Atomic Science" type="mods" version="0.7.1.140" website="http://universalelectricity.com/atomic-science" description=""  />
-	<mod url="https://dl.dropboxusercontent.com/u/31316462/ArchimedesShips.zip" 
-         file="ArchimedesShips.zip" download="direct" name="Archimedes' Ships" type="mods" version="1.4.2" website="http://www.minecraftforum.net/topic/1857899-162-152forge-archimedes-ships-v14-passenger-seats/" description="" 
-         />
 	<mod url="http://tinyurl.com/lh9jfdq"
 		 file="Basic_Components_v1.0.0.14.jar" download="direct" name="Basic Components" type="mods" version="1.0.0.14" website="http://universalelectricity.com/basiccomponents/downloads" description=""  />
 	<mod url="http://addons.curse.cursecdn.com/files/720/249/flatsigns-1.6.2-universal-1.4.0.15.jar" 
