@@ -1,0 +1,2432 @@
+Sep 24, 2013 10:27:58 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: water
+Sep 24, 2013 10:27:58 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: lava
+Sep 24, 2013 10:27:58 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: uumatter
+Sep 24, 2013 10:27:58 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: constructionfoam
+Sep 24, 2013 10:27:58 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: ic2coolant
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreUranium
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreLead
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustBronze
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustClay
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustCoal
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustCopper
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustGold
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustIron
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustSilver
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustTin
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustLead
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustObsidian
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustLapis
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustSulfur
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustLithium
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotBronze
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotCopper
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotRefinedIron
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotLead
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotTin
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: itemRubber
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plateIron
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plateGold
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plateRefinedIron
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plateCopper
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plateTin
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plateLead
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plateLapis
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plateObsidian
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plateBronze
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plateDenseIron
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plateDenseGold
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plateDenseRefinedIron
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plateDenseCopper
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plateDenseTin
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plateDenseLead
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plateDenseLapis
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plateDenseObsidian
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plateDenseBronze
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockBronze
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockCopper
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockTin
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockUranium
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockLead
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: woodRubber
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustObsidian
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plateDenseLead
+Sep 24, 2013 10:28:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotInfernal
+Sep 24, 2013 10:28:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: listAllfishraw
+Sep 24, 2013 10:28:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: listAllfishcooked
+Sep 24, 2013 10:28:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropSeaweed
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: crafterWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: craftingTableWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stickWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: crafterWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: craftingTableWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stickWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: crafterWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: craftingTableWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stickWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: crafterWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: craftingTableWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stickWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: crafterWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: craftingTableWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stickWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: crafterWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: craftingTableWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stickWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: crafterWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: craftingTableWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stickWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: crafterWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: craftingTableWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stickWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: crafterWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: craftingTableWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stickWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: crafterWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: craftingTableWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stickWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: crafterWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: craftingTableWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stickWood
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dyeBlue
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropRaspberry
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropBlueberry
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropBlackberry
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropMaloberry
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropBlightberry
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropDuskberry
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropSkyberry
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropStingberry
+Sep 24, 2013 10:28:02 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: taintedSoil
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: bop.liquidpoison
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: bop.springwater
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stickWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stickWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dyeBlue
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dyeBrown
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dyeGreen
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dyeWhite
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dyeBlack
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: gemRuby
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: gemPeridot
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: gemTopaz
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: gemTanzanite
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: gemSapphire
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: treeSapling
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: treeSapling
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: slabWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: slabWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stairWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stairWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stairWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stairWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stairWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stairWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stairWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stairWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stairWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stairWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stairWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stairWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stairWood
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: treeLeaves
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: treeLeaves
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: treeLeaves
+Sep 24, 2013 10:28:03 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: treeLeaves
+Sep 24, 2013 10:28:13 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: gemApatite
+Sep 24, 2013 10:28:13 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotCopper
+Sep 24, 2013 10:28:13 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotTin
+Sep 24, 2013 10:28:13 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotBronze
+Sep 24, 2013 10:28:13 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: brickPeat
+Sep 24, 2013 10:28:13 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustAsh
+Sep 24, 2013 10:28:13 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: gearBronze
+Sep 24, 2013 10:28:13 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: gearCopper
+Sep 24, 2013 10:28:13 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: gearTin
+Sep 24, 2013 10:28:13 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: pulpWood
+Sep 24, 2013 10:28:13 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: itemBeeswax
+Sep 24, 2013 10:28:13 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropCherry
+Sep 24, 2013 10:28:13 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropWalnut
+Sep 24, 2013 10:28:13 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropChestnut
+Sep 24, 2013 10:28:13 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropLemon
+Sep 24, 2013 10:28:13 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropPlum
+Sep 24, 2013 10:28:13 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropDate
+Sep 24, 2013 10:28:13 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropPapaya
+Sep 24, 2013 10:28:14 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreApatite
+Sep 24, 2013 10:28:14 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreCopper
+Sep 24, 2013 10:28:14 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreTin
+Sep 24, 2013 10:28:14 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dropHoney
+Sep 24, 2013 10:28:14 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: itemPollen
+Sep 24, 2013 10:28:14 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dropHoneydew
+Sep 24, 2013 10:28:14 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dropRoyalJelly
+Sep 24, 2013 10:28:14 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: beeComb
+Sep 24, 2013 10:28:14 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: treeSapling
+Sep 24, 2013 10:28:14 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:14 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:14 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:14 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:14 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:14 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:14 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:14 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:14 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:14 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: slabWood
+Sep 24, 2013 10:28:14 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: slabWood
+Sep 24, 2013 10:28:15 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: oil
+Sep 24, 2013 10:28:15 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: fuel
+Sep 24, 2013 10:28:16 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: creosote
+Sep 24, 2013 10:28:16 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: steam
+Sep 24, 2013 10:28:16 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: nuggetIron
+Sep 24, 2013 10:28:16 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: nuggetSteel
+Sep 24, 2013 10:28:16 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotSteel
+Sep 24, 2013 10:28:17 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: fuelCoke
+Sep 24, 2013 10:28:17 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustObsidian
+Sep 24, 2013 10:28:17 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustSulfur
+Sep 24, 2013 10:28:17 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustSaltpeter
+Sep 24, 2013 10:28:17 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustCharcoal
+Sep 24, 2013 10:28:17 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockSteel
+Sep 24, 2013 10:28:17 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreSulfur
+Sep 24, 2013 10:28:17 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreSaltpeter
+Sep 24, 2013 10:28:17 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreDiamond
+Sep 24, 2013 10:28:17 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreEmerald
+Sep 24, 2013 10:28:17 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreLapis
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: uraniumhexafluoride
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: deuterium
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: toxicwaste
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreUranium
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: breederUranium
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockRadioactive
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cellEmpty
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cellUranium
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cellDeuterium
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cellWater
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: strangeMatter
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: antimatterMilligram
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: antimatterGram
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: gemDiamond
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: gemEmerald
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotIron
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotGold
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: gemDiamond
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: acid
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: poison
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: liquidnitrogen
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: sap
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: resin
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: latex
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: turpentine
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: pulpWood
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropApple
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropCrabapple
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropOrange
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropKumquat
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropLime
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropCherry
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropWildCherry
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropCherry
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropSourCherry
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropCherry
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropBlackCherry
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropBlackthorn
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropPlum
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropCherryPlum
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropAlmond
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropApricot
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropGrapefruit
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropPeach
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropSatsuma
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropOrange
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropBuddhaHand
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropCitron
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropCitron
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropLime
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropFingerLime
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropKeyLime
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropLime
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropOrange
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropManderin
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropPeach
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropNectarine
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropPomelo
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropTangerine
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropOrange
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropPear
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropSandPear
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropHazelnut
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropButternut
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropWalnut
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropBeechnut
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropPecan
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropBanana
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropRedBanana
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropBanana
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropPlantain
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropBrazilNut
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropFig
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropAcorn
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropElderberry
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropOlive
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropGingkoNut
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropCoffee
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropOsangeOrange
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropClove
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropApple
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropHops
+Sep 24, 2013 10:28:18 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: seedWheat
+Sep 24, 2013 10:28:20 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: sludge
+Sep 24, 2013 10:28:20 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreSilver
+Sep 24, 2013 10:28:20 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotSilver
+Sep 24, 2013 10:28:20 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotLead
+Sep 24, 2013 10:28:20 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockSilver
+Sep 24, 2013 10:28:20 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockLead
+Sep 24, 2013 10:28:20 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: sulfuricAcid
+Sep 24, 2013 10:28:20 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: aquaRegia
+Sep 24, 2013 10:28:20 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreIron
+Sep 24, 2013 10:28:20 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreGold
+Sep 24, 2013 10:28:20 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotIron
+Sep 24, 2013 10:28:20 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotGold
+Sep 24, 2013 10:28:23 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: potion
+Sep 24, 2013 10:28:23 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustIron
+Sep 24, 2013 10:28:23 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustGold
+Sep 24, 2013 10:28:23 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustCopper
+Sep 24, 2013 10:28:23 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustTin
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: hambone
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten iron
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten gold
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten copper
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten tin
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten aluminum
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten cobalt
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten ardite
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten bronze
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten aluminum brass
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten manyullyn
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten alumite
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten obsidian
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten steel
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten glass
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: seared stone
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: liquified emerald
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: blood
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: nickel.molten
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: lead.molten
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: silver.molten
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: platinum.molten
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: invar.molten
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: electrum.molten
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: ender
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: slime.blue
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: mossystone
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: mossystone
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreCobalt
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreArdite
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreCopper
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreTin
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreNaturalAluminum
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreIron
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreGold
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreCobalt
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreCopper
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreTin
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreNaturalAluminum
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotCobalt
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotArdite
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotManyullyn
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotCopper
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotTin
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotNaturalAluminum
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: naturalAluminum
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotBronze
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotAluminumBrass
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotAlumite
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotSteel
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockCobalt
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockArdite
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockManyullyn
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockCopper
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockBronze
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockTin
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockNaturalAluminum
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockAluminumBrass
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockAlumite
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockSteel
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: nuggetIron
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: nuggetCopper
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: nuggetTin
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: nuggetNaturalAluminum
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: nuggetAluminumBrass
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: nuggetObsidian
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: nuggetCobalt
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: nuggetArdite
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: nuggetManyullyn
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: nuggetBronze
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: nuggetAlumite
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: nuggetSteel
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: woodRod
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stoneRod
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ironRod
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: flintRod
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cactusRod
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: boneRod
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: obsidianRod
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: netherrackRod
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: slimeRod
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: paperRod
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cobaltRod
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: arditeRod
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: manyullynRod
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: copperRod
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: bronzeRod
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: alumiteRod
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: steelRod
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blueslimeRod
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: thaumiumRod
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: glassWhite
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: glassOrange
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: glassMagenta
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: glassLightBlue
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: glassYellow
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: glassLime
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: glassPink
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: glassGray
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: glassLightGray
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: glassCyan
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: glassPurple
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: glassBlue
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: glassBrown
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: glassGreen
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: glassRed
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: glassBlack
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: slimeball
+Sep 24, 2013 10:28:24 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: slimeball
+Sep 24, 2013 10:28:25 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: beeComb
+Sep 24, 2013 10:28:25 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: waxMagical
+Sep 24, 2013 10:28:25 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: waxMagical
+Sep 24, 2013 10:28:25 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: nuggetIron
+Sep 24, 2013 10:28:25 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: nuggetCopper
+Sep 24, 2013 10:28:25 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: nuggetTin
+Sep 24, 2013 10:28:25 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: nuggetSilver
+Sep 24, 2013 10:28:25 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: nuggetLead
+Sep 24, 2013 10:28:25 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: shardDiamond
+Sep 24, 2013 10:28:25 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: shardEmerald
+Sep 24, 2013 10:28:25 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: shardApatite
+Sep 24, 2013 10:28:26 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: itemFertilizer
+Sep 24, 2013 10:28:26 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: itemTar
+Sep 24, 2013 10:28:26 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: fortron
+Sep 24, 2013 10:28:27 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: itemSuperconductor
+Sep 24, 2013 10:28:28 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: myst.ink.black
+Sep 24, 2013 10:28:28 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler registerListener
+INFO: Created listener list on channel 1
+Sep 24, 2013 10:28:28 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler registerListener
+INFO: Registered Listener: denoflionsx.PluginsforForestry.Plugins.Railcraft.PluginRailcraft
+Sep 24, 2013 10:28:28 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler registerListener
+INFO: Sending 49 cached events to denoflionsx.PluginsforForestry.Plugins.Railcraft.PluginRailcraft
+Sep 24, 2013 10:28:28 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler registerListener
+INFO: Registered Listener: denoflionsx.PluginsforForestry.Utils.FermenterUtils
+Sep 24, 2013 10:28:28 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler registerListener
+INFO: Sending 49 cached events to denoflionsx.PluginsforForestry.Utils.FermenterUtils
+Sep 24, 2013 10:28:32 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stoneRod
+Sep 24, 2013 10:28:38 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreCertusQuartz
+Sep 24, 2013 10:28:38 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: crystalCertusQuartz
+Sep 24, 2013 10:28:38 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustCertusQuartz
+Sep 24, 2013 10:28:38 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustNetherQuartz
+Sep 24, 2013 10:28:38 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustEnderPearl
+Sep 24, 2013 10:28:38 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustGold
+Sep 24, 2013 10:28:38 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustIron
+Sep 24, 2013 10:28:38 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustWheat
+Sep 24, 2013 10:28:38 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockSteel
+Sep 24, 2013 10:28:38 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotSteel
+Sep 24, 2013 10:28:38 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustSteel
+Sep 24, 2013 10:28:38 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dyeBlue
+Sep 24, 2013 10:28:38 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dyeBlack
+Sep 24, 2013 10:28:38 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dyeBrown
+Sep 24, 2013 10:28:38 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dyeWhite
+Sep 24, 2013 10:28:38 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: nuggetCopper
+Sep 24, 2013 10:28:38 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: nuggetSilver
+Sep 24, 2013 10:28:38 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: nuggetGold
+Sep 24, 2013 10:28:38 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: nuggetPlatinum
+Sep 24, 2013 10:28:38 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: coinCopper
+Sep 24, 2013 10:28:38 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: coinSilver
+Sep 24, 2013 10:28:38 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: coinGold
+Sep 24, 2013 10:28:38 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: coinPlatinum
+Sep 24, 2013 10:28:40 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: glass
+Sep 24, 2013 10:28:40 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: milk
+Sep 24, 2013 10:28:40 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: biomass
+Sep 24, 2013 10:28:40 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: bioethanol
+Sep 24, 2013 10:28:40 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: seedoil
+Sep 24, 2013 10:28:40 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: honey
+Sep 24, 2013 10:28:40 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: juice
+Sep 24, 2013 10:28:40 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: ice
+Sep 24, 2013 10:28:41 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dyeRed
+Sep 24, 2013 10:28:41 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dyeYellow
+Sep 24, 2013 10:28:41 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dyeBlue
+Sep 24, 2013 10:28:41 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dyeGreen
+Sep 24, 2013 10:28:41 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dyeBlack
+Sep 24, 2013 10:28:41 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dyeWhite
+Sep 24, 2013 10:28:41 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dyeBrown
+Sep 24, 2013 10:28:41 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: liquiddna
+Sep 24, 2013 10:28:42 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: life essence
+Sep 24, 2013 10:28:42 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: woodLog
+Sep 24, 2013 10:28:42 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: woodLog
+Sep 24, 2013 10:28:42 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: treeSapling
+Sep 24, 2013 10:28:42 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: treeLeaves
+Sep 24, 2013 10:28:42 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: treeLeaves
+Sep 24, 2013 10:28:42 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:42 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: liquidforce
+Sep 24, 2013 10:28:43 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: gemForce
+Sep 24, 2013 10:28:43 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotForce
+Sep 24, 2013 10:28:43 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: nuggetForce
+Sep 24, 2013 10:28:43 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: logWood
+Sep 24, 2013 10:28:43 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:43 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: treeSapling
+Sep 24, 2013 10:28:43 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: treeLeaves
+Sep 24, 2013 10:28:43 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stickWood
+Sep 24, 2013 10:28:43 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: itemTear
+Sep 24, 2013 10:28:43 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: itemTear
+Sep 24, 2013 10:28:43 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: itemClaw
+Sep 24, 2013 10:28:43 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: immibis.liquidxp
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockAluminum
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockAluminium
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockBronze
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockCopper
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockLead
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockNickel
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockPlatinum
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockSilver
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockSteel
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockTin
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreAluminum
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreAluminium
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreTin
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreEmery
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreLead
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreCopper
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreNickel
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreRuby
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreSapphire
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotAluminum
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotAluminium
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotBronze
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotCopper
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotLead
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotNickel
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotPlatinum
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotSilver
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotSteel
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotTin
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: gemEmery
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: gemRuby
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: gemSapphire
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: slickwater
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustQuicklime
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: groundAluminum
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: groundTin
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: groundLead
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: groundGold
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: groundIron
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: groundCopper
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: groundNickel
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: groundSilver
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustImpureAluminum
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustImpureCopper
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustImpureLead
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustImpureNickel
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustImpureGold
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustImpureIron
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustImpureSilver
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustImpureTin
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustAluminum
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustCopper
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustGold
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustIron
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustLead
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustNickel
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustPlatinum
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustSilver
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustTin
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.angmallen
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.damascus.steel
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.hepatizon
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.manganese
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.brass
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.platinum
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.zinc
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.amordrine
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.alduorite
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.ceruclase
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.ignatius
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.inolashite
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.kalendrite
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.lemurite
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.midasium
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.sanguinite
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.shadow.iron
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.shadow.steel
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.vulcanite
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.vyroxeres
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.adamantine
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.astral.silver
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.atlarus
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.black.steel
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.carmot
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.celenegil
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.deep.iron
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.haderoth
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.infuscolium
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.mithril
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.orichalcum
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.oureclase
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.prometheum
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.quicksilver
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.rubracium
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.tartarite
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.desichalkos
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.eximite
+Sep 24, 2013 10:28:44 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten.meutoite
+Sep 24, 2013 10:28:45 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:45 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:45 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:45 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:45 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:45 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:45 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:45 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:45 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:45 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:45 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:45 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:45 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:45 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:45 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:45 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plankWood
+Sep 24, 2013 10:28:45 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: gascraft_naturalgas
+Sep 24, 2013 10:28:45 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: gascraft_propellent
+Sep 24, 2013 10:28:45 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: gascraft_hydrogen
+Sep 24, 2013 10:28:45 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: gascraft_smoke
+Sep 24, 2013 10:28:45 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: gascraft_toxicgas
+Sep 24, 2013 10:28:45 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: gascraft_neurotoxin
+Sep 24, 2013 10:28:45 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockWool
+Sep 24, 2013 10:28:45 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockWool
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: itemBioFuel
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockHepatizon
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotHepatizon
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustHepatizon
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockBronze
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotBronze
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustBronze
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockAngmallen
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotAngmallen
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustAngmallen
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreCopper
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockCopper
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotCopper
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustCopper
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreTin
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockTin
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotTin
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustTin
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockSteel
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotSteel
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustSteel
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockDamascus Steel
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotDamascus Steel
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustDamascus Steel
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreManganese
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockManganese
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotManganese
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustManganese
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockElectrum
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotElectrum
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustElectrum
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreZinc
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockZinc
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotZinc
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustZinc
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: orePlatinum
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockPlatinum
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotPlatinum
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustPlatinum
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreSilver
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockSilver
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotSilver
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustSilver
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockBrass
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotBrass
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustBrass
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreLemurite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockLemurite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotLemurite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustLemurite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreIgnatius
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockIgnatius
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotIgnatius
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustIgnatius
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreCeruclase
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockCeruclase
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotCeruclase
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustCeruclase
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockInolashite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotInolashite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustInolashite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreShadow Iron
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockShadow Iron
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotShadow Iron
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustShadow Iron
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreVulcanite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockVulcanite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotVulcanite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustVulcanite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreMidasium
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockMidasium
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotMidasium
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustMidasium
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockShadow Steel
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotShadow Steel
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustShadow Steel
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreVyroxeres
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockVyroxeres
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotVyroxeres
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustVyroxeres
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreKalendrite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockKalendrite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotKalendrite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustKalendrite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreSanguinite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockSanguinite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotSanguinite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustSanguinite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockAmordrine
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotAmordrine
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustAmordrine
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreAlduorite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockAlduorite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotAlduorite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustAlduorite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreInfuscolium
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockInfuscolium
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotInfuscolium
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustInfuscolium
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreRubracium
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockRubracium
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotRubracium
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustRubracium
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreAdamantine
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockAdamantine
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotAdamantine
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustAdamantine
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockQuicksilver
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotQuicksilver
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustQuicksilver
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockCelenegil
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotCelenegil
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustCelenegil
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreAtlarus
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockAtlarus
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotAtlarus
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustAtlarus
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreDeep Iron
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockDeep Iron
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotDeep Iron
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustDeep Iron
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: orePrometheum
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockPrometheum
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotPrometheum
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustPrometheum
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockBlack Steel
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotBlack Steel
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustBlack Steel
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreOrichalcum
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockOrichalcum
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotOrichalcum
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustOrichalcum
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreAstral Silver
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockAstral Silver
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotAstral Silver
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustAstral Silver
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockHaderoth
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotHaderoth
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustHaderoth
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreMithril
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockMithril
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotMithril
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustMithril
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockTartarite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotTartarite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustTartarite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreOureclase
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockOureclase
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotOureclase
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustOureclase
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreCarmot
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockCarmot
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotCarmot
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustCarmot
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreEximite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockEximite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotEximite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustEximite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreMeutoite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockMeutoite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotMeutoite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustMeutoite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockDesichalkos
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotDesichalkos
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustDesichalkos
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreSulfur
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: orePhosphorite
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreSaltpeter
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreBitumen
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreMagnesium
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: orePotash
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustSulfur
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustPhosphorus
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustSaltpeter
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: itemBitumen
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustPotash
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustMagnesium
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustIron
+Sep 24, 2013 10:28:48 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustGold
+Sep 24, 2013 10:28:51 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropPumpkin
+Sep 24, 2013 10:28:51 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropMelon
+Sep 24, 2013 10:28:51 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropPotato
+Sep 24, 2013 10:28:51 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cropCarrot
+Sep 24, 2013 10:28:51 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: peat
+Sep 24, 2013 10:28:51 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: vegetable
+Sep 24, 2013 10:28:51 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler registerListener
+INFO: Created listener list on channel 0
+Sep 24, 2013 10:28:51 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler registerListener
+INFO: Registered Listener: denoflionsx.PluginsforForestry.Plugins.LiquidRoundup.Items.WoodenBucketRecipeManager
+Sep 24, 2013 10:28:51 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler registerListener
+INFO: Sending 802 cached events to denoflionsx.PluginsforForestry.Plugins.LiquidRoundup.Items.WoodenBucketRecipeManager
+Sep 24, 2013 10:28:51 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler registerListener
+INFO: Registered Listener: denoflionsx.PluginsforForestry.Plugins.LiquidRoundup.Items.BarrelRecipeManager
+Sep 24, 2013 10:28:51 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler registerListener
+INFO: Sending 802 cached events to denoflionsx.PluginsforForestry.Plugins.LiquidRoundup.Items.BarrelRecipeManager
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredPart
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredIllumar
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredIllumar
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredIllumar
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredIllumar
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredIllumar
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredIllumar
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredIllumar
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredIllumar
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredIllumar
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredIllumar
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredIllumar
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredIllumar
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredIllumar
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredIllumar
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredIllumar
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredIllumar
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten redstone
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: molten conductive redmetal
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsFramedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsulatedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsFramedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsulatedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsFramedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsulatedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsFramedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsulatedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsFramedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsulatedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsFramedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsulatedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsFramedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsulatedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsFramedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsulatedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsFramedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsulatedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsFramedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsulatedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsFramedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsulatedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsFramedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsulatedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsFramedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsulatedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsFramedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsulatedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsFramedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsulatedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsFramedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredInsulatedWire
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredBundledCable
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredBundledCable
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredBundledCable
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredBundledCable
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredBundledCable
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredBundledCable
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredBundledCable
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredBundledCable
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredBundledCable
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredBundledCable
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredBundledCable
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredBundledCable
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredBundledCable
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredBundledCable
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredBundledCable
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredBundledCable
+Sep 24, 2013 10:28:52 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: projredBundledCable
+Sep 24, 2013 10:28:53 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: diamondNugget
+Sep 24, 2013 10:28:53 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stoneSmooth
+Sep 24, 2013 10:28:53 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stoneSmooth
+Sep 24, 2013 10:28:53 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stoneCobble
+Sep 24, 2013 10:28:53 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stoneCobble
+Sep 24, 2013 10:28:53 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stoneBricks
+Sep 24, 2013 10:28:53 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stoneBricks
+Sep 24, 2013 10:28:53 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: obsidianRod
+Sep 24, 2013 10:28:53 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stoneBowl
+Sep 24, 2013 10:28:53 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: circuitElite
+Sep 24, 2013 10:28:53 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: circuitBasic
+Sep 24, 2013 10:28:53 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotBronze
+Sep 24, 2013 10:28:53 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotCopper
+Sep 24, 2013 10:28:54 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: circuitAdvanced
+Sep 24, 2013 10:28:54 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotSteel
+Sep 24, 2013 10:28:54 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plateSteel
+Sep 24, 2013 10:28:54 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: wrench
+Sep 24, 2013 10:28:54 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustSteel
+Sep 24, 2013 10:28:54 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: motor
+Sep 24, 2013 10:28:54 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreCopper
+Sep 24, 2013 10:28:54 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreTin
+Sep 24, 2013 10:28:54 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: plateBronze
+Sep 24, 2013 10:28:54 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustBronze
+Sep 24, 2013 10:28:54 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotTin
+Sep 24, 2013 10:28:55 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onFluidEvent
+INFO: FluidDictionary: short.mead
+Sep 24, 2013 10:28:55 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: calclavia:CIRCUIT_T1
+Sep 24, 2013 10:28:55 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: calclavia:CIRCUIT_T2
+Sep 24, 2013 10:28:55 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: calclavia:CIRCUIT_T3
+Sep 24, 2013 10:28:55 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: calclavia:ADVANCED_BATTERY
+Sep 24, 2013 10:28:55 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: calclavia:BATTERY
+Sep 24, 2013 10:28:55 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: calclavia:BATTERY_BOX
+Sep 24, 2013 10:28:55 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: calclavia:WRENCH
+Sep 24, 2013 10:28:55 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: calclavia:WIRE
+Sep 24, 2013 10:28:55 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: calclavia:MOTOR
+Sep 24, 2013 10:28:55 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cellEmpty
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotIron
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotGold
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: gemDiamond
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: gemEmerald
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: gemLapis
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: beeComb
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: fz.waterBucketLike
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: fz.waterBucketLike
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: fz.waterBucketLike
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: fz.waterBucketLike
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: fz.waterBucketLike
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: fz.waterBucketLike
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dirtyGravelIron
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cleanGravelIron
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: reducedIron
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: crystallineIron
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dirtyGravelGold
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cleanGravelGold
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: reducedGold
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: crystallineGold
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dirtyGravelTin
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cleanGravelTin
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: reducedTin
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: crystallineTin
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dirtyGravelCopper
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cleanGravelCopper
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: reducedCopper
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: crystallineCopper
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dirtyGravelGalena
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cleanGravelGalena
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: reducedGalena
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: crystallineGalena
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dirtyGravelLead
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cleanGravelLead
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: reducedLead
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: crystallineLead
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dirtyGravelSilver
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cleanGravelSilver
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: reducedSilver
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: crystallineSilver
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dirtyGravelAluminum
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cleanGravelAluminum
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: reducedAluminum
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: crystallineAluminum
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dirtyGravelCobalt
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cleanGravelCobalt
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: reducedCobalt
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: crystallineCobalt
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dirtyGravelArdite
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: cleanGravelArdite
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: reducedArdite
+Sep 24, 2013 10:28:56 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: crystallineArdite
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: universalCable
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustIron
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustGold
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustOsmium
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustRefinedObsidian
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustDiamond
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustSteel
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustCopper
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustTin
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustSilver
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotRefinedObsidian
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotOsmium
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotBronze
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotRefinedGlowstone
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: ingotSteel
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockOsmium
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockBronze
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockRefinedObsidian
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockCoal
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockRefinedGlowstone
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: blockSteel
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustDirtyIron
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustDirtyGold
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustDirtyOsmium
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustDirtyCopper
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustDirtyTin
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustDirtySilver
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustDirtyObsidian
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: dustObsidian
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: clumpIron
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: clumpGold
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: clumpOsmium
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: clumpCopper
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: clumpTin
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: clumpSilver
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: clumpObsidian
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: oreOsmium
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: circuitBasic
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: itemCompressedCarbon
+Sep 24, 2013 10:29:00 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: itemEnrichedAlloy
+Sep 24, 2013 10:29:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler registerListener
+INFO: Registered Listener: denoflionsx.PluginsforForestry.Plugins.LiquidRoundup.Items.ItemWoodenBucket
+Sep 24, 2013 10:29:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler registerListener
+INFO: Sending 112 cached events to denoflionsx.PluginsforForestry.Plugins.LiquidRoundup.Items.ItemWoodenBucket
+Sep 24, 2013 10:29:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler registerListener
+INFO: Registered Listener: denoflionsx.PluginsforForestry.Plugins.LiquidRoundup.Items.ItemBarrel
+Sep 24, 2013 10:29:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler registerListener
+INFO: Sending 112 cached events to denoflionsx.PluginsforForestry.Plugins.LiquidRoundup.Items.ItemBarrel
+Sep 24, 2013 10:29:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: itemCharcoalSugar
+Sep 24, 2013 10:29:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: itemCokeSugar
+Sep 24, 2013 10:29:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: itemCharcoalCactus
+Sep 24, 2013 10:29:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: itemCokeCactus
+Sep 24, 2013 10:29:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: pr_bag
+Sep 24, 2013 10:29:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: pr_bag
+Sep 24, 2013 10:29:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: pr_bag
+Sep 24, 2013 10:29:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: pr_bag
+Sep 24, 2013 10:29:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: pr_bag
+Sep 24, 2013 10:29:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: pr_bag
+Sep 24, 2013 10:29:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: pr_bag
+Sep 24, 2013 10:29:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: pr_bag
+Sep 24, 2013 10:29:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: pr_bag
+Sep 24, 2013 10:29:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: pr_bag
+Sep 24, 2013 10:29:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: pr_bag
+Sep 24, 2013 10:29:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: pr_bag
+Sep 24, 2013 10:29:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: pr_bag
+Sep 24, 2013 10:29:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: pr_bag
+Sep 24, 2013 10:29:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: pr_bag
+Sep 24, 2013 10:29:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: pr_bag
+Sep 24, 2013 10:29:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stoneCobble
+Sep 24, 2013 10:29:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stoneSmooth
+Sep 24, 2013 10:29:01 PM denoflionsx.denLib.Mod.Handlers.DictionaryHandler onEvent
+INFO: OreDictionary: stoneBricks
