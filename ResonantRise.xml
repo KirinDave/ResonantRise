@@ -135,7 +135,7 @@
         description="" />
 	<mod url="packs/ResonantRise/files/DynamicLiquidTanks-v0.3.1.jar" file="DynamicLiquidTanks-v0.3.1.jar" md5="01dc5b8ea70bb055f2a9e5cc7224179c" download="server"
         name="Dynamic Liquid Tanks" type="mods" version="0.3.1"
-        website="http://www.minecraftforum.net/topic/1861781-162-dynamic-liquid-tanks-color-and-camo-tanks-store-potions-builtin-endertanks-resize-w-bcte-power-2000-dl/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TU3UUYK8F5VDC"
+        website="http://tinyurl.com/nfggpfa" donation="http://tinyurl.com/q8u29zr"
         description="" />
     <mod url="packs/ResonantRise/files/EmasherResource-1.2.1.3.zip" file="EmasherResource-1.2.1.3.zip" md5="2e15247d0d1b2ac5a14fb3179c352485" download="server"
          name="EmasherResource" type="mods" optional="yes" version="1.2.1.3"
@@ -278,19 +278,19 @@
          description="" />
 	<mod url="packs/ResonantRise/files/ProjectRedBase-1.6.2-4.0.1.4.jar" file="ProjectRedBase-1.6.2-4.0.1.4.jar" md5="a9aa39d87abe133ea740bd9d8fb476f6" download="server"
          name="Project Red: Base" type="mods" version="4.0.1.4"
-         website="https://dl.dropboxusercontent.com/u/46144650/website/projred/index.html" donation="https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=hxze_6UC1izIx6Q5amBVnz_FfDTEH60sMeQl4mxQfHOqqxbEA1BvrG54Y6W&dispatch=5885d80a13c0db1f8e263663d3faee8d0038486cd0d9a2f30f3a21df7b0d0cee"
+         website="http://tinyurl.com/oqj5j6l" donation="http://tinyurl.com/qbuhrho"
          description="RedPower2 Clone" />
 	<mod url="packs/ResonantRise/files/ProjectRedCompat-1.6.2-4.0.1.4.jar" file="ProjectRedCompat-1.6.2-4.0.1.4.jar" md5="bfe2e60edcc7b80ddae4ee0103905ca6" download="server"
          name="Project Red: Compat" type="mods" version="4.0.1.4"
-         website="https://dl.dropboxusercontent.com/u/46144650/website/projred/index.html" donation="https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=hxze_6UC1izIx6Q5amBVnz_FfDTEH60sMeQl4mxQfHOqqxbEA1BvrG54Y6W&dispatch=5885d80a13c0db1f8e263663d3faee8d0038486cd0d9a2f30f3a21df7b0d0cee"
+         website="http://tinyurl.com/oqj5j6l" donation="http://tinyurl.com/qbuhrho"
          description="RedPower2 Clone" />
 	<mod url="packs/ResonantRise/files/ProjectRedIntegration-1.6.2-4.0.1.4.jar" file="ProjectRedIntegration-1.6.2-4.0.1.4.jar" md5="a911f8c6a44f86324f0fd90f64592d0b" download="server"
          name="Project Red: Integration" type="mods" version="4.0.1.4"
-         website="https://dl.dropboxusercontent.com/u/46144650/website/projred/index.html" donation="https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=hxze_6UC1izIx6Q5amBVnz_FfDTEH60sMeQl4mxQfHOqqxbEA1BvrG54Y6W&dispatch=5885d80a13c0db1f8e263663d3faee8d0038486cd0d9a2f30f3a21df7b0d0cee"
+         website="http://tinyurl.com/oqj5j6l" donation="http://tinyurl.com/qbuhrho"
          description="RedPower2 Clone" />
 	<mod url="packs/ResonantRise/files/ProjectRedWorld-1.6.2-4.0.1.4.jar" file="ProjectRedWorld-1.6.2-4.0.1.4.jar" md5="dc7020d6116269f28c0fcbee2101bf97" download="server"
          name="Project Red: World" type="mods" version="4.0.1.4"
-         website="https://dl.dropboxusercontent.com/u/46144650/website/projred/index.html" donation="https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=hxze_6UC1izIx6Q5amBVnz_FfDTEH60sMeQl4mxQfHOqqxbEA1BvrG54Y6W&dispatch=5885d80a13c0db1f8e263663d3faee8d0038486cd0d9a2f30f3a21df7b0d0cee"
+         website="http://tinyurl.com/oqj5j6l" donation="http://tinyurl.com/qbuhrho"
          description="RedPower2 Clone" />
     <mod url="packs/ResonantRise/files/Resonant_Induction_v0.2.0.173.jar" file="Resonant_Induction_v0.2.0.173.jar" md5="a8ab69276a5e9ce5cd4296fc56b9d274" download="server"
          name="Resonant Induction" version="0.2.0.173" type="mods"
@@ -354,7 +354,7 @@
 	<mod url="packs/ResonantRise/files/JourneyMap2.7.2_MC1.6.2.zip" file="JourneyMap2.7.2_MC1.6.2.zip" md5="e75c3365331b8d1e668b7a93239fc9cc" download="server"
         name="JourneyMap"  type="mods" server="no" optional="yes" group="Cartographer"
         version="2.7.2" 
-        website="http://www.minecraftforum.net/topic/772071-162-journeymap-272-live-maps-and-radar-in-game-or-browser-as-you-explore/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=D5KK9FRAQG6DE"
+        website="http://journeymap.techbrew.net/" donation="http://tinyurl.com/oguuxkx"
         description="Velo's minimap of choice! Some consider it cheaty." />
 	<mod url="packs/ResonantRise/files/InventoryTweaks-MC1.6.2-1.56-b77.jar" file="InventoryTweaks-MC1.6.2-1.56-b77.jar" md5="c325e074d3f9e5ad3290b9c7e0d336c3" download="server"
         name="Inventory Tweaks"  type="mods" server="no" optional="yes" group="UI"
