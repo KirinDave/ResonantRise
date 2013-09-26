@@ -166,7 +166,7 @@
          website="http://www.minecraftforum.net/topic/1776056-15xforge-extra-utilities-v024d/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=AAJGAD54WB7RQ"
          description="Angel Blocks? Angel Blocks!" />
 	<mod url="packs/ResonantRise/files/forgeirc-1.6.2-cpwbuild2.jar" file="forgeirc-1.6.2-cpwbuild2.jar" md5="1ec01792f4c40ada5b1761262ea25fdd" download="server"
-        name="ForgeIRC" type="mods" version="1.6.2-cpwbuild2"
+        name="ForgeIRC" optional="yes" type="mods" version="1.6.2-cpwbuild2"
         website="http://www.minecraftforum.net/topic/1475847-"
         description="ForgeIRC returns!" />
     <mod url="packs/ResonantRise/files/Factorization-0.8.04beta13.jar" file="Factorization-0.8.04beta13.jar" md5="56a970b4f38e3d48fa0db75f24817984" download="server"
@@ -242,13 +242,33 @@
          website="http://www.curse.com/mc-mods/minecraft/keithyutils"
          description="Old Murk-Eye" />
     <mod url="packs/ResonantRise/files/MFFS_v3.3.1.224.jar" file="MFFS_v3.3.1.224.jar" md5="6c976287aa361466e3bddca484cf2e4e" download="server"
-        name="MFFS" type="mods" version="3.3.1.224"
+        name="MFFS" type="mods" optional="yes" version="3.3.1.224"
         website="http://www.minecraftforum.net/topic/1703498-" donation="http://universalelectricity.com/mffs/"
         description="" />
+	<mod url="packs/ResonantRise/files/ModularPowersuits-1.6.2-0.8.0-11.jar" file="ModularPowersuits-1.6.2-0.8.0-11.jar" md5="938594e3e86432a3fb33dde85c1d8f14" download="server"
+        name="Modular Power Suits" type="mods" version="0.8.0-11"
+        website="http://www.machinemuse.net" donation="http://tinyurl.com/mjsd7eh"
+        description="" />
+	<mod url="packs/ResonantRise/files/Numina-1.6.2-0.0.1-14.jar" file="Numina-1.6.2-0.0.1-14.jar" md5="f1b97c6e0851992d893674c4ee2bc507" download="server"
+        name="Numina" type="mods" version="0.0.1-14"
+        website="http://www.machinemuse.net" donation="http://tinyurl.com/mjsd7eh"
+        description="MachineMuse's new API for her mods" />
+	<mod url="packs/ResonantRise/files/scala-library.jar" file="scala-library.jar" md5="9f68a66a83e62a5b555a2e10c1d04922" download="server"
+        name="Scala Lib [MPS]" type="mods" version="?"
+        website="http://www.machinemuse.net"
+        description="MPS Utils" />
+	<mod url="packs/ResonantRise/files/slick-util.jar" file="slick-util.jar" md5="0b9db0b296b5eb1df8d11eb30dc87b8f" download="server"
+        name="Slick Util [MPS]" type="mods" version="?"
+        website="http://www.machinemuse.net"
+        description="MPS Utils" />
 	<mod url="packs/ResonantRise/files/IC2NuclearControl-1.6.2c-ic2-experimental.zip" file="IC2NuclearControl-1.6.2c-ic2-experimental.zip" md5="7f0f1dd8c7840e3d0f2e6a8b93e3342d" download="server"
         name="Nuclear Control" type="mods" version="1.6.2c-exp"
         website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=5915"
         description="Thermal controls for IC2 nukes" />
+	<mod url="packs/ResonantRise/files/OpenBlocks-1.1.0-snapshot-196.jar" file="OpenBlocks-1.1.0-snapshot-196.jar" md5="20f95e7bd3f6c8c0e69125d5ff5c8f06" download="server"
+        name="OpenBlocks" type="mods" version="1.1.0-snapshot-196"
+        website="http://openmods.info/"
+        description="" />
 	<mod url="packs/ResonantRise/files/PluginsforForestry-1.6.2-3.1.19.jar" file="PluginsforForestry-1.6.2-3.1.19.jar" md5="3f3d717d92dcd762838e874932d7e8b0" download="server"
         name="Plugins for Forestry" type="mods" version="3.1.19"
         website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=INpureProjects%40gmail%2ecom&amp;lc=US&amp;item_name=denoflions%20mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
@@ -296,6 +316,10 @@
          name="Resonant Induction" version="0.2.0.173" type="mods"
          website="http://universalelectricity.com/resonant-induction" donation="http://universalelectricity.com/resonant-induction"
          description="" />
+	<mod url="packs/ResonantRise/files/RedstoneInMotion_2.2.0.0_mc1.6.zip" file="RedstoneInMotion_2.2.0.0_mc1.6.zip" md5="ebebdfed3f1514467bcc0216c3a85462" download="server"
+        name="Redstone in Motion" optional="yes" type="mods" version="2.2.0.0"
+        website="http://tinyurl.com/n5dtwd5"
+        description="" />
     <mod url="packs/ResonantRise/files/SoulShards-1.0.39-universal-srg.jar" file="SoulShards-1.0.39-universal-srg.jar" md5="332cd72fe7149ee70456ab7922099caf" download="server"
         name="Soul Shards" type="mods" version="1.0.39"
         website="http://www.minecraftforum.net/topic/1475847-"
@@ -355,7 +379,7 @@
         name="JourneyMap"  type="mods" server="no" optional="yes" group="Cartographer"
         version="2.7.2" 
         website="http://journeymap.techbrew.net/" donation="http://tinyurl.com/oguuxkx"
-        description="Velo's minimap of choice! Some consider it cheaty." />
+        description="Pair this with Rei's or Zan's Minimap for best results!" />
 	<mod url="packs/ResonantRise/files/InventoryTweaks-MC1.6.2-1.56-b77.jar" file="InventoryTweaks-MC1.6.2-1.56-b77.jar" md5="c325e074d3f9e5ad3290b9c7e0d336c3" download="server"
         name="Inventory Tweaks"  type="mods" server="no" optional="yes" group="UI"
         version="1.5.6b77" 
