@@ -4,6 +4,8 @@
     <minecraft>1.6.2</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
+	<memory>2048</memory>
+	<permgen>256</permgen>
   </pack>
   
     <!-- Dat Core -->
@@ -356,9 +358,9 @@
 
 
     <!-- Client Only -->
-   <mod url="packs/ResonantRise/files/mapwriter-2.0.8.zip" file="mapwriter-2.0.8.zip" md5="178846e110d2158d2b8fbfb8860dcb99" download="server"
+   <mod url="packs/ResonantRise/files/mapwriter-2.0.10.zip" file="mapwriter-2.0.10.zip" md5="a000fee3d21e641e67f39dee68a3478d" download="server"
         name="Map Writer"  type="mods" server="no" optional="yes" group="Cartographer"
-        version="2.0.8" 
+        version="2.0.10" 
         website="http://www.minecraftforum.net/topic/1570989-152-forge-mapwriter-an-open-source-mini-map/" 
         description="A nice, open source map writer." />
 	<mod url="packs/ResonantRise/files/[1.6.2]ReiMinimap_v3.4_01.zip" file="[1.6.2]ReiMinimap_v3.4_01.zip" md5="25bfbba8d801a5340186c7d52523ef6e" download="server"
