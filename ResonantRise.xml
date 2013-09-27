@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.0.7-BETA</version>
+    <version>2.0.7a-BETA</version>
     <minecraft>1.6.2</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
@@ -316,10 +316,6 @@
          name="Resonant Induction" version="0.2.0.173" type="mods"
          website="http://universalelectricity.com/resonant-induction" donation="http://universalelectricity.com/resonant-induction"
          description="" />
-	<mod url="packs/ResonantRise/files/RedstoneInMotion_2.2.0.0_mc1.6.zip" file="RedstoneInMotion_2.2.0.0_mc1.6.zip" md5="ebebdfed3f1514467bcc0216c3a85462" download="server"
-        name="Redstone in Motion" optional="yes" type="mods" version="2.2.0.0"
-        website="http://tinyurl.com/n5dtwd5"
-        description="" />
     <mod url="packs/ResonantRise/files/SoulShards-1.0.39-universal-srg.jar" file="SoulShards-1.0.39-universal-srg.jar" md5="332cd72fe7149ee70456ab7922099caf" download="server"
         name="Soul Shards" type="mods" version="1.0.39"
         website="http://www.minecraftforum.net/topic/1475847-"
