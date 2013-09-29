@@ -24,4 +24,5 @@ ID,Unlocalised name,Class
 23,potion.saturation,net.minecraft.potion.PotionHealth
 24,ic2.potion.radiation,ic2.core.IC2Potion
 32,potion.paralysis,biomesoplenty.potions.PotionParalysis
+33,potion.possession,biomesoplenty.potions.PotionPossession
 100,Drowning,WayofTime.alchemicalWizardry.PotionDrowning

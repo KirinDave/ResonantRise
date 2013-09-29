@@ -516,9 +516,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1069,Block,luma,tile.blocklumaFixtureOnBarsInv,com.kelmai.luma.blocks.BlockFixture
 1100,Block,PortalGun,tile.PortalMod,portalgun.common.block.BlockPortalMod
 1101,Block,PortalGun,tile.PortalMultiBlock,portalgun.common.block.BlockMulti
-1123,Block,JAKJ_RedstoneInMotion,tile.JAKJ_RedstoneInMotion_Carriage,JAKJ.RedstoneInMotion.Carriage
-1124,Block,JAKJ_RedstoneInMotion,tile.JAKJ_RedstoneInMotion_CarriageDrive,JAKJ.RedstoneInMotion.CarriageDrive
-1125,Block,JAKJ_RedstoneInMotion,tile.JAKJ_RedstoneInMotion_Spectre,JAKJ.RedstoneInMotion.Spectre
 1225,Block,ComputerCraft,tile.cccomputer,dan200.computer.shared.BlockComputer
 1226,Block,ComputerCraft,tile.ccdiskdrive,dan200.computer.shared.BlockPeripheral
 1227,Block,CCTurtle,tile.ccturtle,dan200.turtle.shared.BlockTurtle
@@ -761,6 +758,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1979,Block,BiomesOPlenty,tile.bop.altar,biomesoplenty.blocks.BlockAltar
 1980,Block,BiomesOPlenty,tile.bop.puddle,biomesoplenty.blocks.BlockPuddle
 1981,Block,BiomesOPlenty,tile.bop.grave,biomesoplenty.blocks.BlockGrave
+1982,Block,BiomesOPlenty,tile.bop.leavesFruit2,biomesoplenty.blocks.BlockBOPPersimmonLeaves
+1983,Block,BiomesOPlenty,tile.bop.flowers2,biomesoplenty.blocks.BlockBOPFlower2
 1985,Block,BiomesOPlenty,tile.bop.moss,biomesoplenty.blocks.BlockMoss
 2000,Block,UndergroundBiomes,tile.igneousCobblestone,exterminatorJeff.undergroundBiomes.common.block.BlockIgneousCobblestone
 2001,Block,UndergroundBiomes,tile.metamorphicCobblestone,exterminatorJeff.undergroundBiomes.common.block.BlockMetamorphicCobblestone
@@ -1610,6 +1609,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 9316,Item,factorization,item.factorization:servo/servo_motor,factorization.common.ItemCraftingComponent
 9317,Item,factorization,item.factorization:servo/component,factorization.common.servo.ItemServoRailWidget
 9318,Item,factorization,item.factorization:daybarrel,factorization.common.ItemDayBarrel
+9319,Item,factorization,item.factorization:logic_matrix_controller,factorization.common.ItemCraftingComponent
 9800,Item,ImmibisCore,item.immibis_microblocks.saw,mods.immibis.microblocks.ItemSaw
 9801,Item,ImmibisCore,item.liquidxp.bucket,mods.immibis.lxp.BucketItem
 9803,Item,ImmibisCore,item.null,mods.immibis.lxp.MedallionItem
@@ -2301,6 +2301,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 19456,Item,BuildCraft|Transport,item.PipePowerWood,buildcraft.transport.ItemPipe
 19457,Item,BuildCraft|Transport,item.PipePowerCobblestone,buildcraft.transport.ItemPipe
 19458,Item,BuildCraft|Transport,item.PipePowerStone,buildcraft.transport.ItemPipe
+19459,Item,BuildCraft|Transport,item.PipePowerIron,buildcraft.transport.ItemPipe
 19460,Item,BuildCraft|Transport,item.PipePowerGold,buildcraft.transport.ItemPipe
 19461,Item,BuildCraft|Transport,item.PipePowerDiamond,buildcraft.transport.ItemPipe
 19464,Item,BuildCraft|Transport,item.PipePowerQuartz,buildcraft.transport.ItemPipe
@@ -2365,6 +2366,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 22341,Item,BiomesOPlenty,item.bop.scytheDiamond,biomesoplenty.items.ItemBOPScythe
 22342,Item,BiomesOPlenty,item.bop.scytheMud,biomesoplenty.items.ItemBOPScythe
 22343,Item,BiomesOPlenty,item.bop.scytheAmethyst,biomesoplenty.items.ItemBOPScythe
+22344,Item,BiomesOPlenty,item.bop.wadingBoots,biomesoplenty.armor.ArmorWadingBoots
+22345,Item,BiomesOPlenty,item.bop.flippers,biomesoplenty.armor.ArmorFlippers
 22478,Item,BiblioCraft,item.tapeMeasure,jds.bibliocraft.items.TapeMeasure
 22479,Item,BiblioCraft,item.tape,jds.bibliocraft.items.ItemTape
 22480,Item,BiblioCraft,item.BiblioChase,jds.bibliocraft.items.ItemChase
@@ -2390,8 +2393,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 23278,Item,Aquaculture,item.NeptuniumLegs,rebelkeithy.mods.aquaculture.items.NeptuniumArmor
 23279,Item,Aquaculture,item.NeptuniumBoots,rebelkeithy.mods.aquaculture.items.NeptuniumArmor
 23281,Item,Aquaculture,item.AdminFishingRod,rebelkeithy.mods.aquaculture.items.ItemAdminFishingRod
-23656,Item,JAKJ_RedstoneInMotion,item.JAKJ_RedstoneInMotion_SimpleItemSet,JAKJ.RedstoneInMotion.SimpleItemSet
-23657,Item,JAKJ_RedstoneInMotion,item.JAKJ_RedstoneInMotion_ToolItemSet,JAKJ.RedstoneInMotion.ToolItemSet
 25002,Item,minegicka,item.minegicka:magikDust,willeze.minegicka.stuffs.objects.ItemMagikDust
 25003,Item,minegicka,item.minegicka:magikDustAdvanced,willeze.minegicka.stuffs.objects.ItemMagikDust
 25004,Item,minegicka,item.minegicka:magikDustEpic,willeze.minegicka.stuffs.objects.ItemMagikDust
@@ -2547,6 +2548,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 26116,Item,MagicBees,item.capsule.void,magicbees.item.ItemCapsule
 26119,Item,MagicBees,item.moonDial,magicbees.item.ItemMoonDial
 26120,Item,MagicBees,item.beeNugget,magicbees.item.ItemNugget
+26121,Item,MagicBees,item.magicbees:mysteriousMagnet,magicbees.item.ItemMysteriousMagnet
 26236,Item,Metallurgy3Base,item.Metallurgy:Utility/Bitumen,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgy
 26237,Item,Metallurgy3Base,item.Metallurgy:Utility/Fertilizer,rebelkeithy.mods.metallurgy.metals.utilityItems.ItemFertilizer
 26238,Item,Metallurgy3Base,item.Metallurgy:Utility/Magnesium,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgy
