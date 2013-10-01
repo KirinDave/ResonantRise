@@ -26,3 +26,4 @@ ID,Unlocalised name,Class
 32,potion.paralysis,biomesoplenty.potions.PotionParalysis
 33,potion.possession,biomesoplenty.potions.PotionPossession
 100,Drowning,WayofTime.alchemicalWizardry.PotionDrowning
+101,Boost,WayofTime.alchemicalWizardry.PotionBoost
