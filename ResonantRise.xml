@@ -409,8 +409,8 @@
 	<mod url="http://adf.ly/1311628/thaumcraft-4" 
          file="Thaumcraft4.0.0.zip" download="browser" name="Thaumcraft 4" type="mods" version="4.0.0" website="http://tinyurl.com/kg3t8dv" donation="http://tinyurl.com/nfptdtz" description="The Ur Magic Mod for Minecraft!" 
          />
-	<mod url="http://tinyurl.com/qajp4r9" 
-         file="ThaumicTinkerer 2.0-18.jar" download="direct" name="Thaumic Tinkerer" type="mods" version="2.0.18" website="http://tinyurl.com/qz5wzps" description="" 
+	<mod url="http://adf.ly/WsDke" 
+         file="ThaumicTinkerer 2.0-19.jar" download="browser" name="Thaumic Tinkerer" type="mods" version="2.0-19" website="http://tinyurl.com/qz5wzps" description="" 
          />
 
 
