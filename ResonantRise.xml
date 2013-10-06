@@ -25,9 +25,9 @@
           name="Forge" type="forge" version="9.11.1.916" website="http://www.minecraftforge.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" description="The Core." />
     <mod url="packs/ResonantRise/files/iChunUtil2.2.0.zip" file="iChunUtil2.2.0.zip" md5="0011d36dc241b173d819c80b8cab2205" download="server"
          name="iChunUtil" type="mods" version="2.2.0" website="http://ichun.us/mods/ichun-util/" donation="http://pitchinbox.com/redirect.php?id=9657538021" description="Library pack for iChun's mods."  />
-    <mod url="packs/ResonantRise/files/immibis-microblocks-56.0.5.jar" file="immibis-microblocks-56.0.5.jar" md5="a92ea7405db3b01456dc8ec11bd16ad0" download="server"
+    <mod url="packs/ResonantRise/files/immibis-microblocks-57.0.0.jar" file="immibis-microblocks-57.0.0.jar" md5="e1c093f2b4bbcf5fcf290ca3f8a09769" download="server"
          name="Immibis Microblocks" depends="ImmibisCore" type="coremods" 
-         version="56.0.5" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description=""  />
+         version="57.0.0" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description=""  />
     <mod url="packs/ResonantRise/files/AdvancedReactors-1.6.2_1.0.2-exp.jar" file="AdvancedReactors-1.6.2_1.0.2-exp.jar" md5="d4c4508ba11768d498436ca743c55ded" download="server"
         name="Advanced Reactors" type="mods" version="1.0.2-exp"
         website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9212"
