@@ -260,7 +260,6 @@ molten.brass
 molten.quicksilver
 molten tin
 ice
-potion
 glass
 fuel
 toxicwaste
@@ -302,6 +301,7 @@ dustAluminumBrass
 blockQuicksilver
 slimeball
 gemApatite
+dustTinyLead
 shardDiamond
 cropOsangeOrange
 nuggetPlatinum
@@ -346,6 +346,7 @@ ingotAstral Silver
 blockIgnatius
 coinCopper
 plateRefinedIron
+dustTinySilver
 cropGrapefruit
 listAllfishcooked
 fuelCoke
@@ -359,8 +360,8 @@ stoneRod
 cropPlantain
 stone
 cropRaspberry
-ingotSilver
 oreLapis
+ingotSilver
 glassOrange
 nuggetIron
 dustPrometheum
@@ -393,6 +394,7 @@ oreCobalt
 blockAlumite
 hambone
 coinSilver
+itemBacon
 dustZinc
 projredBundledCable
 stoneCobble
@@ -465,8 +467,8 @@ ingotHaderoth
 nuggetNaturalAluminum
 oreRuby
 blockAngmallen
-cropBlightberry
 dustImpureTin
+cropBlightberry
 cactusRod
 obsidianRod
 cropCarrot
@@ -487,6 +489,7 @@ cropSeaweed
 dustVulcanite
 ingotSteel
 oreApatite
+dustTinyGold
 dustImpureIron
 dustArdite
 ingotDamascus Steel
@@ -527,7 +530,6 @@ orePrometheum
 cropPlum
 dustImpureNickel
 ingotLemurite
-itemSuperconductor
 itemMotor
 calclavia:BATTERY
 blockAlduorite
@@ -553,8 +555,8 @@ cropSandPear
 blockAdamantine
 dustSilver
 ingotManyullyn
-sulfuricAcid
 blockWool
+sulfuricAcid
 gemTopaz
 oreEmerald
 blockRadioactive
@@ -585,6 +587,7 @@ glassGray
 dustMithril
 blockHepatizon
 itemFertilizer
+dustTinyIron
 nuggetCobalt
 craftingTableWood
 cropBlackCherry
@@ -718,6 +721,7 @@ projredInsFramedWire
 dustInolashite
 crystallineCopper
 oreQuartz
+dustTinyLithium
 blockOreTin
 glassLightGray
 cropLime
@@ -738,6 +742,7 @@ ingotAdamantine
 dustPhosphorus
 dustAlumite
 ingotInfuscolium
+dustTinyCopper
 itemPlateBronze
 dustMidasium
 ingotRefinedIron
@@ -751,9 +756,11 @@ ingotBlack Steel
 blockSanguinite
 cropCitron
 ingotRefinedGlowstone
+record
 cropChestnut
 ingotVulcanite
 cellWater
+dustTinySulfur
 dustBrass
 cellUranium
 cropApricot
@@ -765,6 +772,7 @@ groundSilver
 listAllfishraw
 waxMagical
 blockHaderoth
+dustTinyTin
 nuggetArdite
 cropManderin
 cropPumpkin
@@ -775,8 +783,8 @@ blockKalendrite
 crystallineAlumite
 cropStrawberry
 dyeBrown
-blockBronze
 circuitBasic
+blockBronze
 plateDenseLead
 ingotNaturalAluminum
 antimatterGram
@@ -888,3 +896,4 @@ paralysis
 possession
 Drowning
 Boost
+Whirlwind

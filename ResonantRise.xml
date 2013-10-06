@@ -1,26 +1,28 @@
 <version>
   <pack>
-    <version>2.0.8-BETA</version>
-    <minecraft>1.6.2</minecraft>
+    <version>2.1.0-BETA</version>
+    <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
-    <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker</extraarguments>
+    <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
 	<memory>2048</memory>
 	<permgen>256</permgen>
   </pack>
   
     <!-- Dat Core -->
-  <libraries>
-    <library url="https://s3.amazonaws.com/Minecraft.Download/libraries/net/minecraft/launchwrapper/1.3/launchwrapper-1.3.jar" file="launchwrapper-1.3.jar" server="net/minecraft/launchwrapper/1.3/launchwrapper-1.3.jar" md5="829effa9f93d5ece21e64baf78e9d4cb" />
-    <library url="https://s3.amazonaws.com/Minecraft.Download/libraries/org/ow2/asm/asm-all/4.1/asm-all-4.1.jar" file="asm-all-4.1.jar" server="org/ow2/asm/asm-all/4.1/asm-all-4.1.jar" md5="d21c2a06a4e6b175aa01e328f38a1182" />
-    <library url="http://files.minecraftforge.net/maven/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.jar" file="scala-library-2.10.2.jar" server="org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.jar" md5="8800aafcc03e346dbbde171bef0b2bfe" />
-    <library url="http://files.minecraftforge.net/maven/org/scala-lang/scala-compiler/2.10.2/scala-compiler-2.10.2.jar" file="scala-compiler-2.10.2.jar" server="org/scala-lang/scala-compiler/2.10.2/scala-compiler-2.10.2.jar" md5="44f4d11085423ebffbfb177c1fe4cc69" />
-    <library url="https://s3.amazonaws.com/Minecraft.Download/libraries/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar" file="jopt-simple-4.5.jar" server="net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar" md5="1372bd4823bb1ef61e7db6724f601150" />
-    <library url="https://s3.amazonaws.com/Minecraft.Download/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar" file="lzma-0.0.1.jar" server="lzma/lzma/0.0.1/lzma-0.0.1.jar" md5="a3e3c3186e41c4a1a3027ba2bb23cdc6" />
-  </libraries>
+	<libraries>
+		<library url="packs/ResonantRise/files/forgelibs/launchwrapper-1.8.jar" file="launchwrapper-1.8.jar" md5="460ffeedae268dc70c8210ce179fa44a" download="server" />
+		<library url="packs/ResonantRise/files/forgelibs/asm-all-4.1.jar" file="asm-all-4.1.jar" md5="d21c2a06a4e6b175aa01e328f38a1182" download="server" />
+		<library url="packs/ResonantRise/files/forgelibs/scala-compiler-2.10.2.jar" file="scala-compiler-2.10.2.jar" md5="44f4d11085423ebffbfb177c1fe4cc69" download="server" />
+		<library url="packs/ResonantRise/files/forgelibs/scala-library-2.10.2.jar" file="scala-library-2.10.2.jar" md5="8800aafcc03e346dbbde171bef0b2bfe" download="server" />
+		<library url="packs/ResonantRise/files/forgelibs/lzma-0.0.1.jar" file="lzma-0.0.1.jar" md5="a3e3c3186e41c4a1a3027ba2bb23cdc6" download="server" />
+		<library url="packs/ResonantRise/files/forgelibs/jopt-simple-4.5.jar" file="jopt-simple-4.5.jar" md5="1372bd4823bb1ef61e7db6724f601150" download="server" />
+		<library url="packs/ResonantRise/files/forgelibs/liteloader-1.6.4.jar" file="liteloader-1.6.4.jar" md5="531c116f71ae2b11033f9a11a0f8e668" download="server" />
+	</libraries>
+  
   <mods>
     <!-- Mods -->
-    <mod url="packs/ResonantRise/files/minecraftforge-universal-1.6.2-9.10.1.871.jar" file="minecraftforge-universal-1.6.2-9.10.1.871.jar" md5="e7dbbb3c92d2aa60fd3578e72fdc40f6" download="server"
-          name="Forge" type="forge" version="9.10.1.871" website="http://www.minecraftforge.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" description="The Core." />
+    <mod url="packs/ResonantRise/files/minecraftforge-universal-1.6.4-9.11.1.916.jar" file="minecraftforge-universal-1.6.4-9.11.1.916.jar" md5="c2fd946099d295869d188e9064a76106" download="server"
+          name="Forge" type="forge" version="9.11.1.916" website="http://www.minecraftforge.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" description="The Core." />
     <mod url="packs/ResonantRise/files/iChunUtil2.2.0.zip" file="iChunUtil2.2.0.zip" md5="0011d36dc241b173d819c80b8cab2205" download="server"
          name="iChunUtil" type="mods" version="2.2.0" website="http://ichun.us/mods/ichun-util/" donation="http://pitchinbox.com/redirect.php?id=9657538021" description="Library pack for iChun's mods."  />
     <mod url="packs/ResonantRise/files/immibis-microblocks-56.0.5.jar" file="immibis-microblocks-56.0.5.jar" md5="a92ea7405db3b01456dc8ec11bd16ad0" download="server"

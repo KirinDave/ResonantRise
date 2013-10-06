@@ -425,7 +425,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 741,Block,minegicka,tile.minegicka:dustGenerator1,willeze.minegicka.stuffs.objects.BlockDustGenerator
 742,Block,minegicka,tile.minegicka:dustGenerator2,willeze.minegicka.stuffs.objects.BlockDustGenerator
 743,Block,minegicka,tile.minegicka:dustGenerator3,willeze.minegicka.stuffs.objects.BlockDustGenerator
-744,Block,minegicka,tile.minegicka:generatorCatcher,willeze.minegicka.stuffs.objects.BlockGeneratorCatcher
 816,Block,IC2,blockIronScaffold,ic2.core.block.BlockScaffold
 817,Block,IC2,blockBarrel,ic2.core.block.BlockBarrel
 818,Block,IC2,blockCrop,ic2.core.block.BlockCrop
@@ -491,6 +490,30 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1000,Block,factorization,tile.null,factorization.common.BlockFactorization
 1001,Block,factorization,tile.lightair,factorization.common.BlockLightAir
 1002,Block,factorization,tile.factorization.ResourceBlock,factorization.common.BlockResource
+1003,Block,dynamictanks,tile.Multi-Tank Core,doc.dynamictanks.block.BlockTankCore
+1004,Block,dynamictanks,tile.Multi-Tank Extension,doc.dynamictanks.block.BlockTankSub
+1005,Block,dynamictanks,tile.Dimensional Extension,doc.dynamictanks.block.BlockTankDimExt
+1006,Block,dynamictanks,tile.Liquid Potion,doc.dynamictanks.block.BlockPotion
+1050,Block,luma,tile.blockLumaLampOff,com.kelmai.luma.blocks.BlockLumaLamp
+1051,Block,luma,tile.blockLumaLampOn,com.kelmai.luma.blocks.BlockLumaLamp
+1052,Block,luma,tile.blockLumaLampOnInv,com.kelmai.luma.blocks.BlockLumaLamp
+1053,Block,luma,tile.blockLumaLampOffInv,com.kelmai.luma.blocks.BlockLumaLamp
+1054,Block,luma,tile.blockLumaLampBarOff,com.kelmai.luma.blocks.BlockLumaLamp
+1055,Block,luma,tile.blockLumaLampBarOn,com.kelmai.luma.blocks.BlockLumaLamp
+1056,Block,luma,tile.blockLumaLampBarOnInv,com.kelmai.luma.blocks.BlockLumaLamp
+1057,Block,luma,tile.blockLumaLampBarOffInv,com.kelmai.luma.blocks.BlockLumaLamp
+1058,Block,luma,tile.blockMultiLampOff,com.kelmai.luma.blocks.BlockMultiLamp
+1059,Block,luma,tile.blockMultiLampOn,com.kelmai.luma.blocks.BlockMultiLamp
+1060,Block,luma,tile.blockMultiLampBarOff,com.kelmai.luma.blocks.BlockMultiLamp
+1061,Block,luma,tile.blockMultiLampBarOn,com.kelmai.luma.blocks.BlockMultiLamp
+1062,Block,luma,tile.blocklumaFixtureOff,com.kelmai.luma.blocks.BlockFixture
+1063,Block,luma,tile.blocklumaFixtureOffBars,com.kelmai.luma.blocks.BlockFixture
+1064,Block,luma,tile.blocklumaFixtureOn,com.kelmai.luma.blocks.BlockFixture
+1065,Block,luma,tile.blocklumaFixtureOnBars,com.kelmai.luma.blocks.BlockFixture
+1066,Block,luma,tile.blocklumaFixtureOffInv,com.kelmai.luma.blocks.BlockFixture
+1067,Block,luma,tile.blocklumaFixtureOffBarsInv,com.kelmai.luma.blocks.BlockFixture
+1068,Block,luma,tile.blocklumaFixtureOnInv,com.kelmai.luma.blocks.BlockFixture
+1069,Block,luma,tile.blocklumaFixtureOnBarsInv,com.kelmai.luma.blocks.BlockFixture
 1100,Block,PortalGun,tile.PortalMod,portalgun.common.block.BlockPortalMod
 1101,Block,PortalGun,tile.PortalMultiBlock,portalgun.common.block.BlockMulti
 1225,Block,ComputerCraft,tile.cccomputer,dan200.computer.shared.BlockComputer
@@ -675,7 +698,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1906,Block,DartCraft,tile.forceSapling,bluedart.block.BlockDartPlant
 1907,Block,DartCraft,tile.forceEngine,bluedart.block.BlockForceEngine
 1908,Block,DartCraft,tile.forceSlab,bluedart.block.BlockForceSlab
-1909,Block,DartCraft,tile.forceFrame,bluedart.block.BlockStorage
 1911,Block,DartCraft,tile.null,bluedart.block.BlockLiquidForce
 1912,Block,DartCraft,tile.forceTorch,bluedart.block.BlockForceTorch
 1913,Block,DartCraft,tile.dartMachine,bluedart.block.BlockMachine
@@ -757,7 +779,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 2132,Block,ProjRed|Illumination,tile.projectred.illumination.lamp,mrtjp.projectred.illumination.BlockLamp
 2133,Block,ProjRed|Compatability,tile.projectred.compatability.liqredstone,mrtjp.projectred.compatability.LiquidFiniteSubstance
 2134,Block,ProjRed|Compatability,tile.projectred.compatability.liqcondredmetal,mrtjp.projectred.compatability.LiquidFiniteSubstance
-2135,Block,ProjRed|Exploration,tile.projectred.exploration.stonewalls,mrtjp.projectred.exploration.BlockSpecialStoneWall
 2160,Block,TwilightForest,tile.TFFirefly,twilightforest.block.BlockTFFirefly
 2162,Block,TwilightForest,tile.TFPortal,twilightforest.block.BlockTFPortal
 2163,Block,TwilightForest,tile.TFLog,twilightforest.block.BlockTFLog
@@ -1080,7 +1101,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3225,Block,TConstruct,tile.GlassBlock.StainedClear,tconstruct.blocks.GlassBlockConnectedMeta
 3226,Block,TConstruct,tile.Redstone.Machine,tconstruct.blocks.RedstoneMachine
 3227,Block,TConstruct,tile.Armor.DryingRack,tconstruct.blocks.DryingRack
-3228,Block,TConstruct,tile.null,tconstruct.blocks.GlassPaneConnected
+3228,Block,TConstruct,tile.tconstruct.glasspane,tconstruct.blocks.GlassPane
 3229,Block,TConstruct,tile.tconstruct.glasspanestained,tconstruct.blocks.GlassPaneStained
 3230,Block,TConstruct,tile.SearedSlab,tconstruct.blocks.SearedSlab
 3231,Block,TConstruct,tile.SpeedSlab,tconstruct.blocks.SpeedSlab
@@ -1202,6 +1223,11 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3354,Block,Natura,tile.fenceGate.darkwood,mods.natura.blocks.NFenceGate
 3355,Block,Natura,tile.fenceGate.fusewood,mods.natura.blocks.NFenceGate
 3391,Block,flatsigns,tile.sign,myrathi.flatsigns.block.BlockFlatSign
+3500,Block,resonantinduction,tile.resonantinduction:tesla,resonantinduction.tesla.BlockTesla
+3501,Block,resonantinduction,tile.resonantinduction:multimeter,resonantinduction.multimeter.BlockMultimeter
+3502,Block,resonantinduction,tile.resonantinduction:contractor,resonantinduction.contractor.BlockEMContractor
+3503,Block,resonantinduction,tile.resonantinduction:battery,resonantinduction.battery.BlockBattery
+3504,Block,resonantinduction,tile.resonantinduction:wire,resonantinduction.wire.BlockWire
 3540,Block,HexWool,tile.hexwool.block.coloredWool,com.techjar.hexwool.block.BlockColoredWool
 3541,Block,HexWool,tile.hexwool.block.woolColorizer,com.techjar.hexwool.block.BlockWoolColorizer
 3558,Block,SuperCraftingFrame,tile.CraftingFrame,edgarallen.scf.content.BlockCraftingFrame
@@ -1527,6 +1553,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 8783,Item,EnderIO,item.enderIO:itemRedstoneConduit,crazypants.enderio.conduit.redstone.ItemRedstoneConduit
 8784,Item,EnderIO,item.enderIO:itemPowerConduit,crazypants.enderio.conduit.power.ItemPowerConduit
 8785,Item,EnderIO,item.enderIO:itemLiquidConduit,crazypants.enderio.conduit.liquid.ItemLiquidConduit
+8786,Item,EnderIO,item.enderIO:itemIndustrialBinder,crazypants.enderio.material.ItemIndustrialBinder
 8787,Item,EnderIO,item.enderIO:itemBasicCapacitor,crazypants.enderio.material.ItemCapacitor
 8788,Item,EnderIO,item.enderIO:itemAlloy,crazypants.enderio.material.ItemAlloy
 8789,Item,EnderIO,item.enderIO:itemFusedQuartzFrame,crazypants.enderio.material.ItemFusedQuartzFrame
@@ -1534,7 +1561,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 8791,Item,EnderIO,item.enderIO:itemMachinePart,crazypants.enderio.material.ItemMachinePart
 8792,Item,EnderIO,item.enderIO:itemPowderIngot,crazypants.enderio.material.ItemPowderIngot
 8793,Item,EnderIO,item.enderIO:itemMJReader,crazypants.enderio.material.ItemMJReader
-8795,Item,EnderIO,item.enderIO:itemMaterial,crazypants.enderio.material.ItemMaterial
 8956,Item,Mystcraft,item.myst.agebook,com.xcompwiz.mystcraft.item.ItemAgebook
 8957,Item,Mystcraft,item.myst.linkbook,com.xcompwiz.mystcraft.item.ItemLinkbook
 8958,Item,Mystcraft,item.myst.notebook,com.xcompwiz.mystcraft.item.ItemNotebook
@@ -2108,8 +2134,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 15236,Item,OpenBlocks,item.openblocks.imagination,openblocks.common.item.ItemImaginationGlasses.ItemCrayonGlasses
 15237,Item,OpenBlocks,item.openblocks.imagination,openblocks.common.item.ItemImaginationGlasses
 15238,Item,OpenBlocks,item.openblocks.imagination,openblocks.common.item.ItemImaginationGlasses
-15239,Item,OpenBlocks,item.openblocks.crane_control,openblocks.common.item.ItemCraneControl
-15240,Item,OpenBlocks,item.openblocks.crane_backpack,openblocks.common.item.ItemCraneBackpack
+15256,Item,luma,item.itemChromaStone,com.kelmai.luma.items.ItemChromaStone
+15257,Item,luma,item.itemKelmaiDebug,com.kelmai.luma.items.ItemKelmaiDebug
 15446,Item,GraviGun,item.GraviGun,gravigun.common.item.ItemGraviGun
 15457,Item,PortalGun,item.PortalGunBlue,portalgun.common.item.ItemPortalGunBlue
 15458,Item,PortalGun,item.PortalGunOrange,portalgun.common.item.ItemPortalGunOrange
@@ -2199,7 +2225,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 17280,Item,AWWayofTime,item.weakActivationCrystal,WayofTime.alchemicalWizardry.ActivationCrystal
 17281,Item,AWWayofTime,item.magicianBloodOrb,WayofTime.alchemicalWizardry.MagicianBloodOrb
 17282,Item,AWWayofTime,item.sigilOfElementalAffinity,WayofTime.alchemicalWizardry.SigilOfElementalAffinity
-17283,Item,AWWayofTime,item.sigilOfHaste,WayofTime.alchemicalWizardry.SigilOfHaste
 17284,Item,AWWayofTime,item.sigilOfHolding,WayofTime.alchemicalWizardry.SigilOfHolding
 17285,Item,AWWayofTime,item.boundPickaxe,WayofTime.alchemicalWizardry.BoundPickaxe
 17286,Item,AWWayofTime,item.boundAxe,WayofTime.alchemicalWizardry.BoundAxe
@@ -2222,7 +2247,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 17303,Item,AWWayofTime,item.greaterLengtheningCatalyst,WayofTime.alchemicalWizardry.GreaterLengtheningCatalyst
 17304,Item,AWWayofTime,item.demonBloodShard,WayofTime.alchemicalWizardry.BloodShard
 17305,Item,AWWayofTime,item.archmageBloodOrb,WayofTime.alchemicalWizardry.ArchmageBloodOrb
-17306,Item,AWWayofTime,item.sigilOfWind,WayofTime.alchemicalWizardry.SigilOfWind
 17316,Item,AWWayofTime,item.simpleCatalyst,WayofTime.alchemicalWizardry.AlchemyReagent
 17317,Item,AWWayofTime,item.incendium,WayofTime.alchemicalWizardry.AlchemyReagent
 17318,Item,AWWayofTime,item.magicales,WayofTime.alchemicalWizardry.AlchemyReagent
@@ -2301,6 +2325,10 @@ ID,Block/Item,Mod,Unlocalised name,Class
 20262,Item,ChargePads,item.upgradeBasicModule,myrathi.ic2.chargepads.item.modules.ItemBasicModule
 20263,Item,ChargePads,item.upgradeEmitterModule,myrathi.ic2.chargepads.item.modules.ItemEmitterModule
 20264,Item,ChargePads,item.upgradeKit,myrathi.ic2.chargepads.item.ItemUpgradeKit
+20406,Item,resonantinduction,item.resonantinduction:quantumEntangler,resonantinduction.entangler.ItemQuantumEntangler
+20407,Item,resonantinduction,item.resonantinduction:capacitor,resonantinduction.battery.ItemCapacitor
+20408,Item,resonantinduction,item.resonantinduction:linker,resonantinduction.entangler.ItemLinker
+20409,Item,resonantinduction,item.resonantinduction:infiniteCapacitor,resonantinduction.battery.ItemInfiniteCapacitor
 22259,Item,BiomesOPlenty,item.bop.food,biomesoplenty.items.ItemBOPFood
 22262,Item,BiomesOPlenty,item.bop.ancientStaff,biomesoplenty.items.ItemBOPAncientStaff
 22263,Item,BiomesOPlenty,item.bop.enderporter,biomesoplenty.items.ItemEnderporter
@@ -2942,7 +2970,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 29997,Item,StevesCarts,item.SC2unknownmodule,vswe.stevescarts.Items.ItemCartModule
 29998,Item,StevesCarts,item.SC2unknowncomponent,vswe.stevescarts.Items.ItemCartComponent
 29999,Item,StevesCarts,item.SC2ModularCart,vswe.stevescarts.Items.ItemCarts
-30033,Item,IC2,itemDust2,ic2.core.item.resources.ItemDust2
 30034,Item,IC2,itemArmorEnergypack,ic2.core.item.armor.ItemArmorEnergypack
 30035,Item,IC2,itemArmorAdvBatpack,ic2.core.item.armor.ItemArmorAdvBatpack
 30036,Item,IC2,itemAdvBat,ic2.core.item.ItemBattery
@@ -3149,6 +3176,16 @@ ID,Block/Item,Mod,Unlocalised name,Class
 30254,Item,IC2,itemDustGold,ic2.core.migration.ItemMigrate
 30255,Item,IC2,itemDustIron,ic2.core.migration.ItemMigrate
 30256,Item,IC2,itemDustCoal,ic2.core.migration.ItemMigrate
+30473,Item,GraviSuite,item.GraviChestPlate,gravisuite.ItemGraviChestPlate
+30474,Item,GraviSuite,item.UltimateLappack,gravisuite.ItemUltimateLappack
+30475,Item,GraviSuite,item.null,gravisuite.ItemSimpleItems
+30477,Item,GraviSuite,item.Vajra,gravisuite.ItemVajra
+30478,Item,GraviSuite,item.Advanced Diamond Drill,gravisuite.ItemAdvDDrill
+30479,Item,GraviSuite,item.Advanced Chainsaw,gravisuite.ItemAdvChainsaw
+30480,Item,GraviSuite,item.Advanced Lappack,gravisuite.ItemAdvancedLappack
+30481,Item,GraviSuite,item.Advanced Electric Jetpack,gravisuite.ItemAdvancedJetPack
+30482,Item,GraviSuite,item.GraviTool,gravisuite.ItemGraviTool
+30483,Item,GraviSuite,item.Advanced NanoChestPlate,gravisuite.ItemAdvancedNanoChestPlate
 30786,Item,AdvancedReactors,item.plateDenseLapis,phero.mods.advancedreactors.items.ItemAR
 30787,Item,AdvancedReactors,item.infernalReactorVent,phero.mods.advancedreactors.items.ItemInfernalReactorVent
 30788,Item,AdvancedReactors,item.quartzCondensator,phero.mods.advancedreactors.items.ItemReactorCondensator
@@ -3173,6 +3210,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 31266,Item,IC2NuclearControl,item.null,shedar.mods.ic2.nuclearcontrol.items.ItemCardMultipleSensorLocation
 31267,Item,IC2NuclearControl,item.ItemTextCard,shedar.mods.ic2.nuclearcontrol.items.ItemCardText
 31756,Item,AtomicScience,item.atomicscience:cellWater,atomicscience.wujian.ItCell
+31994,Item,dynamictanks,item.null,doc.dynamictanks.items.LinkCard
+31995,Item,dynamictanks,item.null,doc.dynamictanks.items.Chipset
 31996,Item,Forestry,item.ingotCopper,forestry.core.items.ItemForestry
 31997,Item,Forestry,item.apatite,forestry.core.items.ItemForestry
 31998,Item,Forestry,item.fertilizerCompound,forestry.core.items.ItemForestry
