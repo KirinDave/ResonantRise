@@ -20,24 +20,13 @@
        <mod url="packs/ResonantRise/files/GregsLighting-1.8.4-mc1.5.1.jar" file="GregsLighting-1.8.4-mc1.5.1.jar" md5="05ca4b99595a8617440019f0ca056cf5" download="server"
          name="Gregs Lighting"  type="mods" version="1.8.4" 
          website="http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/GregsLighting/" description=""  /> -->
-<!--    <mod url="packs/ResonantRise/files/OpenBlocks-1.0.2.jar" file="OpenBlocks-1.0.2.jar" md5="43b155c170f4dcf85482a4afb8f5a6dc" download="server"
-         name="OpenBlocks" type="mods" version="1.0.2"
-         website="http://www.minecraftforum.net/topic/1908118-mc-152-openblocks/"
-         description="Better Metal Snake!" />
+<!--
 
     <mod url="packs/ResonantRise/files/OpenCCSensors-1.5.2.0.jar" file="OpenCCSensors-1.5.2.0.jar" md5="58c1305806e2a93221d09a4131fa41a3" download="server"
          name="OpenCCSensors" version="1.5.2.0" 
          website="http://www.computercraft.info/forums2/index.php?/topic/5996-151152-cc-152153-openccsensors/" 
          description="" type="mods"/>
 
-    <mod url="packs/ResonantRise/files/magicbees-2.1.1.jar" file="magicbees-2.1.1.jar" md5="7ace0e0429fadf09800c9e5cdb041ee2" download="server"
-         name="Magic Bees" depends="Forestry"  type="mods" version="2.1.1" 
-         website="http://forestry.sengir.net/forum/viewtopic.php?id=17" 
-         description="Even more bees. Also a way to get metal bees in Underground Biomes." />
-
-    <mod url="packs/ResonantRise/files/ModularPowersuits-0.7.1-574.jar" file="ModularPowersuits-0.7.1-574.jar" md5="4972ae3f1182d6ff09e56f4ebd261ae3" download="server"
-         name="MachineMuse Modular Powersuits"  type="mods" 
-         version="0.7.1-569" website="http://www.machinemuse.net/" description=""  />
     <mod url="packs/ResonantRise/files/MPSA-176_Requires_MPS-561+.jar" file="MPSA-176_Requires_MPS-561+.jar" md5="c03bfdc7179b688f9494ebb71f9ccb9c" download="server"
          name="Modular Powersuit Addons" depends="MachineMuse Modular Powersuits" type="mods" 
          version="176" website="http://www.machinemuse.net/" description=""  />
@@ -49,13 +38,32 @@
          name="TickProfiler" type="mods" version="1.0.0.42"
          website="https://github.com/nallar/TickProfiler"
          description="Find out what's slow, and where." />
-         
-    <mod url="packs/ResonantRise/files/ForgeIRC-1.0.18-universal-srg.jar" file="ForgeIRC-1.0.18-universal-srg.jar" md5="262562bbe73a7d2612855eec97798eb0" download="server"
-         name="ForgeIRC" type="mods" version="1.0.18"
-         website="http://www.minecraftforum.net/topic/1475847-152-forgeirc-v1018-soul-shards-v1036-and-recipe-remover-v11-updated-6092013/"
-         description="Your grandpa used IRC."
-         optional="yes" />
+    
+	<mod url="packs/ResonantRise/files/DynamicLiquidTanks-v0.3.1.jar" file="DynamicLiquidTanks-v0.3.1.jar" md5="01dc5b8ea70bb055f2a9e5cc7224179c" download="server"
+        name="Dynamic Liquid Tanks" type="mods" version="0.3.1"
+        website="http://tinyurl.com/nfggpfa" donation="http://tinyurl.com/q8u29zr"
+        description="" />
+		
+	<mod url="packs/ResonantRise/files/mod_zGraviSuite_1_9_6_IC2_EXP.zip" file="mod_zGraviSuite_1_9_6_IC2_EXP.zip" md5="625c52752fd9d9641316edd4b1c68639" download="server"
+         name="Gravitation Suite" depends="IndustrialCraft2"  type="mods" 
+         version="1.9.6-EXP" 
+         website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=6915" 
+         description="Gravity Suit in flight. Afternoon delight."  />
+	
+	<mod url="packs/ResonantRise/files/Luma-0.2.2.jar" file="Luma-0.2.2.jar" md5="8b55cf6fbe8537da75cce0d3c4fae58f" download="server"
+         name="Luma"  type="mods" 
+         version="0.2.2" website="http://www.kelmai.com/luma/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=NAZUR5CTQ46HU" description=""  />
+    
+	<mod url="packs/ResonantRise/files/Resonant_Induction_v0.2.0.173.jar" file="Resonant_Induction_v0.2.0.173.jar" md5="a8ab69276a5e9ce5cd4296fc56b9d274" download="server"
+         name="Resonant Induction" version="0.2.0.173" type="mods"
+         website="http://universalelectricity.com/resonant-induction" donation="http://universalelectricity.com/resonant-induction"
+         description="" />
 		 
+	<mod url="packs/ResonantRise/files/NEIPlugins-1.1.0.0pre1.jar" file="NEIPlugins-1.1.0.0pre1.jar" md5="fa0a3bc407a9f2df5ec4c832e9639374" download="server"
+        name="NEI Plugins" type="mods" server= "no" version="1.1.0.0pre1"
+        website="https://bitbucket.org/mistaqur/nei_plugins/wiki/Home"
+        description="" />
+	
 	== MOD W/ DISTRO PERMS SKELETON ==
 	
     <mod url="PLACEHOLDER" file="PLACEHOLDER" md5="LONG STRING OF TEXT" download="server"
