@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.1.0-BETA</version>
+    <version>2.1.1-BETA</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -275,8 +275,8 @@
     <mod url="packs/ResonantRise/files/redlogic-57.0.0.jar" file="redlogic-57.0.0.jar" md5="954af0501c3c1a38a9cefa08358d7f1e" download="server"
          name="Red Logic" depends="ImmibisCore"  type="mods" 
          version="57.0.0" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description=""  />
-    <mod url="packs/ResonantRise/files/LogisticsPipes-MC1.6.2-0.7.4.dev.51.jar" file="LogisticsPipes-MC1.6.2-0.7.4.dev.51.jar" md5="0694d065a158a1d8393721d9435f576d" download="server"
-         name="LogisticsPipes" type="mods" version="0.7.4.dev.51"
+    <mod url="packs/ResonantRise/files/LogisticsPipes-MC1.6.2-0.7.4.dev.56.jar" file="LogisticsPipes-MC1.6.2-0.7.4.dev.56.jar" md5="f1e12e919e854a8b7fc6e0134a0f2d44" download="server"
+         name="LogisticsPipes" type="mods" version="0.7.4.dev.56"
          website="http://www.minecraftforum.net/topic/1831791-152buildcraft-logistics-pipes/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HMEH9HF4Q2RFJ"
          description="Even more amazing pipes." />
 	<mod url="packs/ResonantRise/files/magicbees-2.1.5.jar" file="magicbees-2.1.5.jar" md5="5c9a90438f79a60ad87843ca1b8ea3d8" download="server"
@@ -405,7 +405,13 @@
          depends="iChunUtil"/>
     <mod url="http://adf.ly/Sl4mL" 
          file="GravityGun2.0.0.zip" download="browser" name="GravityGun" type="mods" version="2.0.0" website="http://ichun.us/mods/gravity-gun/" donation="http://pitchinbox.com/redirect.php?id=9657538021" description="" 
-         depends="iChunUtil"/>  
+         depends="iChunUtil"/>
+	<mod url="http://adf.ly/1311628/thaumcraft-4" 
+         file="Thaumcraft4.0.0.zip" download="browser" name="Thaumcraft 4" type="mods" version="4.0.0" website="http://tinyurl.com/kg3t8dv" donation="http://tinyurl.com/nfptdtz" description="The Ur Magic Mod for Minecraft!" 
+         />
+	<mod url="http://tinyurl.com/qajp4r9" 
+         file="ThaumicTinkerer 2.0-18.jar" download="direct" name="Thaumic Tinkerer" type="mods" version="2.0.18" website="http://tinyurl.com/qz5wzps" description="" 
+         />
 
 
 
