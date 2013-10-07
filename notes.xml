@@ -63,6 +63,17 @@
         name="NEI Plugins" type="mods" server= "no" version="1.1.0.0pre1"
         website="https://bitbucket.org/mistaqur/nei_plugins/wiki/Home"
         description="" />
+		
+	<mod url="http://binarymage.com/mystcraft/publish/mystcraft-uni-1.6.2-0.10.6.00.zip" file="mystcraft-uni-1.6.2-0.10.6.00.zip" download="direct"
+		name="Mystcraft" type="mods" version="0.10.6.00"
+		website="http://binarymage.com/2013/07/03/mystcraft-0-10-5-00/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=AR248QCA88KYG"
+		description=""  />
+	
+	<mod url="packs/ResonantRise/files/[1.6.4]ReiMinimap_v3.4_01.zip" file="[1.6.4]ReiMinimap_v3.4_01.zip" md5="d263cc04f492cee0e7b17ea1ef628bc9" download="server"
+        name="Rei's Minimap"  type="mods" server="no" optional="yes" group="Minimap"
+        version="3.4_01" 
+        website="http://www.minecraftforum.net/topic/482147-" 
+        description="Multiple minimap options ahoy!" />
 	
 	== MOD W/ DISTRO PERMS SKELETON ==
 	
