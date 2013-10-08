@@ -59,11 +59,6 @@
          website="http://universalelectricity.com/resonant-induction" donation="http://universalelectricity.com/resonant-induction"
          description="" />
 		 
-	<mod url="packs/ResonantRise/files/NEIPlugins-1.1.0.0pre1.jar" file="NEIPlugins-1.1.0.0pre1.jar" md5="fa0a3bc407a9f2df5ec4c832e9639374" download="server"
-        name="NEI Plugins" type="mods" server= "no" version="1.1.0.0pre1"
-        website="https://bitbucket.org/mistaqur/nei_plugins/wiki/Home"
-        description="" />
-		
 	<mod url="http://binarymage.com/mystcraft/publish/mystcraft-uni-1.6.2-0.10.6.00.zip" file="mystcraft-uni-1.6.2-0.10.6.00.zip" download="direct"
 		name="Mystcraft" type="mods" version="0.10.6.00"
 		website="http://binarymage.com/2013/07/03/mystcraft-0-10-5-00/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=AR248QCA88KYG"
