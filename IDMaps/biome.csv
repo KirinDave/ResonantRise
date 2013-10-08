@@ -75,6 +75,9 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Min Height,Max Height,Types,Class
 87,Fire Swamp,1.0,0.4,0.12,-0.25,0.0,"FOREST, SWAMP, WASTELAND",twilightforest.biomes.TFBiomeFireSwamp
 160,Desert Oil Field,2.0,0.0,0.1,0.1,0.2,DESERT,buildcraft.energy.worldgen.BiomeGenOilDesert
 161,Ocean Oil Field,0.5,0.5,0.1,-1.0,0.4,WATER,buildcraft.energy.worldgen.BiomeGenOilOcean
+162,Tainted Land,0.5,0.5,0.1,0.1,0.3,"WASTELAND, MAGICAL",thaumcraft.common.lib.world.biomes.BiomeGenTaint
+163,Magical Forest,0.7,0.6,0.1,0.1,0.3,"FOREST, MAGICAL",thaumcraft.common.lib.world.biomes.BiomeGenMagicalForest
+164,Eerie,0.5,0.5,0.1,0.1,0.3,"PLAINS, MAGICAL",thaumcraft.common.lib.world.biomes.BiomeGenEerie
 170,Alps,0.0,0.5,0.1,2.0,3.0,"MOUNTAIN, FROZEN",biomesoplenty.biomes.BiomeGenAlps
 171,Arctic,0.05,0.5,0.1,0.2,0.2,"FROZEN, WASTELAND",biomesoplenty.biomes.BiomeGenArctic
 172,Badlands,2.0,0.05,0.1,0.3,0.9,"DESERT, WASTELAND",biomesoplenty.biomes.BiomeGenBadlands

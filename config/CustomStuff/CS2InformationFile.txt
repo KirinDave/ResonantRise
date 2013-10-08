@@ -77,6 +77,9 @@ Enchanted Forest
 Fire Swamp
 Desert Oil Field
 Ocean Oil Field
+Tainted Land
+Magical Forest
+Eerie
 Alps
 Arctic
 Badlands
@@ -164,69 +167,70 @@ Jungle
 --- Fluid list
 -------------------------------------
 bop.springwater
-molten cobalt
 molten.mithril
-seared stone
+fluid.steel.molten
 molten.eximite
 honey
 life essence
 molten.meutoite
-myst.ink.black
-molten gold
 molten.oureclase
+fluid.emerald.liquid
+cider
 milk
+fluid.nickel.molten
 juice
 molten.desichalkos
+fluid.iron.molten
 molten.adamantine
-molten ardite
+fluid.glass.molten
 molten.rubracium
+fluid.cobalt.molten
 molten.angmallen
 molten redstone
 molten.tartarite
-blood
+vodka
 molten.prometheum
 sap
-platinum.molten
-nickel.molten
+fluxgoo
 uumatter
 gascraft_smoke
 vegetable
-liquified emerald
+fluid.ardite.molten
 molten.kalendrite
 molten.midasium
+fluid.silver.molten
 gascraft_toxicgas
 biomass
 gascraft_hydrogen
 liquidnitrogen
 molten.lemurite
 uraniumhexafluoride
-molten manyullyn
 oil
 immibis.liquidxp
-molten steel
+fluid.electrum.molten
 gascraft_naturalgas
 fortron
 molten.inolashite
 deuterium
+hotcocoa
 water
 molten.shadow.steel
 ic2coolant
+cookingoil
 molten.deep.iron
 turpentine
 molten.hepatizon
 peat
-molten alumite
 bop.liquidpoison
 molten.manganese
 latex
-molten copper
+fluid.lead.molten
 steam
-creosote
 molten.orichalcum
+creosote
 molten conductive redmetal
-molten obsidian
-molten aluminum
-silver.molten
+fluid.aluminumbrass.molten
+beer
 molten.vulcanite
 resin
 molten.carmot
@@ -234,31 +238,28 @@ molten.damascus.steel
 molten.celenegil
 molten.ignatius
 molten.alduorite
-lead.molten
+fluid.obsidian.molten
+fluid.copper.molten
 molten.ceruclase
 molten.astral.silver
-molten iron
 bioethanol
 poison
 molten.zinc
 molten.sanguinite
+fluid.gold.molten
+fluid.blood
 seedoil
 slime.blue
-molten bronze
 slickwater
-electrum.molten
-molten aluminum brass
 molten.platinum
 constructionfoam
 molten.vyroxeres
 short.mead
 molten.haderoth
 molten.infuscolium
-molten glass
 molten.black.steel
 molten.brass
 molten.quicksilver
-molten tin
 ice
 glass
 fuel
@@ -266,14 +267,22 @@ toxicwaste
 liquiddna
 molten.atlarus
 molten.shadow.iron
-invar.molten
+fluid.tin.molten
 liquidforce
+fluid.alumite.molten
+fluid.manyullyn.molten
 gascraft_neurotoxin
+fluid.stone.seared
 molten.amordrine
+fluid.bronze.molten
 acid
+fluid.ender
+fluid.invar.molten
 lava
 gascraft_propellent
-ender
+vinegar
+fluid.aluminum.molten
+fluid.platinum.molten
 
 -------------------------------------
 --- Ore dictionary classes
@@ -299,6 +308,7 @@ dustDamascus Steel
 dustManyullyn
 dustAluminumBrass
 blockQuicksilver
+oreFirestone
 slimeball
 gemApatite
 dustTinyLead
@@ -801,6 +811,7 @@ plateTin
 dustCertusQuartz
 ingotAluminumBrass
 plateDenseBronze
+nuggetThaumium
 dustImpureGold
 ingotMidasium
 copperRod
@@ -848,6 +859,7 @@ oreSilver
 diamondNugget
 cobaltRod
 orePhosphorite
+glass
 groundCopper
 blockMeutoite
 cropAlmond
@@ -892,6 +904,8 @@ radiation
 absorption
 saturation
 ic2.potion.radiation
+soulshatter
+fluxtaint
 paralysis
 possession
 Drowning

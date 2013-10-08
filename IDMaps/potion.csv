@@ -23,6 +23,8 @@ ID,Unlocalised name,Class
 22,potion.absorption,net.minecraft.potion.PotionAbsoption
 23,potion.saturation,net.minecraft.potion.PotionHealth
 24,ic2.potion.radiation,ic2.core.IC2Potion
+29,potion.soulshatter,thaumcraft.common.items.PotionSoulShatter
+30,potion.fluxtaint,thaumcraft.common.items.PotionFluxTaint
 32,potion.paralysis,biomesoplenty.potions.PotionParalysis
 33,potion.possession,biomesoplenty.potions.PotionPossession
 100,Drowning,WayofTime.alchemicalWizardry.PotionDrowning

@@ -31,4 +31,15 @@ ID,Unlocalised name,Type,Min Level,Max Level,Class
 68,enchantment.heavyLine,fishingPole,1,5,rebelkeithy.mods.aquaculture.enchantments.EnchantmentHeavyLine
 85,enchantment.soulstealer,weapon,1,5,com.shadwdrgn.soulshards.EnchantmentSoulStealer
 136,enchantment.tfFireReact,armor,1,1,twilightforest.EnchantmentTFFireReact
+150,enchantment.potency,all,1,3,thaumcraft.common.lib.enchantment.EnchantmentPotency
+151,enchantment.frugal,all,1,3,thaumcraft.common.lib.enchantment.EnchantmentFrugal
+152,enchantment.wandfortune,all,1,3,thaumcraft.common.lib.enchantment.EnchantmentWandFortune
+153,enchantment.haste,armor,1,3,thaumcraft.common.lib.enchantment.EnchantmentHaste
+154,enchantment.repair,all,1,2,thaumcraft.common.lib.enchantment.EnchantmentRepair
 188,Reading,armor_head,1,1,jds.bibliocraft.EnchantmentReading
+220,enchantment.ttinkerer:ascentBoost,armor_legs,1,4,vazkii.tinkerer.common.enchantment.EnchantmentAscentBoost
+221,enchantment.ttinkerer:slowFall,armor_feet,1,3,vazkii.tinkerer.common.enchantment.EnchantmentSlowFall
+222,enchantment.ttinkerer:autoSmelt,digger,1,1,vazkii.tinkerer.common.enchantment.EnchantmentAutoSmelt
+223,enchantment.ttinkerer:desintegrate,digger,1,1,vazkii.tinkerer.common.enchantment.EnchantmentDesintegrate
+224,enchantment.ttinkerer:quickDraw,bow,1,2,vazkii.tinkerer.common.enchantment.EnchantmentQuickDraw
+225,enchantment.ttinkerer:vampirism,weapon,1,2,vazkii.tinkerer.common.enchantment.EnchantmentVampirism

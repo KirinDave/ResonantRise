@@ -26,6 +26,7 @@ battlegear {
 
 block {
     I:Aggregator=3221
+    I:"Air Tank"=3246
     I:Antilight=3246
     I:"Birch Barricade"=1483
     I:"Casting Channel"=3249
