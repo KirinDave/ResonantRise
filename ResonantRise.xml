@@ -132,7 +132,7 @@
 	<mod url="packs/ResonantRise/files/ComputerCraft1.56.zip" file="ComputerCraft1.56.zip" md5="41816e7685345e3b29aea7f0abac8610" download="server"
          name="ComputerCraft" type="mods"  version="1.56" website="http://computercraft.info/" donation="http://www.computercraft.info/donate/" 
          description="" />
-    <modurl="packs/ResonantRise/files/DartCraft%20Beta%200.2.09.jar" file="DartCraft Beta 0.2.09.jar" md5="7f819af4a4fea7e7590e6e088f5e9fd2" download="server"
+    <mod url="packs/ResonantRise/files/DartCraft%20Beta%200.2.09.jar" file="DartCraft Beta 0.2.09.jar" md5="7f819af4a4fea7e7590e6e088f5e9fd2" download="server"
          name="DartCraft" type="mods"  version="0.2.09" optional="yes"
          website="http://www.minecraftforum.net/topic/1686840-151-152-dartcraft-beta-0118/" 
          description="Convenience is king." />
