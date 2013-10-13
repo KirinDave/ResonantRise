@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.2.0-BETA</version>
+    <version>2.2.0a-BETA</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -32,8 +32,8 @@
         name="Advanced Reactors" type="mods" version="1.0.4-exp"
         website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9212"
         description="Extends IC2 nukes" />
-	<mod url="packs/ResonantRise/files/buildcraft-Z-additional-buildcraft-objects-1.0.6.174.jar" file="buildcraft-Z-additional-buildcraft-objects-1.0.6.174.jar" md5="f630c26b57d75fe4b52804df44d10e55" download="server"
-        name="Additional BuildCraft Objects" type="mods" version="1.0.6.174"
+	<mod url="packs/ResonantRise/files/buildcraft-Z-additional-buildcraft-objects-1.0.6.179.jar" file="buildcraft-Z-additional-buildcraft-objects-1.0.6.179.jar" md5="17a4683b8a589027030dd12a14c847b5" download="server"
+        name="Additional BuildCraft Objects" type="mods" version="1.0.6.179"
         website="http://www.minecraftforum.net/topic/682821-"
         description="" />
     <mod url="packs/ResonantRise/files/advanced-machines-57.0.0.jar" file="advanced-machines-57.0.0.jar" md5="2f1c43560a26e53c4734d5d1492f45c0" download="server"
@@ -176,8 +176,8 @@
 		name="EnhancedPortals 2" type="mods" version="1.0.9"
 		website="http://www.minecraftforum.net/topic/1301217-162-enhancedportals-2/"
 		description="Custom teleportation that looks fancy!" />
-	<mod url="packs/ResonantRise/files/ExtraCells-universal-1.4.5%20(1.6.2).jar" file="ExtraCells-universal-1.4.5 (1.6.2).jar" md5="d64c83520c51fbef39cc09f7c5c4cb4c" download="server"
-         name="Extra Cells" depends="Applied Energistics"  type="mods" version="1.4.5" 
+	<mod url="packs/ResonantRise/files/ExtraCells-universal-1.4.9b%20(1.6.2).jar" file="ExtraCells-universal-1.4.9b (1.6.2).jar" md5="cc0424a1e2d11ec7f4d80a6ce943ddbc" download="server"
+         name="Extra Cells" depends="Applied Energistics"  type="mods" version="1.4.9b" 
          website="http://www.minecraftforum.net/topic/1801643-m3gas-extracells-appliedenergistics-add-on/" 
          description=""  />
 	<mod url="packs/ResonantRise/files/ExtraTiC-0.5.2.jar" file="ExtraTiC-0.5.2.jar" md5="2bf96eaa3a038dfe2e5130bfff00a606" download="server"
@@ -219,8 +219,8 @@
     <mod url="packs/ResonantRise/files/OpenPeripheral-0.2.1-forge9.11.0.883-snapshot-60.jar" file="OpenPeripheral-0.2.1-forge9.11.0.883-snapshot-60.jar" md5="7931df708ff0bd5a08053307c007309c" download="server"
          name="OpenPeripherals" version="0.2.1-snapshot-60" 
          website="http://www.openperipheral.info/" description="" type="mods" />
-    <mod url="packs/ResonantRise/files/industrialcraft-2_2.0.261-experimental.jar" file="industrialcraft-2_2.0.261-experimental.jar" md5="8a1946b21e1bb39f22828cc4de067688" download="server"
-         name="IndustrialCraft2"  type="mods" version="2.0.261" 
+    <mod url="packs/ResonantRise/files/industrialcraft-2_2.0.264-experimental.jar" file="industrialcraft-2_2.0.264-experimental.jar" md5="8b956bed408371f08f0ba5c9016cadc9" download="server"
+         name="IndustrialCraft2"  type="mods" version="2.0.264" 
          website="http://www.industrial-craft.net/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=RHLW3YE3T848Q"
          description=""  />
 	<mod url="packs/ResonantRise/files/infinitubes-57.0.0.jar" file="infinitubes-57.0.0.jar" md5="fe892de01a90b6df439302533ca77e66" download="server"
