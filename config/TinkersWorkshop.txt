@@ -154,6 +154,10 @@ equipables {
     I:"Heavy Helmet"=14106
     I:"Heavy Pants"=14109
     I:Knapsack=14112
+    I:"Wooden Boots"=14110
+    I:"Wooden Chestplate"=14108
+    I:"Wooden Helmet"=14106
+    I:"Wooden Pants"=14109
 }
 
 
@@ -190,6 +194,7 @@ looks {
 ####################
 
 "patterns and misc" {
+    I:"Armor Pattern"=14025
     I:"Blank Patterns"=14019
     I:Buckets=14101
     I:"Essence Crystal"=14114

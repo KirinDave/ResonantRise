@@ -30,6 +30,8 @@ ID,Unlocalised name,Type,Min Level,Max Level,Class
 67,enchantment.digging,digger,1,5,rebelkeithy.mods.aquaculture.enchantments.EnchantmentEfficiencyFishing
 68,enchantment.heavyLine,fishingPole,1,5,rebelkeithy.mods.aquaculture.enchantments.EnchantmentHeavyLine
 85,enchantment.soulstealer,weapon,1,5,com.shadwdrgn.soulshards.EnchantmentSoulStealer
+100,enchantment.magicresist,armor,1,5,am2.enchantments.EnchantMagicResist
+104,enchantment.soulbound,all,1,1,am2.enchantments.EnchantmentSoulbound
 136,enchantment.tfFireReact,armor,1,1,twilightforest.EnchantmentTFFireReact
 150,enchantment.potency,all,1,3,thaumcraft.common.lib.enchantment.EnchantmentPotency
 151,enchantment.frugal,all,1,3,thaumcraft.common.lib.enchantment.EnchantmentFrugal

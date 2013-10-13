@@ -24,6 +24,7 @@ TaigaHills
 Extreme Hills Edge
 Jungle
 JungleHills
+Storage Cell
 Lavender Fields
 Tropics Mountain
 Autumn Hills
@@ -96,7 +97,7 @@ Coniferous Forest
 Snowy Coniferous Forest
 Crag
 Dead Forest
-Snowy Dead Forest
+MooMooFarm
 Dead Swamp
 Deadlands
 Deciduous Forest
@@ -175,10 +176,9 @@ life essence
 molten.meutoite
 molten.oureclase
 fluid.emerald.liquid
-cider
 mushroomsoup
-milk
 fluid.nickel.molten
+milk
 juice
 molten.desichalkos
 fluid.iron.molten
@@ -191,7 +191,6 @@ fluid.cobalt.molten
 molten.angmallen
 molten redstone
 molten.tartarite
-vodka
 molten.prometheum
 sap
 fluxgoo
@@ -215,15 +214,14 @@ gascraft_naturalgas
 fortron
 molten.inolashite
 deuterium
-hotcocoa
 water
 molten.shadow.steel
 ic2coolant
-cookingoil
 molten.deep.iron
 turpentine
 molten.hepatizon
 peat
+xpjuice
 bop.liquidpoison
 molten.manganese
 latex
@@ -234,7 +232,6 @@ creosote
 sludge
 molten conductive redmetal
 fluid.aluminumbrass.molten
-beer
 molten.vulcanite
 resin
 molten.carmot
@@ -243,6 +240,7 @@ molten.celenegil
 molten.ignatius
 molten.alduorite
 fluid.obsidian.molten
+liquidessence
 fluid.copper.molten
 molten.ceruclase
 molten.astral.silver
@@ -271,8 +269,8 @@ meat
 glass
 fuel
 toxicwaste
-molten.atlarus
 liquiddna
+molten.atlarus
 molten.shadow.iron
 fluid.tin.molten
 liquidforce
@@ -287,7 +285,6 @@ fluid.ender
 fluid.invar.molten
 lava
 gascraft_propellent
-vinegar
 fluid.aluminum.molten
 pinkslime
 fluid.platinum.molten
@@ -296,6 +293,7 @@ fluid.platinum.molten
 --- Ore dictionary classes
 -------------------------------------
 cropBeechnut
+componentPlatingBasic
 ingotMeatRaw
 oreCeruclase
 cropPear
@@ -317,9 +315,11 @@ dustTartarite
 dropHoneydew
 dustDamascus Steel
 dustManyullyn
+oreBauxite
 dustAluminumBrass
 blockQuicksilver
 oreFirestone
+superconductorWire
 slimeball
 gemApatite
 dustTinyLead
@@ -343,6 +343,7 @@ itemCharcoalSugar
 dustAtlarus
 itemWrench
 itemDustSteel
+componentSolenoid
 gemPeridot
 dyeLightBlue
 blockElectrum
@@ -369,19 +370,21 @@ ingotAstral Silver
 blockIgnatius
 coinCopper
 plateRefinedIron
+componentControlCircuit
 dustTinySilver
 cropGrapefruit
 listAllfishcooked
 fuelCoke
 ingotBrass
+oreGalena
 aquaRegia
 cropRedBanana
 calclavia:ADVANCED_BATTERY
 ingotOsmium
 itemIngotBronze
 stoneRod
-cropPlantain
 stone
+cropPlantain
 cropRaspberry
 oreLapis
 ingotSilver
@@ -416,11 +419,12 @@ oreNetherGold
 nuggetForce
 oreCertusQuartz
 stickWood
-copperCableBlock
 blockBrass
 slimeRod
 oreCobalt
+silverWire
 blockAlumite
+componentServo
 hambone
 coinSilver
 itemBacon
@@ -454,9 +458,10 @@ taintedSoil
 itemCircuitElite
 ingotAmordrine
 cropCrabapple
+tinWire
 cropBlackthorn
-glassYellow
 blockAluminum
+glassYellow
 ingotNickel
 oreInfuscolium
 cropBuddhaHand
@@ -474,9 +479,11 @@ paperRod
 mb.magnet.level0
 nuggetBronze
 oreMagnesium
+componentParachute
 blockVulcanite
 blockUranium
 woodRod
+componentIonThruster
 dustAngmallen
 glassLime
 mossystone
@@ -512,6 +519,7 @@ dustOrichalcum
 dustCoal
 dustBronze
 blockSteel
+MonazitOre
 dustShadow Iron
 cropKeyLime
 oreSanguinite
@@ -569,6 +577,7 @@ ingotAngmallen
 ingotDesichalkos
 oreNetherNickel
 ingotQuicksilver
+componentArtificialMuscle
 blockEximite
 ingotForce
 itemTear
@@ -594,6 +603,7 @@ sulfuricAcid
 gemTopaz
 oreEmerald
 oreNetherEmerald
+ironWire
 blockRadioactive
 ingotAlduorite
 dustVyroxeres
@@ -608,8 +618,8 @@ woodRubber
 dustWheat
 ingotAtlarus
 ingotRefinedObsidian
-ingotInfernal
 itemClaw
+ingotInfernal
 ingotCeruclase
 itemCircuitBasic
 oreAlduorite
@@ -620,8 +630,10 @@ cropHazelnut
 calclavia:WIRE
 glassGray
 dustMithril
+componentFieldEmitter
 blockHepatizon
 itemFertilizer
+componentLVCapacitor
 dustTinyIron
 nuggetCobalt
 craftingTableWood
@@ -638,17 +650,19 @@ dustAluminum
 cellDeuterium
 ingotEximite
 cropWildCherry
+componentWiring
 dustEnderPearl
 dyeGray
 ingotManganese
-oreNetherUranium
 ingotRubracium
 dustAmordrine
+oreNetherUranium
 ingotMithril
 oreDiamond
 dustCelenegil
 gearBronze
 glassBlue
+componentLaserEmitter
 crystallineNickel
 ingotTitanium
 oreNetherRedstone
@@ -680,6 +694,7 @@ dustIron
 crystallineSteel
 gemLapis
 groundNickel
+componentMVCapacitor
 blockCopper
 dustPlastic
 dustImpureLead
@@ -693,8 +708,8 @@ cropTangerine
 oreElectrum
 glassBrown
 blockDeep Iron
-dustSulfur
 oreAluminum
+dustSulfur
 seedWheat
 nuggetGold
 oreDeep Iron
@@ -709,6 +724,7 @@ groundIron
 dustQuicklime
 crystallineNaturalAluminum
 dustNaturalAluminum
+componentPlatingAdvanced
 dustHaderoth
 blockManyullyn
 boneRod
@@ -721,6 +737,7 @@ plateSteel
 breederUranium
 ingotArdite
 ingotTin
+componentCarbonMyofiber
 oreCarmot
 shardApatite
 cropDuskberry
@@ -738,12 +755,12 @@ cropClove
 dyeWhite
 dustDiamond
 cropNectarine
-copperWire
 ingotHepatizon
-oreNetherTin
+copperWire
 blockInolashite
 blockAluminumBrass
 woodLog
+oreNetherTin
 cropLemon
 oreNickel
 nuggetNickel
@@ -785,25 +802,31 @@ dustTinyCopper
 itemPlateBronze
 dustMidasium
 ingotRefinedIron
+oreForce
 cropFig
 blockVyroxeres
 projredIllumar
 blockTin
 oreVyroxeres
+componentMyofiberGel
 dyeLime
+aluminumWire
 ingotBlack Steel
 blockSanguinite
+oreCassiterite
 cropCitron
 ingotRefinedGlowstone
 record
 cropChestnut
 ingotVulcanite
+oreTetrahedrite
 cellWater
 dustTinySulfur
 dustBrass
 cellUranium
 cropApricot
 nuggetManyullyn
+componentGliderWing
 ironRod
 oreNetherDiamond
 blockAmordrine
@@ -833,8 +856,8 @@ sheetPlastic
 dustTitanium
 circuitAdvanced
 oreZinc
-cropAcorn
 dustAsh
+cropAcorn
 cropDate
 plateDenseTin
 crafterWood
@@ -843,8 +866,8 @@ plateTin
 ingotMeat
 dustCertusQuartz
 ingotAluminumBrass
-plateDenseBronze
 nuggetThaumium
+plateDenseBronze
 dustImpureGold
 ingotMidasium
 copperRod
@@ -879,14 +902,15 @@ itemDropUranium
 dropRoyalJelly
 oreRedstone
 dustClay
+oreOsmium
 dustPlatinum
 cropBanana
 oreCopper
 ingotGold
 dustLapis
 stoneSmooth
-oreNetherLead
 oreOrichalcum
+oreNetherLead
 dustAstral Silver
 oreAstral Silver
 oreIron
@@ -895,7 +919,9 @@ oreSilver
 diamondNugget
 cobaltRod
 orePhosphorite
+componentHVCapacitor
 glass
+Diamond
 groundCopper
 blockMeutoite
 cropAlmond
@@ -943,8 +969,38 @@ saturation
 ic2.potion.radiation
 soulshatter
 fluxtaint
-paralysis
-possession
+Water Breathing
+Flight
+Feather Fall
+Haste
+True Sight
+Regeneration
+Magic Shield
+Charmed
+Frost Slow
+Chrono Anchor
+Mana Regen
+Draining Poison
+Entangled
+Watery Grave
+Protecting Winds
+Parasitic Seed
+Spell Reflect
+Desert Curse
+Kiss of Death
+Silence
+Swift Swim
+Agility
+Leap
+Mana Boost
+Astral Distortion
+Illuminated
+Greater Mana Restoration
+Epic Mana Restoration
+Legendary Mana Restoration
+Gravity Well
+Levitation
+Clarity
 Drowning
 Boost
 Whirlwind

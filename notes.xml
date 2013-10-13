@@ -54,11 +54,6 @@
          name="Luma"  type="mods" 
          version="0.2.2" website="http://www.kelmai.com/luma/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=NAZUR5CTQ46HU" description=""  />
     
-	<mod url="packs/ResonantRise/files/Resonant_Induction_v0.2.0.173.jar" file="Resonant_Induction_v0.2.0.173.jar" md5="a8ab69276a5e9ce5cd4296fc56b9d274" download="server"
-         name="Resonant Induction" version="0.2.0.173" type="mods"
-         website="http://universalelectricity.com/resonant-induction" donation="http://universalelectricity.com/resonant-induction"
-         description="" />
-		 
 	<mod url="http://binarymage.com/mystcraft/publish/mystcraft-uni-1.6.2-0.10.6.00.zip" file="mystcraft-uni-1.6.2-0.10.6.00.zip" download="direct"
 		name="Mystcraft" type="mods" version="0.10.6.00"
 		website="http://binarymage.com/2013/07/03/mystcraft-0-10-5-00/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=AR248QCA88KYG"

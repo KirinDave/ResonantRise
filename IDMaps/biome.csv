@@ -22,6 +22,7 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Min Height,Max Height,Types,Class
 20,Extreme Hills Edge,0.2,0.3,0.1,0.2,0.8,MOUNTAIN,net.minecraft.world.biome.BiomeGenHills
 21,Jungle,1.2,0.9,0.1,0.2,0.4,JUNGLE,net.minecraft.world.biome.BiomeGenJungle
 22,JungleHills,1.2,0.9,0.1,1.8,0.5,JUNGLE,net.minecraft.world.biome.BiomeGenJungle
+23,Storage Cell,-100.0,0.5,0.1,0.1,0.3,"PLAINS, FROZEN",appeng.world.BiomeGenStorage
 31,Lavender Fields,0.6,0.7,0.1,0.3,0.3,PLAINS,biomesoplenty.biomes.BiomeGenLavenderFields
 32,Tropics Mountain,2.0,2.0,0.1,0.5,1.1,"WATER, JUNGLE",biomesoplenty.biomes.BiomeGenTropics
 33,Autumn Hills,0.5,0.2,0.1,0.5,0.8,"FOREST, HILLS",biomesoplenty.biomes.BiomeGenAutumnHills
@@ -94,7 +95,7 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Min Height,Max Height,Types,Class
 183,Snowy Coniferous Forest,0.0,0.5,0.1,0.2,0.7,"FOREST, HILLS, FROZEN",biomesoplenty.biomes.BiomeGenConiferousForestSnow
 184,Crag,0.4,0.2,0.1,2.0,3.0,"MOUNTAIN, WASTELAND",biomesoplenty.biomes.BiomeGenCrag
 185,Dead Forest,1.2,0.1,0.1,0.2,0.7,FOREST,biomesoplenty.biomes.BiomeGenDeadForest
-186,Snowy Dead Forest,0.05,0.8,0.1,0.2,0.7,"FOREST, FROZEN",biomesoplenty.biomes.BiomeGenDeadForestSnow
+186,MooMooFarm,0.5,0.5,0.1,0.1,0.3,"FOREST, PLAINS, FROZEN",am2.worldgen.SCLBiome
 187,Dead Swamp,0.8,0.9,0.1,0.1,0.2,SWAMP,biomesoplenty.biomes.BiomeGenDeadSwamp
 188,Deadlands,2.0,0.05,0.1,0.1,0.5,WASTELAND,biomesoplenty.biomes.BiomeGenDeadlands
 189,Deciduous Forest,0.7,0.8,0.1,0.1,0.3,FOREST,biomesoplenty.biomes.BiomeGenDeciduousForest

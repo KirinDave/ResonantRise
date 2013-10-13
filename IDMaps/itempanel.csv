@@ -489,16 +489,22 @@ Item ID,Item meta,Has NBT,Display Name
 373,8226,false,Potion of Swiftness
 373,8228,false,Potion of Poison
 373,8229,false,Potion of Healing
+373,8231,false,Greater Mana Potion
 373,8233,false,Potion of Strength
+373,8235,false,Epic Mana Potion
 373,8236,false,Potion of Harming
+373,8237,false,Legendary Mana Potion
 373,8257,false,Potion of Regeneration
 373,8258,false,Potion of Swiftness
 373,8259,false,Potion of Fire Resistance
 373,8260,false,Potion of Poison
 373,8262,false,Potion of Night Vision
+373,8263,false,Greater Mana Potion
 373,8264,false,Potion of Weakness
 373,8265,false,Potion of Strength
 373,8266,false,Potion of Slowness
+373,8267,false,Epic Mana Potion
+373,8269,false,Legendary Mana Potion
 373,8270,false,Potion of Invisibility
 373,16384,false,Mundane Potion
 373,16385,false,Splash Potion of Regeneration
@@ -516,16 +522,22 @@ Item ID,Item meta,Has NBT,Display Name
 373,16418,false,Splash Potion of Swiftness
 373,16420,false,Splash Potion of Poison
 373,16421,false,Splash Potion of Healing
+373,16423,false,Splash Greater Mana Potion
 373,16425,false,Splash Potion of Strength
+373,16427,false,Splash Epic Mana Potion
 373,16428,false,Splash Potion of Harming
+373,16429,false,Splash Legendary Mana Potion
 373,16449,false,Splash Potion of Regeneration
 373,16450,false,Splash Potion of Swiftness
 373,16451,false,Splash Potion of Fire Resistance
 373,16452,false,Splash Potion of Poison
 373,16454,false,Splash Potion of Night Vision
+373,16455,false,Splash Greater Mana Potion
 373,16456,false,Splash Potion of Weakness
 373,16457,false,Splash Potion of Strength
 373,16458,false,Splash Potion of Slowness
+373,16459,false,Splash Epic Mana Potion
+373,16461,false,Splash Legendary Mana Potion
 373,16462,false,Splash Potion of Invisibility
 374,0,false,Glass Bottle
 375,0,false,Spider Eye
@@ -1274,6 +1286,9 @@ Item ID,Item meta,Has NBT,Display Name
 902,2,false,Certus Quartz Block
 902,3,false,Quartz Glass
 902,4,false,Vibrant Quartz Glass
+902,6,false,Certus Quartz Pillar
+902,9,false,Certus Quartz Chiseled Block
+903,5,true,Energy Cell
 903,0,false,ME Fuzzy Export Bus
 903,1,false,ME Fuzzy Import Bus
 903,2,false,ME Basic Export Bus
@@ -1284,6 +1299,9 @@ Item ID,Item meta,Has NBT,Display Name
 903,7,false,ME Condenser
 903,8,false,Quantum Field Ring
 903,9,false,Quantum Link Chamber
+903,10,false,Spatial Pylon
+903,11,false,ME P2P Tunnel
+903,12,false,Spatial IO Port
 904,0,false,Tiny TNT
 910,0,false,Soldering Station
 911,0,false,ME Item Dropper
@@ -1542,6 +1560,55 @@ Item ID,Item meta,Has NBT,Display Name
 1049,0,false,RedNet Historian
 1100,0,false,tile.PortalMod.name
 1101,0,false,tile.PortalMultiBlock.name
+1110,0,false,Arcane Reconstructor
+1111,0,false,Astral Barrier
+1112,0,false,Aum
+1113,0,false,Caster
+1114,0,false,Blue Orchid
+1115,0,false,Calefactor
+1116,0,false,Caster Rune
+1117,0,false,Crafting Altar
+1118,0,false,Crystal Pillar
+1119,0,false,tile.arsmagica2:darknexus.name
+1120,0,false,Particle Emitter
+1121,0,false,Desert Nova
+1122,0,false,Essence Conduit
+1123,0,false,tile.arsmagica2:essencenexus.name
+1124,0,false,Essence Refiner
+1125,0,false,tile.arsmagica2:illuminated.name
+1126,0,false,Illusion Block
+1127,0,false,Gold Inlay
+1128,0,false,Iron Inlay
+1129,0,false,Redstone Inlay
+1130,0,false,Inscription Table
+1131,0,false,Keystone Chest
+1132,0,false,Keystone Receptacle
+1133,0,false,Lectern
+1135,0,false,tile.arsmagica2:liquidEssence.name
+1136,0,false,tile.arsmagica2:magetorch.name
+1137,0,false,Magic Wall
+1138,0,true,Mana Battery
+1139,0,false,tile.arsmagica2:nullmagicblock.name
+1140,0,false,Occulus
+1141,0,false,Vinteum Ore
+1141,1,false,Chimerite Ore
+1141,2,false,Blue Topaz Ore
+1141,3,false,Moonstone Ore
+1141,4,false,Sunstone Ore
+1141,5,false,Moonstone Block
+1141,6,false,Vinteum Block
+1141,7,false,Blue Topaz Block
+1141,8,false,Sunstone Block
+1141,9,false,Chimerite Block
+1142,0,false,Seer Stone
+1143,0,false,Spell Rune
+1144,0,false,Summoner
+1145,0,false,Tarma Root
+1146,0,false,tile.arsmagica2:blockthorns.name
+1147,0,false,Vinteum Torch
+1148,0,false,Wakebloom
+1149,0,false,Witchwood Leaves
+1150,0,false,Witchwood Log
 1225,0,false,Computer
 1225,16384,false,Advanced Computer
 1226,0,false,Disk Drive
@@ -3057,7 +3124,6 @@ Item ID,Item meta,Has NBT,Display Name
 2011,6,false,Greywacke
 2011,7,false,Chert
 2020,0,false,Power Box
-2129,0,false,Alloy Smelter
 2130,0,false,Ruby Ore
 2130,1,false,Sapphire Ore
 2130,2,false,Peridot Ore
@@ -3111,6 +3177,38 @@ Item ID,Item meta,Has NBT,Display Name
 2135,5,false,Ruby Wall
 2135,6,false,Sapphire Wall
 2135,7,false,Peridot Wall
+2136,0,false,White Stained Leaf
+2136,1,false,Orange Stained Leaf
+2136,2,false,Magenta Stained Leaf
+2136,3,false,Light Blue Stained Leaf
+2136,4,false,Yellow Stained Leaf
+2136,5,false,Lime Stained Leaf
+2136,6,false,Pink Stained Leaf
+2136,7,false,Grey Stained Leaf
+2136,8,false,Light Grey Stained Leaf
+2136,9,false,Cyan Stained Leaf
+2136,10,false,Purple Stained Leaf
+2136,11,false,Blue Stained Leaf
+2136,12,false,Brown Stained Leaf
+2136,13,false,Green Stained Leaf
+2136,14,false,Red Stained Leaf
+2136,15,false,Black Stained Leaf
+2137,0,false,White Stained Sapling
+2137,1,false,Orange Stained Sapling
+2137,2,false,Magenta Stained Sapling
+2137,3,false,Light Blue Stained Sapling
+2137,4,false,Yellow Stained Sapling
+2137,5,false,Lime Stained Sapling
+2137,6,false,Pink Stained Sapling
+2137,7,false,Grey Stained Sapling
+2137,8,false,Light Grey Stained Sapling
+2137,9,false,Cyan Stained Sapling
+2137,10,false,Purple Stained Sapling
+2137,11,false,Blue Stained Sapling
+2137,12,false,Brown Stained Sapling
+2137,13,false,Green Stained Sapling
+2137,14,false,Red Stained Sapling
+2137,15,false,Black Stained Sapling
 2160,0,false,Firefly
 2162,0,false,Twilight Forest Portal
 2163,0,false,Twilight Oak Wood
@@ -4027,6 +4125,7 @@ Item ID,Item meta,Has NBT,Display Name
 2556,1,true,Magic Crayon
 2556,1,true,Magic Crayon
 2556,1,true,Magic Crayon
+2557,0,false,XP Bottler
 2600,0,false,Aura Node
 2601,0,false,Arcane Door
 2602,0,false,tile.blockArcaneFurnace.name
@@ -5175,15 +5274,10 @@ Item ID,Item meta,Has NBT,Display Name
 3354,0,false,Darkwood Fence Gate
 3355,0,false,Fusewood Fence Gate
 3391,0,false,Sign
-3500,0,false,Oven
-3501,0,false,Counter
-3502,0,false,Processor
-3503,0,false,Salt Ore
-3504,0,false,Cinnamon Plant
-3505,0,false,Brewer
-3506,0,false,Ice Box
-3507,0,false,Frier
-3508,0,false,Vanilla Plant
+3400,0,false,Tesla Coil
+3401,0,false,Multimeter
+3402,0,false,Electromagnetic Contractor
+3403,0,false,Modular Battery
 3540,0,false,Colored Wool
 3541,0,false,Wool Colorizer
 3558,0,false,Super Crafting Frame
@@ -5247,6 +5341,9 @@ Item ID,Item meta,Has NBT,Display Name
 4361,4,true,ME Encoded Pattern
 4361,7,true,ME 4k Storage
 4361,8,true,ME Creative Cell
+4361,9,false,2³ Spatial Storage
+4361,10,false,16³ Spatial Storage
+4361,11,false,128³ Spatial Storage
 4362,0,false,Conversion Matrix
 4362,1,false,Storage Cell
 4362,2,false,Storage Block
@@ -5274,6 +5371,9 @@ Item ID,Item meta,Has NBT,Display Name
 4362,26,false,Matter Ball
 4362,27,false,Singularity
 4362,28,false,Ender Pearl Dust
+4362,30,false,Spatial Storage Cell
+4362,31,false,Spatial Storage Block
+4362,32,false,Spatial Storage Cluster
 4363,1,true,Entropy Accelerator
 4363,1,true,Entropy Accelerator
 4364,1,true,Vibration Catalyst
@@ -5304,20 +5404,20 @@ Item ID,Item meta,Has NBT,Display Name
 4400,0,false,Advanced Storage Cell Housing
 4401,0,false,FluidDisplay
 4401,1,false,Water
-4401,2,false,Lava
-4401,3,false,Uumatter
-4401,4,false,Constructionfoam
-4401,5,false,Ic2coolant
-4401,6,false,Bop.liquidpoison
-4401,7,false,Bop.springwater
-4401,8,false,Oil
-4401,9,false,Fuel
-4401,10,false,Creosote
+4401,2,false,fluid.tile.lava
+4401,3,false,fluid.oil
+4401,4,false,fluid.fuel
+4401,5,false,fluid.ic2.blockfluidUuMatter
+4401,6,false,fluid.ic2.blockfluidCf
+4401,7,false,fluid.ic2.blockFluidcoolant
+4401,8,false,Liquid Poison
+4401,9,false,Spring Water
+4401,10,false,Creosote Oil
 4401,11,false,Steam
-4401,12,false,Uraniumhexafluoride
-4401,13,false,Deuterium
-4401,14,false,Toxicwaste
-4401,15,false,Acid
+4401,12,false,Flux Goo
+4401,13,false,fluid.liquidEssence
+4401,14,false,Uranium Hexafluoride
+4401,15,false,Deuterium
 4402,0,true,ME 1k Fluid Storage
 4402,1,true,ME 4k Fluid Storage
 4402,2,true,ME 16k Fluid Storage
@@ -5441,15 +5541,17 @@ Item ID,Item meta,Has NBT,Display Name
 4600,2,false,Cactus Charcoal
 4600,3,false,Cactus Coke
 4601,1,true,Water Barrel
+4601,6,true,Oil Barrel
+4601,7,true,Fuel Barrel
 4601,41,true,Uumatter Barrel
 4601,40,true,Constructionfoam Barrel
 4601,43,true,Ic2coolant Barrel
 4601,4,true,Bop liquidpoison Barrel
 4601,5,true,Bop springwater Barrel
-4601,6,true,Oil Barrel
-4601,7,true,Fuel Barrel
 4601,8,true,Creosote Barrel
 4601,9,true,Steam Barrel
+4601,45,true,Fluxgoo Barrel
+4601,65,true,Liquidessence Barrel
 4601,10,true,Toxicwaste Barrel
 4601,11,true,Acid Barrel
 4601,12,true,Poison Barrel
@@ -5458,7 +5560,6 @@ Item ID,Item meta,Has NBT,Display Name
 4601,15,true,Resin Barrel
 4601,16,true,Latex Barrel
 4601,17,true,Turpentine Barrel
-4601,45,true,Fluxgoo Barrel
 4601,46,true,Fluid stone seared Barrel
 4601,47,true,Fluid emerald liquid Barrel
 4601,48,true,Fluid blood Barrel
@@ -5466,13 +5567,6 @@ Item ID,Item meta,Has NBT,Display Name
 4601,24,true,Slime blue Barrel
 4601,18,true,Fortron Barrel
 4601,26,true,Milk Barrel
-4601,50,true,Beer Barrel
-4601,51,true,Hotcocoa Barrel
-4601,52,true,Vinegar Barrel
-4601,53,true,Cookingoil Barrel
-4601,54,true,Vodka Barrel
-4601,55,true,Cider Barrel
-4601,36,true,Immibis liquidxp Barrel
 4601,56,true,Sludge Barrel
 4601,57,true,Sewage Barrel
 4601,58,true,Mobessence Barrel
@@ -5488,10 +5582,12 @@ Item ID,Item meta,Has NBT,Display Name
 4601,30,true,Honey Barrel
 4601,31,true,Juice Barrel
 4601,32,true,Ice Barrel
+4601,36,true,Immibis liquidxp Barrel
 4601,33,true,Liquiddna Barrel
 4601,34,true,Life essence Barrel
 4601,35,true,Liquidforce Barrel
 4601,42,true,Slickwater Barrel
+4601,64,true,Xpjuice Barrel
 4601,37,true,Peat Barrel
 4601,38,true,Vegetable Barrel
 4601,39,true,Short mead Barrel
@@ -5499,15 +5595,17 @@ Item ID,Item meta,Has NBT,Display Name
 4602,0,false,Blacksmithing Hammer
 4603,0,false,Iron Ring
 4700,1,true,Water Wooden Bucket
+4700,6,true,Oil Wooden Bucket
+4700,7,true,Fuel Wooden Bucket
 4700,41,true,Uumatter Wooden Bucket
 4700,40,true,Constructionfoam Wooden Bucket
 4700,43,true,Ic2coolant Wooden Bucket
 4700,4,true,Bop liquidpoison Wooden Bucket
 4700,5,true,Bop springwater Wooden Bucket
-4700,6,true,Oil Wooden Bucket
-4700,7,true,Fuel Wooden Bucket
 4700,8,true,Creosote Wooden Bucket
 4700,9,true,Steam Wooden Bucket
+4700,45,true,Fluxgoo Wooden Bucket
+4700,65,true,Liquidessence Wooden Bucket
 4700,10,true,Toxicwaste Wooden Bucket
 4700,11,true,Acid Wooden Bucket
 4700,12,true,Poison Wooden Bucket
@@ -5516,7 +5614,6 @@ Item ID,Item meta,Has NBT,Display Name
 4700,15,true,Resin Wooden Bucket
 4700,16,true,Latex Wooden Bucket
 4700,17,true,Turpentine Wooden Bucket
-4700,45,true,Fluxgoo Wooden Bucket
 4700,46,true,Fluid stone seared Wooden Bucket
 4700,47,true,Fluid emerald liquid Wooden Bucket
 4700,48,true,Fluid blood Wooden Bucket
@@ -5524,13 +5621,6 @@ Item ID,Item meta,Has NBT,Display Name
 4700,24,true,Slime blue Wooden Bucket
 4700,18,true,Fortron Wooden Bucket
 4700,26,true,Milk Wooden Bucket
-4700,50,true,Beer Wooden Bucket
-4700,51,true,Hotcocoa Wooden Bucket
-4700,52,true,Vinegar Wooden Bucket
-4700,53,true,Cookingoil Wooden Bucket
-4700,54,true,Vodka Wooden Bucket
-4700,55,true,Cider Wooden Bucket
-4700,36,true,Immibis liquidxp Wooden Bucket
 4700,56,true,Sludge Wooden Bucket
 4700,57,true,Sewage Wooden Bucket
 4700,58,true,Mobessence Wooden Bucket
@@ -5546,10 +5636,12 @@ Item ID,Item meta,Has NBT,Display Name
 4700,30,true,Honey Wooden Bucket
 4700,31,true,Juice Wooden Bucket
 4700,32,true,Ice Wooden Bucket
+4700,36,true,Immibis liquidxp Wooden Bucket
 4700,33,true,Liquiddna Wooden Bucket
 4700,34,true,Life essence Wooden Bucket
 4700,35,true,Liquidforce Wooden Bucket
 4700,42,true,Slickwater Wooden Bucket
+4700,64,true,Xpjuice Wooden Bucket
 4700,37,true,Peat Wooden Bucket
 4700,38,true,Vegetable Wooden Bucket
 4700,39,true,Short mead Wooden Bucket
@@ -5739,6 +5831,8 @@ Item ID,Item meta,Has NBT,Display Name
 6307,129,false,Diamond Dust
 6307,130,false,Feather Dust
 6307,131,false,Roc's Feather
+6307,134,false,Force Pack Upgrade
+6307,135,false,Storage Unit Upgrade
 6307,192,false,Raw Bacon
 6307,193,false,Cooked Bacon
 6307,195,false,Snow Cookie
@@ -6165,7 +6259,7 @@ Item ID,Item meta,Has NBT,Display Name
 9317,21127,true,Sum
 9318,0,false,Oak Wood Barrel
 9319,0,false,Logic Matrix: Controller
-9800,0,false,item.immibis_microblocks.saw.name
+9800,0,false,Hacksaw
 9801,0,false,LXP Bucket
 9803,0,false,Empty Medallion
 9803,1,false,Imbued Medallion
@@ -6282,6 +6376,7 @@ Item ID,Item meta,Has NBT,Display Name
 11422,0,false,Invert Module
 11423,0,false,Silence Module
 11424,0,false,Fortron
+11425,0,false,Repulsion Module
 11456,1,true,Electric Bow
 11456,100,false,Electric Bow
 11458,0,false,Steve's Stopwatch
@@ -6504,6 +6599,7 @@ Item ID,Item meta,Has NBT,Display Name
 13209,0,true,Modest Species Serum
 13209,0,true,Tropical Species Serum
 13209,0,true,Wintry Species Serum
+13209,0,true,Tricky Species Serum
 13209,0,true,Marshy Species Serum
 13209,0,true,Rocky Species Serum
 13209,0,true,Water Species Serum
@@ -6515,7 +6611,9 @@ Item ID,Item meta,Has NBT,Display Name
 13209,0,true,Caffeinated Species Serum
 13209,0,true,Vindictive Species Serum
 13209,0,true,Gravity Effect Serum
+13209,0,true,Luft Species Serum
 13209,0,true,Aggress. Effect Serum
+13209,0,true,Wasser Species Serum
 13209,0,true,Ghastly Species Serum
 13209,0,true,Explorer Effect Serum
 13209,0,true,Imperial Species Serum
@@ -6549,11 +6647,13 @@ Item ID,Item meta,Has NBT,Display Name
 13209,0,true,Refined Species Serum
 13209,0,true,Tolerant Species Serum
 13209,0,true,Attuned Species Serum
+13209,0,true,Essence Species Serum
 13209,0,true,Darkness Effect Serum
 13209,0,true,Glowering Species Serum
 13209,0,true,Reanimation Effect Serum
 13209,0,true,Amber Species Serum
 13209,0,true,Arid Species Serum
+13209,0,true,Spiritual Effect Serum
 13209,0,true,Thriving Species Serum
 13209,0,true,Prussian Species Serum
 13209,0,true,Aware Species Serum
@@ -6573,16 +6673,18 @@ Item ID,Item meta,Has NBT,Display Name
 13209,0,true,Brainy Effect Serum
 13209,0,true,Hazardous Species Serum
 13209,0,true,Rural Species Serum
+13209,0,true,Eis Species Serum
 13209,0,true,Scholarly Species Serum
 13209,0,true,River Species Serum
+13209,0,true,Corrupted Serum
 13209,0,true,Marshy Species Serum
 13209,0,true,Larger Territory Serum
 13209,0,true,Bleached Species Serum
 13209,0,true,Valiant Species Serum
 13209,0,true,Shining Species Serum
 13209,0,true,Decaying Species Serum
-13209,0,true,Growth Effect Serum
 13209,0,true,Acidic Species Serum
+13209,0,true,Growth Effect Serum
 13209,0,true,Watery Species Serum
 13209,0,true,Wheat Pollination Serum
 13209,0,true,Austere Species Serum
@@ -6619,10 +6721,11 @@ Item ID,Item meta,Has NBT,Display Name
 13209,0,true,Quantum Species Serum
 13209,0,true,Reeds Pollination Serum
 13209,0,true,Meteor Effect Serum
+13209,0,true, Effect Serum
 13209,0,true,Earthen Species Serum
 13209,0,true,Largest Territory Serum
-13209,0,true,Tropical Species Serum
 13209,0,true,Excited Species Serum
+13209,0,true,Tropical Species Serum
 13209,0,true,Pupil Species Serum
 13209,0,true,Enchanted Species Serum
 13209,0,true,Stannum Species Serum
@@ -6654,6 +6757,7 @@ Item ID,Item meta,Has NBT,Display Name
 13209,0,true,Furious Species Serum
 13209,0,true,Avenging Species Serum
 13209,0,true,Celebratory Species Serum
+13209,0,true,Erde Species Serum
 13209,0,true,Poultry Species Serum
 13209,0,true,Phantasmal Species Serum
 13209,0,true,Ruby Species Serum
@@ -6675,6 +6779,8 @@ Item ID,Item meta,Has NBT,Display Name
 13209,0,true,Cultivated Species Serum
 13209,0,true,Barren Species Serum
 13209,0,true,Darkened Species Serum
+13209,0,true,Exotic Flowers Pollination Serum
+13209,0,true,Wight Species Serum
 13209,0,true,Porcine Species Serum
 13209,0,true,Emerald Species Serum
 13209,0,true,Nocturnal Serum
@@ -6702,6 +6808,7 @@ Item ID,Item meta,Has NBT,Display Name
 13209,0,true,Invisible Species Serum
 13209,0,true,Mystical Species Serum
 13209,0,true,Ender Species Serum
+13209,0,true,Staude Species Serum
 13209,0,true,Abandoned Species Serum
 13209,0,true,Apatine Species Serum
 13209,0,true,Windy Species Serum
@@ -6746,9 +6853,11 @@ Item ID,Item meta,Has NBT,Display Name
 13209,0,true,Charmed Species Serum
 13209,0,true,Normal Productivity Serum
 13209,0,true,Rocks Pollination Serum
+13209,0,true,Blitz Species Serum
 13209,0,true,Frigid Species Serum
 13209,0,true,Cobalt Species Serum
 13209,0,true,Growing Species Serum
+13209,0,true,Gourds Pollination Serum
 13209,0,true,Water Species Serum
 13209,0,true,Cuprum Species Serum
 13209,0,true,Doctoral Species Serum
@@ -6767,10 +6876,11 @@ Item ID,Item meta,Has NBT,Display Name
 13209,0,true,Tipsy Species Serum
 13209,0,true,Shorter Lifespan Serum
 13209,0,true,Tarnished Species Serum
+13209,0,true,Tricky Species Serum
 13209,0,true,Edenic Species Serum
 13209,0,true,Glutinous Species Serum
-13209,0,true,Faster Flowering Serum
 13209,0,true,Nether Pollination Serum
+13209,0,true,Faster Flowering Serum
 13209,0,true,Azure Species Serum
 13209,0,true,Diamond Species Serum
 13209,0,true,Meadows Species Serum
@@ -6796,6 +6906,7 @@ Item ID,Item meta,Has NBT,Display Name
 13209,0,true,Firey Species Serum
 13209,0,true,Slowness Effect Serum
 13209,0,true,Arcane Species Serum
+13209,0,true,Vortex Species Serum
 13209,0,true,Low Fertility Serum
 13209,0,true,Lapis Species Serum
 13209,0,true,Natural Species Serum
@@ -6806,9 +6917,11 @@ Item ID,Item meta,Has NBT,Display Name
 13209,0,true,Abnormal Species Serum
 13209,0,true,Esmeraldi Species Serum
 13209,0,true,Unusual Species Serum
+13209,0,true,Feuer Species Serum
 13209,0,true,Skeletons Effect Serum
 13209,0,true,Oblivion Species Serum
 13209,0,true,Jaded Species Serum
+13209,0,true,Arkanen Species Serum
 13209,0,true,Dead Bush Pollination Serum
 13209,0,true,Creepy Species Serum
 13209,0,true,Spectral Species Serum
@@ -6827,6 +6940,7 @@ Item ID,Item meta,Has NBT,Display Name
 13209,0,true,Stained Species Serum
 13209,0,true,Bovine Species Serum
 13209,0,true,Ordered Species Serum
+13209,0,true,Quintessential Species Serum
 13209,0,true,Transmuting Effect Serum
 13209,0,true,Drunkard Effect Serum
 13209,0,true,Relic Species Serum
@@ -7238,6 +7352,7 @@ Item ID,Item meta,Has NBT,Display Name
 13340,0,true,Modest Drone
 13340,0,true,Tropical Drone
 13340,0,true,Wintry Drone
+13340,0,true,Tricky Drone
 13340,0,true,Marshy Drone
 13340,0,true,Rocky Drone
 13340,0,true,Water Drone
@@ -7279,6 +7394,7 @@ Item ID,Item meta,Has NBT,Display Name
 13340,0,true,Leporine Drone
 13340,0,true,Merry Drone
 13340,0,true,Tipsy Drone
+13340,0,true,Tricky Drone
 13340,0,true,Rural Drone
 13340,0,true,Marshy Drone
 13340,0,true,Monastic Drone
@@ -7449,11 +7565,24 @@ Item ID,Item meta,Has NBT,Display Name
 13340,0,true,Poultry Drone
 13340,0,true,Beefy Drone
 13340,0,true,Porcine Drone
+13340,0,true,Essence Drone
+13340,0,true,Quintessential Drone
+13340,0,true,Erde Drone
+13340,0,true,Luft Drone
+13340,0,true,Feuer Drone
+13340,0,true,Wasser Drone
+13340,0,true,Blitz Drone
+13340,0,true,Staude Drone
+13340,0,true,Eis Drone
+13340,0,true,Arkanen Drone
+13340,0,true,Vortex Drone
+13340,0,true,Wight Drone
 13341,0,true,Forest Princess
 13341,0,true,Meadows Princess
 13341,0,true,Modest Princess
 13341,0,true,Tropical Princess
 13341,0,true,Wintry Princess
+13341,0,true,Tricky Princess
 13341,0,true,Marshy Princess
 13341,0,true,Rocky Princess
 13341,0,true,Water Princess
@@ -7495,6 +7624,7 @@ Item ID,Item meta,Has NBT,Display Name
 13341,0,true,Leporine Princess
 13341,0,true,Merry Princess
 13341,0,true,Tipsy Princess
+13341,0,true,Tricky Princess
 13341,0,true,Rural Princess
 13341,0,true,Marshy Princess
 13341,0,true,Monastic Princess
@@ -7665,6 +7795,18 @@ Item ID,Item meta,Has NBT,Display Name
 13341,0,true,Poultry Princess
 13341,0,true,Beefy Princess
 13341,0,true,Porcine Princess
+13341,0,true,Essence Princess
+13341,0,true,Quintessential Princess
+13341,0,true,Erde Princess
+13341,0,true,Luft Princess
+13341,0,true,Feuer Princess
+13341,0,true,Wasser Princess
+13341,0,true,Blitz Princess
+13341,0,true,Staude Princess
+13341,0,true,Eis Princess
+13341,0,true,Arkanen Princess
+13341,0,true,Vortex Princess
+13341,0,true,Wight Princess
 13342,0,false,Beealyzer
 13343,0,true,Lepidopterist's Backpack
 13344,0,true,Woven Miner's Backpack
@@ -8197,6 +8339,7 @@ Item ID,Item meta,Has NBT,Display Name
 13390,0,true,Modest Larvae
 13390,0,true,Tropical Larvae
 13390,0,true,Wintry Larvae
+13390,0,true,Tricky Larvae
 13390,0,true,Marshy Larvae
 13390,0,true,Rocky Larvae
 13390,0,true,Water Larvae
@@ -8376,6 +8519,7 @@ Item ID,Item meta,Has NBT,Display Name
 14277,14,false,Bronze Tool Rod
 14277,15,false,Alumite Tool Rod
 14277,16,false,Steel Tool Rod
+14277,31,false,Thaumium Tool Rod
 14278,1,false,Stone Shard
 14278,2,false,Iron Shard
 14278,3,false,Flint Shard
@@ -8390,55 +8534,60 @@ Item ID,Item meta,Has NBT,Display Name
 14278,14,false,Bronze Shard
 14278,15,false,Alumite Shard
 14278,16,false,Steel Shard
-14279,1,false,Tool Rod Pattern
-14279,2,false,Pickaxe Head Pattern
-14279,3,false,Shovel Head Pattern
-14279,4,false,Axe Head Pattern
-14279,5,false,Sword Blade Pattern
-14279,6,false,Wide Guard Pattern
-14279,7,false,Hand Guard Pattern
-14279,8,false,Crossbar Pattern
-14279,9,false,Tool Binding Pattern
-14279,10,false,Pan Pattern
-14279,11,false,Board Pattern
-14279,12,false,Knife Blade Pattern
-14279,13,false,Chisel Head Pattern
-14279,14,false,Tough Tool Rod Pattern
-14279,15,false,Tough Binding Pattern
-14279,16,false,Large Plate Pattern
-14279,17,false,Broad Axe Head Pattern
-14279,18,false,Scythe Head Pattern
-14279,19,false,Broad Shovel Head Pattern
-14279,20,false,Large Blade Pattern
-14279,21,false,Hammer Head Pattern
-14279,22,false,Full Guard Pattern
-14279,23,false,Bowstring Pattern
-14279,24,false,Fletching Pattern
-14279,25,false,Arrowhead Pattern
-14280,0,false,Ingot Cast
-14280,1,false,Tool Rod Cast
-14280,2,false,Pickaxe Head Cast
-14280,3,false,Shovel Head Cast
-14280,4,false,Axe Head Cast
-14280,5,false,Sword Blade Cast
-14280,6,false,Wide Guard Cast
-14280,7,false,Hand Guard Cast
-14280,8,false,Crossbar Cast
-14280,9,false,Tool Binding Cast
-14280,10,false,Pan Cast
-14280,11,false,Board Cast
-14280,12,false,Knife Blade Cast
-14280,13,false,Chisel Head Cast
-14280,14,false,Tough Tool Rod Cast
-14280,15,false,Tough Binding Cast
-14280,16,false,Large Plate Cast
-14280,17,false,Broad Axe Head Cast
-14280,18,false,Scythe Head Cast
-14280,19,false,Broad Shovel Head Cast
-14280,20,false,Large Blade Cast
-14280,21,false,Hammer Head Cast
-14280,22,false,Full Guard Cast
-14280,25,false,Arrowhead Cast
+14278,31,false,Thaumium Shard
+14279,1,false,item.tconstruct.Pattern.rod.name
+14279,2,false,item.tconstruct.Pattern.pickaxe.name
+14279,3,false,item.tconstruct.Pattern.shovel.name
+14279,4,false,item.tconstruct.Pattern.axe.name
+14279,5,false,item.tconstruct.Pattern.swordblade.name
+14279,6,false,item.tconstruct.Pattern.largeguard.name
+14279,7,false,item.tconstruct.Pattern.mediumguard.name
+14279,8,false,item.tconstruct.Pattern.crossbar.name
+14279,9,false,item.tconstruct.Pattern.binding.name
+14279,10,false,item.tconstruct.Pattern.frypan.name
+14279,11,false,item.tconstruct.Pattern.sign.name
+14279,12,false,item.tconstruct.Pattern.knifeblade.name
+14279,13,false,item.tconstruct.Pattern.chisel.name
+14279,14,false,item.tconstruct.Pattern.largerod.name
+14279,15,false,item.tconstruct.Pattern.toughbinding.name
+14279,16,false,item.tconstruct.Pattern.largeplate.name
+14279,17,false,item.tconstruct.Pattern.broadaxe.name
+14279,18,false,item.tconstruct.Pattern.scythe.name
+14279,19,false,item.tconstruct.Pattern.excavator.name
+14279,20,false,item.tconstruct.Pattern.largeblade.name
+14279,21,false,item.tconstruct.Pattern.hammerhead.name
+14279,22,false,item.tconstruct.Pattern.fullguard.name
+14279,23,false,item.tconstruct.Pattern.bowstring.name
+14279,24,false,item.tconstruct.Pattern.fletching.name
+14279,25,false,item.tconstruct.Pattern.arrowhead.name
+14280,0,false,item.tconstruct.MetalPattern.ingot.name
+14280,1,false,item.tconstruct.MetalPattern.rod.name
+14280,2,false,item.tconstruct.MetalPattern.pickaxe.name
+14280,3,false,item.tconstruct.MetalPattern.shovel.name
+14280,4,false,item.tconstruct.MetalPattern.axe.name
+14280,5,false,item.tconstruct.MetalPattern.swordblade.name
+14280,6,false,item.tconstruct.MetalPattern.largeguard.name
+14280,7,false,item.tconstruct.MetalPattern.mediumguard.name
+14280,8,false,item.tconstruct.MetalPattern.crossbar.name
+14280,9,false,item.tconstruct.MetalPattern.binding.name
+14280,10,false,item.tconstruct.MetalPattern.frypan.name
+14280,11,false,item.tconstruct.MetalPattern.sign.name
+14280,12,false,item.tconstruct.MetalPattern.knifeblade.name
+14280,13,false,item.tconstruct.MetalPattern.chisel.name
+14280,14,false,item.tconstruct.MetalPattern.largerod.name
+14280,15,false,item.tconstruct.MetalPattern.toughbinding.name
+14280,16,false,item.tconstruct.MetalPattern.largeplate.name
+14280,17,false,item.tconstruct.MetalPattern.broadaxe.name
+14280,18,false,item.tconstruct.MetalPattern.scythe.name
+14280,19,false,item.tconstruct.MetalPattern.excavator.name
+14280,20,false,item.tconstruct.MetalPattern.largeblade.name
+14280,21,false,item.tconstruct.MetalPattern.hammerhead.name
+14280,22,false,item.tconstruct.MetalPattern.fullguard.name
+14280,25,false,item.tconstruct.MetalPattern.arrowhead.name
+14281,0,false,Helmet Cast
+14281,1,false,Chestplate Cast
+14281,2,false,Leggings Cast
+14281,3,false,Boots Cast
 14282,0,false,Wooden Pickaxe Head
 14282,1,false,Stone Pickaxe Head
 14282,2,false,Iron Pickaxe Head
@@ -8456,6 +8605,7 @@ Item ID,Item meta,Has NBT,Display Name
 14282,14,false,Bronze Pickaxe Head
 14282,15,false,Alumite Pickaxe Head
 14282,16,false,Steel Pickaxe Head
+14282,31,false,Thaumium Pickaxe Head
 14283,0,false,Wooden Shovel Head
 14283,1,false,Stone Shovel Head
 14283,2,false,Iron Shovel Head
@@ -8473,6 +8623,7 @@ Item ID,Item meta,Has NBT,Display Name
 14283,14,false,Bronze Shovel Head
 14283,15,false,Alumite Shovel Head
 14283,16,false,Steel Shovel Head
+14283,31,false,Thaumium Shovel Head
 14284,0,false,Wooden Axe Head
 14284,1,false,Stone Axe Head
 14284,2,false,Iron Axe Head
@@ -8490,6 +8641,7 @@ Item ID,Item meta,Has NBT,Display Name
 14284,14,false,Bronze Axe Head
 14284,15,false,Alumite Axe Head
 14284,16,false,Steel Axe Head
+14284,31,false,Thaumium Axe Head
 14286,0,false,Wooden Sword Blade
 14286,1,false,Stone Sword Blade
 14286,2,false,Iron Sword Blade
@@ -8507,6 +8659,7 @@ Item ID,Item meta,Has NBT,Display Name
 14286,14,false,Bronze Sword Blade
 14286,15,false,Alumite Sword Blade
 14286,16,false,Steel Sword Blade
+14286,31,false,Thaumium Sword Blade
 14287,0,false,Wooden Large Guard
 14287,1,false,Stone Large Guard
 14287,2,false,Iron Large Guard
@@ -8524,6 +8677,7 @@ Item ID,Item meta,Has NBT,Display Name
 14287,14,false,Bronze Large Guard
 14287,15,false,Alumite Large Guard
 14287,16,false,Steel Large Guard
+14287,31,false,Thaumium Large Guard
 14288,0,false,Wooden Medium Guard
 14288,1,false,Stone Medium Guard
 14288,2,false,Iron Medium Guard
@@ -8541,6 +8695,7 @@ Item ID,Item meta,Has NBT,Display Name
 14288,14,false,Bronze Medium Guard
 14288,15,false,Alumite Medium Guard
 14288,16,false,Steel Medium Guard
+14288,31,false,Thaumium Medium Guard
 14289,0,false,Wooden Crossbar
 14289,1,false,Stone Crossbar
 14289,2,false,Iron Crossbar
@@ -8558,6 +8713,7 @@ Item ID,Item meta,Has NBT,Display Name
 14289,14,false,Bronze Crossbar
 14289,15,false,Alumite Crossbar
 14289,16,false,Steel Crossbar
+14289,31,false,Thaumium Crossbar
 14290,0,false,Wooden Binding
 14290,1,false,Stone Binding
 14290,2,false,Iron Binding
@@ -8575,6 +8731,7 @@ Item ID,Item meta,Has NBT,Display Name
 14290,14,false,Bronze Binding
 14290,15,false,Alumite Binding
 14290,16,false,Steel Binding
+14290,31,false,Thaumium Binding
 14291,0,false,Wooden Pan
 14291,1,false,Stone Pan
 14291,2,false,Iron Pan
@@ -8592,6 +8749,7 @@ Item ID,Item meta,Has NBT,Display Name
 14291,14,false,Bronze Pan
 14291,15,false,Alumite Pan
 14291,16,false,Steel Pan
+14291,31,false,Thaumium Pan
 14292,0,false,Wooden Sign Head
 14292,1,false,Stone Sign Head
 14292,2,false,Iron Sign Head
@@ -8609,6 +8767,7 @@ Item ID,Item meta,Has NBT,Display Name
 14292,14,false,Bronze Sign Head
 14292,15,false,Alumite Sign Head
 14292,16,false,Steel Sign Head
+14292,31,false,Thaumium Sign Head
 14293,0,false,Wooden Broad Axe Head
 14293,1,false,Stone Broad Axe Head
 14293,2,false,Iron Broad Axe Head
@@ -8626,6 +8785,7 @@ Item ID,Item meta,Has NBT,Display Name
 14293,14,false,Bronze Broad Axe Head
 14293,15,false,Alumite Broad Axe Head
 14293,16,false,Steel Broad Axe Head
+14293,31,false,Thaumium Broad Axe Head
 14294,0,false,Wooden Knife Blade
 14294,1,false,Stone Knife Blade
 14294,2,false,Iron Knife Blade
@@ -8643,6 +8803,7 @@ Item ID,Item meta,Has NBT,Display Name
 14294,14,false,Bronze Knife Blade
 14294,15,false,Alumite Knife Blade
 14294,16,false,Steel Knife Blade
+14294,31,false,Thaumium Knife Blade
 14295,0,false,Wooden Chisel Head
 14295,1,false,Stone Chisel Head
 14295,2,false,Iron Chisel Head
@@ -8660,6 +8821,7 @@ Item ID,Item meta,Has NBT,Display Name
 14295,14,false,Bronze Chisel Head
 14295,15,false,Alumite Chisel Head
 14295,16,false,Steel Chisel Head
+14295,31,false,Thaumium Chisel Head
 14296,0,false,Wooden Scythe Head
 14296,1,false,Stone Scythe Head
 14296,2,false,Iron Scythe Head
@@ -8677,6 +8839,7 @@ Item ID,Item meta,Has NBT,Display Name
 14296,14,false,Bronze Scythe Head
 14296,15,false,Alumite Scythe Head
 14296,16,false,Steel Scythe Head
+14296,31,false,Thaumium Scythe Head
 14297,0,false,Wooden Tough Binding
 14297,1,false,Stone Tough Binding
 14297,2,false,Iron Tough Binding
@@ -8694,6 +8857,7 @@ Item ID,Item meta,Has NBT,Display Name
 14297,14,false,Bronze Tough Binding
 14297,15,false,Alumite Tough Binding
 14297,16,false,Steel Tough Binding
+14297,31,false,Thaumium Tough Binding
 14298,0,false,Wooden Tough Rod
 14298,1,false,Stone Tough Rod
 14298,2,false,Iron Tough Rod
@@ -8711,6 +8875,7 @@ Item ID,Item meta,Has NBT,Display Name
 14298,14,false,Bronze Tough Rod
 14298,15,false,Alumite Tough Rod
 14298,16,false,Steel Tough Rod
+14298,31,false,Thaumium Tough Rod
 14299,0,false,Wooden Large Sword Blade
 14299,1,false,Stone Large Sword Blade
 14299,2,false,Iron Large Sword Blade
@@ -8728,6 +8893,7 @@ Item ID,Item meta,Has NBT,Display Name
 14299,14,false,Bronze Large Sword Blade
 14299,15,false,Alumite Large Sword Blade
 14299,16,false,Steel Large Sword Blade
+14299,31,false,Thaumium Large Sword Blade
 14300,0,false,Wooden Large Plate
 14300,1,false,Stone Large Plate
 14300,2,false,Iron Large Plate
@@ -8745,6 +8911,7 @@ Item ID,Item meta,Has NBT,Display Name
 14300,14,false,Bronze Large Plate
 14300,15,false,Alumite Large Plate
 14300,16,false,Steel Large Plate
+14300,31,false,Thaumium Large Plate
 14301,0,false,Wooden Excavator Head
 14301,1,false,Stone Excavator Head
 14301,2,false,Iron Excavator Head
@@ -8762,6 +8929,7 @@ Item ID,Item meta,Has NBT,Display Name
 14301,14,false,Bronze Excavator Head
 14301,15,false,Alumite Excavator Head
 14301,16,false,Steel Excavator Head
+14301,31,false,Thaumium Excavator Head
 14302,0,false,Wooden Hammer Head
 14302,1,false,Stone Hammer Head
 14302,2,false,Iron Hammer Head
@@ -8779,6 +8947,7 @@ Item ID,Item meta,Has NBT,Display Name
 14302,14,false,Bronze Hammer Head
 14302,15,false,Alumite Hammer Head
 14302,16,false,Steel Hammer Head
+14302,31,false,Thaumium Hammer Head
 14303,0,false,Wooden Full Guard
 14303,1,false,Stone Full Guard
 14303,2,false,Iron Full Guard
@@ -8796,6 +8965,7 @@ Item ID,Item meta,Has NBT,Display Name
 14303,14,false,Bronze Full Guard
 14303,15,false,Alumite Full Guard
 14304,0,false,Bowstring
+14304,1,false,Enchanted Bowstring
 14304,2,false,Fiery Bowstring
 14305,0,false,Wooden Arrowhead
 14305,1,false,Stone Arrowhead
@@ -8814,6 +8984,7 @@ Item ID,Item meta,Has NBT,Display Name
 14305,14,false,Bronze Arrowhead
 14305,15,false,Alumite Arrowhead
 14305,16,false,Steel Arrowhead
+14305,31,false,Thaumium Arrowhead
 14306,0,false,Feather Fletching
 14306,1,false,Leaf Fletching
 14306,2,false,Slime Fletching
@@ -8836,6 +9007,7 @@ Item ID,Item meta,Has NBT,Display Name
 14307,0,true,Alumite Pickaxe
 14307,0,true,Slime Pickaxe
 14307,0,true,Steel Pickaxe
+14307,0,true,Thaumium Pickaxe
 14308,0,true,Wooden Shovel
 14308,0,true,Stone Shovel
 14308,0,true,Iron Shovel
@@ -8854,6 +9026,7 @@ Item ID,Item meta,Has NBT,Display Name
 14308,0,true,Alumite Shovel
 14308,0,true,Slime Shovel
 14308,0,true,Steel Shovel
+14308,0,true,Thaumium Shovel
 14309,0,true,Wooden Hatchet
 14309,0,true,Stone Hatchet
 14309,0,true,Iron Hatchet
@@ -8872,6 +9045,7 @@ Item ID,Item meta,Has NBT,Display Name
 14309,0,true,Alumite Hatchet
 14309,0,true,Slime Hatchet
 14309,0,true,Steel Hatchet
+14309,0,true,Thaumium Hatchet
 14311,0,true,Wooden Broadsword
 14311,0,true,Stone Broadsword
 14311,0,true,Iron Broadsword
@@ -8890,6 +9064,7 @@ Item ID,Item meta,Has NBT,Display Name
 14311,0,true,Alumite Broadsword
 14311,0,true,Slime Broadsword
 14311,0,true,Steel Broadsword
+14311,0,true,Thaumium Broadsword
 14312,0,true,Wooden Longsword
 14312,0,true,Stone Longsword
 14312,0,true,Iron Longsword
@@ -8908,6 +9083,7 @@ Item ID,Item meta,Has NBT,Display Name
 14312,0,true,Alumite Longsword
 14312,0,true,Slime Longsword
 14312,0,true,Steel Longsword
+14312,0,true,Thaumium Longsword
 14313,0,true,Wooden Rapier
 14313,0,true,Stone Rapier
 14313,0,true,Iron Rapier
@@ -8926,6 +9102,7 @@ Item ID,Item meta,Has NBT,Display Name
 14313,0,true,Alumite Rapier
 14313,0,true,Slime Rapier
 14313,0,true,Steel Rapier
+14313,0,true,Thaumium Rapier
 14314,0,true,Wooden Frying Pan
 14314,0,true,Stone Frying Pan
 14314,0,true,Iron Frying Pan
@@ -8944,6 +9121,7 @@ Item ID,Item meta,Has NBT,Display Name
 14314,0,true,Alumite Frying Pan
 14314,0,true,Slime Frying Pan
 14314,0,true,Steel Frying Pan
+14314,0,true,Thaumium Frying Pan
 14314,0,true,Bane of Pigs
 14315,0,true,Wooden Battlesign
 14315,0,true,Stone Battlesign
@@ -8963,6 +9141,7 @@ Item ID,Item meta,Has NBT,Display Name
 14315,0,true,Alumite Battlesign
 14315,0,true,Slime Battlesign
 14315,0,true,Steel Battlesign
+14315,0,true,Thaumium Battlesign
 14316,0,true,Wooden Mattock
 14316,0,true,Stone Mattock
 14316,0,true,Iron Mattock
@@ -8981,6 +9160,7 @@ Item ID,Item meta,Has NBT,Display Name
 14316,0,true,Alumite Mattock
 14316,0,true,Slime Mattock
 14316,0,true,Steel Mattock
+14316,0,true,Thaumium Mattock
 14317,0,true,Wooden Lumber Axe
 14317,0,true,Stone Lumber Axe
 14317,0,true,Iron Lumber Axe
@@ -8999,6 +9179,7 @@ Item ID,Item meta,Has NBT,Display Name
 14317,0,true,Alumite Lumber Axe
 14317,0,true,Slime Lumber Axe
 14317,0,true,Steel Lumber Axe
+14317,0,true,Thaumium Lumber Axe
 14319,0,true,Wooden Shortbow
 14319,0,true,Stone Shortbow
 14319,0,true,Iron Shortbow
@@ -9017,6 +9198,7 @@ Item ID,Item meta,Has NBT,Display Name
 14319,0,true,Alumite Shortbow
 14319,0,true,Slime Shortbow
 14319,0,true,Steel Shortbow
+14319,0,true,Thaumium Shortbow
 14320,0,true,Potion Launcher
 14321,0,true,Wooden Dagger
 14321,0,true,Stone Dagger
@@ -9036,6 +9218,7 @@ Item ID,Item meta,Has NBT,Display Name
 14321,0,true,Alumite Dagger
 14321,0,true,Slime Dagger
 14321,0,true,Steel Dagger
+14321,0,true,Thaumium Dagger
 14322,0,true,Wooden Chisel
 14322,0,true,Stone Chisel
 14322,0,true,Iron Chisel
@@ -9054,6 +9237,7 @@ Item ID,Item meta,Has NBT,Display Name
 14322,0,true,Alumite Chisel
 14322,0,true,Slime Chisel
 14322,0,true,Steel Chisel
+14322,0,true,Thaumium Chisel
 14323,0,true,Wooden Scythe
 14323,0,true,Stone Scythe
 14323,0,true,Iron Scythe
@@ -9072,6 +9256,7 @@ Item ID,Item meta,Has NBT,Display Name
 14323,0,true,Alumite Scythe
 14323,0,true,Slime Scythe
 14323,0,true,Steel Scythe
+14323,0,true,Thaumium Scythe
 14324,0,true,Wooden Cleaver
 14324,0,true,Stone Cleaver
 14324,0,true,Iron Cleaver
@@ -9090,6 +9275,7 @@ Item ID,Item meta,Has NBT,Display Name
 14324,0,true,Alumite Cleaver
 14324,0,true,Slime Cleaver
 14324,0,true,Steel Cleaver
+14324,0,true,Thaumium Cleaver
 14325,0,true,Wooden Excavator
 14325,0,true,Stone Excavator
 14325,0,true,Iron Excavator
@@ -9108,6 +9294,7 @@ Item ID,Item meta,Has NBT,Display Name
 14325,0,true,Alumite Excavator
 14325,0,true,Slime Excavator
 14325,0,true,Steel Excavator
+14325,0,true,Thaumium Excavator
 14326,0,true,Wooden Hammer
 14326,0,true,Stone Hammer
 14326,0,true,Iron Hammer
@@ -9126,6 +9313,7 @@ Item ID,Item meta,Has NBT,Display Name
 14326,0,true,Alumite Hammer
 14326,0,true,Slime Hammer
 14326,0,true,Steel Hammer
+14326,0,true,Thaumium Hammer
 14327,0,true,Wooden Battleaxe
 14327,0,true,Stone Battleaxe
 14327,0,true,Iron Battleaxe
@@ -9144,6 +9332,7 @@ Item ID,Item meta,Has NBT,Display Name
 14327,0,true,Alumite Battleaxe
 14327,0,true,Slime Battleaxe
 14327,0,true,Steel Battleaxe
+14327,0,true,Thaumium Battleaxe
 14328,0,true,Wooden Cutlass
 14328,0,true,Stone Cutlass
 14328,0,true,Iron Cutlass
@@ -9162,6 +9351,7 @@ Item ID,Item meta,Has NBT,Display Name
 14328,0,true,Alumite Cutlass
 14328,0,true,Slime Cutlass
 14328,0,true,Steel Cutlass
+14328,0,true,Thaumium Cutlass
 14329,0,true,Arrow
 14329,0,true,Random Streamer
 14329,0,true,Wooden Arrow
@@ -9182,6 +9372,7 @@ Item ID,Item meta,Has NBT,Display Name
 14329,0,true,Alumite Arrow
 14329,0,true,Slime Arrow
 14329,0,true,Steel Arrow
+14329,0,true,Thaumium Arrow
 14357,0,false,Molten Iron Bucket
 14357,1,false,Molten Gold Bucket
 14357,2,false,Molten Copper Bucket
@@ -9219,7 +9410,11 @@ Item ID,Item meta,Has NBT,Display Name
 14361,0,false,Empty Canister
 14361,1,false,Miniature Red Heart
 14361,2,false,Heart Canister
+14362,0,false,item.tconstruct.helmetWood.name
 14363,0,false,Jeweled Apple
+14364,0,false,item.tconstruct.chestplateWood.name
+14365,0,false,item.tconstruct.leggingsWood.name
+14366,0,false,item.tconstruct.bootsWood.name
 14368,0,false,Knapsack
 14369,0,false,Golden Head
 14370,0,true,Essence Crystal
@@ -9236,11 +9431,26 @@ Item ID,Item meta,Has NBT,Display Name
 14371,4,false,Fish Jerky
 14371,5,false,Monster Jerky
 15231,0,false,Hang Glider
+1228,0,true,Magnet Turtle
+1228,0,true,Wireless Magnet Turtle
+1228,0,true,Crafty Magnet Turtle
+1228,0,true,Melee Magnet Turtle
+1228,0,true,Digging Magnet Turtle
+1228,0,true,Mining Magnet Turtle
+1228,0,true,Felling Magnet Turtle
+1230,0,true,Advanced Magnet Turtle
+1230,0,true,Advanced Wireless Magnet Turtle
+1230,0,true,Advanced Crafty Magnet Turtle
+1230,0,true,Advanced Melee Magnet Turtle
+1230,0,true,Advanced Digging Magnet Turtle
+1230,0,true,Advanced Mining Magnet Turtle
+1230,0,true,Advanced Felling Magnet Turtle
 15232,0,false,Glider Wing
 15232,1,false,Beam
 15232,2,false,Crane Engine
 15232,3,false,Crane Magnet
-15232,4,false,Line
+15232,4,false,Miracle Magnet
+15232,5,false,Line
 15233,0,false,Luggage
 15234,0,false,Sonic Glasses
 15235,0,false,Pencil Glasses
@@ -9580,6 +9790,10 @@ Item ID,Item meta,Has NBT,Display Name
 16992,37,false,Ruby
 16992,38,false,Sapphire
 16992,39,false,Peridot
+16992,40,false,Red Iron Compound
+16992,41,false,Sandy Coal Compound
+16992,42,false,Red Silicon Compound
+16992,43,false,Glowing Silicon Compound
 16993,0,false,Screwdriver
 17256,0,false,Weak Blood Orb
 17257,0,false,Energy Blaster
@@ -10246,15 +10460,6 @@ Item ID,Item meta,Has NBT,Display Name
 19397,0,true,Facade: Rosewood Wood Planks
 19397,0,true,Facade: Gingko Wood Planks
 19397,0,true,Facade: Pink Ivory Wood Planks
-19397,0,true,Facade: High Temperature Machine Block
-19397,0,true,Facade: Nuclear Reactor Tier 1
-19397,0,true,Facade: Nuclear Reactor Tier 2
-19397,0,true,Facade: Nuclear Reactor Tier 3
-19397,0,true,Facade: Reactor Chamber
-19397,0,true,Facade: Heat Capacity Reactor Chamber
-19397,0,true,Facade: Containment Reactor Chamber
-19397,0,true,Facade: Infernal Reactor Chamber
-19397,0,true,Facade: Ender Chamber
 19397,0,true,Facade: Acacia Wood
 19397,0,true,Facade: Acacia Wood
 19397,0,true,Facade: Acacia Wood
@@ -10323,7 +10528,15 @@ Item ID,Item meta,Has NBT,Display Name
 19397,0,true,Facade: Red Rock Cobblestone
 19397,0,true,Facade: Giant Red Flower
 19397,0,true,Facade: Giant Yellow Flower
-19397,0,true,Facade: Certus Quartz Block
+19397,0,true,Facade: High Temperature Machine Block
+19397,0,true,Facade: Nuclear Reactor Tier 1
+19397,0,true,Facade: Nuclear Reactor Tier 2
+19397,0,true,Facade: Nuclear Reactor Tier 3
+19397,0,true,Facade: Reactor Chamber
+19397,0,true,Facade: Heat Capacity Reactor Chamber
+19397,0,true,Facade: Containment Reactor Chamber
+19397,0,true,Facade: Infernal Reactor Chamber
+19397,0,true,Facade: Ender Chamber
 19397,0,true,Facade: Stone
 19397,0,true,Facade: Dirt
 19397,0,true,Facade: Cobblestone
@@ -10470,6 +10683,7 @@ Item ID,Item meta,Has NBT,Display Name
 19397,0,true,Facade: Road
 19397,0,true,Facade: Road Light
 19397,0,true,Facade: Road Light (Inverted)
+19397,0,true,Facade: Certus Quartz Block
 19397,0,true,Facade: Black Force Brick
 19397,0,true,Facade: Red Force Brick
 19397,0,true,Facade: Green Force Brick
@@ -10547,6 +10761,253 @@ Item ID,Item meta,Has NBT,Display Name
 20264,1,false,MFS Unit Upgrade
 20264,2,false,Lapotronic Upgrade Kit
 20264,3,false,Fission Upgrade Kit
+20356,0,false,Vinteum Dust
+20356,1,false,Arcane Compound
+20356,2,false,Arcane Ash
+20356,3,false,Purified Vinteum Dust
+20356,4,false,Chimerite
+20356,5,false,Blue Topaz
+20356,6,false,Sunstone
+20356,7,false,Moonstone
+20358,0,false,Arcane Essence
+20358,1,false,Earth Essence
+20358,2,false,Air Essence
+20358,3,false,Fire Essence
+20358,4,false,Water Essence
+20358,5,false,Nature Essence
+20358,6,false,Ice Essence
+20358,7,false,Lightning Essence
+20358,8,false,Life Essence
+20358,9,false,Ender Essence
+20358,10,false,Pure Essence
+20358,11,false,High Essence Core
+20358,12,false,Base Essence Core
+20359,0,true,Spell Book
+20370,0,false,Spell Parchment
+20371,0,false,Malformed Spell
+20371,1,false,Malformed Spell
+20371,2,false,Malformed Spell
+20371,3,false,Malformed Spell
+20371,4,false,Malformed Spell
+20371,5,false,Malformed Spell
+20371,6,false,Malformed Spell
+20371,7,false,Malformed Spell
+20371,8,false,Malformed Spell
+20371,9,false,Malformed Spell
+20371,10,false,Malformed Spell
+20371,11,false,Malformed Spell
+20371,12,false,Malformed Spell
+20371,13,false,Malformed Spell
+20371,14,false,Malformed Spell
+20371,15,false,Malformed Spell
+20372,0,false,Blank Rune
+20372,1,false,Blue Rune
+20372,2,false,Red Rune
+20372,3,false,Yellow Rune
+20372,4,false,Orange Rune
+20372,5,false,Green Rune
+20372,6,false,Purple Rune
+20372,7,false,Black Rune
+20372,8,false,White Rune
+20372,9,false,Rune of Debugging
+20372,10,false,Infinity Orb
+20372,11,false,Infinity Orb
+20372,12,false,Infinity Orb
+20385,0,false,Mage Hood
+20386,0,false,Mage Robes
+20387,0,false,Mage Leggings
+20388,0,false,Mage Boots
+20389,0,false,Battlemage Circlet
+20390,0,false,Battlemage Armor
+20391,0,false,Battlemage Leggings
+20392,0,false,Battlemage Boots
+20402,0,false,Blue Chalk
+20403,0,false,Lesser Focus
+20404,0,false,Standard Focus
+20405,0,false,Greater Focus
+20406,0,false,Mana Focus
+20407,0,false,Charge Focus
+20409,0,false,Affinity Tome: NONE
+20409,1,false,Affinity Tome: ARCANE
+20409,2,false,Affinity Tome: WATER
+20409,3,false,Affinity Tome: FIRE
+20409,4,false,Affinity Tome: EARTH
+20409,5,false,Affinity Tome: AIR
+20409,6,false,Affinity Tome: LIGHTNING
+20409,7,false,Affinity Tome: ICE
+20409,8,false,Affinity Tome: NATURE
+20409,9,false,Affinity Tome: LIFE
+20409,10,false,Affinity Tome: ENDER
+20421,0,false,item.arsmagica2:mana_scepter.name
+20422,0,false,Keystone
+20423,0,false,Purple Chalk
+20424,0,false,Red Chalk
+20425,0,false,Player Focus
+20426,0,false,Monster Focus
+20427,0,false,Item Focus
+20428,0,false,Creature Focus
+20429,0,false,White Chalk
+20433,0,false,Bound Hoe
+20436,0,false,Bound Axe
+20439,0,false,Bound Pickaxe
+20442,0,false,Bound Shovel
+20445,0,false,Bound Sword
+20447,0,false,Mana Cake
+20448,0,false,Novice Spell Staff
+20449,0,false,Journeyman Spell Staff
+20450,0,false,Master Spell Staff
+20451,0,false,Lesser Mana Potion
+20452,0,false,Standard Mana Potion
+20453,0,false,Greater Mana Potion
+20454,0,false,Epic Mana Potion
+20455,0,false,Legendary Mana Potion
+20459,0,false,Deficit Crystal
+20460,0,false,Essence Bag
+20461,0,false,Crystal Wrench
+20462,0,false,Spawn Mana Creeper
+20462,1,false,Spawn Dryad
+20462,2,false,Spawn Hecate
+20462,3,false,Spawn Mage Villager
+20462,4,false,Spawn Mana Elemental
+20462,5,false,Spawn Water Elemental
+20462,6,false,Spawn Light Mage
+20462,7,false,Spawn Dark Mage
+20462,8,false,Spawn Hell Cow
+20462,9,false,Spawn Earth Elemental
+20462,10,false,Spawn Fire Elemental
+20462,11,false,Spawn Nature Guardian
+20462,12,false,Spawn Arcane Guardian
+20462,13,false,Spawn Earth Guardian
+20462,14,false,Spawn Water Guardian
+20462,15,false,Spawn Winter Guardian
+20462,16,false,Spawn Air Guardian
+20462,17,false,Spawn Fire Guardian
+20463,0,false,Arcane Compendium
+20464,0,false,Baconator
+20465,0,false,Wakebloom
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,3,true,Crystal Phylactery
+20466,0,false,Crystal Phylactery
+20467,0,false,Bucket of Liquid Essence
+20468,0,false,Scythe of the Nature Guardian
+20469,0,false,Magitech's Staff
+20470,0,false,Infused Essence Potion
+20471,0,false,Evil-Looking Book
+20472,0,false,Wooden Leg
+20473,0,true,Hell Cow's Horn
+20506,3,false,Lesser Mana Potion Bundle
+20506,259,false,Standard Mana Potion Bundle
+20506,515,false,Greater Mana Potion Bundle
+20506,771,false,Epic Mana Potion Bundle
+20506,1027,false,Legendary Mana Potion Bundle
+20906,0,false,Quantum Entangler
+20907,100,true,Capacitor Cell
+20907,0,true,Capacitor Cell
+20908,0,false,Electrostatic Linker
+20909,0,false,Infinite Capacitor Cell
+20910,0,false,Copper Wire
+20910,1,false,Tin Wire
+20910,2,false,Iron Wire
+20910,3,false,Aluminum Wire
+20910,4,false,Silver Wire
+20910,5,false,Superconductor Wire
 21256,0,false,Health Syringe
 21257,0,false,Growth Syringe
 21258,0,false,Raw Rubber
@@ -10635,7 +11096,7 @@ Item ID,Item meta,Has NBT,Display Name
 21299,0,false,Needlegun Ammo (Anvil)
 21300,0,false,Plastic Cup
 21301,0,false,SPAMR Launcher
-21302,0,false,Self-Propelled Anti Materiel Rocket
+21302,0,false,Self-Propelled Anti Material Rocket
 21443,0,false,Precision Sledgehammer
 21448,0,false,Industrial Fertilizer
 21449,0,false,Plastic Sheets
@@ -10803,160 +11264,6 @@ Item ID,Item meta,Has NBT,Display Name
 23278,0,false,Neptunium Legs
 23279,0,false,Neptunium Boots
 23281,0,false,Admin Fishing Rod
-23296,0,false,Clay Bowl
-23296,1,false,Clay Plate
-23296,2,false,Clay Cup
-23296,3,false,Ceramic Bowl
-23296,4,false,Ceramic Plate
-23296,5,false,Ceramic Cup
-23296,6,false,Oven Rack
-23297,1,false,Candied Apple
-23297,2,false,French Fries
-23297,3,false,Cup of Water
-23297,4,false,Cup of Milk
-23297,5,false,Hot Cocoa
-23297,6,false,Vinegar
-23297,7,false,Beer
-23297,8,false,Raw Hamburger Patty
-23297,9,false,Apple Jelly Toast
-23297,10,false,Cinnamon Toast
-23297,11,false,Strawberry Jelly Toast
-23297,12,false,Caramel Apple with Nuts
-23297,13,false,Apple Jelly
-23297,14,false,Mashed Potatos
-23297,15,false,Carrot Cake Batter
-23297,16,false,Raw French Toast
-23297,17,false,Batter
-23297,18,false,Macaroni and Cheese
-23297,19,false,Strawberry Jelly
-23297,20,false,Raw Apple Pie
-23297,21,false,Raw Strawberry Pie
-23297,22,false,Strawberry Shortcake
-23297,23,false,Hamburger
-23297,24,false,PB&J Sandwich (Apple)
-23297,25,false,PB&J Sandwich (Strawberry)
-23297,26,false,Cheese Sandwich
-23297,27,false,Buttered Toast
-23297,28,false,Bacon Cheese Fries
-23297,29,false,Bacon Cheeseburger
-23297,30,false,Peanut Butter
-23297,31,false,Chocolate
-23297,32,false,Cheese
-23297,33,false,Butter
-23297,34,false,Whipped Cream
-23297,35,false,Dough
-23297,36,false,Apple Gelatin
-23297,37,false,Strawberry Gelatin
-23297,38,false,Marshmellows
-23297,39,false,Pasta Dough
-23297,40,false,Cheese Fries
-23297,41,false,Raw Chicken Nuggets
-23297,42,false,Cheeseburger
-23297,43,false,Deluxe Hot Cocoa
-23297,44,false,Salted Beef
-23297,45,false,Breaded Chicken
-23297,46,false,Salted Pork
-23297,47,false,Caramel Apple
-23297,48,false,Chocolate-Covered Strawberries
-23297,49,false,Cinnamon and Sugar
-23297,50,false,Slice of Cheese
-23297,51,false,Slice of Bread
-23297,52,false,Fried Chicken
-23297,53,false,Chicken Nuggets
-23297,54,false,Shortcake
-23297,55,false,Carrot Cake (Burned)
-23297,56,false,Grilled Cheese
-23297,57,false,Loaf of Bread
-23297,58,false,Pasta
-23297,59,false,Toasted PB&J Sandwich (Apple)
-23297,60,false,Toasted PB&J Sandwich (Strawberry)
-23297,61,false,Roasted Peanuts
-23297,62,false,Apple Pie
-23297,63,false,French Toast
-23297,64,false,Hamburger Patty
-23297,65,false,Strawberry Pie
-23297,66,false,Beef Jerkey
-23297,67,false,Bacon
-23297,68,false,Toast
-23297,69,false,Caramel
-23297,70,false,Apple Mush
-23297,71,false,Gelatin
-23297,72,false,Bread Crumbs
-23297,73,false,Ground Beef
-23297,74,false,Ground Chicken
-23297,75,false,Ground Pork
-23297,76,false,Crushed Peanuts
-23297,77,false,Strawberry Mush
-23297,78,false,Flour
-23297,79,false,Cooking Oil
-23297,80,false,item.null.agricultureStrawberry.name
-23297,81,false,Salt
-23297,82,false,Cinnamon
-23297,83,false,Ground Cinnamon
-23297,84,false,Peanuts
-23297,85,false,Apple Cinnamon Cookie Dough
-23297,86,false,Bowl of Raw Pasta
-23297,87,false,Butter Cookie Dough
-23297,88,false,Cheesy Bacon Potatoes
-23297,89,false,Cheesy Potatoes
-23297,90,false,Chocolate Chip Cookie Dough
-23297,91,false,Chocolate Ice Cream (Chocolate Sauce)
-23297,92,false,Chocolate Ice Cream Mix
-23297,93,false,Diced Potatoes
-23297,94,false,Double Bacon Cheeseburger
-23297,95,false,Ice Cream Mix
-23297,96,false,PB Sandwich
-23297,97,false,Peanut Butter Cooke Dough
-23297,98,false,Pumpkin Cookie Dough
-23297,99,false,Snickerdoodle Dough
-23297,100,false,Strawberry Ice Cream (Chocolate Sauce)
-23297,101,false,Strawberry Ice Cream Mix
-23297,102,false,Strawberry Jelly Cookie Dough
-23297,103,false,Sugar Cookie Dough
-23297,104,false,Vanilla Ice Cream (Chocolate Sauce)
-23297,105,false,Vanilla Ice Cream Mix
-23297,106,false,Chocolate Ice Cream
-23297,107,false,Strawberry Ice Cream
-23297,108,false,Vanilla Ice Cream
-23297,109,false,Apple Cinnamon Cookie
-23297,110,false,Butter Cookie
-23297,111,false,Chocolate Chip Cookie
-23297,112,false,Chocolate Sauce
-23297,113,false,Peanut Butter Cookie
-23297,114,false,Pumpkin Cookie
-23297,115,false,Roasted Marshmellows
-23297,116,false,Snickerdoodle
-23297,117,false,Strawberry Jelly Cookie
-23297,118,false,Sugar Cookie
-23297,119,false,Toasted PB Sandwich
-23297,120,false,Vanilla
-23297,121,false,Apple Cinnamon Cooke (Burned)
-23297,122,false,Apple Pie (Burned)
-23297,123,false,Bacon (Burned)
-23297,124,false,Beef Jerkey (Burned)
-23297,125,false,Butter Cookie (Burned)
-23297,126,false,Caramel (Burned)
-23297,127,false,item.null.agricultureCarrotCakeBurned.name
-23297,128,false,Chocolate Chip Cookie (Burned)
-23297,129,false,Chocolate Sauce (Burned)
-23297,130,false,French Toast (Burned)
-23297,131,false,Grilled Cheese (Burned)
-23297,132,false,Hambuerger Patty (Burned)
-23297,133,false,Loaf of Bread (Burned)
-23297,134,false,Pasta (Burned)
-23297,135,false,Peanut Butter Cookie (Burned)
-23297,136,false,Pumpkin Cookie (Burned)
-23297,137,false,Roasted Marshmellows (Burned)
-23297,138,false,Roasted Peanuts (Burned)
-23297,139,false,Shortcake (Burned)
-23297,140,false,Snickerdoodle (Burned)
-23297,141,false,Strawberry Jelly Cookie (Burned)
-23297,142,false,Strawberry Pie (Burned)
-23297,143,false,Sugar Cookie (Burned)
-23297,144,false,Toast (Burned)
-23297,145,false,Toasted PB&J Sandwich (Apple) (Burned)
-23297,146,false,Toasted PB&J Sabdwich (Strawberry) (Burned)
-23297,147,false,Toasted PB Sandwich (Burned)
 23792,0,false,Flint and Steel
 23793,0,false,Upgrade Card
 23794,0,false,Network Card
@@ -15272,6 +15579,8 @@ Item ID,Item meta,Has NBT,Display Name
 29999,0,false,Modular cart
 30032,0,true,Crystal Memory
 30033,0,false,Silicon dioxide
+30033,1,false,Diamond Dust
+30033,2,false,Energium Dust
 30034,1,true,Energypack
 30034,27,false,Energypack
 30035,1,true,Adv.Batpack
@@ -15418,12 +15727,12 @@ Item ID,Item meta,Has NBT,Display Name
 30117,0,false,Tool Box
 30118,0,false,TFBP - Mushroom
 30119,1,true,Electric Hoe
-30119,27,false,Electric Hoe
+30119,26,true,Electric Hoe
 30120,0,false,Hydration Cell
 30121,0,false,Fertilizer
 30122,0,false,Cropnalyzer
 30124,1,true,Electric Treetap
-30124,27,false,Electric Treetap
+30124,26,true,Electric Treetap
 30125,0,false,Overclocker Upgrade
 30125,1,false,Transformer Upgrade
 30125,2,false,Energy Storage Upgrade
@@ -15471,7 +15780,7 @@ Item ID,Item meta,Has NBT,Display Name
 30146,0,false,TFBP - Empty
 30147,0,false,Iridium Reinforced Plate
 30149,1,true,Nano Saber
-30149,27,false,Nano Saber
+30149,26,true,Nano Saber
 30150,0,false,Carbon Plate
 30151,0,false,Raw Carbon Mesh
 30152,0,false,Raw Carbon Fibre
@@ -15548,7 +15857,7 @@ Item ID,Item meta,Has NBT,Display Name
 30206,0,false,10k Coolant Cell
 30207,0,false,Fuel Rod (Uranium)
 30208,1,true,Mining Laser
-30208,27,true,Mining Laser
+30208,26,true,Mining Laser
 30209,1,true,Electric Jetpack
 30209,27,false,Electric Jetpack
 30210,1,false,Jetpack
@@ -15571,11 +15880,11 @@ Item ID,Item meta,Has NBT,Display Name
 30231,0,false,(Empty) Fuel Can
 30232,0,false,Filled Fuel Can
 30233,1,true,Chainsaw
-30233,27,false,Chainsaw
+30233,26,true,Chainsaw
 30234,1,true,Diamond Drill
-30234,27,false,Diamond Drill
+30234,26,true,Diamond Drill
 30235,1,true,Mining Drill
-30235,27,false,Mining Drill
+30235,26,true,Mining Drill
 30237,0,false,Empty Cell
 30237,1,false,Water Cell
 30237,2,false,Lava Cell
@@ -15595,6 +15904,8 @@ Item ID,Item meta,Has NBT,Display Name
 30241,27,false,Energy Crystal
 30242,1,true,RE-Battery
 30243,0,false,Enriched Uranium Nuclear Fuel
+30244,1,true,Iridium Drill
+30244,26,true,Iridium Drill
 30786,0,false,Lapis Plate
 30787,0,false,Infernal Reactor Vent
 30788,0,false,QZH-Condensator
