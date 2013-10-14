@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.2.0a-BETA</version>
+    <version>2.2.0b-BETA</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -39,6 +39,10 @@
     <mod url="packs/ResonantRise/files/advanced-machines-57.0.0.jar" file="advanced-machines-57.0.0.jar" md5="2f1c43560a26e53c4734d5d1492f45c0" download="server"
          name="Immibis' Advanced Machines"  type="mods"
          version="57.0.0" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="" />
+	<mod url="packs/ResonantRise/files/_1.6.2__Agriculture_-_1.0.6.jar" file="_1.6.2__Agriculture_-_1.0.6.jar" md5="525c8cbfbf0a438469a7446a5af3b80b" download="server"
+        name="Agriculture" type="mods" version="1.0.6"
+        website="http://www.minecraftforum.net/topic/1961353-162-agriculture-modjam-2-winner/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Shadowclaimer2%40gmail%2ecom&amp;lc=US&amp;litem_name=Metallurgy%20Software%EF%BF%BDcy_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
+        description="" />
 	<mod url="packs/ResonantRise/files/Aquaculture_1.2.4.zip" file="Aquaculture_1.2.4.zip" md5="799b10909d91b0c0f5a0bcf7c7ea9799" download="server"
         name="Aquaculture" type="mods" version="1.2.4"
         website="http://www.minecraftforum.net/topic/1285120-162smpforge-aquaculture/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Shadowclaimer2%40gmail%2ecom&amp;lc=US&amp;litem_name=Metallurgy%20Software%EF%BF%BDcy_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
@@ -125,8 +129,8 @@
 	<mod url="packs/ResonantRise/files/ChickenChunks%201.3.3.3.jar" file="ChickenChunks 1.3.3.3.jar" md5="86000b679bbe478e810357875dc9a475" download="server"
       name="ChickenChunks" type="mods" 
       version="1.3.3.2" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="" />
-    <mod url="packs/ResonantRise/files/Chisel_1.4.8_for_MC_1.6.4.zip" file="Chisel_1.4.8_for_MC_1.6.4.zip" md5="8aa5bd667fa1bd53d816e941cc4d211d" download="server"
-        name="Chisel" type="mods" version="1.4.8fix2"
+    <mod url="packs/ResonantRise/files/chisel-1.6.4-1.4.9.jar" file="chisel-1.6.4-1.4.9.jar" md5="6a603a83b48ec2241779041eb8f0f2fa" download="server"
+        name="Chisel" type="mods" version="1.4.9"
         website="http://www.minecraftforum.net/topic/1749374-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=NS64FL5ZXYG3N&amp;lc=RU&amp;item_name=I%20write%20mods%20for%20minecraft&amp;item_number=minecraft&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
         description="" />
 	<mod url="packs/ResonantRise/files/ComputerCraft1.56.zip" file="ComputerCraft1.56.zip" md5="41816e7685345e3b29aea7f0abac8610" download="server"
@@ -436,7 +440,7 @@
          file="GravityGun2.0.0.zip" download="browser" name="GravityGun" type="mods" version="2.0.0" website="http://ichun.us/mods/gravity-gun/" donation="http://pitchinbox.com/redirect.php?id=9657538021" description="" 
          depends="iChunUtil"/>
 	<mod url="http://adf.ly/1311628/thaumcraft-4" 
-         file="Thaumcraft4.0.1b.zip" download="browser" name="Thaumcraft 4" optional="yes" type="mods" version="4.0.1b" website="http://tinyurl.com/kg3t8dv" donation="http://tinyurl.com/nfptdtz" description="The Ur Magic Mod for Minecraft!" 
+         file="Thaumcraft4.0.2.zip" download="browser" name="Thaumcraft 4" optional="yes" type="mods" version="4.0.2" website="http://tinyurl.com/kg3t8dv" donation="http://tinyurl.com/nfptdtz" description="The Ur Magic Mod for Minecraft!" 
          />
 	<mod url="http://adf.ly/WsDke" 
          file="ThaumicTinkerer 2.0-20.jar" download="browser" depends="Thaumcraft 4" optional="yes" name="Thaumic Tinkerer" type="mods" version="2.0-20" website="http://tinyurl.com/qz5wzps" description="" 
