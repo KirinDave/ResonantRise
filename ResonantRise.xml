@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.2.0b-BETA</version>
+    <version>2.2.0c-BETA</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -440,10 +440,10 @@
          file="GravityGun2.0.0.zip" download="browser" name="GravityGun" type="mods" version="2.0.0" website="http://ichun.us/mods/gravity-gun/" donation="http://pitchinbox.com/redirect.php?id=9657538021" description="" 
          depends="iChunUtil"/>
 	<mod url="http://adf.ly/1311628/thaumcraft-4" 
-         file="Thaumcraft4.0.2.zip" download="browser" name="Thaumcraft 4" optional="yes" type="mods" version="4.0.2" website="http://tinyurl.com/kg3t8dv" donation="http://tinyurl.com/nfptdtz" description="The Ur Magic Mod for Minecraft!" 
+         file="Thaumcraft4.0.2a.zip" download="browser" name="Thaumcraft 4" optional="yes" type="mods" version="4.0.2a" website="http://tinyurl.com/kg3t8dv" donation="http://tinyurl.com/nfptdtz" description="The Ur Magic Mod for Minecraft!" 
          />
 	<mod url="http://adf.ly/WsDke" 
-         file="ThaumicTinkerer 2.0-20.jar" download="browser" depends="Thaumcraft 4" optional="yes" name="Thaumic Tinkerer" type="mods" version="2.0-20" website="http://tinyurl.com/qz5wzps" description="" 
+         file="ThaumicTinkerer 2.0-21.jar" download="browser" depends="Thaumcraft 4" optional="yes" name="Thaumic Tinkerer" type="mods" version="2.0-21" website="http://tinyurl.com/qz5wzps" description="" 
          />
 
 
