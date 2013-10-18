@@ -208,7 +208,7 @@
         name="GasCraft" type="mods" version="2.0.1.1"
         website="http://emashersmods.wikispaces.com/Downloads"
         description="Flutey Toot." />
-    <modurl="packs/ResonantRise/files/2.2/HexWool-0.2.2-mc1.6.2.jar" file="HexWool-0.2.2-mc1.6.2.jar" md5="c75adfcb6fdd8723cbae7c91cd928edb" download="server"
+    <mod url="packs/ResonantRise/files/2.2/HexWool-0.2.2-mc1.6.2.jar" file="HexWool-0.2.2-mc1.6.2.jar" md5="c75adfcb6fdd8723cbae7c91cd928edb" download="server"
         name="HexWool" type="mods" version="0.2.2"
         website="https://github.com/Techjar/HexWool"
         description="Glorious CYMK wool!" />
