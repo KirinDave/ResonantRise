@@ -94,6 +94,7 @@ block {
     I:"Speed Slab"=3231
     I:"Spruce Barricade"=1482
     I:"Stained Glass"=3224
+    I:"Stone Ladder"=1479
     I:"Stone Torch"=1484
     I:"Tool Forge"=1468
     I:"Wood Tool Station"=1471

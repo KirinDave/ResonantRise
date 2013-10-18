@@ -81,6 +81,7 @@ Ocean Oil Field
 Tainted Land
 Magical Forest
 Eerie
+Snowy Dead Forest
 Alps
 Arctic
 Badlands
@@ -176,6 +177,7 @@ life essence
 molten.meutoite
 molten.oureclase
 fluid.emerald.liquid
+cider
 mushroomsoup
 fluid.nickel.molten
 milk
@@ -191,6 +193,7 @@ fluid.cobalt.molten
 molten.angmallen
 molten redstone
 molten.tartarite
+vodka
 molten.prometheum
 sap
 fluxgoo
@@ -207,6 +210,7 @@ gascraft_hydrogen
 liquidnitrogen
 molten.lemurite
 uraniumhexafluoride
+gascraft_corrosivegas
 oil
 immibis.liquidxp
 fluid.electrum.molten
@@ -214,9 +218,11 @@ gascraft_naturalgas
 fortron
 molten.inolashite
 deuterium
+hotcocoa
 water
 molten.shadow.steel
 ic2coolant
+cookingoil
 molten.deep.iron
 turpentine
 molten.hepatizon
@@ -232,6 +238,7 @@ creosote
 sludge
 molten conductive redmetal
 fluid.aluminumbrass.molten
+beer
 molten.vulcanite
 resin
 molten.carmot
@@ -241,9 +248,9 @@ molten.ignatius
 molten.alduorite
 fluid.obsidian.molten
 liquidessence
+molten.astral.silver
 fluid.copper.molten
 molten.ceruclase
-molten.astral.silver
 bioethanol
 poison
 molten.zinc
@@ -269,8 +276,8 @@ meat
 glass
 fuel
 toxicwaste
-liquiddna
 molten.atlarus
+liquiddna
 molten.shadow.iron
 fluid.tin.molten
 liquidforce
@@ -285,6 +292,7 @@ fluid.ender
 fluid.invar.molten
 lava
 gascraft_propellent
+vinegar
 fluid.aluminum.molten
 pinkslime
 fluid.platinum.molten
@@ -372,8 +380,8 @@ coinCopper
 plateRefinedIron
 componentControlCircuit
 dustTinySilver
-cropGrapefruit
 listAllfishcooked
+cropGrapefruit
 fuelCoke
 ingotBrass
 oreGalena
@@ -424,13 +432,15 @@ slimeRod
 oreCobalt
 silverWire
 blockAlumite
+mushroomBluemilk
 componentServo
-hambone
 coinSilver
+hambone
 itemBacon
 dustZinc
 projredBundledCable
 stoneCobble
+mushroomToadstool
 plateLapis
 oreAdamantine
 cropStingberry
@@ -441,6 +451,7 @@ oreNaturalAluminum
 nuggetInvar
 cropKumquat
 ingotCelenegil
+dirtDried
 oreInvar
 dustCharcoal
 plateBronze
@@ -497,8 +508,10 @@ oreAtlarus
 nuggetMeat
 gemEmerald
 ingotAluminum
+logWillow
 gemTanzanite
 projredPart
+mushroomGlowshroom
 dustCobalt
 ingotHaderoth
 nuggetNaturalAluminum
@@ -566,9 +579,11 @@ dustMeutoite
 dustLemurite
 gemSapphire
 blockTartarite
+orePeridot
 orePrometheum
 dustImpureNickel
 cropPlum
+plantAlgae
 ingotLemurite
 itemMotor
 calclavia:BATTERY
@@ -585,6 +600,7 @@ blockLead
 glassMagenta
 glassPink
 gearTin
+blockMud
 dustKalendrite
 cellEmpty
 gemRuby
@@ -636,6 +652,7 @@ itemFertilizer
 componentLVCapacitor
 dustTinyIron
 nuggetCobalt
+grassSmoldering
 craftingTableWood
 cropBlackCherry
 plateIron
@@ -652,6 +669,7 @@ ingotEximite
 cropWildCherry
 componentWiring
 dustEnderPearl
+leavesMagic
 dyeGray
 ingotManganese
 ingotRubracium
@@ -681,11 +699,12 @@ dropUranium
 dustInvar
 coinGold
 dustQuartz
+blockAsh
 ingotInvar
 ingotDeep Iron
+stoneRed
 dyePink
 blockCarmot
-ingotAluminium
 blockCeruclase
 cropPecan
 oreGold
@@ -725,6 +744,7 @@ dustQuicklime
 crystallineNaturalAluminum
 dustNaturalAluminum
 componentPlatingAdvanced
+flowerDaffodil
 dustHaderoth
 blockManyullyn
 boneRod
@@ -739,6 +759,7 @@ ingotArdite
 ingotTin
 componentCarbonMyofiber
 oreCarmot
+oreTanzanite
 shardApatite
 cropDuskberry
 crystallineGold
@@ -749,6 +770,7 @@ blockOrichalcum
 dustCeruclase
 groundTin
 ingotPrometheum
+plantSprout
 dustOsmium
 batteryBox
 cropClove
@@ -758,14 +780,15 @@ cropNectarine
 ingotHepatizon
 copperWire
 blockInolashite
-blockAluminumBrass
-woodLog
 oreNetherTin
+woodLog
+blockAluminumBrass
 cropLemon
 oreNickel
 nuggetNickel
 itemIngotCopper
 crystallineIron
+oreTopaz
 thaumiumRod
 dustDesichalkos
 dyeLightGray
@@ -792,8 +815,8 @@ dustEximite
 orePlatinum
 calclavia:WRENCH
 ingotOrichalcum
-dropHoney
 coinPlatinum
+dropHoney
 ingotAdamantine
 dustPhosphorus
 dustAlumite
@@ -808,6 +831,7 @@ blockVyroxeres
 projredIllumar
 blockTin
 oreVyroxeres
+logMagic
 componentMyofiberGel
 dyeLime
 aluminumWire
@@ -840,7 +864,6 @@ cableRedNet
 nuggetArdite
 cropManderin
 cropPumpkin
-oreAluminium
 dustAlduorite
 itemDustBronze
 blockKalendrite
@@ -851,6 +874,7 @@ circuitBasic
 blockBronze
 plateDenseLead
 ingotNaturalAluminum
+flowerRainbow
 antimatterGram
 sheetPlastic
 dustTitanium
@@ -885,7 +909,6 @@ oreNetherSteel
 plateCopper
 cobblestone
 dustRubracium
-blockAluminium
 crystallineArdite
 dustImpureAluminum
 oreMeutoite
@@ -895,17 +918,18 @@ blockDamascus Steel
 projredInsulatedWire
 blockInvar
 nuggetAlumite
+blockCrystal
 blockShadow Iron
 dustLead
 oreUranium
 itemDropUranium
 dropRoyalJelly
 oreRedstone
-dustClay
 oreOsmium
+dustClay
 dustPlatinum
-cropBanana
 oreCopper
+cropBanana
 ingotGold
 dustLapis
 stoneSmooth
@@ -919,6 +943,7 @@ oreSilver
 diamondNugget
 cobaltRod
 orePhosphorite
+flowerDeathbloom
 componentHVCapacitor
 glass
 Diamond

@@ -97,55 +97,6 @@ Item ID,Item meta,Has NBT,Display Name
 49,0,false,Obsidian
 50,0,false,Torch
 51,0,false,Fire
-52,90,false,Monster Spawner
-52,3,false,Monster Spawner
-52,4,false,Monster Spawner
-52,5,false,Monster Spawner
-52,6,false,Monster Spawner
-52,7,false,Monster Spawner
-52,23,false,Monster Spawner
-52,24,false,Monster Spawner
-52,25,false,Monster Spawner
-52,26,false,Monster Spawner
-52,27,false,Monster Spawner
-52,28,false,Monster Spawner
-52,29,false,Monster Spawner
-52,30,false,Monster Spawner
-52,31,false,Monster Spawner
-52,32,false,Monster Spawner
-52,33,false,Monster Spawner
-52,34,false,Monster Spawner
-52,35,false,Monster Spawner
-52,36,false,Monster Spawner
-52,38,false,Monster Spawner
-52,39,false,Monster Spawner
-52,50,false,Monster Spawner
-52,51,false,Monster Spawner
-52,52,false,Monster Spawner
-52,53,false,Monster Spawner
-52,54,false,Monster Spawner
-52,55,false,Monster Spawner
-52,56,false,Monster Spawner
-52,57,false,Monster Spawner
-52,58,false,Monster Spawner
-52,59,false,Monster Spawner
-52,60,false,Monster Spawner
-52,61,false,Monster Spawner
-52,62,false,Monster Spawner
-52,64,false,Monster Spawner
-52,65,false,Monster Spawner
-52,66,false,Monster Spawner
-52,91,false,Monster Spawner
-52,92,false,Monster Spawner
-52,93,false,Monster Spawner
-52,94,false,Monster Spawner
-52,95,false,Monster Spawner
-52,96,false,Monster Spawner
-52,97,false,Monster Spawner
-52,98,false,Monster Spawner
-52,99,false,Monster Spawner
-52,100,false,Monster Spawner
-52,120,false,Monster Spawner
 53,0,false,Oak Wood Stairs
 54,0,false,Chest
 56,0,false,Diamond Ore
@@ -1303,6 +1254,7 @@ Item ID,Item meta,Has NBT,Display Name
 903,11,false,ME P2P Tunnel
 903,12,false,Spatial IO Port
 904,0,false,Tiny TNT
+909,0,false,walrus
 910,0,false,Soldering Station
 911,0,false,ME Item Dropper
 912,0,false,ME BackUp Battery
@@ -1835,15 +1787,15 @@ Item ID,Item meta,Has NBT,Display Name
 1396,0,true,Citrus Stairs
 1397,0,false,Humus
 1397,1,false,Bog Earth
-1398,0,false,Apatite Ore
-1398,1,false,Copper Ore
-1398,2,false,Tin Ore
-1399,1,false,Forest Hive
-1399,2,false,Meadows Hive
-1399,3,false,Desert Hive
-1399,4,false,Jungle Hive
-1399,6,false,Snow Hive
-1399,7,false,Swamp Hive
+1398,0,false,tile.resources.0
+1398,1,false,tile.resources.1
+1398,2,false,tile.resources.2
+1399,1,false,tile.beehives.1
+1399,2,false,tile.beehives.2
+1399,3,false,tile.beehives.3
+1399,4,false,tile.beehives.4
+1399,6,false,tile.beehives.6
+1399,7,false,tile.beehives.7
 1404,0,false,Electrical Engine
 1404,1,false,Peat-fired Engine
 1404,2,false,Biogas Engine
@@ -2396,6 +2348,7 @@ Item ID,Item meta,Has NBT,Display Name
 1478,8,false,Block of Alumite
 1478,9,false,Block of Steel
 1478,10,false,Block of Solid Ender
+1479,0,false,Ladder
 1481,0,false,Obsidian Brick
 1481,1,false,Sandstone Brick
 1481,2,false,Netherrack Brick
@@ -2480,6 +2433,7 @@ Item ID,Item meta,Has NBT,Display Name
 1604,0,false,Blood Rune
 1605,0,false,Speed Rune
 1606,0,false,Efficiency Rune
+1607,0,false,Life Essence
 1608,0,false,Rune of Sacrifice
 1609,0,false,Rune of Self-sacrifice
 1610,0,false,Ritual Stone
@@ -2925,6 +2879,7 @@ Item ID,Item meta,Has NBT,Display Name
 1938,3,false,Redwood Sapling
 1938,4,false,Willow Sapling
 1938,5,false,Pine Sapling
+1938,6,false,Sacred Oak Sapling
 1939,0,false,Red Rock Cobblestone Stairs
 1940,0,false,Red Rock Bricks Stairs
 1941,0,false,Promised Land Portal
@@ -3319,8 +3274,17 @@ Item ID,Item meta,Has NBT,Display Name
 2185,0,false,Trophy Pedestal
 2185,15,false,Latent Trophy Pedestal
 2186,0,false,Aurora Block
+2240,0,false,Oak Seat
+2240,1,false,Spruce Seat
+2240,2,false,Birch Seat
+2240,3,false,Jungle Seat
+2241,0,false,Oak Map Frame
+2241,1,false,Spruce Map Frame
+2241,2,false,Birch Map Frame
+2241,3,false,Jungle Map Frame
 2242,0,false,Cookie Jar
-2242,1,false,Marker
+2242,2,false,Dinner Plate
+2242,3,false,Disc Rack
 2243,0,false,Golden Lantern
 2243,1,false,Golden Lantern
 2243,2,false,Golden Lantern
@@ -3612,7 +3576,7 @@ Item ID,Item meta,Has NBT,Display Name
 2332,15,false,Papaya Bookcase
 2333,0,false,Pine Bookcase
 2333,1,false,Plum Bookcase
-2333,2,false,Popular Bookcase
+2333,2,false,Poplar Bookcase
 2333,3,false,Sequoia Bookcase
 2333,4,false,Teak Bookcase
 2333,5,false,Walnut Bookcase
@@ -3636,7 +3600,7 @@ Item ID,Item meta,Has NBT,Display Name
 2334,15,false,Papaya Desk
 2335,0,false,Pine Desk
 2335,1,false,Plum Desk
-2335,2,false,Popular Desk
+2335,2,false,Poplar Desk
 2335,3,false,Sequoia Desk
 2335,4,false,Teak Desk
 2335,5,false,Walnut Desk
@@ -3714,10 +3678,10 @@ Item ID,Item meta,Has NBT,Display Name
 2340,5,false,Plum Case
 2340,6,false,Plum Case
 2340,7,false,Plum Case
-2340,8,false,Popular Case
-2340,9,false,Popular Case
-2340,10,false,Popular Case
-2340,11,false,Popular Case
+2340,8,false,Poplar Case
+2340,9,false,Poplar Case
+2340,10,false,Poplar Case
+2340,11,false,Poplar Case
 2340,12,false,Sequoia Case
 2340,13,false,Sequoia Case
 2340,14,false,Sequoia Case
@@ -3756,7 +3720,7 @@ Item ID,Item meta,Has NBT,Display Name
 2342,15,false,Papaya Potion Shelf
 2343,0,false,Pine Potion Shelf
 2343,1,false,Plum Potion Shelf
-2343,2,false,Popular Potion Shelf
+2343,2,false,Poplar Potion Shelf
 2343,3,false,Sequoia Potion Shelf
 2343,4,false,Teak Potion Shelf
 2343,5,false,Walnut Potion Shelf
@@ -3780,7 +3744,7 @@ Item ID,Item meta,Has NBT,Display Name
 2344,15,false,Papaya Shelf
 2345,0,false,Pine Shelf
 2345,1,false,Plum Shelf
-2345,2,false,Popular Shelf
+2345,2,false,Poplar Shelf
 2345,3,false,Sequoia Shelf
 2345,4,false,Teak Shelf
 2345,5,false,Walnut Shelf
@@ -3804,7 +3768,7 @@ Item ID,Item meta,Has NBT,Display Name
 2346,15,false,Papaya Table
 2347,0,false,Pine Table
 2347,1,false,Plum Table
-2347,2,false,Popular Table
+2347,2,false,Poplar Table
 2347,3,false,Sequoia Table
 2347,4,false,Teak Table
 2347,5,false,Walnut Table
@@ -3828,7 +3792,7 @@ Item ID,Item meta,Has NBT,Display Name
 2348,15,false,Papaya Tool Rack
 2349,0,false,Pine Tool Rack
 2349,1,false,Plum Tool Rack
-2349,2,false,Popular Tool Rack
+2349,2,false,Poplar Tool Rack
 2349,3,false,Sequoia Tool Rack
 2349,4,false,Teak Tool Rack
 2349,5,false,Walnut Tool Rack
@@ -3852,7 +3816,7 @@ Item ID,Item meta,Has NBT,Display Name
 2350,15,false,Papaya Label
 2351,0,false,Pine Label
 2351,1,false,Plum Label
-2351,2,false,Popular Label
+2351,2,false,Poplar Label
 2351,3,false,Sequoia Label
 2351,4,false,Teak Label
 2351,5,false,Walnut Label
@@ -4001,6 +3965,104 @@ Item ID,Item meta,Has NBT,Display Name
 2362,10,false,Sakura Label
 2362,11,false,Tiger Label
 2362,12,false,Willow Label
+2363,0,false,Acacia Map Frame
+2363,1,false,Cherry Map Frame
+2363,3,false,Fir Map Frame
+2363,4,false,HellBark Map Frame
+2363,5,false,Holy Map Frame
+2363,6,false,Jacaranda Map Frame
+2363,7,false,Magic Map Frame
+2363,8,false,Mangrove Map Frame
+2363,9,false,Palm Map Frame
+2363,10,false,Pine Map Frame
+2363,11,false,Redwood Map Frame
+2363,12,false,Willow Map Frame
+2364,0,false,Acacia Seat
+2364,1,false,Cherry Seat
+2364,2,false,Dark Seat
+2364,3,false,Fir Seat
+2364,4,false,HellBark Seat
+2364,5,false,Holy Seat
+2364,6,false,Jacaranda Seat
+2364,7,false,Magic Seat
+2364,8,false,Mangrove Seat
+2364,9,false,Palm Seat
+2364,10,false,Pine Seat
+2364,11,false,Redwood Seat
+2364,12,false,Willow Seat
+2365,0,false,Acacia Map Frame
+2365,1,false,Balsa Map Frame
+2365,2,false,Baobab Map Frame
+2365,3,false,Cherry Map Frame
+2365,4,false,Chestnut Map Frame
+2365,5,false,Citrus Map Frame
+2365,6,false,Ebony Map Frame
+2365,7,false,Greenheart Map Frame
+2365,8,false,Kapok Map Frame
+2365,9,false,Larch Map Frame
+2365,10,false,Lime Map Frame
+2365,11,false,Mahoe Map Frame
+2365,12,false,Mahogany Map Frame
+2365,13,false,Maple Map Frame
+2365,14,false,Palm Map Frame
+2365,15,false,Papaya Map Frame
+2366,0,false,Pine Map Frame
+2366,1,false,Plum Map Frame
+2366,2,false,Poplar Map Frame
+2366,3,false,Sequoia Map Frame
+2366,4,false,Teak Map Frame
+2366,5,false,Walnut Map Frame
+2366,6,false,Wenge Map Frame
+2366,7,false,Willow Map Frame
+2367,0,false,Acacia Seat
+2367,1,false,Balsa Seat
+2367,2,false,Baobab Seat
+2367,3,false,Cherry Seat
+2367,4,false,Chestnut Seat
+2367,5,false,Citrus Seat
+2367,6,false,Ebony Seat
+2367,7,false,Greenheart Seat
+2367,8,false,Kapok Seat
+2367,9,false,Larch Seat
+2367,10,false,Lime Seat
+2367,11,false,Mahoe Seat
+2367,12,false,Mahogany Seat
+2367,13,false,Maple Seat
+2367,14,false,Palm Seat
+2367,15,false,Papaya Seat
+2368,0,false,Pine Seat
+2368,1,false,Plum Seat
+2368,2,false,Poplar Seat
+2368,3,false,Sequoia Seat
+2368,4,false,Teak Seat
+2368,5,false,Walnut Seat
+2368,6,false,WengeSeat
+2368,7,false,Willow Seat
+2370,0,false,Bloodwood Map Frame
+2370,1,false,Darkwood Map Frame
+2370,2,false,Eucalyptus Map Frame
+2370,3,false,Fusewood Map Frame
+2370,5,false,Hopseed Map Frame
+2370,6,false,Maple Map Frame
+2370,7,false,Purpleheart Map Frame
+2370,8,false,Redwood Map Frame
+2370,9,false,Silverbell Map Frame
+2370,10,false,Sakura Map Frame
+2370,11,false,Tiger Map Frame
+2370,12,false,Willow Map Frame
+2371,0,false,Bloodwood Seat
+2371,1,false,Darkwood Seat
+2371,2,false,Eucalyptus Seat
+2371,3,false,Fusewood Seat
+2371,4,false,Ghostwood Seat
+2371,5,false,Hopseed Seat
+2371,6,false,Maple Seat
+2371,7,false,Purpleheart Seat
+2371,8,false,Redwood Seat
+2371,9,false,Silverbell Seat
+2371,10,false,Sakura Seat
+2371,11,false,Tiger Seat
+2371,12,false,Willow Seat
 2401,0,false,Carpenter's Slope
 2402,0,false,Carpenter's Stairs
 2403,0,false,Carpenter's Barrier
@@ -4084,14 +4146,19 @@ Item ID,Item meta,Has NBT,Display Name
 2522,0,false,Magnum Torch
 2523,0,false,Edged Stone Bricks
 2523,1,false,Ender-infused Obsidian
-2523,2,false,Smoked Quartz
+2523,2,false,Burnt Quartz
 2523,3,false,Frosted Stone
 2523,4,false,Border Stone
 2523,5,false,Unstable Ingot Block
 2523,6,false,Gravel Bricks
+2523,7,false,Border Stone (Alternate)
+2523,8,false,Magical Wood
+2524,0,false,Filing Cabinet
+2524,1,false,Filing Cabinet (Advanced)
 2525,0,true,Drum
 2525,0,true,Water Drum
 2525,0,true,Lava Drum
+2526,0,false,Ender-Lily Seeds
 2540,0,false,Jaded Ladder
 2541,0,false,Building Guide
 2542,0,false,Elevator
@@ -4126,6 +4193,7 @@ Item ID,Item meta,Has NBT,Display Name
 2556,1,true,Magic Crayon
 2556,1,true,Magic Crayon
 2557,0,false,XP Bottler
+2558,0,false,Village Highlighter
 2600,0,false,Aura Node
 2601,0,false,Arcane Door
 2602,0,false,tile.blockArcaneFurnace.name
@@ -4176,6 +4244,7 @@ Item ID,Item meta,Has NBT,Display Name
 2609,1,false,Silverwood Sapling
 2609,2,false,Shimmerleaf
 2609,3,false,Cinderpearl
+2609,4,false,Ethereal Bloom
 2610,0,false,Flux Gas
 2611,0,false,Flux Goo
 2612,0,false,Empty Space
@@ -4210,6 +4279,8 @@ Item ID,Item meta,Has NBT,Display Name
 2623,2,false,Arcane Pressure Plate
 2623,4,false,Arcane Bore Base
 2623,5,false,Arcane Bore
+2623,6,false,Greatwood Planks
+2623,7,false,Silverwood Planks
 2650,0,false,Dynamism Tablet
 2651,0,false,Block of Smokey Quartz
 2651,1,false,Chiseled Smokey Quartz Block
@@ -4838,6 +4909,7 @@ Item ID,Item meta,Has NBT,Display Name
 2840,13,false,Large long jungle wood planks
 2840,14,false,Jungle wood planks in disarray
 2840,15,false,Vertical jungle wood planks in disarray
+2841,0,false,Red cracked block
 3000,0,false,Osmium Block
 3000,1,false,Bronze Block
 3000,2,false,Refined Obsidian
@@ -4963,6 +5035,7 @@ Item ID,Item meta,Has NBT,Display Name
 3166,1,false,Shale Oil
 3167,0,false,Smoke
 3168,0,false,Weaponized Gas
+3169,0,false,Corrosive Gas
 3171,0,false,Hemp Block
 3172,0,false,Machine Chasis
 3173,0,false,Bauxite Ore
@@ -5278,6 +5351,15 @@ Item ID,Item meta,Has NBT,Display Name
 3401,0,false,Multimeter
 3402,0,false,Electromagnetic Contractor
 3403,0,false,Modular Battery
+3500,0,false,Oven
+3501,0,false,Counter
+3502,0,false,Processor
+3503,0,false,Salt Ore
+3504,0,false,Cinnamon Plant
+3505,0,false,Brewer
+3506,0,false,Ice Box
+3507,0,false,Frier
+3508,0,false,Vanilla Plant
 3540,0,false,Colored Wool
 3541,0,false,Wool Colorizer
 3558,0,false,Super Crafting Frame
@@ -5484,11 +5566,17 @@ Item ID,Item meta,Has NBT,Display Name
 4427,92,false,Multi Smelter
 4427,93,false,Centrifuge
 4427,94,false,Mixer
+4427,95,false,Pressurizer
+4427,96,false,Range Selector
+4427,97,false,Husher
 4427,100,false,Fracker
 4427,101,false,Photobioreactor
 4427,102,false,Fan
 4427,103,false,Vent
 4427,104,false,Exhaust
+4427,105,false,Gas Generator
+4427,106,false,Gas Turbine
+4427,107,false,Refinery
 4428,0,false,Blank Module
 4429,0,false,Engineer's Wrench
 4430,0,false,Redstone Wand
@@ -5582,6 +5670,12 @@ Item ID,Item meta,Has NBT,Display Name
 4601,30,true,Honey Barrel
 4601,31,true,Juice Barrel
 4601,32,true,Ice Barrel
+4601,50,true,Beer Barrel
+4601,51,true,Hotcocoa Barrel
+4601,52,true,Vinegar Barrel
+4601,53,true,Cookingoil Barrel
+4601,54,true,Vodka Barrel
+4601,55,true,Cider Barrel
 4601,36,true,Immibis liquidxp Barrel
 4601,33,true,Liquiddna Barrel
 4601,34,true,Life essence Barrel
@@ -5636,6 +5730,12 @@ Item ID,Item meta,Has NBT,Display Name
 4700,30,true,Honey Wooden Bucket
 4700,31,true,Juice Wooden Bucket
 4700,32,true,Ice Wooden Bucket
+4700,50,true,Beer Wooden Bucket
+4700,51,true,Hotcocoa Wooden Bucket
+4700,52,true,Vinegar Wooden Bucket
+4700,53,true,Cookingoil Wooden Bucket
+4700,54,true,Vodka Wooden Bucket
+4700,55,true,Cider Wooden Bucket
 4700,36,true,Immibis liquidxp Wooden Bucket
 4700,33,true,Liquiddna Wooden Bucket
 4700,34,true,Life essence Wooden Bucket
@@ -5655,6 +5755,7 @@ Item ID,Item meta,Has NBT,Display Name
 4829,3,false,Smoke Vial
 4829,4,false,Toxic Gas Vial
 4829,5,false,Neurotoxin Vial
+4829,6,false,Corrosive Gas Vial
 5256,0,false,Floppy Disk
 5257,0,false,Floppy Disk
 5258,0,true,Printed Page
@@ -6285,13 +6386,16 @@ Item ID,Item meta,Has NBT,Display Name
 10263,0,false,Destruction Pickaxe
 10264,0,false,Healing Axe
 10265,0,false,Reversing Hoe
-10266,0,true,Division Sigil
+10266,0,true,Division Sigil (Activated)
+10266,0,true,Pseudo-Inversion Sigil
 10266,0,false,Division Sigil
 10268,0,false,Sonar Goggles
 10269,0,false,Watering Can
 10269,1,false,Watering Can (Empty)
 10270,0,false,Transfer Node Upgrade - Speed
 10270,1,false,Item Filter
+10270,2,false,item.extrautils:nodeUpgrade.2.name
+10270,3,false,item.extrautils:nodeUpgrade.3.name
 10271,0,false,Golden Bag of Holding
 10356,0,false,Gate Settings Duplicator
 10456,0,false,Valve Pipe
@@ -8535,55 +8639,55 @@ Item ID,Item meta,Has NBT,Display Name
 14278,15,false,Alumite Shard
 14278,16,false,Steel Shard
 14278,31,false,Thaumium Shard
-14279,1,false,item.tconstruct.Pattern.rod.name
-14279,2,false,item.tconstruct.Pattern.pickaxe.name
-14279,3,false,item.tconstruct.Pattern.shovel.name
-14279,4,false,item.tconstruct.Pattern.axe.name
-14279,5,false,item.tconstruct.Pattern.swordblade.name
-14279,6,false,item.tconstruct.Pattern.largeguard.name
-14279,7,false,item.tconstruct.Pattern.mediumguard.name
-14279,8,false,item.tconstruct.Pattern.crossbar.name
-14279,9,false,item.tconstruct.Pattern.binding.name
-14279,10,false,item.tconstruct.Pattern.frypan.name
-14279,11,false,item.tconstruct.Pattern.sign.name
-14279,12,false,item.tconstruct.Pattern.knifeblade.name
-14279,13,false,item.tconstruct.Pattern.chisel.name
-14279,14,false,item.tconstruct.Pattern.largerod.name
-14279,15,false,item.tconstruct.Pattern.toughbinding.name
-14279,16,false,item.tconstruct.Pattern.largeplate.name
-14279,17,false,item.tconstruct.Pattern.broadaxe.name
-14279,18,false,item.tconstruct.Pattern.scythe.name
-14279,19,false,item.tconstruct.Pattern.excavator.name
-14279,20,false,item.tconstruct.Pattern.largeblade.name
-14279,21,false,item.tconstruct.Pattern.hammerhead.name
-14279,22,false,item.tconstruct.Pattern.fullguard.name
-14279,23,false,item.tconstruct.Pattern.bowstring.name
-14279,24,false,item.tconstruct.Pattern.fletching.name
-14279,25,false,item.tconstruct.Pattern.arrowhead.name
-14280,0,false,item.tconstruct.MetalPattern.ingot.name
-14280,1,false,item.tconstruct.MetalPattern.rod.name
-14280,2,false,item.tconstruct.MetalPattern.pickaxe.name
-14280,3,false,item.tconstruct.MetalPattern.shovel.name
-14280,4,false,item.tconstruct.MetalPattern.axe.name
-14280,5,false,item.tconstruct.MetalPattern.swordblade.name
-14280,6,false,item.tconstruct.MetalPattern.largeguard.name
-14280,7,false,item.tconstruct.MetalPattern.mediumguard.name
-14280,8,false,item.tconstruct.MetalPattern.crossbar.name
-14280,9,false,item.tconstruct.MetalPattern.binding.name
-14280,10,false,item.tconstruct.MetalPattern.frypan.name
-14280,11,false,item.tconstruct.MetalPattern.sign.name
-14280,12,false,item.tconstruct.MetalPattern.knifeblade.name
-14280,13,false,item.tconstruct.MetalPattern.chisel.name
-14280,14,false,item.tconstruct.MetalPattern.largerod.name
-14280,15,false,item.tconstruct.MetalPattern.toughbinding.name
-14280,16,false,item.tconstruct.MetalPattern.largeplate.name
-14280,17,false,item.tconstruct.MetalPattern.broadaxe.name
-14280,18,false,item.tconstruct.MetalPattern.scythe.name
-14280,19,false,item.tconstruct.MetalPattern.excavator.name
-14280,20,false,item.tconstruct.MetalPattern.largeblade.name
-14280,21,false,item.tconstruct.MetalPattern.hammerhead.name
-14280,22,false,item.tconstruct.MetalPattern.fullguard.name
-14280,25,false,item.tconstruct.MetalPattern.arrowhead.name
+14279,1,false,Tool Rod Pattern
+14279,2,false,Pickaxe Head Pattern
+14279,3,false,Shovel Head Pattern
+14279,4,false,Axe Head Pattern
+14279,5,false,Sword Blade Pattern
+14279,6,false,Wide Guard Pattern
+14279,7,false,Hand Guard Pattern
+14279,8,false,Crossbar Pattern
+14279,9,false,Tool Binding Pattern
+14279,10,false,Pan Pattern
+14279,11,false,Wide Board Pattern
+14279,12,false,Knife Blade Pattern
+14279,13,false,Chisel Head Pattern
+14279,14,false,Tough Rod Pattern
+14279,15,false,Tough Binding Pattern
+14279,16,false,Large Plate Pattern
+14279,17,false,Broadaxe Head Pattern
+14279,18,false,Scythe Head Pattern
+14279,19,false,Excavator Head Pattern
+14279,20,false,Large Blade Pattern
+14279,21,false,Hammer Head Pattern
+14279,22,false,Full Guard Pattern
+14279,23,false,Bowstring Pattern
+14279,24,false,Fletching Pattern
+14279,25,false,Arrowhead Pattern
+14280,0,false,Ingot Cast
+14280,1,false,Tool Rod Cast
+14280,2,false,Pickaxe Head Cast
+14280,3,false,Shovel Head Cast
+14280,4,false,Axe Head Cast
+14280,5,false,Sword Blade Cast
+14280,6,false,Wide Guard Cast
+14280,7,false,Hand Guard Cast
+14280,8,false,Crossbar Cast
+14280,9,false,Tool Binding Cast
+14280,10,false,Pan Cast
+14280,11,false,Wide Board Cast
+14280,12,false,Knife Blade Cast
+14280,13,false,Chisel Head Cast
+14280,14,false,Tough Rod Cast
+14280,15,false,Tough Binding Cast
+14280,16,false,Large Plate Cast
+14280,17,false,Broadaxe Head Cast
+14280,18,false,Scythe Head Cast
+14280,19,false,Excavator Head Cast
+14280,20,false,Large Blade Cast
+14280,21,false,Hammer Head Cast
+14280,22,false,Full Guard Cast
+14280,25,false,Arrowhead Cast
 14281,0,false,Helmet Cast
 14281,1,false,Chestplate Cast
 14281,2,false,Leggings Cast
@@ -8660,42 +8764,42 @@ Item ID,Item meta,Has NBT,Display Name
 14286,15,false,Alumite Sword Blade
 14286,16,false,Steel Sword Blade
 14286,31,false,Thaumium Sword Blade
-14287,0,false,Wooden Large Guard
-14287,1,false,Stone Large Guard
-14287,2,false,Iron Large Guard
-14287,3,false,Flint Large Guard
-14287,4,false,Cactus Large Guard
-14287,5,false,Bone Large Guard
-14287,6,false,Obsidian Large Guard
-14287,7,false,Netherrack Large Guard
-14287,8,false,Slime Large Guard
-14287,9,false,Paper Large Guard
-14287,10,false,Cobalt Large Guard
-14287,11,false,Ardite Large Guard
-14287,12,false,Manyullyn Large Guard
-14287,13,false,Copper Large Guard
-14287,14,false,Bronze Large Guard
-14287,15,false,Alumite Large Guard
-14287,16,false,Steel Large Guard
-14287,31,false,Thaumium Large Guard
-14288,0,false,Wooden Medium Guard
-14288,1,false,Stone Medium Guard
-14288,2,false,Iron Medium Guard
-14288,3,false,Flint Medium Guard
-14288,4,false,Cactus Medium Guard
-14288,5,false,Bone Medium Guard
-14288,6,false,Obsidian Medium Guard
-14288,7,false,Netherrack Medium Guard
-14288,8,false,Slime Medium Guard
-14288,9,false,Paper Medium Guard
-14288,10,false,Cobalt Medium Guard
-14288,11,false,Ardite Medium Guard
-14288,12,false,Manyullyn Medium Guard
-14288,13,false,Copper Medium Guard
-14288,14,false,Bronze Medium Guard
-14288,15,false,Alumite Medium Guard
-14288,16,false,Steel Medium Guard
-14288,31,false,Thaumium Medium Guard
+14287,0,false,Wooden Wide Guard
+14287,1,false,Stone Wide Guard
+14287,2,false,Iron Wide Guard
+14287,3,false,Flint Wide Guard
+14287,4,false,Cactus Wide Guard
+14287,5,false,Bone Wide Guard
+14287,6,false,Obsidian Wide Guard
+14287,7,false,Netherrack Wide Guard
+14287,8,false,Slime Wide Guard
+14287,9,false,Paper Wide Guard
+14287,10,false,Cobalt Wide Guard
+14287,11,false,Ardite Wide Guard
+14287,12,false,Manyullyn Wide Guard
+14287,13,false,Copper Wide Guard
+14287,14,false,Bronze Wide Guard
+14287,15,false,Alumite Wide Guard
+14287,16,false,Steel Wide Guard
+14287,31,false,Thaumium Wide Guard
+14288,0,false,Wooden Hand Guard
+14288,1,false,Stone Hand Guard
+14288,2,false,Iron Hand Guard
+14288,3,false,Flint Hand Guard
+14288,4,false,Cactus Hand Guard
+14288,5,false,Bone Hand Guard
+14288,6,false,Obsidian Hand Guard
+14288,7,false,Netherrack Hand Guard
+14288,8,false,Slime Hand Guard
+14288,9,false,Paper Hand Guard
+14288,10,false,Cobalt Hand Guard
+14288,11,false,Ardite Hand Guard
+14288,12,false,Manyullyn Hand Guard
+14288,13,false,Copper Hand Guard
+14288,14,false,Bronze Hand Guard
+14288,15,false,Alumite Hand Guard
+14288,16,false,Steel Hand Guard
+14288,31,false,Thaumium Hand Guard
 14289,0,false,Wooden Crossbar
 14289,1,false,Stone Crossbar
 14289,2,false,Iron Crossbar
@@ -9474,6 +9578,7 @@ Item ID,Item meta,Has NBT,Display Name
 15238,0,false,Badass Glasses
 15239,0,false,Crane Control
 15240,0,false,Crane Backpack
+15241,0,false,Slimalyzer
 15446,0,false,Gravity Gun
 15446,1,false,Gravity Gun
 15457,0,false,Portal Gun
@@ -11193,6 +11298,278 @@ Item ID,Item meta,Has NBT,Display Name
 22486,0,false,Screw Gun
 22487,0,false,Lock and Key
 22488,0,false,Clipboard
+22490,0,false,Drafting Compass
+22491,0,false,Waypoint Compass
+22492,0,false,Oak Seat Back
+22492,1,false,Spruce Seat Back
+22492,2,false,Birch Seat Back
+22492,3,false,Jungle Seat Back
+22493,0,false,Oak Seat Back
+22493,1,false,Spruce Seat Back
+22493,2,false,Birch Seat Back
+22493,3,false,Jungle Seat Back
+22494,0,false,Oak Seat Back
+22494,1,false,Spruce Seat Back
+22494,2,false,Birch Seat Back
+22494,3,false,Jungle Seat Back
+22495,0,false,Oak Seat Back
+22495,1,false,Spruce Seat Back
+22495,2,false,Birch Seat Back
+22495,3,false,Jungle Seat Back
+22496,0,false,Oak Seat Back
+22496,1,false,Spruce Seat Back
+22496,2,false,Birch Seat Back
+22496,3,false,Jungle Seat Back
+22555,0,false,Bloodwood Seat Back
+22555,1,false,Darkwood Seat Back
+22555,2,false,Eucalyptus Seat Back
+22555,3,false,Fusewood Seat Back
+22555,4,false,Ghostwood Seat Back
+22555,5,false,Hopseed Seat Back
+22555,6,false,Maple Seat Back
+22555,7,false,Purpleheart Seat Back
+22555,8,false,Redwood Seat Back
+22555,9,false,Silverbell Seat Back
+22555,10,false,Sakura Seat Back
+22555,11,false,Tiger Seat Back
+22555,12,false,Willow Seat Back
+22556,0,false,Bloodwood Seat Back
+22556,1,false,Darkwood Seat Back
+22556,2,false,Eucalyptus Seat Back
+22556,3,false,Fusewood Seat Back
+22556,4,false,Ghostwood Seat Back
+22556,5,false,Hopseed Seat Back
+22556,6,false,Maple Seat Back
+22556,7,false,Purpleheart Seat Back
+22556,8,false,Redwood Seat Back
+22556,9,false,Silverbell Seat Back
+22556,10,false,Sakura Seat Back
+22556,11,false,Tiger Seat Back
+22556,12,false,Willow Seat Back
+22557,0,false,Bloodwood Seat Back
+22557,1,false,Darkwood Seat Back
+22557,2,false,Eucalyptus Seat Back
+22557,3,false,Fusewood Seat Back
+22557,4,false,Ghostwood Seat Back
+22557,5,false,Hopseed Seat Back
+22557,6,false,Maple Seat Back
+22557,7,false,Purpleheart Seat Back
+22557,8,false,Redwood Seat Back
+22557,9,false,Silverbell Seat Back
+22557,10,false,Sakura Seat Back
+22557,11,false,Tiger Seat Back
+22557,12,false,Willow Seat Back
+22558,0,false,Bloodwood Seat Back
+22558,1,false,Darkwood Seat Back
+22558,2,false,Eucalyptus Seat Back
+22558,3,false,Fusewood Seat Back
+22558,4,false,Ghostwood Seat Back
+22558,5,false,Hopseed Seat Back
+22558,6,false,Maple Seat Back
+22558,7,false,Purpleheart Seat Back
+22558,8,false,Redwood Seat Back
+22558,9,false,Silverbell Seat Back
+22558,10,false,Sakura Seat Back
+22558,11,false,Tiger Seat Back
+22558,12,false,Willow Seat Back
+22559,0,false,Bloodwood Seat Back
+22559,1,false,Darkwood Seat Back
+22559,2,false,Eucalyptus Seat Back
+22559,3,false,Fusewood Seat Back
+22559,4,false,Ghostwood Seat Back
+22559,5,false,Hopseed Seat Back
+22559,6,false,Maple Seat Back
+22559,7,false,Purpleheart Seat Back
+22559,8,false,Redwood Seat Back
+22559,9,false,Silverbell Seat Back
+22559,10,false,Sakura Seat Back
+22559,11,false,Tiger Seat Back
+22559,12,false,Willow Seat Back
+22560,0,false,Acacia Seat Back
+22560,1,false,Cherry Seat Back
+22560,2,false,Dark Seat Back
+22560,3,false,Fir Seat Back
+22560,4,false,HellBark Seat Back
+22560,5,false,Holy Seat Back
+22560,6,false,Jacaranda Seat Back
+22560,7,false,Magic Seat Back
+22560,8,false,Mangrove Seat Back
+22560,9,false,Palm Seat Back
+22560,10,false,Pine Seat Back
+22560,11,false,Redwood Seat Back
+22560,12,false,Willow Seat Back
+22561,0,false,Acacia Seat Back
+22561,1,false,Cherry Seat Back
+22561,2,false,Dark Seat Back
+22561,3,false,Fir Seat Back
+22561,4,false,HellBark Seat Back
+22561,5,false,Holy Seat Back
+22561,6,false,Jacaranda Seat Back
+22561,7,false,Magic Seat Back
+22561,8,false,Mangrove Seat Back
+22561,9,false,Palm Seat Back
+22561,10,false,Pine Seat Back
+22561,11,false,Redwood Seat Back
+22561,12,false,Willow Seat Back
+22562,0,false,Acacia Seat Back
+22562,1,false,Cherry Seat Back
+22562,2,false,Dark Seat Back
+22562,3,false,Fir Seat Back
+22562,4,false,HellBark Seat Back
+22562,5,false,Holy Seat Back
+22562,6,false,Jacaranda Seat Back
+22562,7,false,Magic Seat Back
+22562,8,false,Mangrove Seat Back
+22562,9,false,Palm Seat Back
+22562,10,false,Pine Seat Back
+22562,11,false,Redwood Seat Back
+22562,12,false,Willow Seat Back
+22563,0,false,Acacia Seat Back
+22563,1,false,Cherry Seat Back
+22563,2,false,Dark Seat Back
+22563,3,false,Fir Seat Back
+22563,4,false,HellBark Seat Back
+22563,5,false,Holy Seat Back
+22563,6,false,Jacaranda Seat Back
+22563,7,false,Magic Seat Back
+22563,8,false,Mangrove Seat Back
+22563,9,false,Palm Seat Back
+22563,10,false,Pine Seat Back
+22563,11,false,Redwood Seat Back
+22563,12,false,Willow Seat Back
+22564,0,false,Acacia Seat Back
+22564,1,false,Cherry Seat Back
+22564,2,false,Dark Seat Back
+22564,3,false,Fir Seat Back
+22564,4,false,HellBark Seat Back
+22564,5,false,Holy Seat Back
+22564,6,false,Jacaranda Seat Back
+22564,7,false,Magic Seat Back
+22564,8,false,Mangrove Seat Back
+22564,9,false,Palm Seat Back
+22564,10,false,Pine Seat Back
+22564,11,false,Redwood Seat Back
+22564,12,false,Willow Seat Back
+22570,0,false,Acacia Seat Back
+22570,1,false,Balsa Seat Back
+22570,2,false,Baobab Seat Back
+22570,3,false,Cherry Seat Back
+22570,4,false,Chestnut Seat Back
+22570,5,false,Citrus Seat Back
+22570,6,false,Ebony Seat Back
+22570,7,false,Greenheart Seat Back
+22570,8,false,Kapok Seat Back
+22570,9,false,Larch Seat Back
+22570,10,false,Lime Seat Back
+22570,11,false,Mahoe Seat Back
+22570,12,false,Mahogany Seat Back
+22570,13,false,Maple Seat Back
+22570,14,false,Palm Seat Back
+22570,15,false,Papaya Seat Back
+22570,16,false,Pine Seat Back
+22570,17,false,Plum Seat Back
+22570,18,false,Poplar Seat Back
+22570,19,false,Sequoia Seat Back
+22570,20,false,Teak Seat Back
+22570,21,false,Walnut Seat Back
+22570,22,false,Wenge Seat Back
+22570,23,false,Willow Seat Back
+22571,0,false,Acacia Seat Back
+22571,1,false,Balsa Seat Back
+22571,2,false,Baobab Seat Back
+22571,3,false,Cherry Seat Back
+22571,4,false,Chestnut Seat Back
+22571,5,false,Citrus Seat Back
+22571,6,false,Ebony Seat Back
+22571,7,false,Greenheart Seat Back
+22571,8,false,Kapok Seat Back
+22571,9,false,Larch Seat Back
+22571,10,false,Lime Seat Back
+22571,11,false,Mahoe Seat Back
+22571,12,false,Mahogany Seat Back
+22571,13,false,Maple Seat Back
+22571,14,false,Palm Seat Back
+22571,15,false,Papaya Seat Back
+22571,16,false,Pine Seat Back
+22571,17,false,Plum Seat Back
+22571,18,false,Poplar Seat Back
+22571,19,false,Sequoia Seat Back
+22571,20,false,Teak Seat Back
+22571,21,false,Walnut Seat Back
+22571,22,false,Wenge Seat Back
+22571,23,false,Willow Seat Back
+22572,0,false,Acacia Seat Back
+22572,1,false,Balsa Seat Back
+22572,2,false,Baobab Seat Back
+22572,3,false,Cherry Seat Back
+22572,4,false,Chestnut Seat Back
+22572,5,false,Citrus Seat Back
+22572,6,false,Ebony Seat Back
+22572,7,false,Greenheart Seat Back
+22572,8,false,Kapok Seat Back
+22572,9,false,Larch Seat Back
+22572,10,false,Lime Seat Back
+22572,11,false,Mahoe Seat Back
+22572,12,false,Mahogany Seat Back
+22572,13,false,Maple Seat Back
+22572,14,false,Palm Seat Back
+22572,15,false,Papaya Seat Back
+22572,16,false,Pine Seat Back
+22572,17,false,Plum Seat Back
+22572,18,false,Poplar Seat Back
+22572,19,false,Sequoia Seat Back
+22572,20,false,Teak Seat Back
+22572,21,false,Walnut Seat Back
+22572,22,false,Wenge Seat Back
+22572,23,false,Willow Seat Back
+22573,0,false,Acacia Seat Back
+22573,1,false,Balsa Seat Back
+22573,2,false,Baobab Seat Back
+22573,3,false,Cherry Seat Back
+22573,4,false,Chestnut Seat Back
+22573,5,false,Citrus Seat Back
+22573,6,false,Ebony Seat Back
+22573,7,false,Greenheart Seat Back
+22573,8,false,Kapok Seat Back
+22573,9,false,Larch Seat Back
+22573,10,false,Lime Seat Back
+22573,11,false,Mahoe Seat Back
+22573,12,false,Mahogany Seat Back
+22573,13,false,Maple Seat Back
+22573,14,false,Palm Seat Back
+22573,15,false,Papaya Seat Back
+22573,16,false,Pine Seat Back
+22573,17,false,Plum Seat Back
+22573,18,false,Poplar Seat Back
+22573,19,false,Sequoia Seat Back
+22573,20,false,Teak Seat Back
+22573,21,false,Walnut Seat Back
+22573,22,false,Wenge Seat Back
+22573,23,false,Willow Seat Back
+22574,0,false,Acacia Seat Back
+22574,1,false,Balsa Seat Back
+22574,2,false,Baobab Seat Back
+22574,3,false,Cherry Seat Back
+22574,4,false,Chestnut Seat Back
+22574,5,false,Citrus Seat Back
+22574,6,false,Ebony Seat Back
+22574,7,false,Greenheart Seat Back
+22574,8,false,Kapok Seat Back
+22574,9,false,Larch Seat Back
+22574,10,false,Lime Seat Back
+22574,11,false,Mahoe Seat Back
+22574,12,false,Mahogany Seat Back
+22574,13,false,Maple Seat Back
+22574,14,false,Palm Seat Back
+22574,15,false,Papaya Seat Back
+22574,16,false,Pine Seat Back
+22574,17,false,Plum Seat Back
+22574,18,false,Poplar Seat Back
+22574,19,false,Sequoia Seat Back
+22574,20,false,Teak Seat Back
+22574,21,false,Walnut Seat Back
+22574,22,false,Wenge Seat Back
+22574,23,false,Willow Seat Back
 23256,0,false,Bluegill
 23256,1,false,Perch
 23256,2,false,Gar
@@ -11264,6 +11641,160 @@ Item ID,Item meta,Has NBT,Display Name
 23278,0,false,Neptunium Legs
 23279,0,false,Neptunium Boots
 23281,0,false,Admin Fishing Rod
+23296,0,false,Clay Bowl
+23296,1,false,Clay Plate
+23296,2,false,Clay Cup
+23296,3,false,Ceramic Bowl
+23296,4,false,Ceramic Plate
+23296,5,false,Ceramic Cup
+23296,6,false,Oven Rack
+23297,1,false,Candied Apple
+23297,2,false,French Fries
+23297,3,false,Cup of Water
+23297,4,false,Cup of Milk
+23297,5,false,Hot Cocoa
+23297,6,false,Vinegar
+23297,7,false,Beer
+23297,8,false,Raw Hamburger Patty
+23297,9,false,Apple Jelly Toast
+23297,10,false,Cinnamon Toast
+23297,11,false,Strawberry Jelly Toast
+23297,12,false,Caramel Apple with Nuts
+23297,13,false,Apple Jelly
+23297,14,false,Mashed Potatos
+23297,15,false,Carrot Cake Batter
+23297,16,false,Raw French Toast
+23297,17,false,Batter
+23297,18,false,Macaroni and Cheese
+23297,19,false,Strawberry Jelly
+23297,20,false,Raw Apple Pie
+23297,21,false,Raw Strawberry Pie
+23297,22,false,Strawberry Shortcake
+23297,23,false,Hamburger
+23297,24,false,PB&J Sandwich (Apple)
+23297,25,false,PB&J Sandwich (Strawberry)
+23297,26,false,Cheese Sandwich
+23297,27,false,Buttered Toast
+23297,28,false,Bacon Cheese Fries
+23297,29,false,Bacon Cheeseburger
+23297,30,false,Peanut Butter
+23297,31,false,Chocolate
+23297,32,false,Cheese
+23297,33,false,Butter
+23297,34,false,Whipped Cream
+23297,35,false,Dough
+23297,36,false,Apple Gelatin
+23297,37,false,Strawberry Gelatin
+23297,38,false,Marshmellows
+23297,39,false,Pasta Dough
+23297,40,false,Cheese Fries
+23297,41,false,Raw Chicken Nuggets
+23297,42,false,Cheeseburger
+23297,43,false,Deluxe Hot Cocoa
+23297,44,false,Salted Beef
+23297,45,false,Breaded Chicken
+23297,46,false,Salted Pork
+23297,47,false,Caramel Apple
+23297,48,false,Chocolate-Covered Strawberries
+23297,49,false,Cinnamon and Sugar
+23297,50,false,Slice of Cheese
+23297,51,false,Slice of Bread
+23297,52,false,Fried Chicken
+23297,53,false,Chicken Nuggets
+23297,54,false,Shortcake
+23297,55,false,Carrot Cake (Burned)
+23297,56,false,Grilled Cheese
+23297,57,false,Loaf of Bread
+23297,58,false,Pasta
+23297,59,false,Toasted PB&J Sandwich (Apple)
+23297,60,false,Toasted PB&J Sandwich (Strawberry)
+23297,61,false,Roasted Peanuts
+23297,62,false,Apple Pie
+23297,63,false,French Toast
+23297,64,false,Hamburger Patty
+23297,65,false,Strawberry Pie
+23297,66,false,Beef Jerkey
+23297,67,false,Bacon
+23297,68,false,Toast
+23297,69,false,Caramel
+23297,70,false,Apple Mush
+23297,71,false,Gelatin
+23297,72,false,Bread Crumbs
+23297,73,false,Ground Beef
+23297,74,false,Ground Chicken
+23297,75,false,Ground Pork
+23297,76,false,Crushed Peanuts
+23297,77,false,Strawberry Mush
+23297,78,false,Flour
+23297,79,false,Cooking Oil
+23297,80,false,item.null.agricultureStrawberry.name
+23297,81,false,Salt
+23297,82,false,Cinnamon
+23297,83,false,Ground Cinnamon
+23297,84,false,Peanuts
+23297,85,false,Apple Cinnamon Cookie Dough
+23297,86,false,Bowl of Raw Pasta
+23297,87,false,Butter Cookie Dough
+23297,88,false,Cheesy Bacon Potatoes
+23297,89,false,Cheesy Potatoes
+23297,90,false,Chocolate Chip Cookie Dough
+23297,91,false,Chocolate Ice Cream (Chocolate Sauce)
+23297,92,false,Chocolate Ice Cream Mix
+23297,93,false,Diced Potatoes
+23297,94,false,Double Bacon Cheeseburger
+23297,95,false,Ice Cream Mix
+23297,96,false,PB Sandwich
+23297,97,false,Peanut Butter Cooke Dough
+23297,98,false,Pumpkin Cookie Dough
+23297,99,false,Snickerdoodle Dough
+23297,100,false,Strawberry Ice Cream (Chocolate Sauce)
+23297,101,false,Strawberry Ice Cream Mix
+23297,102,false,Strawberry Jelly Cookie Dough
+23297,103,false,Sugar Cookie Dough
+23297,104,false,Vanilla Ice Cream (Chocolate Sauce)
+23297,105,false,Vanilla Ice Cream Mix
+23297,106,false,Chocolate Ice Cream
+23297,107,false,Strawberry Ice Cream
+23297,108,false,Vanilla Ice Cream
+23297,109,false,Apple Cinnamon Cookie
+23297,110,false,Butter Cookie
+23297,111,false,Chocolate Chip Cookie
+23297,112,false,Chocolate Sauce
+23297,113,false,Peanut Butter Cookie
+23297,114,false,Pumpkin Cookie
+23297,115,false,Roasted Marshmellows
+23297,116,false,Snickerdoodle
+23297,117,false,Strawberry Jelly Cookie
+23297,118,false,Sugar Cookie
+23297,119,false,Toasted PB Sandwich
+23297,120,false,Vanilla
+23297,121,false,Apple Cinnamon Cooke (Burned)
+23297,122,false,Apple Pie (Burned)
+23297,123,false,Bacon (Burned)
+23297,124,false,Beef Jerkey (Burned)
+23297,125,false,Butter Cookie (Burned)
+23297,126,false,Caramel (Burned)
+23297,127,false,item.null.agricultureCarrotCakeBurned.name
+23297,128,false,Chocolate Chip Cookie (Burned)
+23297,129,false,Chocolate Sauce (Burned)
+23297,130,false,French Toast (Burned)
+23297,131,false,Grilled Cheese (Burned)
+23297,132,false,Hambuerger Patty (Burned)
+23297,133,false,Loaf of Bread (Burned)
+23297,134,false,Pasta (Burned)
+23297,135,false,Peanut Butter Cookie (Burned)
+23297,136,false,Pumpkin Cookie (Burned)
+23297,137,false,Roasted Marshmellows (Burned)
+23297,138,false,Roasted Peanuts (Burned)
+23297,139,false,Shortcake (Burned)
+23297,140,false,Snickerdoodle (Burned)
+23297,141,false,Strawberry Jelly Cookie (Burned)
+23297,142,false,Strawberry Pie (Burned)
+23297,143,false,Sugar Cookie (Burned)
+23297,144,false,Toast (Burned)
+23297,145,false,Toasted PB&J Sandwich (Apple) (Burned)
+23297,146,false,Toasted PB&J Sabdwich (Strawberry) (Burned)
+23297,147,false,Toasted PB Sandwich (Burned)
 23792,0,false,Flint and Steel
 23793,0,false,Upgrade Card
 23794,0,false,Network Card
@@ -11575,7 +12106,7 @@ Item ID,Item meta,Has NBT,Display Name
 25131,1,true,Colored Wood Planks (Cyan) Cover
 25131,1,true,Edged Stone Bricks Cover
 25131,1,true,Ender-infused Obsidian Cover
-25131,1,true,Smoked Quartz Cover
+25131,1,true,Burnt Quartz Cover
 25131,1,true,Frosted Stone Cover
 25131,1,true,Border Stone Cover
 25131,1,true,Unstable Ingot Block Cover
@@ -11859,7 +12390,7 @@ Item ID,Item meta,Has NBT,Display Name
 25131,2,true,Colored Wood Planks (Cyan) Panel
 25131,2,true,Edged Stone Bricks Panel
 25131,2,true,Ender-infused Obsidian Panel
-25131,2,true,Smoked Quartz Panel
+25131,2,true,Burnt Quartz Panel
 25131,2,true,Frosted Stone Panel
 25131,2,true,Border Stone Panel
 25131,2,true,Unstable Ingot Block Panel
@@ -12143,7 +12674,7 @@ Item ID,Item meta,Has NBT,Display Name
 25131,4,true,Colored Wood Planks (Cyan) Slab
 25131,4,true,Edged Stone Bricks Slab
 25131,4,true,Ender-infused Obsidian Slab
-25131,4,true,Smoked Quartz Slab
+25131,4,true,Burnt Quartz Slab
 25131,4,true,Frosted Stone Slab
 25131,4,true,Border Stone Slab
 25131,4,true,Unstable Ingot Block Slab
@@ -12427,7 +12958,7 @@ Item ID,Item meta,Has NBT,Display Name
 25131,257,true,Hollow Colored Wood Planks (Cyan) Cover
 25131,257,true,Hollow Edged Stone Bricks Cover
 25131,257,true,Hollow Ender-infused Obsidian Cover
-25131,257,true,Hollow Smoked Quartz Cover
+25131,257,true,Hollow Burnt Quartz Cover
 25131,257,true,Hollow Frosted Stone Cover
 25131,257,true,Hollow Border Stone Cover
 25131,257,true,Hollow Unstable Ingot Block Cover
@@ -12711,7 +13242,7 @@ Item ID,Item meta,Has NBT,Display Name
 25131,258,true,Hollow Colored Wood Planks (Cyan) Panel
 25131,258,true,Hollow Edged Stone Bricks Panel
 25131,258,true,Hollow Ender-infused Obsidian Panel
-25131,258,true,Hollow Smoked Quartz Panel
+25131,258,true,Hollow Burnt Quartz Panel
 25131,258,true,Hollow Frosted Stone Panel
 25131,258,true,Hollow Border Stone Panel
 25131,258,true,Hollow Unstable Ingot Block Panel
@@ -12995,7 +13526,7 @@ Item ID,Item meta,Has NBT,Display Name
 25131,260,true,Hollow Colored Wood Planks (Cyan) Slab
 25131,260,true,Hollow Edged Stone Bricks Slab
 25131,260,true,Hollow Ender-infused Obsidian Slab
-25131,260,true,Hollow Smoked Quartz Slab
+25131,260,true,Hollow Burnt Quartz Slab
 25131,260,true,Hollow Frosted Stone Slab
 25131,260,true,Hollow Border Stone Slab
 25131,260,true,Hollow Unstable Ingot Block Slab
@@ -13279,7 +13810,7 @@ Item ID,Item meta,Has NBT,Display Name
 25131,513,true,Colored Wood Planks (Cyan) Nook
 25131,513,true,Edged Stone Bricks Nook
 25131,513,true,Ender-infused Obsidian Nook
-25131,513,true,Smoked Quartz Nook
+25131,513,true,Burnt Quartz Nook
 25131,513,true,Frosted Stone Nook
 25131,513,true,Border Stone Nook
 25131,513,true,Unstable Ingot Block Nook
@@ -13563,7 +14094,7 @@ Item ID,Item meta,Has NBT,Display Name
 25131,514,true,Colored Wood Planks (Cyan) Corner
 25131,514,true,Edged Stone Bricks Corner
 25131,514,true,Ender-infused Obsidian Corner
-25131,514,true,Smoked Quartz Corner
+25131,514,true,Burnt Quartz Corner
 25131,514,true,Frosted Stone Corner
 25131,514,true,Border Stone Corner
 25131,514,true,Unstable Ingot Block Corner
@@ -13847,7 +14378,7 @@ Item ID,Item meta,Has NBT,Display Name
 25131,516,true,Colored Wood Planks (Cyan) Notch
 25131,516,true,Edged Stone Bricks Notch
 25131,516,true,Ender-infused Obsidian Notch
-25131,516,true,Smoked Quartz Notch
+25131,516,true,Burnt Quartz Notch
 25131,516,true,Frosted Stone Notch
 25131,516,true,Border Stone Notch
 25131,516,true,Unstable Ingot Block Notch
@@ -14131,7 +14662,7 @@ Item ID,Item meta,Has NBT,Display Name
 25131,769,true,Colored Wood Planks (Cyan) Strip
 25131,769,true,Edged Stone Bricks Strip
 25131,769,true,Ender-infused Obsidian Strip
-25131,769,true,Smoked Quartz Strip
+25131,769,true,Burnt Quartz Strip
 25131,769,true,Frosted Stone Strip
 25131,769,true,Border Stone Strip
 25131,769,true,Unstable Ingot Block Strip
@@ -14415,7 +14946,7 @@ Item ID,Item meta,Has NBT,Display Name
 25131,770,true,Colored Wood Planks (Cyan) Post
 25131,770,true,Edged Stone Bricks Post
 25131,770,true,Ender-infused Obsidian Post
-25131,770,true,Smoked Quartz Post
+25131,770,true,Burnt Quartz Post
 25131,770,true,Frosted Stone Post
 25131,770,true,Border Stone Post
 25131,770,true,Unstable Ingot Block Post
@@ -14699,7 +15230,7 @@ Item ID,Item meta,Has NBT,Display Name
 25131,772,true,Colored Wood Planks (Cyan) Pillar
 25131,772,true,Edged Stone Bricks Pillar
 25131,772,true,Ender-infused Obsidian Pillar
-25131,772,true,Smoked Quartz Pillar
+25131,772,true,Burnt Quartz Pillar
 25131,772,true,Frosted Stone Pillar
 25131,772,true,Border Stone Pillar
 25131,772,true,Unstable Ingot Block Pillar

@@ -24,7 +24,7 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Min Height,Max Height,Types,Class
 22,JungleHills,1.2,0.9,0.1,1.8,0.5,JUNGLE,net.minecraft.world.biome.BiomeGenJungle
 23,Storage Cell,-100.0,0.5,0.1,0.1,0.3,"PLAINS, FROZEN",appeng.world.BiomeGenStorage
 31,Lavender Fields,0.6,0.7,0.1,0.3,0.3,PLAINS,biomesoplenty.biomes.BiomeGenLavenderFields
-32,Tropics Mountain,2.0,2.0,0.1,0.5,1.1,"WATER, JUNGLE",biomesoplenty.biomes.BiomeGenTropics
+32,Tropics Mountain,2.0,2.0,0.1,0.4,1.2,"WATER, JUNGLE",biomesoplenty.biomes.BiomeGenTropics
 33,Autumn Hills,0.5,0.2,0.1,0.5,0.8,"FOREST, HILLS",biomesoplenty.biomes.BiomeGenAutumnHills
 34,Overgrown Greens,0.8,0.8,0.1,0.3,0.4,"PLAINS, JUNGLE",biomesoplenty.biomes.BiomeGenOvergrownGreens
 35,ForestHills,0.7,0.8,0.1,0.8,1.0,"FOREST, HILLS",biomesoplenty.biomes.vanilla.BiomeGenForestNew
@@ -79,6 +79,7 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Min Height,Max Height,Types,Class
 162,Tainted Land,0.5,0.5,0.1,0.1,0.3,"WASTELAND, MAGICAL",thaumcraft.common.lib.world.biomes.BiomeGenTaint
 163,Magical Forest,0.7,0.6,0.1,0.1,0.3,"FOREST, MAGICAL",thaumcraft.common.lib.world.biomes.BiomeGenMagicalForest
 164,Eerie,0.5,0.5,0.1,0.1,0.3,"PLAINS, MAGICAL",thaumcraft.common.lib.world.biomes.BiomeGenEerie
+169,Snowy Dead Forest,0.05,0.8,0.1,0.2,0.7,"FOREST, FROZEN",biomesoplenty.biomes.BiomeGenDeadForestSnow
 170,Alps,0.0,0.5,0.1,2.0,3.0,"MOUNTAIN, FROZEN",biomesoplenty.biomes.BiomeGenAlps
 171,Arctic,0.05,0.5,0.1,0.2,0.2,"FROZEN, WASTELAND",biomesoplenty.biomes.BiomeGenArctic
 172,Badlands,2.0,0.05,0.1,0.3,0.9,"DESERT, WASTELAND",biomesoplenty.biomes.BiomeGenBadlands
@@ -95,7 +96,7 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Min Height,Max Height,Types,Class
 183,Snowy Coniferous Forest,0.0,0.5,0.1,0.2,0.7,"FOREST, HILLS, FROZEN",biomesoplenty.biomes.BiomeGenConiferousForestSnow
 184,Crag,0.4,0.2,0.1,2.0,3.0,"MOUNTAIN, WASTELAND",biomesoplenty.biomes.BiomeGenCrag
 185,Dead Forest,1.2,0.1,0.1,0.2,0.7,FOREST,biomesoplenty.biomes.BiomeGenDeadForest
-186,MooMooFarm,0.5,0.5,0.1,0.1,0.3,"FOREST, PLAINS, FROZEN",am2.worldgen.SCLBiome
+186,MooMooFarm,0.5,0.5,0.1,0.1,0.3,PLAINS,am2.worldgen.SCLBiome
 187,Dead Swamp,0.8,0.9,0.1,0.1,0.2,SWAMP,biomesoplenty.biomes.BiomeGenDeadSwamp
 188,Deadlands,2.0,0.05,0.1,0.1,0.5,WASTELAND,biomesoplenty.biomes.BiomeGenDeadlands
 189,Deciduous Forest,0.7,0.8,0.1,0.1,0.3,FOREST,biomesoplenty.biomes.BiomeGenDeciduousForest
@@ -117,7 +118,7 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Min Height,Max Height,Types,Class
 205,Lush Swamp,0.7,1.0,0.1,0.2,0.3,"SWAMP, WATER",biomesoplenty.biomes.BiomeGenLushSwamp
 206,Mangrove,0.8,0.9,0.1,0.1,0.3,"FOREST, WATER",biomesoplenty.biomes.BiomeGenMangrove
 210,Maple Woods,0.2,0.8,0.1,0.3,0.6,FOREST,biomesoplenty.biomes.BiomeGenMapleWoods
-211,Marsh,0.5,0.9,0.1,0.2,0.3,"SWAMP, WATER",biomesoplenty.biomes.BiomeGenMarsh
+211,Marsh,0.5,0.9,0.1,0.2,0.2,"SWAMP, WATER",biomesoplenty.biomes.BiomeGenMarsh
 212,Meadow,0.7,0.7,0.1,0.1,0.3,"FOREST, PLAINS",biomesoplenty.biomes.BiomeGenMeadow
 213,Mesa,2.0,0.05,0.1,0.4,2.0,"MOUNTAIN, DESERT, WASTELAND",biomesoplenty.biomes.BiomeGenMesa
 214,Moor,0.5,1.0,0.1,0.7,0.8,"HILLS, SWAMP",biomesoplenty.biomes.BiomeGenMoor
@@ -148,7 +149,7 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Min Height,Max Height,Types,Class
 239,Thicket,0.6,0.2,0.1,0.2,0.2,"FOREST, PLAINS",biomesoplenty.biomes.BiomeGenThicket
 240,Timber,0.7,0.8,0.1,0.3,0.4,FOREST,biomesoplenty.biomes.BiomeGenTimber
 241,Tropical Rainforest,1.2,0.9,0.1,0.3,0.7,JUNGLE,biomesoplenty.biomes.BiomeGenTropicalRainforest
-242,Tropics,2.0,2.0,0.1,0.1,0.5,"WATER, JUNGLE",biomesoplenty.biomes.BiomeGenTropics
+242,Tropics,2.0,2.0,0.1,0.0,0.4,"WATER, JUNGLE",biomesoplenty.biomes.BiomeGenTropics
 243,Tundra,0.2,0.8,0.1,0.1,0.3,"FROZEN, WASTELAND",biomesoplenty.biomes.BiomeGenTundra
 244,Volcano,2.0,0.05,0.1,0.6,0.9,"MOUNTAIN, WASTELAND",biomesoplenty.biomes.BiomeGenVolcano
 245,Wasteland,2.0,0.05,0.1,0.3,0.4,WASTELAND,biomesoplenty.biomes.BiomeGenWasteland
