@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.2.1a-BETA</version>
+    <version>2.2.1b-BETA</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -307,8 +307,8 @@
     <mod url="packs/ResonantRise/files/2.2/redlogic-57.0.0.jar" file="redlogic-57.0.0.jar" md5="954af0501c3c1a38a9cefa08358d7f1e" download="server"
          name="Red Logic" depends="ImmibisCore"  type="mods" 
          version="57.0.0" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description=""  />
-    <mod url="packs/ResonantRise/files/2.2/LogisticsPipes-MC1.6.2-0.7.4.dev.63.jar" file="LogisticsPipes-MC1.6.2-0.7.4.dev.63.jar" md5="62390f6916d955fc4e43c35c57e19ca8" download="server"
-         name="LogisticsPipes" type="mods" version="0.7.4.dev.63"
+    <mod url="packs/ResonantRise/files/2.2/LogisticsPipes-MC1.6.2-0.7.4.dev.57.jar" file="LogisticsPipes-MC1.6.2-0.7.4.dev.57.jar" md5="399ffab28663ba7f558e9363be1879e6" download="server"
+         name="LogisticsPipes" type="mods" version="0.7.4.dev.57"
          website="http://www.minecraftforum.net/topic/1831791-152buildcraft-logistics-pipes/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HMEH9HF4Q2RFJ"
          description="Even more amazing pipes." />
 	<mod url="packs/ResonantRise/files/2.2/magicbees-2.1.6.jar" file="magicbees-2.1.6.jar" md5="90aa0c44a268753c268c886acbde475b" download="server"
