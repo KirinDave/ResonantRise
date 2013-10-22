@@ -76,6 +76,7 @@ Minor Feature
 Dark Forest
 Enchanted Forest
 Fire Swamp
+MooMooFarm
 Desert Oil Field
 Ocean Oil Field
 Tainted Land
@@ -98,7 +99,6 @@ Coniferous Forest
 Snowy Coniferous Forest
 Crag
 Dead Forest
-MooMooFarm
 Dead Swamp
 Deadlands
 Deciduous Forest
@@ -170,50 +170,51 @@ Jungle
 -------------------------------------
 bop.springwater
 molten.mithril
-fluid.steel.molten
 molten.eximite
 honey
 life essence
 molten.meutoite
+emerald.liquid
 molten.oureclase
-fluid.emerald.liquid
 cider
 mushroomsoup
-fluid.nickel.molten
 milk
 juice
 molten.desichalkos
-fluid.iron.molten
 molten.adamantine
-fluid.glass.molten
+glass.molten
 chocolatemilk
 molten.rubracium
 sewage
-fluid.cobalt.molten
+iron.molten
 molten.angmallen
 molten redstone
 molten.tartarite
+blood
 vodka
 molten.prometheum
 sap
+platinum.molten
+manyullyn.molten
+nickel.molten
 fluxgoo
 uumatter
 gascraft_smoke
 vegetable
-fluid.ardite.molten
+steel.molten
 molten.kalendrite
 molten.midasium
-fluid.silver.molten
 gascraft_toxicgas
 biomass
 gascraft_hydrogen
 liquidnitrogen
+cobalt.molten
 molten.lemurite
 uraniumhexafluoride
 gascraft_corrosivegas
 oil
 immibis.liquidxp
-fluid.electrum.molten
+aluminumbrass.molten
 gascraft_naturalgas
 fortron
 molten.inolashite
@@ -222,45 +223,48 @@ hotcocoa
 water
 molten.shadow.steel
 ic2coolant
+stone.seared
+copper.molten
 cookingoil
 molten.deep.iron
 turpentine
 molten.hepatizon
 peat
 xpjuice
+bronze.molten
 bop.liquidpoison
 molten.manganese
 latex
-fluid.lead.molten
 steam
+ardite.molten
 molten.orichalcum
 creosote
 sludge
 molten conductive redmetal
-fluid.aluminumbrass.molten
 beer
+silver.molten
 molten.vulcanite
 resin
 molten.carmot
+gold.molten
 molten.damascus.steel
 molten.celenegil
 molten.ignatius
 molten.alduorite
-fluid.obsidian.molten
 liquidessence
 molten.astral.silver
-fluid.copper.molten
+lead.molten
 molten.ceruclase
 bioethanol
 poison
 molten.zinc
 molten.sanguinite
-fluid.gold.molten
-fluid.blood
+tin.molten
 mobessence
 seedoil
 slime.blue
 slickwater
+electrum.molten
 molten.platinum
 constructionfoam
 molten.vyroxeres
@@ -279,23 +283,19 @@ toxicwaste
 molten.atlarus
 liquiddna
 molten.shadow.iron
-fluid.tin.molten
+invar.molten
 liquidforce
-fluid.alumite.molten
-fluid.manyullyn.molten
+obsidian.molten
+alumite.molten
 gascraft_neurotoxin
-fluid.stone.seared
 molten.amordrine
-fluid.bronze.molten
 acid
-fluid.ender
-fluid.invar.molten
 lava
 gascraft_propellent
+aluminum.molten
 vinegar
-fluid.aluminum.molten
 pinkslime
-fluid.platinum.molten
+ender
 
 -------------------------------------
 --- Ore dictionary classes
@@ -380,8 +380,8 @@ coinCopper
 plateRefinedIron
 componentControlCircuit
 dustTinySilver
-listAllfishcooked
 cropGrapefruit
+listAllfishcooked
 fuelCoke
 ingotBrass
 oreGalena
@@ -432,15 +432,13 @@ slimeRod
 oreCobalt
 silverWire
 blockAlumite
-mushroomBluemilk
 componentServo
-coinSilver
 hambone
+coinSilver
 itemBacon
 dustZinc
 projredBundledCable
 stoneCobble
-mushroomToadstool
 plateLapis
 oreAdamantine
 cropStingberry
@@ -451,7 +449,6 @@ oreNaturalAluminum
 nuggetInvar
 cropKumquat
 ingotCelenegil
-dirtDried
 oreInvar
 dustCharcoal
 plateBronze
@@ -508,10 +505,8 @@ oreAtlarus
 nuggetMeat
 gemEmerald
 ingotAluminum
-logWillow
 gemTanzanite
 projredPart
-mushroomGlowshroom
 dustCobalt
 ingotHaderoth
 nuggetNaturalAluminum
@@ -579,12 +574,11 @@ dustMeutoite
 dustLemurite
 gemSapphire
 blockTartarite
-orePeridot
 orePrometheum
 dustImpureNickel
 cropPlum
-plantAlgae
 ingotLemurite
+itemSuperconductor
 itemMotor
 calclavia:BATTERY
 blockAlduorite
@@ -600,7 +594,6 @@ blockLead
 glassMagenta
 glassPink
 gearTin
-blockMud
 dustKalendrite
 cellEmpty
 gemRuby
@@ -652,10 +645,10 @@ itemFertilizer
 componentLVCapacitor
 dustTinyIron
 nuggetCobalt
-grassSmoldering
 craftingTableWood
 cropBlackCherry
 plateIron
+alloyPlateEnergizedHardened
 crystallineCobalt
 itemTar
 blockPrometheum
@@ -669,7 +662,6 @@ ingotEximite
 cropWildCherry
 componentWiring
 dustEnderPearl
-leavesMagic
 dyeGray
 ingotManganese
 ingotRubracium
@@ -699,10 +691,8 @@ dropUranium
 dustInvar
 coinGold
 dustQuartz
-blockAsh
 ingotInvar
 ingotDeep Iron
-stoneRed
 dyePink
 blockCarmot
 blockCeruclase
@@ -744,7 +734,6 @@ dustQuicklime
 crystallineNaturalAluminum
 dustNaturalAluminum
 componentPlatingAdvanced
-flowerDaffodil
 dustHaderoth
 blockManyullyn
 boneRod
@@ -759,7 +748,6 @@ ingotArdite
 ingotTin
 componentCarbonMyofiber
 oreCarmot
-oreTanzanite
 shardApatite
 cropDuskberry
 crystallineGold
@@ -770,7 +758,6 @@ blockOrichalcum
 dustCeruclase
 groundTin
 ingotPrometheum
-plantSprout
 dustOsmium
 batteryBox
 cropClove
@@ -780,15 +767,14 @@ cropNectarine
 ingotHepatizon
 copperWire
 blockInolashite
-oreNetherTin
-woodLog
 blockAluminumBrass
+woodLog
+oreNetherTin
 cropLemon
 oreNickel
 nuggetNickel
 itemIngotCopper
 crystallineIron
-oreTopaz
 thaumiumRod
 dustDesichalkos
 dyeLightGray
@@ -828,10 +814,10 @@ ingotRefinedIron
 oreForce
 cropFig
 blockVyroxeres
+gearElectrum
 projredIllumar
 blockTin
 oreVyroxeres
-logMagic
 componentMyofiberGel
 dyeLime
 aluminumWire
@@ -849,6 +835,7 @@ dustTinySulfur
 dustBrass
 cellUranium
 cropApricot
+gearInvar
 nuggetManyullyn
 componentGliderWing
 ironRod
@@ -874,7 +861,6 @@ circuitBasic
 blockBronze
 plateDenseLead
 ingotNaturalAluminum
-flowerRainbow
 antimatterGram
 sheetPlastic
 dustTitanium
@@ -898,6 +884,7 @@ copperRod
 oreNetherIridium
 blockAtlarus
 blockZinc
+alloyPlateEnergized
 cropPapaya
 ingotOureclase
 advancedBattery
@@ -918,18 +905,18 @@ blockDamascus Steel
 projredInsulatedWire
 blockInvar
 nuggetAlumite
-blockCrystal
 blockShadow Iron
 dustLead
 oreUranium
 itemDropUranium
 dropRoyalJelly
 oreRedstone
-oreOsmium
 dustClay
+oreOsmium
 dustPlatinum
-oreCopper
 cropBanana
+oreCopper
+ingotEnergized
 ingotGold
 dustLapis
 stoneSmooth
@@ -943,10 +930,8 @@ oreSilver
 diamondNugget
 cobaltRod
 orePhosphorite
-flowerDeathbloom
 componentHVCapacitor
 glass
-Diamond
 groundCopper
 blockMeutoite
 cropAlmond
@@ -954,6 +939,7 @@ dustShadow Steel
 ingotShadow Steel
 gemDiamond
 itemCircuitAdvanced
+gearEnergized
 cropHops
 oreNetherCopper
 oreSaltpeter
