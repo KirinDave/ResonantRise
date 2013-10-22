@@ -44,12 +44,6 @@
         website="http://tinyurl.com/nfggpfa" donation="http://tinyurl.com/q8u29zr"
         description="" />
 		
-	<mod url="packs/ResonantRise/files/mod_zGraviSuite_1_9_6_IC2_EXP.zip" file="mod_zGraviSuite_1_9_6_IC2_EXP.zip" md5="625c52752fd9d9641316edd4b1c68639" download="server"
-         name="Gravitation Suite" depends="IndustrialCraft2"  type="mods" 
-         version="1.9.6-EXP" 
-         website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=6915" 
-         description="Gravity Suit in flight. Afternoon delight."  />
-	
 	<mod url="packs/ResonantRise/files/Luma-0.2.2.jar" file="Luma-0.2.2.jar" md5="8b55cf6fbe8537da75cce0d3c4fae58f" download="server"
          name="Luma"  type="mods" 
          version="0.2.2" website="http://www.kelmai.com/luma/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=NAZUR5CTQ46HU" description=""  />
@@ -58,12 +52,6 @@
 		name="Mystcraft" type="mods" version="0.10.6.00"
 		website="http://binarymage.com/2013/07/03/mystcraft-0-10-5-00/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=AR248QCA88KYG"
 		description=""  />
-	
-	<mod url="packs/ResonantRise/files/[1.6.4]ReiMinimap_v3.4_01.zip" file="[1.6.4]ReiMinimap_v3.4_01.zip" md5="d263cc04f492cee0e7b17ea1ef628bc9" download="server"
-        name="Rei's Minimap"  type="mods" server="no" optional="yes" group="Minimap"
-        version="3.4_01" 
-        website="http://www.minecraftforum.net/topic/482147-" 
-        description="Multiple minimap options ahoy!" />
 	
 	== MOD W/ DISTRO PERMS SKELETON ==
 	
