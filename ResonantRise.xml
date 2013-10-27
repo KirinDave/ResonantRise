@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.2.3a-BETA</version>
+    <version>2.2.4-BETA</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -429,10 +429,6 @@
 	<mod url="http://addons.curse.cursecdn.com/files/720/249/flatsigns-1.6.2-universal-1.4.0.15.jar" 
          md5="581BF79ECBDA0132101FFCD0BA165FA0"
 		 file="flatsigns-1.6.2-universal-1.4.0.15.jar" download="direct" name="Flat Signs" type="mods" version="1.4.0.15" website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/" description="" 
-         />
-	<mod url="http://adf.ly/WN8YW"
-		 md5="FD709178CAD7E1B55F716AC166FDFD93"
-         file="Minegicka II 1.4.2 for MC1.6.4.zip" download="browser" name="Minegicka II" type="mods" version="1.4.1" website="http://www.minecraftforum.net/topic/1897122-152162-minegicka-ii-141-safe-and-sound/#download" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=7CZRAYDBN7MDY&amp;lc=VN&amp;item_name=Minegicka%202&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted" description="" 
          />
 	<mod url="http://adf.ly/X2wgF"
 		 md5="B1E2E34B388A38D94BFCD3F4E01309D5"
