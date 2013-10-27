@@ -281,7 +281,7 @@
         name="Slick Util [MPS]" type="mods" version="?"
         website="http://www.machinemuse.net"
         description="MPS Utils" />
-	<mod url="packs/ResonantRise/files/2.2/_0a_MineFactoryReloaded-2.7.1-36.jar" file="_0a_MineFactoryReloaded-2.7.1-36.jar" md5="7e7c8c1dd76e8c1ce4999199ac468801" download="server"
+	<mod url="packs/ResonantRise/files/2.2/00000_MineFactoryReloaded-2.7.1-36.jar" file="00000_MineFactoryReloaded-2.7.1-36.jar" md5="7e7c8c1dd76e8c1ce4999199ac468801" download="server"
         name="MineFactory Reloaded [Skyboy Fork]" type="mods" version="2.7.1-36"
         website="http://tinyurl.com/qhupt9g"
         description="Originally by PowerCrystals" />
