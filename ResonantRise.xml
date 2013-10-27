@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.2.2b-BETA</version>
+    <version>2.2.4-BETA</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -25,9 +25,9 @@
           name="Forge" type="forge" version="9.11.1.916" website="http://www.minecraftforge.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" description="The Core." />
     <mod url="packs/ResonantRise/files/2.2/iChunUtil2.3.0.zip" file="iChunUtil2.3.0.zip" md5="9c370bb6b27c4b670634552302f94422" download="server"
          name="iChunUtil" type="mods" version="2.3.0" website="http://ichun.us/mods/ichun-util/" donation="http://pitchinbox.com/redirect.php?id=9657538021" description="Library pack for iChun's mods."  />
-    <mod url="packs/ResonantRise/files/2.2/immibis-microblocks-57.1.0.jar" file="immibis-microblocks-57.1.0.jar" md5="f81401d86b4ad20eb3353d58709577e9" download="server"
+    <mod url="packs/ResonantRise/files/2.2/immibis-microblocks-57.1.1.jar" file="immibis-microblocks-57.1.1.jar" md5="944ef924866592650d01d2659ebedd9d" download="server"
          name="Immibis Microblocks" depends="ImmibisCore" type="coremods" 
-         version="57.1.0" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description=""  />
+         version="57.1.1" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description=""  />
     <mod url="packs/ResonantRise/files/2.2/AdvancedReactors-1.6.2_1.0.4-exp.jar" file="AdvancedReactors-1.6.2_1.0.4-exp.jar" md5="4ae55b4b66e602fc98916c040f2a5ad3" download="server"
         name="Advanced Reactors" type="mods" version="1.0.4-exp"
         website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9212"
@@ -70,9 +70,9 @@
          version="rv14-dev2"
          website="http://ae-mod.info/" donation="http://ae-mod.info/" 
          description="" />
-	<mod url="packs/ResonantRise/files/2.2/ArsMagica_1.0.1.zip" file="ArsMagica_1.0.1.zip" md5="042c7013ebbef37300486674658a50af" download="server"
+	<mod url="packs/ResonantRise/files/2.2/AM2_1.0.2.zip" file="AM2_1.0.2.zip" md5="f7846684534900c2ffe355fd285526d0" download="server"
          name="Ars Magica 2 [by Mithion]" optional="no" type="mods" 
-         version="1.0.1"
+         version="1.0.2"
          website="http://tinyurl.com/m2q52kn" donation="http://tinyurl.com/nsqjg5f" 
          description="" />
     <mod url="packs/ResonantRise/files/2.2/backpack-1.18.17-1.6.2.zip" file="backpack-1.18.17-1.6.2.zip" md5="bd0c29fcdfc360638fa9e900856aac0e" download="server"
@@ -108,8 +108,8 @@
          version="1.1.2.51"
          website="https://github.com/BiomesOPlenty/BiomesOPlenty/releases" donation="https://www.paypal.com/cgi-bin7webscr?cmd=_donations&amp;business=U58BHXTK8LLRQ&amp;lc=US&amp;item_name=Biomes%20O%27%20Plenty&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="More Everything." />
-    <mod url="packs/ResonantRise/files/2.2/Blood%20Magic%20v0.5.2.zip" file="Blood Magic v0.5.2.zip" md5="27b82487726892eec56844a694df308d" download="server"
-         name="Blood Magic" type="mods" website="http://www.minecraftforum.net/topic/1899223-" version="0.5.2" description="Alphonse, not nose piercing."/>
+    <mod url="packs/ResonantRise/files/2.2/Blood%20Magic%20v0.6.0.zip" file="Blood Magic v0.6.0.zip" md5="b205f435af309aa29dbcf8474acec110" download="server"
+         name="Blood Magic" type="mods" website="http://www.minecraftforum.net/topic/1899223-" version="0.6.0" description="Alphonse, not nose piercing."/>
     <mod url="packs/ResonantRise/files/2.2/buildcraft-A-1.6.2-4.1.0.jar" file="buildcraft-A-1.6.2-4.1.0.jar" md5="5ea3380aefb3afd3e58d3a62c2ee7892" download="server"
          name="Buildcraft" type="mods"  version="4.1.0"
          website="http://www.mod-buildcraft.com/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=KQWXKT6KK7SH4"
@@ -192,8 +192,8 @@
          name="ExtraTiC" depends="Tinker's Construct"  type="mods" version="0.5.2" 
          website="http://www.minecraftforum.net/topic/1985397-" 
          description=""  />
-    <mod url="packs/ResonantRise/files/2.2/extrautils%20-%200.3-frgc.zip" file="extrautils - 0.3-frgc.zip" md5="440147f2bacfa8cb3c5160b6c570b20c" download="server"
-         name="Extra Utilities"  type="mods" version="0.3-frgc" 
+    <mod url="packs/ResonantRise/files/2.2/extrautils%20-%200.3.2.zip" file="extrautils - 0.3.2.zip" md5="66578fd5e5d772889c17f9214af652df" download="server"
+         name="Extra Utilities"  type="mods" version="0.3.2" 
          website="http://www.minecraftforum.net/topic/1776056-15xforge-extra-utilities-v024d/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=AAJGAD54WB7RQ"
          description="Angel Blocks? Angel Blocks!" />
 	<mod url="packs/ResonantRise/files/2.2/forgeirc-1.6.2-cpwbuild2.jar" file="forgeirc-1.6.2-cpwbuild2.jar" md5="1ec01792f4c40ada5b1761262ea25fdd" download="server"
@@ -281,7 +281,7 @@
         name="Slick Util [MPS]" type="mods" version="?"
         website="http://www.machinemuse.net"
         description="MPS Utils" />
-	<mod url="packs/ResonantRise/files/2.2/_0a_MineFactoryReloaded-2.7.1-36.jar" file="_0a_MineFactoryReloaded-2.7.1-36.jar" md5="7e7c8c1dd76e8c1ce4999199ac468801" download="server"
+	<mod url="packs/ResonantRise/files/2.2/00000_MineFactoryReloaded-2.7.1-36.jar" file="00000_MineFactoryReloaded-2.7.1-36.jar" md5="7e7c8c1dd76e8c1ce4999199ac468801" download="server"
         name="MineFactory Reloaded [Skyboy Fork]" type="mods" version="2.7.1-36"
         website="http://tinyurl.com/qhupt9g"
         description="Originally by PowerCrystals" />
@@ -344,14 +344,6 @@
          name="Project Red: World" type="mods" version="4.0.5.12"
          website="http://tinyurl.com/oqj5j6l" donation="http://tinyurl.com/qbuhrho"
          description="RedPower2 Clone" />
-    <mod url="packs/ResonantRise/files/2.2/Resonant_Induction_v0.2.2.206.jar" file="Resonant_Induction_v0.2.2.206.jar" md5="4dbfd0fba05d9d695bfd0339dbdbb84f" download="server"
-         name="Resonant Induction" version="0.2.0.206" type="mods"
-         website="http://universalelectricity.com/resonant-induction" donation="http://universalelectricity.com/resonant-induction"
-         description="" />
-	<mod url="packs/ResonantRise/files/2.2/SoulShards-1.0.39-universal-srg.jar" file="SoulShards-1.0.39-universal-srg.jar" md5="332cd72fe7149ee70456ab7922099caf" download="server"
-        name="Soul Shards" type="mods" version="1.0.39"
-        website="http://www.minecraftforum.net/topic/1475847-"
-        description="" />
 	<mod url="packs/ResonantRise/files/2.2/StevesCarts2.0.0.a133.zip" file="StevesCarts2.0.0.a133.zip" md5="1ce27e0574393a9e4d236e1115bc20de" download="server"
          name="Steve's Carts"  type="mods" 
          version="2.0.0.a133" 
@@ -361,9 +353,9 @@
         name="Super Crafting Frame" type="mods" version="1.6.2.7"
         website="http://www.minecraftforum.net/topic/1870830-"
         description="" />
-    <mod url="packs/ResonantRise/files/2.2/TConstruct_1.6.4_1.5.0d6.jar" file="TConstruct_1.6.4_1.5.0d6.jar" md5="b1b519a321138c6f264768433a8d83cc" download="server"
+    <mod url="packs/ResonantRise/files/2.2/TConstruct_1.6.4_1.5.0d7.jar" file="TConstruct_1.6.4_1.5.0d7.jar" md5="1e0b3ef0c8c066f77ef5512a0b38ecc7" download="server"
          name="Tinker's Construct"  type="mods" 
-         version="1.5.0d6" 
+         version="1.5.0d7" 
          website="http://www.minecraftforum.net/topic/1659892-15xtinkers-construct/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=56Q7K92KRPW2N&amp;lc=US&amp;item_name=Tinkers%20Construct&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
          description="Dat Glass, Dem Tools" />
     <mod url="packs/ResonantRise/files/2.2/Translocator%201.1.0.13.jar" file="Translocator 1.1.0.13.jar" md5="33acf4d7617611afdb46d1d6a7234bdd" download="server"
@@ -438,10 +430,6 @@
          md5="581BF79ECBDA0132101FFCD0BA165FA0"
 		 file="flatsigns-1.6.2-universal-1.4.0.15.jar" download="direct" name="Flat Signs" type="mods" version="1.4.0.15" website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/" description="" 
          />
-	<mod url="http://adf.ly/WN8YW"
-		 md5="FD709178CAD7E1B55F716AC166FDFD93"
-         file="Minegicka II 1.4.2 for MC1.6.4.zip" download="browser" name="Minegicka II" type="mods" version="1.4.1" website="http://www.minecraftforum.net/topic/1897122-152162-minegicka-ii-141-safe-and-sound/#download" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=7CZRAYDBN7MDY&amp;lc=VN&amp;item_name=Minegicka%202&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted" description="" 
-         />
 	<mod url="http://adf.ly/X2wgF"
 		 md5="B1E2E34B388A38D94BFCD3F4E01309D5"
          file="Railcraft_1.6.2-8.1.0.0.jar" download="browser" name="Railcraft" type="mods" version="8.1.0.0" website="http://www.railcraft.info/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HCQMGHQ4D5GQ4" description="" 
@@ -467,14 +455,30 @@
 		 file="Thaumcraft4.0.3a.zip" download="browser" name="Thaumcraft 4" optional="yes" type="mods" version="4.0.3a" website="http://tinyurl.com/kg3t8dv" donation="http://tinyurl.com/nfptdtz" description="The Ur Magic Mod for Minecraft!" 
          />
 	<mod url="http://adf.ly/WsDke"
-		 md5="A405AE111D09675D95209EDFF79AD4F9"
-         file="ThaumicTinkerer 2.0-21.jar" download="browser" depends="Thaumcraft 4" optional="yes" name="Thaumic Tinkerer" type="mods" version="2.0-21" website="http://tinyurl.com/qz5wzps" description="" 
+         file="ThaumicTinkerer 2.0-22.jar" download="browser" depends="Thaumcraft 4" optional="yes" name="Thaumic Tinkerer" type="mods" version="2.0-22" website="http://tinyurl.com/qz5wzps" description="" 
          />
 	<mod url="http://tinyurl.com/q8nvob9"
 		 md5="CFF13CB8A0751CEE8568602204E02C03"
          file="Witchery_164_0-7-2.zip" download="browser" optional="yes" name="Witchery" type="mods" version="0.7.2" website="https://sites.google.com/site/witcherymod/home" description="More magic with a witch's bent!" 
          />
+        <mod url="http://repo.creeperhost.net/downloads/ichun/files%5EMorph-Beta-0.3.0.zip"
+             file="Morph-Beta-0.3.0.zip"
+             download="browser"
+             optional="yes"
+             name="Morph"
+             type="mods"
+             version="0.3.0"
+             website="http://ichun.us/mods/morph/"
+             description="Once in the arctic..." />
 
+        <mod url="http://binarymage.com/mystcraft/publish/mystcraft-uni-1.6.4-0.10.9.00.zip"
+             file="mystcraft-uni-1.6.4-0.10.9.00.zip"
+             download="direct"
+             name="MystCraft"
+             type="mods"
+             version="0.10.9.00"
+             website="http://binarymage.com/"
+             description="You know it, you love it." />
 
 
   </mods>
