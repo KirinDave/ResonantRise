@@ -476,7 +476,7 @@
              download="direct"
              name="MystCraft"
              type="mods"
-             optiona="yes"
+             optional="yes"
              version="0.10.9.00"
              website="http://binarymage.com/"
              description="You know it, you love it." />
