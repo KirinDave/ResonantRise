@@ -98,6 +98,7 @@ block {
     I:"Stone Torch"=1484
     I:"Tool Forge"=1468
     I:"Wood Tool Station"=1471
+    I:"Wooden Rail"=3250
     I:"Wool Slab 1"=3244
     I:"Wool Slab 2"=3245
 }
