@@ -47,6 +47,9 @@
     <mod url="packs/ResonantRise/files/2.2/CodeChickenCore%200.9.0.6.jar" file="CodeChickenCore 0.9.0.6.jar" md5="a32c204823038b49057d16a13ad8ab41" download="server"
          name="CodeChickenCore" type="mods" 
          version="0.9.0.6" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="" />
+	<mod url="packs/ResonantRise/files/2.3/CodeChickenLib-universal-1.6.4-1.0.0.36.jar" file="CodeChickenLib-universal-1.6.4-1.0.0.36.jar" md5="2d655f94648d8aecf2c1cae3a3ab8f99" download="server"
+         name="CodeChickenLib" type="mods" 
+         version="1.0.0.36" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Libraries for the ChickenSuite!" />
 	<mod url="packs/ResonantRise/files/2.2/ForgeMultipart-universal-1.6.4-1.0.0.193.jar" file="ForgeMultipart-universal-1.6.4-1.0.0.193.jar" md5="4be1f96e1b46c56e006c86c580d7ab12" download="server"
          name="Forge Multipart" type="mods" 
          version="1.0.0.193" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="" />
