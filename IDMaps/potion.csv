@@ -23,7 +23,6 @@ ID,Unlocalised name,Class
 22,potion.absorption,net.minecraft.potion.PotionAbsoption
 23,potion.saturation,net.minecraft.potion.PotionHealth
 24,ic2.potion.radiation,ic2.core.IC2Potion
-29,potion.soulshatter,thaumcraft.common.items.PotionSoulShatter
 30,potion.fluxtaint,thaumcraft.common.items.PotionFluxTaint
 32,Water Breathing,am2.buffs.ArsMagicaPotion
 33,Flight,am2.buffs.ArsMagicaPotion
