@@ -1,10 +1,7 @@
 
 
     <!-- TODO MODS -->
-    <!-- <mod url="packs/ResonantRise/files/Chococraft_2.8.8.zip" file="Chococraft_2.8.8.zip" md5="49b269f3bfc519b0f541cfd0fca68a76" download="server"
-         name="ChocoCraft" type="mods" version="2.8.8"
-         website="http://www.minecraftforum.net/topic/1119809-"
-         description="Wark?" />
+    <!-- 
 
     <mod url="packs/ResonantRise/files/DimensionalDoors-1.5.2R1.4.1RC1-195.zip" file="DimensionalDoors-1.5.2R1.4.1RC1-195.zip" md5="e3fb5800a3cf792e6c96e118b7784b95" download="server"
          name="Dimensional Doors"  type="mods"  
@@ -48,11 +45,6 @@
          name="Luma"  type="mods" 
          version="0.2.2" website="http://www.kelmai.com/luma/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=NAZUR5CTQ46HU" description=""  />
     
-	<mod url="http://binarymage.com/mystcraft/publish/mystcraft-uni-1.6.2-0.10.6.00.zip" file="mystcraft-uni-1.6.2-0.10.6.00.zip" download="direct"
-		name="Mystcraft" type="mods" version="0.10.6.00"
-		website="http://binarymage.com/2013/07/03/mystcraft-0-10-5-00/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=AR248QCA88KYG"
-		description=""  />
-	
 	== MOD W/ DISTRO PERMS SKELETON ==
 	
     <mod url="PLACEHOLDER" file="PLACEHOLDER" md5="LONG STRING OF TEXT" download="server"
