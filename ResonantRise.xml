@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.2.4a-BETA</version>
+    <version>2.2.6-BETA</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -164,16 +164,16 @@
          name="EmasherResource" type="mods" version="1.2.1.4"
          website="http://emashersmods.wikispaces.com"
          description="Build big or build tiny." />
-    <mod url="packs/ResonantRise/files/2.2/EngineersToolbox-1.1.5.0.zip" file="EngineersToolbox-1.1.5.0.zip" md5="9313d8852982a11e401f49bc7d79537d" download="server"
-         name="Engineer's Toolbox" type="mods" version="1.1.5.0"
+    <mod url="packs/ResonantRise/files/2.2/EngineersToolbox-1.1.5.1.zip" file="EngineersToolbox-1.1.5.1.zip" md5="7103239f0046849752bafc17208c940b" download="server"
+         name="Engineer's Toolbox" type="mods" version="1.1.5.1"
          depends="EmasherResource"
          website="http://emashersmods.wikispaces.com"
          description="Build big or build tiny." />
     <mod url="packs/ResonantRise/files/2.2/EnderStorage%201.4.3.4.jar" file="EnderStorage 1.4.3.4.jar" md5="d63b5cb53610dfe2ca9e8a492c922565" download="server"
          name="Ender Storage" depends="CodeChickenCore"  type="mods"  
          version="1.4.3.4" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description=""  />
-    <mod url="packs/ResonantRise/files/2.2/EnderIO-1.6.4-0.3.3.18.jar" file="EnderIO-1.6.4-0.3.3.18.jar" md5="dc2a4c92b80e595a84085f9a36b9651b" download="server"
-		name="EnderIO" type="mods" version="0.3.3.18"
+    <mod url="packs/ResonantRise/files/2.2/EnderIO-1.6.4-0.4.1.40.jar" file="EnderIO-1.6.4-0.4.1.40.jar" md5="d4736bb8829c82f1b5834aa64fdd7ac7" download="server"
+		name="EnderIO" type="mods" version="0.4.1.40"
 		website="http://www.minecraftforum.net/topic/1937619-"
 		description="" />
 	<mod url="packs/ResonantRise/files/2.2/EnhancedCore_1.1.3.jar" file="EnhancedCore_1.1.3.jar" md5="fa87514cd28a2c323c2872412fce1f15" download="server"
@@ -192,8 +192,8 @@
          name="ExtraTiC" depends="Tinker's Construct"  type="mods" version="0.5.2" 
          website="http://www.minecraftforum.net/topic/1985397-" 
          description=""  />
-    <mod url="packs/ResonantRise/files/2.2/extrautils%20-%200.3.2.zip" file="extrautils - 0.3.2.zip" md5="66578fd5e5d772889c17f9214af652df" download="server"
-         name="Extra Utilities"  type="mods" version="0.3.2" 
+    <mod url="packs/ResonantRise/files/2.2/extrautils%20-%200.3.4.zip" file="extrautils - 0.3.4.zip" md5="5b521020934ce56ed84bcbab2d737560" download="server"
+         name="Extra Utilities"  type="mods" version="0.3.4" 
          website="http://www.minecraftforum.net/topic/1776056-15xforge-extra-utilities-v024d/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=AAJGAD54WB7RQ"
          description="Angel Blocks? Angel Blocks!" />
 	<mod url="packs/ResonantRise/files/2.2/forgeirc-1.6.2-cpwbuild2.jar" file="forgeirc-1.6.2-cpwbuild2.jar" md5="1ec01792f4c40ada5b1761262ea25fdd" download="server"
@@ -208,8 +208,8 @@
          name="Forestry" type="mods"  version="2.3.0.6" 
          website="http://forestry.sengir.net/wiki.new/" donation="http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads#donations" 
          description=""  />
-    <mod url="packs/ResonantRise/files/2.2/GasCraft-2.0.2.0.zip" file="GasCraft-2.0.2.0.zip" md5="65595b15003fbedc1c2b82c95594eee0" download="server"
-        name="GasCraft" type="mods" version="2.0.1.1"
+    <mod url="packs/ResonantRise/files/2.2/GasCraft-2.0.2.1.zip" file="GasCraft-2.0.2.1.zip" md5="b2b4e8b66fd2414a27f3292ed9a713b1" download="server"
+        name="GasCraft" type="mods" version="2.0.2.1"
         website="http://emashersmods.wikispaces.com/Downloads"
         description="Flutey Toot." />
     <mod url="packs/ResonantRise/files/2.2/mod_zGraviSuite_1_9_8_MC_1_6_4_IC_EXP.zip" file="mod_zGraviSuite_1_9_8_MC_1_6_4_IC_EXP.zip" md5="a74da90012db6f06303e3c1428f99066" download="server"
@@ -232,8 +232,8 @@
     <mod url="packs/ResonantRise/files/2.2/OpenPeripheral-0.2.1-forge9.11.0.883-snapshot-68.jar" file="OpenPeripheral-0.2.1-forge9.11.0.883-snapshot-68.jar" md5="97c098b2f402aa97149381475f2a41c0" download="server"
          name="OpenPeripherals" version="0.2.1-snapshot-68" 
          website="http://www.openperipheral.info/" description="" type="mods" />
-    <mod url="packs/ResonantRise/files/2.2/industrialcraft-2_2.0.278-experimental.jar" file="industrialcraft-2_2.0.278-experimental.jar" md5="baf917b2f61180814e0ce455798e3818" download="server"
-         name="IndustrialCraft2"  type="mods" version="2.0.278" 
+    <mod url="packs/ResonantRise/files/2.2/industrialcraft-2_2.0.281-experimental.jar" file="industrialcraft-2_2.0.281-experimental.jar" md5="a61752551750d92d79d9a4ff9a29255f" download="server"
+         name="IndustrialCraft2"  type="mods" version="2.0.281" 
          website="http://www.industrial-craft.net/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=RHLW3YE3T848Q"
          description=""  />
 	<mod url="packs/ResonantRise/files/2.2/infinitubes-57.0.0.jar" file="infinitubes-57.0.0.jar" md5="fe892de01a90b6df439302533ca77e66" download="server"
@@ -344,6 +344,12 @@
          name="Project Red: World" type="mods" version="4.0.5.12"
          website="http://tinyurl.com/oqj5j6l" donation="http://tinyurl.com/qbuhrho"
          description="RedPower2 Clone" />
+        <mod url="packs/ResonantRise/files/2.2/SoulShards-2.0.11-universal-srg.jar" file="SoulShards-2.0.11-universal-srg.jar" md5="31263ff8549c249f79f44cae44ab9ae3" download="server"
+             name="SoulShards 2"
+             type="mods"
+             version="2.0.11"
+             website="http://www.minecraftforum.net/topic/1475847-164-forgeirc-v1018-soul-shards-v2010-and-recipe-remover-v11-updated-10292013/"
+             description="Make a custom spawner. Work really hard. Still feel empty inside." />
 	<mod url="packs/ResonantRise/files/2.2/StevesCarts2.0.0.a133.zip" file="StevesCarts2.0.0.a133.zip" md5="1ce27e0574393a9e4d236e1115bc20de" download="server"
          name="Steve's Carts"  type="mods" 
          version="2.0.0.a133" 
@@ -430,9 +436,8 @@
          md5="581BF79ECBDA0132101FFCD0BA165FA0"
 		 file="flatsigns-1.6.2-universal-1.4.0.15.jar" download="direct" name="Flat Signs" type="mods" version="1.4.0.15" website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/" description="" 
          />
-	<mod url="http://adf.ly/X2wgF"
-		 md5="B1E2E34B388A38D94BFCD3F4E01309D5"
-         file="Railcraft_1.6.2-8.1.0.0.jar" download="browser" name="Railcraft" type="mods" version="8.1.0.0" website="http://www.railcraft.info/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HCQMGHQ4D5GQ4" description="" 
+	<mod url="http://adf.ly/YQNMx"
+         file="Railcraft_1.6.2-8.2.0.0.jar" download="browser" name="Railcraft" type="mods" version="8.2.0.0" website="http://www.railcraft.info/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HCQMGHQ4D5GQ4" description="" 
          depends="Buildcraft"/>
     <mod url="http://adf.ly/X6VCj"
 		 md5="62250E7C56E17EDC97BC90BBEC92A8EC"
@@ -455,7 +460,7 @@
 		 file="Thaumcraft4.0.3a.zip" download="browser" name="Thaumcraft 4" optional="yes" type="mods" version="4.0.3a" website="http://tinyurl.com/kg3t8dv" donation="http://tinyurl.com/nfptdtz" description="The Ur Magic Mod for Minecraft!" 
          />
 	<mod url="http://adf.ly/WsDke"
-         file="ThaumicTinkerer 2.0-22.jar" download="browser" depends="Thaumcraft 4" optional="yes" name="Thaumic Tinkerer" type="mods" version="2.0-22" website="http://tinyurl.com/qz5wzps" description="" 
+         file="ThaumicTinkerer 2.0-24.jar" download="browser" depends="Thaumcraft 4" optional="yes" name="Thaumic Tinkerer" type="mods" version="2.0-24" website="http://tinyurl.com/qz5wzps" description="" 
          />
 	<mod url="http://tinyurl.com/q8nvob9"
 		 md5="CFF13CB8A0751CEE8568602204E02C03"
@@ -471,13 +476,13 @@
              website="http://ichun.us/mods/morph/"
              description="Once in the arctic..." />
 
-        <mod url="http://binarymage.com/mystcraft/publish/mystcraft-uni-1.6.4-0.10.9.00.zip"
-             file="mystcraft-uni-1.6.4-0.10.9.00.zip"
+        <mod url="http://binarymage.com/mystcraft/publish/mystcraft-uni-1.6.4-0.10.10.00.zip"
+             file="mystcraft-uni-1.6.4-0.10.10.00.zip"
              download="direct"
              name="MystCraft"
              type="mods"
-             optiona="yes"
-             version="0.10.9.00"
+             optional="yes"
+             version="0.10.10.00"
              website="http://binarymage.com/"
              description="You know it, you love it." />
 
