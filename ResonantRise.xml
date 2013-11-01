@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.3.0-BETA</version>
+    <version>2.3.0a-BETA</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -278,8 +278,8 @@
         name="Modular Power Suits" type="mods" version="0.8.0-24"
         website="http://www.machinemuse.net" donation="http://tinyurl.com/mjsd7eh"
         description="" />
-	<mod url="packs/ResonantRise/files/2.3/Numina-1.6.2-0.0.1-23.jar" file="Numina-1.6.2-0.0.1-23.jar" md5="c15496e1dd435ba4943ba9edd67b2621" download="server"
-        name="Numina" type="mods" version="0.0.1-23"
+	<mod url="packs/ResonantRise/files/2.2/Numina-1.6.2-0.0.1-20.jar" file="Numina-1.6.2-0.0.1-20.jar" md5="d432c94f77862ec27e1e52b2d1bb482e" download="server"
+        name="Numina" type="mods" version="0.0.1-20"
         website="http://www.machinemuse.net" donation="http://tinyurl.com/mjsd7eh"
         description="MachineMuse's new API for her mods" />
 	<mod url="packs/ResonantRise/files/2.2/slick-util.jar" file="slick-util.jar" md5="0b9db0b296b5eb1df8d11eb30dc87b8f" download="server"
