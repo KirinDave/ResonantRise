@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.3.0b-BETA</version>
+    <version>2.3.0c-BETA</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -457,12 +457,12 @@
          />     
     <mod url="http://adf.ly/V13HJ"
          md5="EA2EEF7EE8B876DBD6ADF6F8967B84D4"
-		 file="filespg^PortalGun2.0.1.zip" download="browser" name="iChun's PortalGun" type="mods" 
+		 file="PortalGun2.0.1.zip" download="browser" name="iChun's PortalGun" type="mods" 
          version="2.0.1" website="http://ichun.us/mods/portalgun/" donation="http://pitchinbox.com/redirect.php?id=9657538021" description=""
          depends="iChunUtil"/>
     <mod url="http://adf.ly/Sl4mL" 
          md5="BEFE475831348A070DC5DD45DE4DD94F"
-		 file="files^GravityGun2.0.0.zip" download="browser" name="GravityGun" type="mods" version="2.0.0" website="http://ichun.us/mods/gravity-gun/" donation="http://pitchinbox.com/redirect.php?id=9657538021" description="" 
+		 file="GravityGun2.0.0.zip" download="browser" name="GravityGun" type="mods" version="2.0.0" website="http://ichun.us/mods/gravity-gun/" donation="http://pitchinbox.com/redirect.php?id=9657538021" description="" 
          depends="iChunUtil"/>
 	<mod url="http://adf.ly/1311628/thaumcraft-4" 
          md5="55A827A9159D0CEECA24956CA363C827"
@@ -472,7 +472,7 @@
          file="ThaumicTinkerer 2.0-24.jar" download="browser" depends="Thaumcraft 4" optional="yes" name="Thaumic Tinkerer" type="mods" version="2.0-24" website="http://tinyurl.com/qz5wzps" description="" 
          />
 	<mod url="http://repo.creeperhost.net/downloads/ichun/files%5EMorph-Beta-0.3.0.zip"
-             file="files^Morph-Beta-0.3.0.zip"
+             file="Morph-Beta-0.3.0.zip"
              download="browser"
              optional="yes"
              name="Morph"
