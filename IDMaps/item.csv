@@ -496,6 +496,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 870,Block,ChargePads,tile.chargePad,myrathi.ic2.chargepads.block.BlockChargePad
 875,Block,CompactSolars,tile.CompactSolar,cpw.mods.compactsolars.BlockCompactSolar
 880,Block,IC2NuclearControl,tile.blockThermalMonitor,shedar.mods.ic2.nuclearcontrol.BlockNuclearControlMain
+885,Block,CompactWindmills,tile.compactWindmill,aroma1997.compactwindmills.BlockCompactWindmill
 890,Block,AdvancedReactors,tile.highTempMachine,phero.mods.advancedreactors.blocks.BlockHighTempMachine
 891,Block,AdvancedReactors,tile.blockReactor,phero.mods.advancedreactors.blocks.BlockReactor
 892,Block,AdvancedReactors,tile.blockReactorChamber,phero.mods.advancedreactors.blocks.BlockReactorChamber
@@ -1445,6 +1446,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 4072,Block,eng_toolbox,tile.paintedPlanks,emasher.sockets.BlockPaintedWood
 4073,Block,eng_toolbox,tile.groundLimestone,emasher.sockets.BlockGroundLimestone
 4074,Block,eng_toolbox,tile.null,emasher.sockets.BlockSlickwater
+4085,Block,Tubes,tile.Tubes:blockPlastic,net.minecraft.block.Block
 4089,Block,ExtraUtilities,tile.extrautils:dark_portal,extrautils.block.BlockPortal
 4090,Block,OpenBlocks,tile.openblocks.fan,openblocks.common.block.BlockFan
 4091,Block,TConstruct,tile.metal.molten.tin,tconstruct.blocks.LiquidMetalFinite
@@ -2787,6 +2789,9 @@ ID,Block/Item,Mod,Unlocalised name,Class
 23793,Item,EP2,item.miscItems,enhancedportals.item.ItemMiscellaneous
 23794,Item,EP2,item.networkCard,enhancedportals.item.ItemNetworkCard
 23795,Item,EP2,item.portalModifierUpgrade,enhancedportals.item.ItemPortalModifierUpgrade
+24157,Item,awger_Punt,item.Punt,mods.awger.punt.ItemPunt
+24158,Item,awger_Whitehall,item.Whitehall,mods.awger.whitehall.ItemWhitehall
+24159,Item,awger_Hoy,item.Hoy,mods.awger.hoy.ItemHoy
 24857,Item,chococraft,item.chocoboSaddle,chococraft.common.items.ChocoboItem
 24858,Item,chococraft,item.gysahl_seeds,chococraft.common.items.ItemGysahlSeeds
 24859,Item,chococraft,item.gysahl_loverly,chococraft.common.items.ChocoboItem
@@ -3430,6 +3435,12 @@ ID,Block/Item,Mod,Unlocalised name,Class
 29287,Item,Mariculture,item.liquidContainers,mariculture.core.items.ItemFluidContainer
 29288,Item,Mariculture,item.null,forestry.storage.items.ItemBackpack
 29289,Item,Mariculture,item.null,forestry.storage.items.ItemBackpack
+29756,Item,Tubes,item.redstoneCircuit,schmoller.tubes.items.BasicItem
+29757,Item,Tubes,item.bucketOfPlastic,schmoller.tubes.items.BasicItem
+29758,Item,Tubes,item.milkCurd,schmoller.tubes.items.BasicItem
+29759,Item,Tubes,item.sheetPlastic,schmoller.tubes.items.BasicItem
+29760,Item,Tubes,item.dustPlastic,schmoller.tubes.items.BasicItem
+29761,Item,Tubes,item.null,schmoller.tubes.parts.ItemTubeBase
 29997,Item,StevesCarts,item.SC2unknownmodule,vswe.stevescarts.Items.ItemCartModule
 29998,Item,StevesCarts,item.SC2unknowncomponent,vswe.stevescarts.Items.ItemCartComponent
 29999,Item,StevesCarts,item.SC2ModularCart,vswe.stevescarts.Items.ItemCarts
@@ -3675,6 +3686,11 @@ ID,Block/Item,Mod,Unlocalised name,Class
 31265,Item,IC2NuclearControl,item.ItemCounterSensorKit,shedar.mods.ic2.nuclearcontrol.items.ItemKitMultipleSensor
 31266,Item,IC2NuclearControl,item.null,shedar.mods.ic2.nuclearcontrol.items.ItemCardMultipleSensorLocation
 31267,Item,IC2NuclearControl,item.ItemTextCard,shedar.mods.ic2.nuclearcontrol.items.ItemCardText
+31600,Item,CompactWindmills,item.rotorWood,aroma1997.compactwindmills.ItemRotor
+31601,Item,CompactWindmills,item.rotorCarbon,aroma1997.compactwindmills.ItemRotor
+31602,Item,CompactWindmills,item.rotorIridium,aroma1997.compactwindmills.ItemRotor
+31603,Item,CompactWindmills,item.rotorAlloy,aroma1997.compactwindmills.ItemRotor
+31604,Item,CompactWindmills,item.rotorCloth,aroma1997.compactwindmills.ItemRotor
 31992,Item,Mariculture,item.food,mariculture.core.items.ItemFood
 31993,Item,Mariculture,item.battery,mariculture.core.items.ItemBattery
 31994,Item,extracells,FluidDisplay,extracells.items.ItemFluidDisplay

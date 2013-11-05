@@ -168,6 +168,7 @@ Jungle
 -------------------------------------
 --- Fluid list
 -------------------------------------
+plastic
 bop.springwater
 molten cobalt
 molten.mithril
@@ -773,6 +774,7 @@ nuggetNickel
 itemIngotCopper
 crystallineIron
 thaumiumRod
+blockPlastic
 dustDesichalkos
 dyeLightGray
 ingotKalendrite
