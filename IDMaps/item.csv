@@ -189,7 +189,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 243,Block,IC2,blockRubWood,ic2.core.block.BlockRubWood
 246,Block,IC2,blockOreLead,ic2.core.block.BlockMetaData
 247,Block,IC2,blockOreUran,ic2.core.block.BlockMetaData
-251,Block,ChickenChunks,tile.chickenChunkLoader,codechicken.chunkloader.BlockChunkLoader
 252,Block,EnderStorage,tile.enderchest,codechicken.enderstorage.common.BlockEnderStorage
 256,Block,Minecraft,tile.ForgeFiller,null
 257,Block,Minecraft,tile.ForgeFiller,null
@@ -440,6 +439,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 617,Block,RedLogic,tile.redlogic.custom-circuit,mods.immibis.redlogic.chips.ingame.BlockCustomCircuit
 618,Block,RedLogic,tile.null,mods.immibis.redlogic.RLMachineBlock
 619,Block,RedLogic,tile.null,mods.immibis.redlogic.RLNormalBlock
+620,Block,RedLogic,tile.null,mods.immibis.redlogic.lamps.BlockLampNonCube
+621,Block,RedLogic,tile.null,mods.immibis.redlogic.interaction.BlockLumarButton
 701,Block,EnderIO,tile.enderIO:blockEnderIo,crazypants.enderio.enderface.BlockEnderIO
 702,Block,EnderIO,tile.enderIO:blockConduitBundle,crazypants.enderio.conduit.BlockConduitBundle
 703,Block,EnderIO,tile.enderIO:blockConduitFacade,crazypants.enderio.conduit.facade.BlockConduitFacade
@@ -461,7 +462,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 719,Block,EnderIO,tile.enderIO:blockCrusher,crazypants.enderio.machine.crusher.BlockCrusher
 720,Block,EnderIO,tile.enderIO:blockHyperCube,crazypants.enderio.machine.hypercube.BlockHyperCube
 721,Block,EnderIO,tile.enderIO:blockPowerMonitor,crazypants.enderio.machine.monitor.BlockPowerMonitor
-813,Block,RedLogic,tile.null,mods.immibis.redlogic.interaction.BlockLumarButton
 816,Block,IC2,blockIronScaffold,ic2.core.block.BlockScaffold
 817,Block,IC2,blockBarrel,ic2.core.block.BlockBarrel
 818,Block,IC2,blockCrop,ic2.core.block.BlockCrop
@@ -609,7 +609,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1153,Block,arsmagica2,tile.arsmagica2:witchwoodSingleSlab,am2.blocks.WitchwoodSlabs
 1154,Block,arsmagica2,tile.arsmagica2:stairsWitchwood,am2.blocks.WitchwoodStairs
 1155,Block,arsmagica2,tile.arsmagica2:saplingWitchwood,am2.blocks.WitchwoodSapling
-1193,Block,RedLogic,tile.null,mods.immibis.redlogic.lamps.BlockLampNonCube
 1225,Block,ComputerCraft,tile.cccomputer,dan200.computer.shared.BlockComputerMFR
 1226,Block,ComputerCraft,tile.ccdiskdrive,dan200.computer.shared.BlockPeripheral
 1227,Block,CCTurtle,tile.ccturtle,dan200.turtle.shared.BlockTurtleMFR
@@ -1244,6 +1243,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 2842,Block,Chisel,tile.blockCloud,info.jbcs.minecraft.chisel.BlockCloud
 2843,Block,Chisel,tile.blockFactory,info.jbcs.minecraft.chisel.BlockMarble
 2844,Block,Chisel,tile.blockCarpetFloor,info.jbcs.minecraft.chisel.BlockMarbleCarpet
+2845,Block,Chisel,tile.blockTemple,info.jbcs.minecraft.chisel.BlockEldritch
 3000,Block,Mekanism,tile.BasicBlock,mekanism.common.block.BlockBasic
 3001,Block,Mekanism,tile.BoundingBlock,mekanism.common.block.BlockBounding
 3002,Block,Mekanism,tile.EnergyCube,mekanism.common.block.BlockEnergyCube
@@ -1445,7 +1445,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 4072,Block,eng_toolbox,tile.paintedPlanks,emasher.sockets.BlockPaintedWood
 4073,Block,eng_toolbox,tile.groundLimestone,emasher.sockets.BlockGroundLimestone
 4074,Block,eng_toolbox,tile.null,emasher.sockets.BlockSlickwater
-4088,Block,Chisel,tile.blockTemple,info.jbcs.minecraft.chisel.BlockEldritch
 4089,Block,ExtraUtilities,tile.extrautils:dark_portal,extrautils.block.BlockPortal
 4090,Block,OpenBlocks,tile.openblocks.fan,openblocks.common.block.BlockFan
 4091,Block,TConstruct,tile.metal.molten.tin,tconstruct.blocks.LiquidMetalFinite
@@ -2947,6 +2946,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 26119,Item,MagicBees,item.moonDial,magicbees.item.ItemMoonDial
 26120,Item,MagicBees,item.beeNugget,magicbees.item.ItemNugget
 26121,Item,MagicBees,item.magicbees:mysteriousMagnet,magicbees.item.ItemMysteriousMagnet
+26234,Item,Metallurgy3Machines,item.Metallurgy:machines/SawDust,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgy
+26235,Item,Metallurgy3Machines,item.MetallurgyOrb,rebelkeithy.mods.metallurgy.machines.orbs.ItemOrb
 26236,Item,Metallurgy3Base,item.Metallurgy:Utility/Bitumen,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgy
 26237,Item,Metallurgy3Base,item.Metallurgy:Utility/Fertilizer,rebelkeithy.mods.metallurgy.metals.utilityItems.ItemFertilizer
 26238,Item,Metallurgy3Base,item.Metallurgy:Utility/Magnesium,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgy
