@@ -21,14 +21,6 @@ ID,Unlocalised name,Type,Min Level,Max Level,Class
 49,enchantment.arrowKnockback,bow,1,2,net.minecraft.enchantment.EnchantmentArrowKnockback
 50,enchantment.arrowFire,bow,1,1,net.minecraft.enchantment.EnchantmentArrowFire
 51,enchantment.arrowInfinite,bow,1,1,net.minecraft.enchantment.EnchantmentArrowInfinite
-60,enchantment.appealing,fishingPole,1,5,rebelkeithy.mods.aquaculture.enchantments.EnchantmentAppealing
-61,enchantment.magnetic,fishingPole,1,5,rebelkeithy.mods.aquaculture.enchantments.EnchantmentMagnetic
-62,enchantment.longCast,fishingPole,1,5,rebelkeithy.mods.aquaculture.enchantments.EnchantmentLongCast
-63,enchantment.shortCast,fishingPole,1,5,rebelkeithy.mods.aquaculture.enchantments.EnchantmentShortCast
-65,enchantment.barbedHook,fishingPole,1,5,rebelkeithy.mods.aquaculture.enchantments.EnchantmentBardedHook
-66,enchantment.doubleHook,fishingPole,1,5,rebelkeithy.mods.aquaculture.enchantments.EnchantmentDoubleHook
-67,enchantment.digging,digger,1,5,rebelkeithy.mods.aquaculture.enchantments.EnchantmentEfficiencyFishing
-68,enchantment.heavyLine,fishingPole,1,5,rebelkeithy.mods.aquaculture.enchantments.EnchantmentHeavyLine
 100,enchantment.magicresist,armor,1,5,am2.enchantments.EnchantMagicResist
 104,enchantment.soulbound,all,1,1,am2.enchantments.EnchantmentSoulbound
 136,enchantment.tfFireReact,armor,1,1,twilightforest.EnchantmentTFFireReact

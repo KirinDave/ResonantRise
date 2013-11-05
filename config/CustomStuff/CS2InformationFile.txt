@@ -169,136 +169,127 @@ Jungle
 --- Fluid list
 -------------------------------------
 bop.springwater
+molten cobalt
 molten.mithril
+seared stone
 molten.eximite
 honey
 fishoil
 life essence
 molten.meutoite
-emerald.liquid
 myst.ink.black
 molten.oureclase
-cider
+molten gold
 mushroomsoup
 milk
 juice
 molten.desichalkos
 molten.adamantine
-glass.molten
+molten ardite
 chocolatemilk
 molten.rubracium
 sewage
-iron.molten
 molten.angmallen
 molten redstone
 naturalgas
 molten.tartarite
 blood
-vodka
 molten.prometheum
 sap
 platinum.molten
-manyullyn.molten
 nickel.molten
 fluxgoo
 uumatter
 gascraft_smoke
 vegetable
-steel.molten
+liquified emerald
 molten.kalendrite
 molten.midasium
 gascraft_toxicgas
 biomass
 gascraft_hydrogen
 liquidnitrogen
-cobalt.molten
 molten.lemurite
-uraniumhexafluoride
 gascraft_corrosivegas
+molten manyullyn
 oil
 immibis.liquidxp
-aluminumbrass.molten
+molten steel
 gascraft_naturalgas
 fortron
 molten.inolashite
-deuterium
-hotcocoa
 water
 molten.shadow.steel
 ic2coolant
-stone.seared
 fastwater
-copper.molten
-cookingoil
 molten.deep.iron
 turpentine
 molten.hepatizon
 peat
 xpjuice
-bronze.molten
+molten alumite
 bop.liquidpoison
 molten.manganese
 latex
+molten copper
 steam
-ardite.molten
 molten.orichalcum
 creosote
 sludge
 molten conductive redmetal
-beer
+molten obsidian
+molten aluminum
 silver.molten
 molten.vulcanite
 resin
 molten.carmot
-gold.molten
 molten.damascus.steel
 fishfood
 molten.celenegil
 molten.ignatius
 molten.alduorite
 liquidessence
-molten.astral.silver
 lead.molten
 molten.ceruclase
+molten.astral.silver
+molten iron
 bioethanol
 poison
 molten.zinc
 molten.sanguinite
-tin.molten
 mobessence
 seedoil
 slime.blue
+molten bronze
 slickwater
 electrum.molten
+molten aluminum brass
 molten.platinum
 constructionfoam
 molten.vyroxeres
 short.mead
 molten.infuscolium
 molten.haderoth
+molten glass
 molten.black.steel
 biofuel
 molten.brass
 molten.quicksilver
+molten tin
 ice
 meat
 glass
 fuel
-toxicwaste
-molten.atlarus
 liquiddna
+molten.atlarus
 molten.shadow.iron
 invar.molten
 liquidforce
-obsidian.molten
-alumite.molten
 gascraft_neurotoxin
 molten.amordrine
 acid
 lava
 gascraft_propellent
-aluminum.molten
-vinegar
 pinkslime
 ender
 
@@ -345,7 +336,6 @@ blockSilver
 dustNetherQuartz
 oreNetherRuby
 crystallineLead
-itemIngotTin
 dyeGreen
 blockOureclase
 nuggetTin
@@ -362,11 +352,11 @@ componentSolenoid
 gemPeridot
 dyeLightBlue
 blockElectrum
+blockFft
 oreManganese
-battery
 oreEximite
-dustDeep Iron
 dustHepatizon
+dustDeep Iron
 dyePurple
 woodStick
 itemBeeswax
@@ -389,16 +379,13 @@ plateRefinedIron
 componentControlCircuit
 dustTinySilver
 cropGrapefruit
-listAllfishcooked
 fuelCoke
 ingotBrass
 oreGalena
 aquaRegia
 cropRedBanana
-calclavia:ADVANCED_BATTERY
 crushedPurifiedLead
 ingotOsmium
-itemIngotBronze
 stoneRod
 stone
 cropPlantain
@@ -409,9 +396,8 @@ glassOrange
 nuggetIron
 oreNetherIron
 oreNetherGreenSapphire
-dustPrometheum
 logWood
-calclavia:BATTERY_BOX
+dustPrometheum
 plateLead
 oreNetherLapis
 wrench
@@ -420,7 +406,6 @@ cropPomelo
 crystallineManyullyn
 dyeRed
 dustTin
-ingotUranium
 oreNetherOsmium
 dustSaltpeter
 oreSulfur
@@ -429,7 +414,6 @@ dustSanguinite
 ingotIgnatius
 crushedTin
 blockLemurite
-itemPlateSteel
 cropSourCherry
 cropCranberry
 oreNetherSilver
@@ -437,7 +421,6 @@ oreNetherGold
 nuggetForce
 oreCertusQuartz
 stickWood
-copperCableBlock
 blockBrass
 slimeRod
 oreCobalt
@@ -472,7 +455,6 @@ cropMaloberry
 plateDenseIron
 netherrackRod
 taintedSoil
-itemCircuitElite
 ingotAmordrine
 cropCrabapple
 cropBlackthorn
@@ -480,6 +462,7 @@ blockAluminum
 glassYellow
 ingotNickel
 oreInfuscolium
+blockConcrete
 cropBuddhaHand
 mb.magnet.level1
 mb.magnet.level2
@@ -488,7 +471,6 @@ mb.magnet.level4
 mb.magnet.level5
 mb.magnet.level6
 mb.magnet.level7
-itemBitumen
 mb.magnet.level8
 dyeCyan
 paperRod
@@ -499,9 +481,11 @@ componentParachute
 blockVulcanite
 blockUranium
 woodRod
+blockTyrian
 componentIonThruster
 dustAngmallen
 glassLime
+mossystone
 itemRubber
 slimeBall
 ingotTartarite
@@ -543,7 +527,6 @@ coralLightBlue
 dustShadow Iron
 cropKeyLime
 oreSanguinite
-cropSeaweed
 dustVulcanite
 ingotSteel
 oreApatite
@@ -553,13 +536,13 @@ dustArdite
 ingotDamascus Steel
 ingotCopper
 glassBlack
-circuitElite
 cropBlackberry
 crystallineTin
 cropPotato
 sludge
 oreNetherPlatinum
 dustImpureCopper
+craftingToolWireCutter
 glassLightBlue
 ingotIron
 naturalAluminum
@@ -573,12 +556,10 @@ ingotShadow Iron
 dyeYellow
 nuggetAluminumBrass
 crushedSilver
+blockLavastone
 glassWhite
-calclavia:CIRCUIT_T3
 oreIgnatius
 groundGold
-calclavia:CIRCUIT_T2
-calclavia:CIRCUIT_T1
 blockTitanium
 cropButternut
 ingotElectrum
@@ -593,8 +574,6 @@ dustImpureNickel
 cropPlum
 ingotLemurite
 itemSuperconductor
-itemMotor
-calclavia:BATTERY
 blockAlduorite
 ingotAngmallen
 ingotDesichalkos
@@ -611,7 +590,6 @@ glassPink
 gearTin
 crushedCopper
 dustKalendrite
-cellEmpty
 gemRuby
 crystallineBronze
 stairWood
@@ -625,11 +603,11 @@ blockAdamantine
 dustSilver
 ingotManyullyn
 blockWool
+dustSiliconDioxide
 sulfuricAcid
 gemTopaz
 oreEmerald
 oreNetherEmerald
-blockRadioactive
 ingotAlduorite
 dustVyroxeres
 blockNaturalAluminum
@@ -638,22 +616,19 @@ itemIngotSteel
 cropElderberry
 cropOrange
 oreShadow Iron
-antimatterMilligram
 woodRubber
 dustWheat
-ingotAtlarus
 ingotRefinedObsidian
+ingotAtlarus
 itemClaw
 ingotInfernal
 ingotCeruclase
-itemCircuitBasic
 oreAlduorite
 crushedLead
 dustLithium
 alumiteRod
 nuggetSilver
 cropHazelnut
-calclavia:WIRE
 glassGray
 dustMithril
 coralMagenta
@@ -661,6 +636,7 @@ componentFieldEmitter
 blockHepatizon
 coralBrown
 itemFertilizer
+blockLimestone
 componentLVCapacitor
 dustTinyIron
 nuggetCobalt
@@ -676,18 +652,19 @@ ingotVyroxeres
 blockAstral Silver
 oreOureclase
 dustAluminum
-cellDeuterium
+blockCarpet
 ingotEximite
 cropWildCherry
 componentWiring
 dustEnderPearl
 dyeGray
 ingotManganese
+craftingToolForgeHammer
 ingotRubracium
 dustAmordrine
 oreNetherUranium
-ingotMithril
 oreDiamond
+ingotMithril
 dustCelenegil
 gearBronze
 crushedPurifiedCopper
@@ -698,7 +675,6 @@ ingotTitanium
 oreNetherRedstone
 blueslimeRod
 crystallinePlatinum
-motor
 ingotLead
 oreRubracium
 dustNickel
@@ -712,6 +688,7 @@ dustInvar
 coinGold
 dustQuartz
 ingotInvar
+blockMarble
 ingotDeep Iron
 dyePink
 blockCarmot
@@ -737,6 +714,7 @@ oreArdite
 dyeBlack
 cropTangerine
 oreElectrum
+blockHolystone
 glassBrown
 blockDeep Iron
 oreAluminum
@@ -765,9 +743,6 @@ ingotMeutoite
 groundAluminum
 cropMelon
 dustSteel
-strangeMatter
-plateSteel
-breederUranium
 ingotArdite
 ingotTin
 componentCarbonMyofiber
@@ -783,12 +758,10 @@ dustCeruclase
 groundTin
 ingotPrometheum
 dustOsmium
-batteryBox
 cropClove
 dyeWhite
 dustDiamond
 cropNectarine
-copperWire
 ingotHepatizon
 blockInolashite
 blockAluminumBrass
@@ -811,7 +784,6 @@ dustInolashite
 crystallineCopper
 oreQuartz
 dustTinyLithium
-blockOreTin
 glassLightGray
 cropLime
 itemBioFuel
@@ -820,10 +792,8 @@ oreMidasium
 dyeMagenta
 plateDenseObsidian
 cropBrazilNut
-calclavia:MOTOR
 dustEximite
 orePlatinum
-calclavia:WRENCH
 ingotOrichalcum
 coinPlatinum
 dropHoney
@@ -832,7 +802,6 @@ dustPhosphorus
 dustAlumite
 ingotInfuscolium
 dustTinyCopper
-itemPlateBronze
 dustMidasium
 coralPink
 ingotRefinedIron
@@ -842,6 +811,7 @@ blockVyroxeres
 gearElectrum
 projredIllumar
 blockTin
+dustBitumen
 oreVyroxeres
 componentMyofiberGel
 dyeLime
@@ -854,10 +824,8 @@ record
 cropChestnut
 ingotVulcanite
 oreTetrahedrite
-cellWater
 dustTinySulfur
 dustBrass
-cellUranium
 cropApricot
 gearInvar
 nuggetManyullyn
@@ -867,7 +835,6 @@ oreNetherDiamond
 blockAmordrine
 ingotTungsten
 groundSilver
-listAllfishraw
 waxMagical
 blockHaderoth
 dustTinyTin
@@ -878,7 +845,6 @@ cropManderin
 cropPumpkin
 crushedPurifiedGold
 dustAlduorite
-itemDustBronze
 blockKalendrite
 crystallineAlumite
 ingotMagnesium
@@ -888,10 +854,8 @@ circuitBasic
 blockBronze
 plateDenseLead
 ingotNaturalAluminum
-antimatterGram
 sheetPlastic
 dustTitanium
-circuitAdvanced
 oreZinc
 plantKelp
 dustAsh
@@ -902,6 +866,7 @@ crafterWood
 glassPurple
 plateTin
 ingotMeat
+blockCloud
 dustCertusQuartz
 ingotAluminumBrass
 nuggetThaumium
@@ -915,7 +880,6 @@ blockZinc
 alloyPlateEnergized
 cropPapaya
 ingotOureclase
-advancedBattery
 dustOureclase
 itemPollen
 ingotCarmot
@@ -923,7 +887,6 @@ glassCyan
 oreNetherSteel
 plateCopper
 cobblestone
-stoneMossy
 dustRubracium
 crystallineArdite
 dustImpureAluminum
@@ -942,6 +905,7 @@ dropRoyalJelly
 oreRedstone
 dustClay
 oreOsmium
+blockDirt
 dustPlatinum
 oreCopper
 cropBanana
@@ -959,15 +923,14 @@ diamondNugget
 coralRed
 cobaltRod
 orePhosphorite
-componentHVCapacitor
 glass
+componentHVCapacitor
 groundCopper
 blockMeutoite
 cropAlmond
 dustShadow Steel
 ingotShadow Steel
 gemDiamond
-itemCircuitAdvanced
 gearEnergized
 cropHops
 oreNetherCopper
@@ -1003,7 +966,7 @@ hunger
 weakness
 poison
 wither
-radiation
+healthBoost
 absorption
 saturation
 ic2.potion.radiation

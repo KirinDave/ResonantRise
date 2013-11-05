@@ -110,8 +110,9 @@ Item ID,Item meta,Has NBT,Display Name
 52,75,false,Monster Spawner
 52,76,false,Monster Spawner
 52,77,false,Monster Spawner
-52,79,false,Monster Spawner
+52,78,false,Monster Spawner
 52,80,false,Monster Spawner
+52,81,false,Monster Spawner
 52,219,false,Monster Spawner
 53,0,false,Oak Wood Stairs
 54,0,false,Chest
@@ -563,6 +564,7 @@ Item ID,Item meta,Has NBT,Display Name
 383,75,false,Spawn Cold Pig
 383,76,false,Spawn Ender Tot
 383,77,false,Spawn Creeper Tot
+383,78,false,Spawn Chu Chu
 383,90,false,Spawn Pig
 383,91,false,Spawn Sheep
 383,92,false,Spawn Cow
@@ -1032,22 +1034,14 @@ Item ID,Item meta,Has NBT,Display Name
 526,0,false,Custom Gate
 527,0,false,Custom Wall
 528,0,false,Custom Light
-530,0,false,Molten Aluminium
 531,0,false,Molten Titanium
 532,0,false,Fish Oil
-534,0,false,Molten Iron
-535,0,false,Molten Gold
-536,0,false,Molten Copper
-537,0,false,Molten Tin
 538,0,false,Molten Magnesium
-539,0,false,Molten Bronze
 540,0,false,Molten Lead
 541,0,false,Molten Silver
-542,0,false,Molten Steel
 543,0,false,Molten Nickel
 544,0,false,Fish Food
 545,0,false,Pressurised Water
-546,0,false,Molten Glass
 580,0,false,Terminal Glasses Bridge
 581,0,false,Peripheral Proxy
 582,0,false,PIM
@@ -1270,6 +1264,102 @@ Item ID,Item meta,Has NBT,Display Name
 719,0,false,SAG Mill
 720,0,false,Dimensional Transceiver
 721,0,false,Power Monitor
+813,0,false,White lumar button
+813,1,false,Orange lumar button
+813,2,false,Magenta lumar button
+813,3,false,Light blue lumar button
+813,4,false,Yellow lumar button
+813,5,false,Lime lumar button
+813,6,false,Pink lumar button
+813,7,false,Grey lumar button
+813,8,false,Light grey lumar button
+813,9,false,Cyan lumar button
+813,10,false,Purple lumar button
+813,11,false,Blue lumar button
+813,12,false,Brown lumar button
+813,13,false,Green lumar button
+813,14,false,Red lumar button
+813,15,false,Black lumar button
+813,16,false,White latchable lumar button
+813,17,false,Orange latchable lumar button
+813,18,false,Magenta latchable lumar button
+813,19,false,Light blue latchable lumar button
+813,20,false,Yellow latchable lumar button
+813,21,false,Lime latchable lumar button
+813,22,false,Pink latchable lumar button
+813,23,false,Grey latchable lumar button
+813,24,false,Light grey latchable lumar button
+813,25,false,Cyan latchable lumar button
+813,26,false,Purple latchable lumar button
+813,27,false,Blue latchable lumar button
+813,28,false,Brown latchable lumar button
+813,29,false,Green latchable lumar button
+813,30,false,Red latchable lumar button
+813,31,false,Black latchable lumar button
+813,32,false,White self-latching lumar button
+813,33,false,Orange self-latching lumar button
+813,34,false,Magenta self-latching lumar button
+813,35,false,Light blue self-latching lumar button
+813,36,false,Yellow self-latching lumar button
+813,37,false,Lime self-latching lumar button
+813,38,false,Pink self-latching lumar button
+813,39,false,Grey self-latching lumar button
+813,40,false,Light grey self-latching lumar button
+813,41,false,Cyan self-latching lumar button
+813,42,false,Purple self-latching lumar button
+813,43,false,Blue self-latching lumar button
+813,44,false,Brown self-latching lumar button
+813,45,false,Green self-latching lumar button
+813,46,false,Red self-latching lumar button
+813,47,false,Black self-latching lumar button
+813,256,false,White lumar plate
+813,257,false,Orange lumar plate
+813,258,false,Magenta lumar plate
+813,259,false,Light blue lumar plate
+813,260,false,Yellow lumar plate
+813,261,false,Lime lumar plate
+813,262,false,Pink lumar plate
+813,263,false,Grey lumar plate
+813,264,false,Light grey lumar plate
+813,265,false,Cyan lumar plate
+813,266,false,Purple lumar plate
+813,267,false,Blue lumar plate
+813,268,false,Brown lumar plate
+813,269,false,Green lumar plate
+813,270,false,Red lumar plate
+813,271,false,Black lumar plate
+813,272,false,White latchable lumar plate
+813,273,false,Orange latchable lumar plate
+813,274,false,Magenta latchable lumar plate
+813,275,false,Light blue latchable lumar plate
+813,276,false,Yellow latchable lumar plate
+813,277,false,Lime latchable lumar plate
+813,278,false,Pink latchable lumar plate
+813,279,false,Grey latchable lumar plate
+813,280,false,Light grey latchable lumar plate
+813,281,false,Cyan latchable lumar plate
+813,282,false,Purple latchable lumar plate
+813,283,false,Blue latchable lumar plate
+813,284,false,Brown latchable lumar plate
+813,285,false,Green latchable lumar plate
+813,286,false,Red latchable lumar plate
+813,287,false,Black latchable lumar plate
+813,288,false,White self-latching lumar plate
+813,289,false,Orange self-latching lumar plate
+813,290,false,Magenta self-latching lumar plate
+813,291,false,Light blue self-latching lumar plate
+813,292,false,Yellow self-latching lumar plate
+813,293,false,Lime self-latching lumar plate
+813,294,false,Pink self-latching lumar plate
+813,295,false,Grey self-latching lumar plate
+813,296,false,Light grey self-latching lumar plate
+813,297,false,Cyan self-latching lumar plate
+813,298,false,Purple self-latching lumar plate
+813,299,false,Blue self-latching lumar plate
+813,300,false,Brown self-latching lumar plate
+813,301,false,Green self-latching lumar plate
+813,302,false,Red self-latching lumar plate
+813,303,false,Black self-latching lumar plate
 816,0,false,Iron Scaffold
 817,0,false,ic2.blockBarrel
 818,0,false,Crop
@@ -1739,8 +1829,104 @@ Item ID,Item meta,Has NBT,Display Name
 1153,0,false,Witchwood Slab
 1154,0,false,Witchwood Stairs
 1155,0,false,Witchwood Sapling
-1225,0,false,Batcomputer
-1225,16384,false,Advanced Batcomputer
+1193,64,false,White cage lamp
+1193,65,false,Orange cage lamp
+1193,66,false,Magenta cage lamp
+1193,67,false,Light blue cage lamp
+1193,68,false,Yellow cage lamp
+1193,69,false,Lime cage lamp
+1193,70,false,Pink cage lamp
+1193,71,false,Grey cage lamp
+1193,72,false,Light grey cage lamp
+1193,73,false,Cyan cage lamp
+1193,74,false,Purple cage lamp
+1193,75,false,Blue cage lamp
+1193,76,false,Brown cage lamp
+1193,77,false,Green cage lamp
+1193,78,false,Red cage lamp
+1193,79,false,Black cage lamp
+1193,80,false,White decorative cage lamp
+1193,81,false,Orange decorative cage lamp
+1193,82,false,Magenta decorative cage lamp
+1193,83,false,Light blue decorative cage lamp
+1193,84,false,Yellow decorative cage lamp
+1193,85,false,Lime decorative cage lamp
+1193,86,false,Pink decorative cage lamp
+1193,87,false,Grey decorative cage lamp
+1193,88,false,Light grey decorative cage lamp
+1193,89,false,Cyan decorative cage lamp
+1193,90,false,Purple decorative cage lamp
+1193,91,false,Blue decorative cage lamp
+1193,92,false,Brown decorative cage lamp
+1193,93,false,Green decorative cage lamp
+1193,94,false,Red decorative cage lamp
+1193,95,false,Black decorative cage lamp
+1193,96,false,White indicator cage lamp
+1193,97,false,Orange indicator cage lamp
+1193,98,false,Magenta indicator cage lamp
+1193,99,false,Light blue indicator cage lamp
+1193,100,false,Yellow indicator cage lamp
+1193,101,false,Lime indicator cage lamp
+1193,102,false,Pink indicator cage lamp
+1193,103,false,Grey indicator cage lamp
+1193,104,false,Light grey indicator cage lamp
+1193,105,false,Cyan indicator cage lamp
+1193,106,false,Purple indicator cage lamp
+1193,107,false,Blue indicator cage lamp
+1193,108,false,Brown indicator cage lamp
+1193,109,false,Green indicator cage lamp
+1193,110,false,Red indicator cage lamp
+1193,111,false,Black indicator cage lamp
+1193,128,false,White flat lamp
+1193,129,false,Orange flat lamp
+1193,130,false,Magenta flat lamp
+1193,131,false,Light blue flat lamp
+1193,132,false,Yellow flat lamp
+1193,133,false,Lime flat lamp
+1193,134,false,Pink flat lamp
+1193,135,false,Grey flat lamp
+1193,136,false,Light grey flat lamp
+1193,137,false,Cyan flat lamp
+1193,138,false,Purple flat lamp
+1193,139,false,Blue flat lamp
+1193,140,false,Brown flat lamp
+1193,141,false,Green flat lamp
+1193,142,false,Red flat lamp
+1193,143,false,Black flat lamp
+1193,144,false,White decorative flat lamp
+1193,145,false,Orange decorative flat lamp
+1193,146,false,Magenta decorative flat lamp
+1193,147,false,Light blue decorative flat lamp
+1193,148,false,Yellow decorative flat lamp
+1193,149,false,Lime decorative flat lamp
+1193,150,false,Pink decorative flat lamp
+1193,151,false,Grey decorative flat lamp
+1193,152,false,Light grey decorative flat lamp
+1193,153,false,Cyan decorative flat lamp
+1193,154,false,Purple decorative flat lamp
+1193,155,false,Blue decorative flat lamp
+1193,156,false,Brown decorative flat lamp
+1193,157,false,Green decorative flat lamp
+1193,158,false,Red decorative flat lamp
+1193,159,false,Black decorative flat lamp
+1193,160,false,White indicator flat lamp
+1193,161,false,Orange indicator flat lamp
+1193,162,false,Magenta indicator flat lamp
+1193,163,false,Light blue indicator flat lamp
+1193,164,false,Yellow indicator flat lamp
+1193,165,false,Lime indicator flat lamp
+1193,166,false,Pink indicator flat lamp
+1193,167,false,Grey indicator flat lamp
+1193,168,false,Light grey indicator flat lamp
+1193,169,false,Cyan indicator flat lamp
+1193,170,false,Purple indicator flat lamp
+1193,171,false,Blue indicator flat lamp
+1193,172,false,Brown indicator flat lamp
+1193,173,false,Green indicator flat lamp
+1193,174,false,Red indicator flat lamp
+1193,175,false,Black indicator flat lamp
+1225,0,false,Computer
+1225,16384,false,Advanced Computer
 1226,0,false,Disk Drive
 1226,1,false,Wireless Modem
 1226,2,false,Monitor
@@ -2539,7 +2725,6 @@ Item ID,Item meta,Has NBT,Display Name
 1478,8,false,Block of Alumite
 1478,9,false,Block of Steel
 1478,10,false,Block of Solid Ender
-1479,0,false,Ladder
 1481,0,false,Obsidian Brick
 1481,1,false,Sandstone Brick
 1481,2,false,Netherrack Brick
@@ -2860,6 +3045,16 @@ Item ID,Item meta,Has NBT,Display Name
 1720,0,false,HE TNT
 1721,0,false,LE TNT
 1722,0,false,Measuring Laser
+1724,0,false,Prometheum Pylon
+1724,1,false,Deep Iron Pylon
+1724,2,false,Black Steel Pylon
+1724,3,false,Oureclase Pylon
+1724,4,false,Mithril Pylon
+1724,5,false,Haderoth Pylon
+1724,6,false,Orichalcum Pylon
+1724,7,false,Adamantine Pylon
+1724,8,false,Atlarus Pylon
+1724,9,false,Tartarite Pylon
 1730,0,false,Tartarite Enchanter
 1753,0,false,Bee Collector's Jar
 1754,0,false,Curious Hive
@@ -2867,9 +3062,7 @@ Item ID,Item meta,Has NBT,Display Name
 1754,2,false,Resonating Hive
 1860,0,false,Altar
 1861,0,false,Witches Oven
-1862,0,false,Witches Oven
 1863,0,false,Distillery
-1864,0,false,Distillery
 1865,0,false,Kettle
 1866,0,false,Poppet Shelf
 1867,0,false,Rowan Sapling
@@ -2884,16 +3077,6 @@ Item ID,Item meta,Has NBT,Display Name
 1870,0,false,Rowan Leaves
 1870,1,false,Alder Leaves
 1870,2,false,Hawthron Leaves
-1871,0,false,Belladonna
-1872,0,false,Mandrake
-1873,0,false,Barrier
-1874,0,false,Dream Weaver
-1875,0,false,Chalice
-1876,0,false,Candelabra
-1877,0,false,Heart Glyph
-1878,0,false,Ritual Glyph
-1879,0,false,Otherwhere Glyph
-1880,0,false,Infernal Glyph
 1883,0,false,Rowan Slab
 1883,1,false,Alder Slab
 1883,2,false,Hawthorn Slab
@@ -2916,10 +3099,11 @@ Item ID,Item meta,Has NBT,Display Name
 1889,11,false,Shrub of Sprouting
 1890,0,false,Leaping Lily
 1891,0,false,Ember Moss
-1892,0,false,Water Artichoke
 1893,0,false,Alluring Skull
 1894,0,false,Fume Funnel
 1895,0,false,Filtered Fume Funnel
+1896,0,false,Void Bramble
+1897,0,false,Glint Weed
 1900,0,false,Power Ore
 1900,1,false,Nether Ore
 1901,0,false,Black Force Stairs
@@ -3025,7 +3209,7 @@ Item ID,Item meta,Has NBT,Display Name
 1913,10,false,Lime Force Furnace
 1913,11,false,Yellow Force Furnace
 1913,12,false,Light Blue Force Furnace
-1913,13,false,Magneta Force Furnace
+1913,13,false,Magenta Force Furnace
 1913,14,false,Orange Force Furnace
 1913,15,false,White Force Furnace
 1913,27,false,Yellow Force Generator
@@ -4412,150 +4596,134 @@ Item ID,Item meta,Has NBT,Display Name
 2524,0,false,Filing Cabinet
 2524,1,false,Filing Cabinet (Advanced)
 2525,0,true,Spring Water Drum
+2525,0,true,Molten cobalt Drum
 2525,0,true,Molten.mithril Drum
+2525,0,true,Seared stone Drum
 2525,0,true,Molten Titanium Drum
 2525,0,true,Molten.eximite Drum
 2525,0,true,Honey Drum
 2525,0,true,Fish Oil Drum
 2525,0,true,Life essence Drum
 2525,0,true,Molten.meutoite Drum
-2525,0,true,Liquified Emerald Drum
 2525,0,true,Black Ink Drum
 2525,0,true,Molten.oureclase Drum
-2525,0,true,Cider Drum
+2525,0,true,Molten gold Drum
 2525,0,true,Mushroomsoup Drum
 2525,0,true,Milk Drum
 2525,0,true,Fruit Juice Drum
 2525,0,true,Molten.desichalkos Drum
 2525,0,true,Molten.adamantine Drum
-2525,0,true,Molten Glass Drum
+2525,0,true,Molten ardite Drum
 2525,0,true,Chocolatemilk Drum
 2525,0,true,Molten.rubracium Drum
 2525,0,true,Sewage Drum
-2525,0,true,Molten Iron Drum
 2525,0,true,Molten.angmallen Drum
 2525,0,true,Molten redstone Drum
 2525,0,true,naturalGas Drum
 2525,0,true,Molten.tartarite Drum
 2525,0,true,Blood Drum
 2525,0,true,Molten Lead Drum
-2525,0,true,Vodka Drum
 2525,0,true,Molten.prometheum Drum
 2525,0,true,Sap Drum
-2525,0,true,Molten Platinum Drum
-2525,0,true,Molten Manyullyn Drum
-2525,0,true,Molten Nickel Drum
+2525,0,true,Platinum.molten Drum
+2525,0,true,Nickel.molten Drum
 2525,0,true,Flux Goo Drum
 2525,0,true,Uumatter Drum
 2525,0,true,Gascraft_smoke Drum
 2525,0,true,Veggie Juice Drum
-2525,0,true,Molten Steel Drum
+2525,0,true,Liquified emerald Drum
 2525,0,true,Molten.kalendrite Drum
 2525,0,true,Molten.midasium Drum
 2525,0,true,Gascraft_toxicgas Drum
 2525,0,true,Biomass Drum
 2525,0,true,Gascraft_hydrogen Drum
 2525,0,true,Liquid Nitrogen Drum
-2525,0,true,Molten Cobalt Drum
 2525,0,true,Molten.lemurite Drum
-2525,0,true,Uranium Hexafluoride Drum
 2525,0,true,Gascraft_corrosivegas Drum
+2525,0,true,Molten manyullyn Drum
 2525,0,true,Oil Drum
 2525,0,true,Immibis.liquidxp Drum
-2525,0,true,Molten Aluminum Brass Drum
+2525,0,true,Molten steel Drum
 2525,0,true,Gascraft_naturalgas Drum
 2525,0,true,Fortron Drum
 2525,0,true,Molten.inolashite Drum
-2525,0,true,Molten Aluminium Drum
 2525,0,true,Molten Silver Drum
-2525,0,true,Deuterium Drum
-2525,0,true,Hotcocoa Drum
 2525,0,true,Water Drum
 2525,0,true,Molten.shadow.steel Drum
 2525,0,true,Ic2coolant Drum
-2525,0,true,Seared Stone Drum
 2525,0,true,Molten Nickel Drum
 2525,0,true,Pressurised Water Drum
-2525,0,true,Molten Copper Drum
-2525,0,true,Cookingoil Drum
 2525,0,true,Molten.deep.iron Drum
 2525,0,true,Turpentine Drum
 2525,0,true,Molten.hepatizon Drum
 2525,0,true,Liquid Peat Drum
 2525,0,true,Xpjuice Drum
-2525,0,true,Molten Bronze Drum
+2525,0,true,Molten alumite Drum
 2525,0,true,Liquid Poison Drum
 2525,0,true,Molten.manganese Drum
 2525,0,true,Latex Drum
+2525,0,true,Molten copper Drum
 2525,0,true,Steam Drum
-2525,0,true,Molten Gold Drum
-2525,0,true,Molten Ardite Drum
 2525,0,true,Molten.orichalcum Drum
 2525,0,true,Creosote Oil Drum
 2525,0,true,Sludge Drum
 2525,0,true,Molten conductive redmetal Drum
-2525,0,true,Molten Iron Drum
-2525,0,true,Beer Drum
-2525,0,true,Molten Silver Drum
+2525,0,true,Molten obsidian Drum
+2525,0,true,Molten aluminum Drum
+2525,0,true,Silver.molten Drum
 2525,0,true,Molten.vulcanite Drum
-2525,0,true,Molten Bronze Drum
 2525,0,true,Resin Drum
 2525,0,true,Molten.carmot Drum
-2525,0,true,Molten Gold Drum
 2525,0,true,Molten.damascus.steel Drum
 2525,0,true,Fish Food Drum
 2525,0,true,Molten.celenegil Drum
 2525,0,true,Molten.ignatius Drum
 2525,0,true,Molten.alduorite Drum
 2525,0,true,Liquidessence Drum
-2525,0,true,Molten.astral.silver Drum
-2525,0,true,Molten Lead Drum
+2525,0,true,Lead.molten Drum
 2525,0,true,Molten.ceruclase Drum
-2525,0,true,Molten Copper Drum
+2525,0,true,Molten.astral.silver Drum
+2525,0,true,Molten iron Drum
 2525,0,true,Ethanol Drum
 2525,0,true,Poison Drum
 2525,0,true,Molten.zinc Drum
-2525,0,true,Molten Steel Drum
 2525,0,true,Molten.sanguinite Drum
-2525,0,true,Molten Tin Drum
 2525,0,true,Mobessence Drum
 2525,0,true,Seed Oil Drum
 2525,0,true,Molten Magnesium Drum
 2525,0,true,Slime.blue Drum
-2525,0,true,Molten Tin Drum
+2525,0,true,Molten bronze Drum
 2525,0,true,Slickwater Drum
 2525,0,true,Electrum.molten Drum
+2525,0,true,Molten aluminum brass Drum
 2525,0,true,Molten.platinum Drum
 2525,0,true,Constructionfoam Drum
 2525,0,true,Molten.vyroxeres Drum
 2525,0,true,Short.mead Drum
 2525,0,true,Molten.infuscolium Drum
 2525,0,true,Molten.haderoth Drum
+2525,0,true,Molten glass Drum
 2525,0,true,Molten.black.steel Drum
 2525,0,true,Biofuel Drum
 2525,0,true,Molten.brass Drum
 2525,0,true,Molten.quicksilver Drum
+2525,0,true,Molten tin Drum
 2525,0,true,Crushed Ice Drum
 2525,0,true,Meat Drum
 2525,0,true,Liquid Glass Drum
 2525,0,true,Fuel Drum
-2525,0,true,Toxic Waste Drum
-2525,0,true,Molten.atlarus Drum
 2525,0,true,Liquid DNA Drum
+2525,0,true,Molten.atlarus Drum
 2525,0,true,Molten.shadow.iron Drum
 2525,0,true,Invar.molten Drum
 2525,0,true,Liquid Force Drum
-2525,0,true,Molten Obsidian Drum
-2525,0,true,Molten Alumite Drum
 2525,0,true,Gascraft_neurotoxin Drum
 2525,0,true,Molten.amordrine Drum
 2525,0,true,Acid Drum
 2525,0,true,Lava Drum
 2525,0,true,Gascraft_propellent Drum
-2525,0,true,Molten Aluminum Drum
-2525,0,true,Vinegar Drum
 2525,0,true,Pinkslime Drum
-2525,0,true,Liquid Ender Drum
+2525,0,true,Ender Drum
 2525,0,false,Drum
 2526,0,false,Ender-Lily Seeds
 2527,0,false,Thickened Glass
@@ -5049,7 +5217,7 @@ Item ID,Item meta,Has NBT,Display Name
 2799,4,false,Small stone bricks
 2799,5,false,Wide stone bricks
 2799,6,false,Small disordered stone bricks
-2799,7,false,Sisordered stone bricks
+2799,7,false,Disordered stone bricks
 2799,8,false,Disordered stone panels
 2799,9,false,Stone bricks in a fancy arrangement
 2799,10,false,Ornate stone brick tiles
@@ -5320,7 +5488,55 @@ Item ID,Item meta,Has NBT,Display Name
 2840,13,false,Large long jungle wood planks
 2840,14,false,Jungle wood planks in disarray
 2840,15,false,Vertical jungle wood planks in disarray
-2841,0,false,Red cracked block
+2841,0,false,Mossy temple cobblestone
+2841,1,false,Orante mossy temple block
+2841,2,false,Mossy temple plate
+2841,3,false,Cracked mossy temple plate
+2841,4,false,Mossy temple bricks
+2841,5,false,Large mossy temple bricks
+2841,6,false,Weared mossy temple bricks
+2841,7,false,Mossy temple bricks in disarray
+2841,8,false,Mossy temple column
+2841,9,false,Mossy temple stand
+2841,10,false,Mossy temple mosaic stand
+2841,11,false,Mossy temple creeper stand
+2841,12,false,Mossy temple tiles
+2841,13,false,Small mossy temple tiles
+2841,14,false,Light mossy temple tiles
+2841,15,false,Small light mossy  temple tiles
+2842,0,false,Cloud block
+2843,0,false,Rusty metal plate with dot pattern
+2843,1,false,Rusty metal plate
+2843,2,false,Very rusty metal plate
+2843,3,false,A metal plate with almost no rust on it
+2843,4,false,Wireframe
+2843,5,false,Wireframe in a shade of purple
+2843,6,false,Yellow-black hazard block
+2843,7,false,Orange-white hazard block
+2843,8,false,Fancy circuit block
+2843,9,false,Fancy metal box
+2843,10,false,Fancy circuit block with gold plating
+2843,11,false,Rusty purple block with gold plating
+2843,12,false,Shiny metal construction
+2843,13,false,Weared metal wall with openings for ventilation
+2843,14,false,Rusty metal plates
+2843,15,false,Weared metal column
+2844,0,false,White carpet
+2844,1,false,Orange carpet
+2844,2,false,Magenta carpet
+2844,3,false,Light blue carpet
+2844,4,false,Yellow carpet
+2844,5,false,Light green carpet
+2844,6,false,Pink carpet
+2844,7,false,Dark grey carpet
+2844,8,false,Grey carpet
+2844,9,false,Teal carpet
+2844,10,false,Purple carpet
+2844,11,false,Dark blue carpet
+2844,12,false,Brown carpet
+2844,13,false,Green carpet
+2844,14,false,Red carpet
+2844,15,false,Black carpet
 3000,0,false,Osmium Block
 3000,1,false,Bronze Block
 3000,2,false,Refined Obsidian
@@ -5507,7 +5723,6 @@ Item ID,Item meta,Has NBT,Display Name
 3225,15,false,Black Stained Glass
 3226,0,false,Drawbridge
 3226,1,false,Igniter
-3226,2,false,Advanced Drawbridge
 3227,0,false,Drying Rack
 3228,0,false,Clear Pane
 3229,0,false,White Stained Pane
@@ -5572,9 +5787,7 @@ Item ID,Item meta,Has NBT,Display Name
 3245,5,false,Green Wool Slab
 3245,6,false,Red Wool Slab
 3245,7,false,Black Wool Slab
-3246,0,false,tile.tconstruct.tank.air.name
 3249,0,false,Casting Channel
-3250,0,false,Wooden Rail
 3251,0,false,Eucalyptus Wood
 3251,1,false,Sakura Wood
 3251,2,false,Ghostwood
@@ -5760,45 +5973,14 @@ Item ID,Item meta,Has NBT,Display Name
 3354,0,false,Darkwood Fence Gate
 3355,0,false,Fusewood Fence Gate
 3391,0,false,Sign
-3500,0,false,Oven
-3501,0,false,Counter
-3502,0,false,Processor
-3503,0,false,Salt Ore
-3504,0,false,Cinnamon Plant
-3505,0,false,Brewer
-3506,0,false,Ice Box
-3507,0,false,Frier
-3508,0,false,Vanilla Plant
 3540,0,false,Colored Wool
 3541,0,false,Wool Colorizer
 3558,0,false,Super Crafting Frame
 3559,0,false,Super Item Frame
-3768,0,false,Radioactive Material
-3769,0,false,Centrifuge
-3770,0,false,Fission Reactor
-3771,0,false,Reactor Turbine
-3772,0,false,Nuclear Boiler
-3774,0,false,Control Rod
-3775,0,false,Thermometer
-3776,0,false,Fusion Reactor
-3777,0,false,Plasma
-3778,0,false,Electromagnet
-3779,0,false,Chemical Extractor
-3780,0,false,Siren
-3781,0,false,Electromagnet Glass
-3782,0,false,Steam Funnel
-3783,0,false,Particle Accelerator
-3784,0,false,Instant Builder
-3785,0,false,Fulmination Generator
-3786,0,false,Atomic Assembler
-3788,0,false,Toxic Waste
-3789,0,false,Reactor Drain
-3790,0,false,Uranium Ore
 3941,0,false,Item Translocator
 3941,1,false,Liquid Translocator
 3942,0,false,Drum
 3970,0,false,Copper Ore
-3971,0,false,Tin Ore
 4070,0,false,Modular Socket
 4071,0,false,TempRS
 4072,0,false,Black Planks
@@ -5819,6 +6001,22 @@ Item ID,Item meta,Has NBT,Display Name
 4072,15,false,White Planks
 4073,0,false,Ground Limestone
 4074,0,false,Drum
+4088,0,false,Temple cobblestone
+4088,1,false,Orante temple block
+4088,2,false,Temple plate
+4088,3,false,Cracked temple plate
+4088,4,false,Temple bricks
+4088,5,false,Large temple bricks
+4088,6,false,Weared temple bricks
+4088,7,false,Temple bricks in disarray
+4088,8,false,Temple column
+4088,9,false,Temple stand
+4088,10,false,Temple mosaic stand
+4088,11,false,Temple creeper stand
+4088,12,false,Temple tiles
+4088,13,false,Small temple tiles
+4088,14,false,Light temple tiles
+4088,15,false,Small light temple tiles
 4089,0,false,Portal to the 'Deep Dark'
 4090,0,false,Fan
 4091,0,false,Liquid Tin
@@ -6033,7 +6231,6 @@ Item ID,Item meta,Has NBT,Display Name
 4601,7,false,Fuel Barrel
 4601,8,false,Creosote Barrel
 4601,9,false,Steam Barrel
-4601,10,false,Toxicwaste Barrel
 4601,11,false,Acid Barrel
 4601,12,false,Poison Barrel
 4601,13,false,Liquidnitrogen Barrel
@@ -6043,6 +6240,8 @@ Item ID,Item meta,Has NBT,Display Name
 4601,17,false,Turpentine Barrel
 4601,18,false,Fortron Barrel
 4601,19,false,Myst ink black Barrel
+4601,20,false,Seared stone Barrel
+4601,21,false,Liquified emerald Barrel
 4601,22,false,Blood Barrel
 4601,23,false,Ender Barrel
 4601,24,false,Slime blue Barrel
@@ -6066,12 +6265,6 @@ Item ID,Item meta,Has NBT,Display Name
 4601,42,false,Slickwater Barrel
 4601,43,false,Ic2coolant Barrel
 4601,45,false,Fluxgoo Barrel
-4601,50,false,Beer Barrel
-4601,51,false,Hotcocoa Barrel
-4601,52,false,Vinegar Barrel
-4601,53,false,Cookingoil Barrel
-4601,54,false,Vodka Barrel
-4601,55,false,Cider Barrel
 4601,56,false,Sludge Barrel
 4601,57,false,Sewage Barrel
 4601,58,false,Mobessence Barrel
@@ -6081,8 +6274,6 @@ Item ID,Item meta,Has NBT,Display Name
 4601,63,false,Mushroomsoup Barrel
 4601,64,false,Xpjuice Barrel
 4601,65,false,Liquidessence Barrel
-4601,66,false,Stone seared Barrel
-4601,67,false,Emerald liquid Barrel
 4601,68,false,Fishoil Barrel
 4601,69,false,Fishfood Barrel
 4601,70,false,Fastwater Barrel
@@ -6096,7 +6287,6 @@ Item ID,Item meta,Has NBT,Display Name
 4700,7,false,Fuel Wooden Bucket
 4700,8,false,Creosote Wooden Bucket
 4700,9,false,Steam Wooden Bucket
-4700,10,false,Toxicwaste Wooden Bucket
 4700,11,false,Acid Wooden Bucket
 4700,12,false,Poison Wooden Bucket
 4700,13,false,Liquidnitrogen Wooden Bucket
@@ -6106,6 +6296,8 @@ Item ID,Item meta,Has NBT,Display Name
 4700,17,false,Turpentine Wooden Bucket
 4700,18,false,Fortron Wooden Bucket
 4700,19,false,Myst ink black Wooden Bucket
+4700,20,false,Seared stone Wooden Bucket
+4700,21,false,Liquified emerald Wooden Bucket
 4700,22,false,Blood Wooden Bucket
 4700,23,false,Ender Wooden Bucket
 4700,24,false,Slime blue Wooden Bucket
@@ -6129,12 +6321,6 @@ Item ID,Item meta,Has NBT,Display Name
 4700,42,false,Slickwater Wooden Bucket
 4700,43,false,Ic2coolant Wooden Bucket
 4700,45,false,Fluxgoo Wooden Bucket
-4700,50,false,Beer Wooden Bucket
-4700,51,false,Hotcocoa Wooden Bucket
-4700,52,false,Vinegar Wooden Bucket
-4700,53,false,Cookingoil Wooden Bucket
-4700,54,false,Vodka Wooden Bucket
-4700,55,false,Cider Wooden Bucket
 4700,56,false,Sludge Wooden Bucket
 4700,57,false,Sewage Wooden Bucket
 4700,58,false,Mobessence Wooden Bucket
@@ -6144,8 +6330,6 @@ Item ID,Item meta,Has NBT,Display Name
 4700,63,false,Mushroomsoup Wooden Bucket
 4700,64,false,Xpjuice Wooden Bucket
 4700,65,false,Liquidessence Wooden Bucket
-4700,66,false,Stone seared Wooden Bucket
-4700,67,false,Emerald liquid Wooden Bucket
 4700,68,false,Fishoil Wooden Bucket
 4700,69,false,Fishfood Wooden Bucket
 4700,70,false,Fastwater Wooden Bucket
@@ -6288,6 +6472,7 @@ Item ID,Item meta,Has NBT,Display Name
 6284,0,false,Ender Pack
 6285,0,false,Raw Lambchop
 6286,0,false,Cooked Lambchop
+6287,0,false,Force Hammer
 6288,0,false,Bucket of Force
 6289,0,false,Force Can
 6289,1,false,Force Capsule
@@ -6298,6 +6483,12 @@ Item ID,Item meta,Has NBT,Display Name
 6290,2,false,Milk Capsule
 6291,11,false,Force Belt
 6293,0,false,Force Flask
+6293,1,false,Milk Flask
+6293,2,false,Liquid Force Flask
+6293,3,false,Chateau Notch
+6293,4,false,Green Potion
+6293,5,false,Red Potion
+6293,6,false,Blue Potion
 6294,0,false,Force Wrench
 6295,0,false,Force Mitts
 6296,0,false,Item Card
@@ -6375,6 +6566,13 @@ Item ID,Item meta,Has NBT,Display Name
 6307,413,false,Magenta Mob Ingot
 6307,414,false,Orange Mob Ingot
 6307,415,false,White Mob Ingot
+6307,480,false,Magic Jar
+6307,481,false,Large Magic Jar
+6307,488,false,Recovery Heart
+6307,496,false,Red Chu Jelly
+6307,497,false,Green Chu Jelly
+6307,498,false,Blue Chu Jelly
+6307,499,false,Gold Chu Jelly
 6308,0,false,Baconator
 6357,0,false,Triangulator
 6358,0,false,Remote
@@ -6617,6 +6815,8 @@ Item ID,Item meta,Has NBT,Display Name
 7822,0,false,Whistle Tuner
 8067,0,false,Chisel
 8068,0,false,Ice shard
+8069,0,false,Cloud in a bottle
+8070,0,false,Ball O' Moss
 8100,0,false,Crystalized Soul Essence
 8101,0,false,Soul Shard
 8102,0,false,Shadow Blade
@@ -6864,8 +7064,6 @@ Item ID,Item meta,Has NBT,Display Name
 10886,16,false,Quicklime
 10886,17,false,Gypsum
 10886,18,false,Wood Ash
-10886,19,false,Belladonna Seeds
-10886,20,false,Mandrake Seeds
 10886,21,false,Belladonna Flower
 10886,22,false,Mandrake Root
 10886,23,false,Demon Heart
@@ -6913,12 +7111,13 @@ Item ID,Item meta,Has NBT,Display Name
 10886,65,false,Brew of Raising
 10886,66,false,Spectral Dust
 10886,67,false,Ender Dew
-10886,68,false,Water Artichoke Seeds
 10886,69,false,Water Artichoke Globe
 10886,70,false,Treefyd Seed
 10886,71,false,Brew of the Grotesque
 10886,72,false,Impregnated Leather
 10886,73,false,Fume Filter
+10886,74,false,Creeper Heart
+10886,75,false,Brew of Love
 10887,0,false,Circle Talisman
 10887,1,false,Circle Talisman (Small Ritual)
 10887,2,false,Circle Talisman (Small Otherwhere)
@@ -6932,6 +7131,11 @@ Item ID,Item meta,Has NBT,Display Name
 10888,0,false,Polynesia Charm
 10889,0,false,Devils Tongue Charm
 10890,0,false,Witches Hat
+10891,0,false,Belladonna Seeds
+10892,0,false,Mandrake Seeds
+10893,0,false,Water Artichoke Seeds
+10894,0,false,Witches Robes
+10895,0,false,Necromancer Robes
 11204,0,false,Iron Dust
 11204,1,false,Gold Dust
 11204,2,false,Osmium Dust
@@ -7466,8 +7670,8 @@ Item ID,Item meta,Has NBT,Display Name
 13209,0,true,Average Flowering Serum
 13209,0,true,Rusty Species Serum
 13209,0,true,Ferrous Species Serum
-13209,0,true,Leaves Pollination Serum
 13209,0,true,Acidic Effect Serum
+13209,0,true,Leaves Pollination Serum
 13209,0,true,Lavender Species Serum
 13209,0,true,Caustic Species Serum
 13209,0,true,Lordly Species Serum
@@ -9060,36 +9264,10 @@ Item ID,Item meta,Has NBT,Display Name
 13810,0,false,Crated Coal
 13811,0,false,Crated Seeds
 13812,0,false,Crated Oak Sapling
-14020,0,false,Hazmat Boots
-14021,0,false,Hazmat Leggings
-14022,0,false,Hazmat Body
-14023,0,false,Hazmat Mask
-14024,100,true,Hand-held Thermometer
-14024,0,true,Hand-held Thermometer
-14025,0,false,Empty Cell
-14027,0,false,Fissile Fuel Rod
-14028,0,false,Deuterium Cell
-14029,0,false,Strange Matter
-14030,0,false,Antimatter
-14030,1,false,Antimatter
-14032,0,false,Yellowcake
-14033,0,false,Uranium-235
-14033,1,false,Uranium-238
-14036,0,false,Toxic Waste Bucket
-14037,0,false,Breeder Fuel Rod
 14228,0,false,Wrench
-14229,0,false,Motor
-14230,0,false,Basic Circuit
-14231,0,false,Advanced Circuit
-14232,0,false,Elite Circuit
-14235,0,false,Bronze Plate
-14236,0,false,Steel Plate
 14239,0,false,Copper Ingot
-14240,0,false,Tin Ingot
 14241,0,false,Steel Ingot
-14242,0,false,Bronze Ingot
 14243,0,false,Steel Dust
-14244,0,false,Bronze Dust
 14274,0,false,Materials and You
 14274,1,false,Materials and You
 14274,2,false,Mighty Smelting
@@ -9146,22 +9324,20 @@ Item ID,Item meta,Has NBT,Display Name
 14277,14,false,Bronze Tool Rod
 14277,15,false,Alumite Tool Rod
 14277,16,false,Steel Tool Rod
-14277,31,false,Thaumium Tool Rod
-14278,1,false,Stone Shard
-14278,2,false,Iron Shard
-14278,3,false,Flint Shard
-14278,4,false,Cactus Shard
-14278,6,false,Obsidian Shard
-14278,7,false,Netherrack Shard
-14278,8,false,Slime Shard
-14278,10,false,Cobalt Shard
-14278,11,false,Ardite Shard
-14278,12,false,Manyullyn Shard
-14278,13,false,Copper Shard
-14278,14,false,Bronze Shard
-14278,15,false,Alumite Shard
-14278,16,false,Steel Shard
-14278,31,false,Thaumium Shard
+14278,1,false,Stone toolpart.ToolShard
+14278,2,false,Iron toolpart.ToolShard
+14278,3,false,Flint toolpart.ToolShard
+14278,4,false,Cactus toolpart.ToolShard
+14278,6,false,Obsidian toolpart.ToolShard
+14278,7,false,Netherrack toolpart.ToolShard
+14278,8,false,Slime toolpart.ToolShard
+14278,10,false,Cobalt toolpart.ToolShard
+14278,11,false,Ardite toolpart.ToolShard
+14278,12,false,Manyullyn toolpart.ToolShard
+14278,13,false,Copper toolpart.ToolShard
+14278,14,false,Bronze toolpart.ToolShard
+14278,15,false,Alumite toolpart.ToolShard
+14278,16,false,Steel toolpart.ToolShard
 14279,1,false,Tool Rod Pattern
 14279,2,false,Pickaxe Head Pattern
 14279,3,false,Shovel Head Pattern
@@ -9172,15 +9348,15 @@ Item ID,Item meta,Has NBT,Display Name
 14279,8,false,Crossbar Pattern
 14279,9,false,Tool Binding Pattern
 14279,10,false,Pan Pattern
-14279,11,false,Wide Board Pattern
+14279,11,false,Board Pattern
 14279,12,false,Knife Blade Pattern
 14279,13,false,Chisel Head Pattern
-14279,14,false,Tough Rod Pattern
+14279,14,false,Tough Tool Rod Pattern
 14279,15,false,Tough Binding Pattern
 14279,16,false,Large Plate Pattern
-14279,17,false,Broadaxe Head Pattern
+14279,17,false,Broad Axe Head Pattern
 14279,18,false,Scythe Head Pattern
-14279,19,false,Excavator Head Pattern
+14279,19,false,Broad Shovel Head Pattern
 14279,20,false,Large Blade Pattern
 14279,21,false,Hammer Head Pattern
 14279,22,false,Full Guard Pattern
@@ -9198,23 +9374,19 @@ Item ID,Item meta,Has NBT,Display Name
 14280,8,false,Crossbar Cast
 14280,9,false,Tool Binding Cast
 14280,10,false,Pan Cast
-14280,11,false,Wide Board Cast
+14280,11,false,Board Cast
 14280,12,false,Knife Blade Cast
 14280,13,false,Chisel Head Cast
-14280,14,false,Tough Rod Cast
+14280,14,false,Tough Tool Rod Cast
 14280,15,false,Tough Binding Cast
 14280,16,false,Large Plate Cast
-14280,17,false,Broadaxe Head Cast
+14280,17,false,Broad Axe Head Cast
 14280,18,false,Scythe Head Cast
-14280,19,false,Excavator Head Cast
+14280,19,false,Broad Shovel Head Cast
 14280,20,false,Large Blade Cast
 14280,21,false,Hammer Head Cast
 14280,22,false,Full Guard Cast
 14280,25,false,Arrowhead Cast
-14281,0,false,Helmet Cast
-14281,1,false,Chestplate Cast
-14281,2,false,Leggings Cast
-14281,3,false,Boots Cast
 14282,0,false,Wooden Pickaxe Head
 14282,1,false,Stone Pickaxe Head
 14282,2,false,Iron Pickaxe Head
@@ -9232,7 +9404,6 @@ Item ID,Item meta,Has NBT,Display Name
 14282,14,false,Bronze Pickaxe Head
 14282,15,false,Alumite Pickaxe Head
 14282,16,false,Steel Pickaxe Head
-14282,31,false,Thaumium Pickaxe Head
 14283,0,false,Wooden Shovel Head
 14283,1,false,Stone Shovel Head
 14283,2,false,Iron Shovel Head
@@ -9250,7 +9421,6 @@ Item ID,Item meta,Has NBT,Display Name
 14283,14,false,Bronze Shovel Head
 14283,15,false,Alumite Shovel Head
 14283,16,false,Steel Shovel Head
-14283,31,false,Thaumium Shovel Head
 14284,0,false,Wooden Axe Head
 14284,1,false,Stone Axe Head
 14284,2,false,Iron Axe Head
@@ -9268,7 +9438,6 @@ Item ID,Item meta,Has NBT,Display Name
 14284,14,false,Bronze Axe Head
 14284,15,false,Alumite Axe Head
 14284,16,false,Steel Axe Head
-14284,31,false,Thaumium Axe Head
 14286,0,false,Wooden Sword Blade
 14286,1,false,Stone Sword Blade
 14286,2,false,Iron Sword Blade
@@ -9286,43 +9455,40 @@ Item ID,Item meta,Has NBT,Display Name
 14286,14,false,Bronze Sword Blade
 14286,15,false,Alumite Sword Blade
 14286,16,false,Steel Sword Blade
-14286,31,false,Thaumium Sword Blade
-14287,0,false,Wooden Wide Guard
-14287,1,false,Stone Wide Guard
-14287,2,false,Iron Wide Guard
-14287,3,false,Flint Wide Guard
-14287,4,false,Cactus Wide Guard
-14287,5,false,Bone Wide Guard
-14287,6,false,Obsidian Wide Guard
-14287,7,false,Netherrack Wide Guard
-14287,8,false,Slime Wide Guard
-14287,9,false,Paper Wide Guard
-14287,10,false,Cobalt Wide Guard
-14287,11,false,Ardite Wide Guard
-14287,12,false,Manyullyn Wide Guard
-14287,13,false,Copper Wide Guard
-14287,14,false,Bronze Wide Guard
-14287,15,false,Alumite Wide Guard
-14287,16,false,Steel Wide Guard
-14287,31,false,Thaumium Wide Guard
-14288,0,false,Wooden Hand Guard
-14288,1,false,Stone Hand Guard
-14288,2,false,Iron Hand Guard
-14288,3,false,Flint Hand Guard
-14288,4,false,Cactus Hand Guard
-14288,5,false,Bone Hand Guard
-14288,6,false,Obsidian Hand Guard
-14288,7,false,Netherrack Hand Guard
-14288,8,false,Slime Hand Guard
-14288,9,false,Paper Hand Guard
-14288,10,false,Cobalt Hand Guard
-14288,11,false,Ardite Hand Guard
-14288,12,false,Manyullyn Hand Guard
-14288,13,false,Copper Hand Guard
-14288,14,false,Bronze Hand Guard
-14288,15,false,Alumite Hand Guard
-14288,16,false,Steel Hand Guard
-14288,31,false,Thaumium Hand Guard
+14287,0,false,Wooden Large Guard
+14287,1,false,Stone Large Guard
+14287,2,false,Iron Large Guard
+14287,3,false,Flint Large Guard
+14287,4,false,Cactus Large Guard
+14287,5,false,Bone Large Guard
+14287,6,false,Obsidian Large Guard
+14287,7,false,Netherrack Large Guard
+14287,8,false,Slime Large Guard
+14287,9,false,Paper Large Guard
+14287,10,false,Cobalt Large Guard
+14287,11,false,Ardite Large Guard
+14287,12,false,Manyullyn Large Guard
+14287,13,false,Copper Large Guard
+14287,14,false,Bronze Large Guard
+14287,15,false,Alumite Large Guard
+14287,16,false,Steel Large Guard
+14288,0,false,Wooden Medium Guard
+14288,1,false,Stone Medium Guard
+14288,2,false,Iron Medium Guard
+14288,3,false,Flint Medium Guard
+14288,4,false,Cactus Medium Guard
+14288,5,false,Bone Medium Guard
+14288,6,false,Obsidian Medium Guard
+14288,7,false,Netherrack Medium Guard
+14288,8,false,Slime Medium Guard
+14288,9,false,Paper Medium Guard
+14288,10,false,Cobalt Medium Guard
+14288,11,false,Ardite Medium Guard
+14288,12,false,Manyullyn Medium Guard
+14288,13,false,Copper Medium Guard
+14288,14,false,Bronze Medium Guard
+14288,15,false,Alumite Medium Guard
+14288,16,false,Steel Medium Guard
 14289,0,false,Wooden Crossbar
 14289,1,false,Stone Crossbar
 14289,2,false,Iron Crossbar
@@ -9340,7 +9506,6 @@ Item ID,Item meta,Has NBT,Display Name
 14289,14,false,Bronze Crossbar
 14289,15,false,Alumite Crossbar
 14289,16,false,Steel Crossbar
-14289,31,false,Thaumium Crossbar
 14290,0,false,Wooden Binding
 14290,1,false,Stone Binding
 14290,2,false,Iron Binding
@@ -9358,7 +9523,6 @@ Item ID,Item meta,Has NBT,Display Name
 14290,14,false,Bronze Binding
 14290,15,false,Alumite Binding
 14290,16,false,Steel Binding
-14290,31,false,Thaumium Binding
 14291,0,false,Wooden Pan
 14291,1,false,Stone Pan
 14291,2,false,Iron Pan
@@ -9376,7 +9540,6 @@ Item ID,Item meta,Has NBT,Display Name
 14291,14,false,Bronze Pan
 14291,15,false,Alumite Pan
 14291,16,false,Steel Pan
-14291,31,false,Thaumium Pan
 14292,0,false,Wooden Sign Head
 14292,1,false,Stone Sign Head
 14292,2,false,Iron Sign Head
@@ -9394,7 +9557,6 @@ Item ID,Item meta,Has NBT,Display Name
 14292,14,false,Bronze Sign Head
 14292,15,false,Alumite Sign Head
 14292,16,false,Steel Sign Head
-14292,31,false,Thaumium Sign Head
 14293,0,false,Wooden Broad Axe Head
 14293,1,false,Stone Broad Axe Head
 14293,2,false,Iron Broad Axe Head
@@ -9412,7 +9574,6 @@ Item ID,Item meta,Has NBT,Display Name
 14293,14,false,Bronze Broad Axe Head
 14293,15,false,Alumite Broad Axe Head
 14293,16,false,Steel Broad Axe Head
-14293,31,false,Thaumium Broad Axe Head
 14294,0,false,Wooden Knife Blade
 14294,1,false,Stone Knife Blade
 14294,2,false,Iron Knife Blade
@@ -9430,7 +9591,6 @@ Item ID,Item meta,Has NBT,Display Name
 14294,14,false,Bronze Knife Blade
 14294,15,false,Alumite Knife Blade
 14294,16,false,Steel Knife Blade
-14294,31,false,Thaumium Knife Blade
 14295,0,false,Wooden Chisel Head
 14295,1,false,Stone Chisel Head
 14295,2,false,Iron Chisel Head
@@ -9448,7 +9608,6 @@ Item ID,Item meta,Has NBT,Display Name
 14295,14,false,Bronze Chisel Head
 14295,15,false,Alumite Chisel Head
 14295,16,false,Steel Chisel Head
-14295,31,false,Thaumium Chisel Head
 14296,0,false,Wooden Scythe Head
 14296,1,false,Stone Scythe Head
 14296,2,false,Iron Scythe Head
@@ -9466,7 +9625,6 @@ Item ID,Item meta,Has NBT,Display Name
 14296,14,false,Bronze Scythe Head
 14296,15,false,Alumite Scythe Head
 14296,16,false,Steel Scythe Head
-14296,31,false,Thaumium Scythe Head
 14297,0,false,Wooden Tough Binding
 14297,1,false,Stone Tough Binding
 14297,2,false,Iron Tough Binding
@@ -9484,7 +9642,6 @@ Item ID,Item meta,Has NBT,Display Name
 14297,14,false,Bronze Tough Binding
 14297,15,false,Alumite Tough Binding
 14297,16,false,Steel Tough Binding
-14297,31,false,Thaumium Tough Binding
 14298,0,false,Wooden Tough Rod
 14298,1,false,Stone Tough Rod
 14298,2,false,Iron Tough Rod
@@ -9502,7 +9659,6 @@ Item ID,Item meta,Has NBT,Display Name
 14298,14,false,Bronze Tough Rod
 14298,15,false,Alumite Tough Rod
 14298,16,false,Steel Tough Rod
-14298,31,false,Thaumium Tough Rod
 14299,0,false,Wooden Large Sword Blade
 14299,1,false,Stone Large Sword Blade
 14299,2,false,Iron Large Sword Blade
@@ -9520,7 +9676,6 @@ Item ID,Item meta,Has NBT,Display Name
 14299,14,false,Bronze Large Sword Blade
 14299,15,false,Alumite Large Sword Blade
 14299,16,false,Steel Large Sword Blade
-14299,31,false,Thaumium Large Sword Blade
 14300,0,false,Wooden Large Plate
 14300,1,false,Stone Large Plate
 14300,2,false,Iron Large Plate
@@ -9538,7 +9693,6 @@ Item ID,Item meta,Has NBT,Display Name
 14300,14,false,Bronze Large Plate
 14300,15,false,Alumite Large Plate
 14300,16,false,Steel Large Plate
-14300,31,false,Thaumium Large Plate
 14301,0,false,Wooden Excavator Head
 14301,1,false,Stone Excavator Head
 14301,2,false,Iron Excavator Head
@@ -9556,7 +9710,6 @@ Item ID,Item meta,Has NBT,Display Name
 14301,14,false,Bronze Excavator Head
 14301,15,false,Alumite Excavator Head
 14301,16,false,Steel Excavator Head
-14301,31,false,Thaumium Excavator Head
 14302,0,false,Wooden Hammer Head
 14302,1,false,Stone Hammer Head
 14302,2,false,Iron Hammer Head
@@ -9574,7 +9727,6 @@ Item ID,Item meta,Has NBT,Display Name
 14302,14,false,Bronze Hammer Head
 14302,15,false,Alumite Hammer Head
 14302,16,false,Steel Hammer Head
-14302,31,false,Thaumium Hammer Head
 14303,0,false,Wooden Full Guard
 14303,1,false,Stone Full Guard
 14303,2,false,Iron Full Guard
@@ -9592,7 +9744,6 @@ Item ID,Item meta,Has NBT,Display Name
 14303,14,false,Bronze Full Guard
 14303,15,false,Alumite Full Guard
 14304,0,false,Bowstring
-14304,1,false,Enchanted Bowstring
 14304,2,false,Fiery Bowstring
 14305,0,false,Wooden Arrowhead
 14305,1,false,Stone Arrowhead
@@ -9611,7 +9762,6 @@ Item ID,Item meta,Has NBT,Display Name
 14305,14,false,Bronze Arrowhead
 14305,15,false,Alumite Arrowhead
 14305,16,false,Steel Arrowhead
-14305,31,false,Thaumium Arrowhead
 14306,0,false,Feather Fletching
 14306,1,false,Leaf Fletching
 14306,2,false,Slime Fletching
@@ -9634,7 +9784,6 @@ Item ID,Item meta,Has NBT,Display Name
 14307,0,true,Alumite Pickaxe
 14307,0,true,Slime Pickaxe
 14307,0,true,Steel Pickaxe
-14307,0,true,Thaumium Pickaxe
 14308,0,true,Wooden Shovel
 14308,0,true,Stone Shovel
 14308,0,true,Iron Shovel
@@ -9653,7 +9802,6 @@ Item ID,Item meta,Has NBT,Display Name
 14308,0,true,Alumite Shovel
 14308,0,true,Slime Shovel
 14308,0,true,Steel Shovel
-14308,0,true,Thaumium Shovel
 14309,0,true,Wooden Hatchet
 14309,0,true,Stone Hatchet
 14309,0,true,Iron Hatchet
@@ -9672,7 +9820,6 @@ Item ID,Item meta,Has NBT,Display Name
 14309,0,true,Alumite Hatchet
 14309,0,true,Slime Hatchet
 14309,0,true,Steel Hatchet
-14309,0,true,Thaumium Hatchet
 14311,0,true,Wooden Broadsword
 14311,0,true,Stone Broadsword
 14311,0,true,Iron Broadsword
@@ -9691,7 +9838,6 @@ Item ID,Item meta,Has NBT,Display Name
 14311,0,true,Alumite Broadsword
 14311,0,true,Slime Broadsword
 14311,0,true,Steel Broadsword
-14311,0,true,Thaumium Broadsword
 14312,0,true,Wooden Longsword
 14312,0,true,Stone Longsword
 14312,0,true,Iron Longsword
@@ -9710,7 +9856,6 @@ Item ID,Item meta,Has NBT,Display Name
 14312,0,true,Alumite Longsword
 14312,0,true,Slime Longsword
 14312,0,true,Steel Longsword
-14312,0,true,Thaumium Longsword
 14313,0,true,Wooden Rapier
 14313,0,true,Stone Rapier
 14313,0,true,Iron Rapier
@@ -9729,7 +9874,6 @@ Item ID,Item meta,Has NBT,Display Name
 14313,0,true,Alumite Rapier
 14313,0,true,Slime Rapier
 14313,0,true,Steel Rapier
-14313,0,true,Thaumium Rapier
 14314,0,true,Wooden Frying Pan
 14314,0,true,Stone Frying Pan
 14314,0,true,Iron Frying Pan
@@ -9748,7 +9892,6 @@ Item ID,Item meta,Has NBT,Display Name
 14314,0,true,Alumite Frying Pan
 14314,0,true,Slime Frying Pan
 14314,0,true,Steel Frying Pan
-14314,0,true,Thaumium Frying Pan
 14314,0,true,Bane of Pigs
 14315,0,true,Wooden Battlesign
 14315,0,true,Stone Battlesign
@@ -9768,7 +9911,6 @@ Item ID,Item meta,Has NBT,Display Name
 14315,0,true,Alumite Battlesign
 14315,0,true,Slime Battlesign
 14315,0,true,Steel Battlesign
-14315,0,true,Thaumium Battlesign
 14316,0,true,Wooden Mattock
 14316,0,true,Stone Mattock
 14316,0,true,Iron Mattock
@@ -9787,7 +9929,6 @@ Item ID,Item meta,Has NBT,Display Name
 14316,0,true,Alumite Mattock
 14316,0,true,Slime Mattock
 14316,0,true,Steel Mattock
-14316,0,true,Thaumium Mattock
 14317,0,true,Wooden Lumber Axe
 14317,0,true,Stone Lumber Axe
 14317,0,true,Iron Lumber Axe
@@ -9806,7 +9947,6 @@ Item ID,Item meta,Has NBT,Display Name
 14317,0,true,Alumite Lumber Axe
 14317,0,true,Slime Lumber Axe
 14317,0,true,Steel Lumber Axe
-14317,0,true,Thaumium Lumber Axe
 14319,0,true,Wooden Shortbow
 14319,0,true,Stone Shortbow
 14319,0,true,Iron Shortbow
@@ -9825,7 +9965,6 @@ Item ID,Item meta,Has NBT,Display Name
 14319,0,true,Alumite Shortbow
 14319,0,true,Slime Shortbow
 14319,0,true,Steel Shortbow
-14319,0,true,Thaumium Shortbow
 14320,0,true,Potion Launcher
 14321,0,true,Wooden Dagger
 14321,0,true,Stone Dagger
@@ -9845,7 +9984,6 @@ Item ID,Item meta,Has NBT,Display Name
 14321,0,true,Alumite Dagger
 14321,0,true,Slime Dagger
 14321,0,true,Steel Dagger
-14321,0,true,Thaumium Dagger
 14322,0,true,Wooden Chisel
 14322,0,true,Stone Chisel
 14322,0,true,Iron Chisel
@@ -9864,7 +10002,6 @@ Item ID,Item meta,Has NBT,Display Name
 14322,0,true,Alumite Chisel
 14322,0,true,Slime Chisel
 14322,0,true,Steel Chisel
-14322,0,true,Thaumium Chisel
 14323,0,true,Wooden Scythe
 14323,0,true,Stone Scythe
 14323,0,true,Iron Scythe
@@ -9883,7 +10020,6 @@ Item ID,Item meta,Has NBT,Display Name
 14323,0,true,Alumite Scythe
 14323,0,true,Slime Scythe
 14323,0,true,Steel Scythe
-14323,0,true,Thaumium Scythe
 14324,0,true,Wooden Cleaver
 14324,0,true,Stone Cleaver
 14324,0,true,Iron Cleaver
@@ -9902,7 +10038,6 @@ Item ID,Item meta,Has NBT,Display Name
 14324,0,true,Alumite Cleaver
 14324,0,true,Slime Cleaver
 14324,0,true,Steel Cleaver
-14324,0,true,Thaumium Cleaver
 14325,0,true,Wooden Excavator
 14325,0,true,Stone Excavator
 14325,0,true,Iron Excavator
@@ -9921,7 +10056,6 @@ Item ID,Item meta,Has NBT,Display Name
 14325,0,true,Alumite Excavator
 14325,0,true,Slime Excavator
 14325,0,true,Steel Excavator
-14325,0,true,Thaumium Excavator
 14326,0,true,Wooden Hammer
 14326,0,true,Stone Hammer
 14326,0,true,Iron Hammer
@@ -9940,7 +10074,6 @@ Item ID,Item meta,Has NBT,Display Name
 14326,0,true,Alumite Hammer
 14326,0,true,Slime Hammer
 14326,0,true,Steel Hammer
-14326,0,true,Thaumium Hammer
 14327,0,true,Wooden Battleaxe
 14327,0,true,Stone Battleaxe
 14327,0,true,Iron Battleaxe
@@ -9959,7 +10092,6 @@ Item ID,Item meta,Has NBT,Display Name
 14327,0,true,Alumite Battleaxe
 14327,0,true,Slime Battleaxe
 14327,0,true,Steel Battleaxe
-14327,0,true,Thaumium Battleaxe
 14328,0,true,Wooden Cutlass
 14328,0,true,Stone Cutlass
 14328,0,true,Iron Cutlass
@@ -9978,7 +10110,6 @@ Item ID,Item meta,Has NBT,Display Name
 14328,0,true,Alumite Cutlass
 14328,0,true,Slime Cutlass
 14328,0,true,Steel Cutlass
-14328,0,true,Thaumium Cutlass
 14329,0,true,Arrow
 14329,0,true,Random Streamer
 14329,0,true,Wooden Arrow
@@ -9999,7 +10130,6 @@ Item ID,Item meta,Has NBT,Display Name
 14329,0,true,Alumite Arrow
 14329,0,true,Slime Arrow
 14329,0,true,Steel Arrow
-14329,0,true,Thaumium Arrow
 14357,0,false,Molten Iron Bucket
 14357,1,false,Molten Gold Bucket
 14357,2,false,Molten Copper Bucket
@@ -10037,11 +10167,7 @@ Item ID,Item meta,Has NBT,Display Name
 14361,0,false,Empty Canister
 14361,1,false,Miniature Red Heart
 14361,2,false,Heart Canister
-14362,0,false,Wooden Helmet
 14363,0,false,Jeweled Apple
-14364,0,false,Wooden Chestplate
-14365,0,false,Wooden Leggings
-14366,0,false,Wooden Boots
 14368,0,false,Knapsack
 14369,0,false,Golden Head
 14370,0,true,Essence Crystal
@@ -11177,71 +11303,6 @@ Item ID,Item meta,Has NBT,Display Name
 19397,0,true,Facade: Containment Reactor Chamber
 19397,0,true,Facade: Infernal Reactor Chamber
 19397,0,true,Facade: Ender Chamber
-19397,0,true,Facade: Seared Bricks
-19397,0,true,Facade: Seared Stone
-19397,0,true,Facade: Seared Cobblestone
-19397,0,true,Facade: Seared Paver
-19397,0,true,Facade: Cracked Seared Bricks
-19397,0,true,Facade: Seared Road
-19397,0,true,Facade: Fancy Seared Bricks
-19397,0,true,Facade: Chiseled Seared Bricks
-19397,0,true,Facade: Obsidian Brick
-19397,0,true,Facade: Sandstone Brick
-19397,0,true,Facade: Netherrack Brick
-19397,0,true,Facade: Polished Stone Brick
-19397,0,true,Facade: Iron Brick
-19397,0,true,Facade: Gold Brick
-19397,0,true,Facade: Lapis Brick
-19397,0,true,Facade: Diamond Brick
-19397,0,true,Facade: Redstone Brick
-19397,0,true,Facade: Bone Brick
-19397,0,true,Facade: Slime Brick
-19397,0,true,Facade: Slime Brick
-19397,0,true,Facade: Endstone Brick
-19397,0,true,Facade: Fancy Obsidian Brick
-19397,0,true,Facade: Fancy Sandstone Brick
-19397,0,true,Facade: Fancy Netherrack Brick
-19397,0,true,Facade: Fancy Polished Stone Brick
-19397,0,true,Facade: Fancy Iron Brick
-19397,0,true,Facade: Fancy Gold Brick
-19397,0,true,Facade: Fancy Lapis Brick
-19397,0,true,Facade: Fancy Diamond Brick
-19397,0,true,Facade: Fancy Redstone Brick
-19397,0,true,Facade: Fancy Bone Brick
-19397,0,true,Facade: Fancy Slime Brick
-19397,0,true,Facade: Fancy Slime Brick
-19397,0,true,Facade: Fancy Endstone Brick
-19397,0,true,Facade: Fancy Obsidian Brick
-19397,0,true,Facade: Fancy Stone Brick
-19397,0,true,Facade: Stone Road
-19397,0,true,Facade: Slimy Mud
-19397,0,true,Facade: Grout
-19397,0,true,Facade: Slimy Mud
-19397,0,true,Facade: Graveyard Soil
-19397,0,true,Facade: Consecrated Soil
-19397,0,true,Facade: Blue Slimedirt
-19397,0,true,Facade: Block of Cobalt
-19397,0,true,Facade: Block of Ardite
-19397,0,true,Facade: Block of Manyullyn
-19397,0,true,Facade: Block of Copper
-19397,0,true,Facade: Block of Bronze
-19397,0,true,Facade: Block of Tin
-19397,0,true,Facade: Block of Aluminum
-19397,0,true,Facade: Block of Aluminum Brass
-19397,0,true,Facade: Block of Alumite
-19397,0,true,Facade: Block of Steel
-19397,0,true,Facade: Block of Solid Ender
-19397,0,true,Facade: Rough Brownstone
-19397,0,true,Facade: Brownstone Road
-19397,0,true,Facade: Brownstone
-19397,0,true,Facade: Brownstone Brick
-19397,0,true,Facade: Brownstone Road
-19397,0,true,Facade: Fancy Brownstone
-19397,0,true,Facade: Chiseled Brownstone
-19397,0,true,Facade: Hambone
-19397,0,true,Facade: Hambone
-19397,0,true,Facade: Congealed Blue Slime
-19397,0,true,Facade: Congealed Green Slime
 19397,0,true,Facade: Stone
 19397,0,true,Facade: Dirt
 19397,0,true,Facade: Cobblestone
@@ -12176,231 +12237,6 @@ Item ID,Item meta,Has NBT,Display Name
 22574,21,false,Walnut Seat Back
 22574,22,false,Wenge Seat Back
 22574,23,false,Willow Seat Back
-23256,0,false,Bluegill
-23256,1,false,Perch
-23256,2,false,Gar
-23256,3,false,Bass
-23256,4,false,Muskellunge
-23256,5,false,Brown Trout
-23256,6,false,Catfish
-23256,7,false,Carp
-23256,8,false,Blowfish
-23256,9,false,Red Grouper
-23256,10,false,Salmon
-23256,11,false,Tuna
-23256,12,false,Swordfish
-23256,13,false,Shark
-23256,14,false,Whale
-23256,15,false,Squid
-23256,16,false,Jellyfish
-23256,17,false,Frog
-23256,18,false,Turtle
-23256,19,false,Leech
-23256,20,false,Pirahna
-23256,21,false,Electric Eel
-23256,22,false,Tambaqui
-23256,23,false,Arapaima
-23256,24,false,Cod
-23256,25,false,Pollock
-23256,26,false,Herring
-23256,27,false,Halibut
-23256,28,false,Pink Salmon
-23256,29,false,Rainbow Trout
-23256,30,false,Blackfish
-23256,31,false,Capitaine
-23256,32,false,Boulti
-23256,33,false,Bagrid
-23256,34,false,Syndontis
-23256,35,false,Red Shrooma
-23256,36,false,Brown Shrooma
-23256,37,false,Goldfish
-23256,38,false,Fish Bones
-23257,0,false,Iron Fishing Rod
-23258,0,false,Gold Fishing Rod
-23259,0,false,Diamond Fishing Rod
-23266,0,false,Seaweed
-23266,1,false,Algae
-23266,2,false,Raw Whale Steak
-23266,3,false,Raw Fish Fillet
-23266,4,false,Cooked Fish Fillet
-23266,5,false,Cooked Whale Steak
-23266,6,false,Whaleburger
-23266,7,false,Frog Legs
-23266,8,false,Cooked Frog Legs
-23266,9,false,Turtle Soup
-23266,10,false,Sushi
-23266,11,false,Driftwood
-23266,12,false,Neptunium Bar
-23266,13,false,Tin Can
-23266,14,false,Message In A Bottle
-23266,15,false,Box
-23266,16,false,Lockbox
-23266,17,false,Treasure Chest
-23266,18,false,Neptune's Bounty
-23271,0,false,Neptunium Pickaxe
-23272,0,false,Neptunium Shovel
-23273,0,false,Neptunium Axe
-23274,0,false,Neptunium Hoe
-23275,0,false,Neptunium Sword
-23276,0,false,Neptunium Helmet
-23277,0,false,Neptunium Plate
-23278,0,false,Neptunium Legs
-23279,0,false,Neptunium Boots
-23281,0,false,Admin Fishing Rod
-23296,0,false,Clay Bowl
-23296,1,false,Clay Plate
-23296,2,false,Clay Cup
-23296,3,false,Ceramic Bowl
-23296,4,false,Ceramic Plate
-23296,5,false,Ceramic Cup
-23296,6,false,Oven Rack
-23297,1,false,Candied Apple
-23297,2,false,French Fries
-23297,3,false,Cup of Water
-23297,4,false,Cup of Milk
-23297,5,false,Hot Cocoa
-23297,6,false,Vinegar
-23297,7,false,Beer
-23297,8,false,Raw Hamburger Patty
-23297,9,false,Apple Jelly Toast
-23297,10,false,Cinnamon Toast
-23297,11,false,Strawberry Jelly Toast
-23297,12,false,Caramel Apple with Nuts
-23297,13,false,Apple Jelly
-23297,14,false,Mashed Potatos
-23297,15,false,Carrot Cake Batter
-23297,16,false,Raw French Toast
-23297,17,false,Batter
-23297,18,false,Macaroni and Cheese
-23297,19,false,Strawberry Jelly
-23297,20,false,Raw Apple Pie
-23297,21,false,Raw Strawberry Pie
-23297,22,false,Strawberry Shortcake
-23297,23,false,Hamburger
-23297,24,false,PB&J Sandwich (Apple)
-23297,25,false,PB&J Sandwich (Strawberry)
-23297,26,false,Cheese Sandwich
-23297,27,false,Buttered Toast
-23297,28,false,Bacon Cheese Fries
-23297,29,false,Bacon Cheeseburger
-23297,30,false,Peanut Butter
-23297,31,false,Chocolate
-23297,32,false,Cheese
-23297,33,false,Butter
-23297,34,false,Whipped Cream
-23297,35,false,Dough
-23297,36,false,Apple Gelatin
-23297,37,false,Strawberry Gelatin
-23297,38,false,Marshmellows
-23297,39,false,Pasta Dough
-23297,40,false,Cheese Fries
-23297,41,false,Raw Chicken Nuggets
-23297,42,false,Cheeseburger
-23297,43,false,Deluxe Hot Cocoa
-23297,44,false,Salted Beef
-23297,45,false,Breaded Chicken
-23297,46,false,Salted Pork
-23297,47,false,Caramel Apple
-23297,48,false,Chocolate-Covered Strawberries
-23297,49,false,Cinnamon and Sugar
-23297,50,false,Slice of Cheese
-23297,51,false,Slice of Bread
-23297,52,false,Fried Chicken
-23297,53,false,Chicken Nuggets
-23297,54,false,Shortcake
-23297,55,false,Carrot Cake (Burned)
-23297,56,false,Grilled Cheese
-23297,57,false,Loaf of Bread
-23297,58,false,Pasta
-23297,59,false,Toasted PB&J Sandwich (Apple)
-23297,60,false,Toasted PB&J Sandwich (Strawberry)
-23297,61,false,Roasted Peanuts
-23297,62,false,Apple Pie
-23297,63,false,French Toast
-23297,64,false,Hamburger Patty
-23297,65,false,Strawberry Pie
-23297,66,false,Beef Jerkey
-23297,67,false,Bacon
-23297,68,false,Toast
-23297,69,false,Caramel
-23297,70,false,Apple Mush
-23297,71,false,Gelatin
-23297,72,false,Bread Crumbs
-23297,73,false,Ground Beef
-23297,74,false,Ground Chicken
-23297,75,false,Ground Pork
-23297,76,false,Crushed Peanuts
-23297,77,false,Strawberry Mush
-23297,78,false,Flour
-23297,79,false,Cooking Oil
-23297,80,false,item.null.agricultureStrawberry.name
-23297,81,false,Salt
-23297,82,false,Cinnamon
-23297,83,false,Ground Cinnamon
-23297,84,false,Peanuts
-23297,85,false,Apple Cinnamon Cookie Dough
-23297,86,false,Bowl of Raw Pasta
-23297,87,false,Butter Cookie Dough
-23297,88,false,Cheesy Bacon Potatoes
-23297,89,false,Cheesy Potatoes
-23297,90,false,Chocolate Chip Cookie Dough
-23297,91,false,Chocolate Ice Cream (Chocolate Sauce)
-23297,92,false,Chocolate Ice Cream Mix
-23297,93,false,Diced Potatoes
-23297,94,false,Double Bacon Cheeseburger
-23297,95,false,Ice Cream Mix
-23297,96,false,PB Sandwich
-23297,97,false,Peanut Butter Cooke Dough
-23297,98,false,Pumpkin Cookie Dough
-23297,99,false,Snickerdoodle Dough
-23297,100,false,Strawberry Ice Cream (Chocolate Sauce)
-23297,101,false,Strawberry Ice Cream Mix
-23297,102,false,Strawberry Jelly Cookie Dough
-23297,103,false,Sugar Cookie Dough
-23297,104,false,Vanilla Ice Cream (Chocolate Sauce)
-23297,105,false,Vanilla Ice Cream Mix
-23297,106,false,Chocolate Ice Cream
-23297,107,false,Strawberry Ice Cream
-23297,108,false,Vanilla Ice Cream
-23297,109,false,Apple Cinnamon Cookie
-23297,110,false,Butter Cookie
-23297,111,false,Chocolate Chip Cookie
-23297,112,false,Chocolate Sauce
-23297,113,false,Peanut Butter Cookie
-23297,114,false,Pumpkin Cookie
-23297,115,false,Roasted Marshmellows
-23297,116,false,Snickerdoodle
-23297,117,false,Strawberry Jelly Cookie
-23297,118,false,Sugar Cookie
-23297,119,false,Toasted PB Sandwich
-23297,120,false,Vanilla
-23297,121,false,Apple Cinnamon Cooke (Burned)
-23297,122,false,Apple Pie (Burned)
-23297,123,false,Bacon (Burned)
-23297,124,false,Beef Jerkey (Burned)
-23297,125,false,Butter Cookie (Burned)
-23297,126,false,Caramel (Burned)
-23297,127,false,item.null.agricultureCarrotCakeBurned.name
-23297,128,false,Chocolate Chip Cookie (Burned)
-23297,129,false,Chocolate Sauce (Burned)
-23297,130,false,French Toast (Burned)
-23297,131,false,Grilled Cheese (Burned)
-23297,132,false,Hambuerger Patty (Burned)
-23297,133,false,Loaf of Bread (Burned)
-23297,134,false,Pasta (Burned)
-23297,135,false,Peanut Butter Cookie (Burned)
-23297,136,false,Pumpkin Cookie (Burned)
-23297,137,false,Roasted Marshmellows (Burned)
-23297,138,false,Roasted Peanuts (Burned)
-23297,139,false,Shortcake (Burned)
-23297,140,false,Snickerdoodle (Burned)
-23297,141,false,Strawberry Jelly Cookie (Burned)
-23297,142,false,Strawberry Pie (Burned)
-23297,143,false,Sugar Cookie (Burned)
-23297,144,false,Toast (Burned)
-23297,145,false,Toasted PB&J Sandwich (Apple) (Burned)
-23297,146,false,Toasted PB&J Sabdwich (Strawberry) (Burned)
-23297,147,false,Toasted PB Sandwich (Burned)
 23792,0,false,Flint and Steel
 23793,0,false,Upgrade Card
 23794,0,false,Network Card
@@ -12460,53 +12296,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,1,true,Darkwood Leaves Cover
 25131,1,true,Darkwood Leaves Cover
 25131,1,true,Fusewood Leaves Cover
-25131,1,true,Obsidian Brick Cover
-25131,1,true,Sandstone Brick Cover
-25131,1,true,Slime Brick Cover
-25131,1,true,Slime Brick Cover
-25131,1,true,Endstone Brick Cover
-25131,1,true,Obsidian Brick Cover
-25131,1,true,Netherrack Brick Cover
-25131,1,true,Polished Stone Brick Cover
-25131,1,true,Iron Brick Cover
-25131,1,true,Gold Brick Cover
-25131,1,true,Lapis Brick Cover
-25131,1,true,Diamond Brick Cover
-25131,1,true,Redstone Brick Cover
-25131,1,true,Bone Brick Cover
-25131,1,true,Fancy Obsidian Brick Cover
-25131,1,true,Fancy Sandstone Brick Cover
-25131,1,true,Fancy Slime Brick Cover
-25131,1,true,Fancy Slime Brick Cover
-25131,1,true,Fancy Endstone Brick Cover
-25131,1,true,Fancy Obsidian Brick Cover
-25131,1,true,Fancy Stone Brick Cover
-25131,1,true,Stone Road Cover
-25131,1,true,Fancy Netherrack Brick Cover
-25131,1,true,Fancy Polished Stone Brick Cover
-25131,1,true,Fancy Iron Brick Cover
-25131,1,true,Fancy Gold Brick Cover
-25131,1,true,Fancy Lapis Brick Cover
-25131,1,true,Fancy Diamond Brick Cover
-25131,1,true,Fancy Redstone Brick Cover
-25131,1,true,Fancy Bone Brick Cover
-25131,1,true,Clear Glass Cover
-25131,1,true,White Stained Glass Cover
-25131,1,true,Orange Stained Glass Cover
-25131,1,true,Purple Stained Glass Cover
-25131,1,true,Blue Stained Glass Cover
-25131,1,true,Brown Stained Glass Cover
-25131,1,true,Green Stained Glass Cover
-25131,1,true,Red Stained Glass Cover
-25131,1,true,Black Stained Glass Cover
-25131,1,true,Magenta Stained Glass Cover
-25131,1,true,Light Blue Stained Glass Cover
-25131,1,true,Yellow Stained Glass Cover
-25131,1,true,Lime Stained Glass Cover
-25131,1,true,Pink Stained Glass Cover
-25131,1,true,Gray Stained Glass Cover
-25131,1,true,Light Gray Stained Glass Cover
-25131,1,true,Cyan Stained Glass Cover
 25131,1,true,Maple Leaves Cover
 25131,1,true,Silverbell Leaves Cover
 25131,1,true,Amaranth Leaves Cover
@@ -12515,14 +12304,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,1,true,Silverbell Wood Cover
 25131,1,true,Amaranth Wood Cover
 25131,1,true,Tiger Wood Cover
-25131,1,true,Chiseled Seared Bricks Cover
-25131,1,true,Seared Bricks Cover
-25131,1,true,Seared Stone Cover
-25131,1,true,Seared Cobblestone Cover
-25131,1,true,Seared Paver Cover
-25131,1,true,Cracked Seared Bricks Cover
-25131,1,true,Seared Road Cover
-25131,1,true,Fancy Seared Bricks Cover
 25131,1,true,Block of Coal Cover
 25131,1,true,Amber Block Cover
 25131,1,true,Obsidian Totem Cover
@@ -12788,17 +12569,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,1,true,Mossy Stone Bricks Cover
 25131,1,true,Cracked Stone Bricks Cover
 25131,1,true,Chiseled Stone Bricks Cover
-25131,1,true,Block of Cobalt Cover
-25131,1,true,Block of Ardite Cover
-25131,1,true,Block of Solid Ender Cover
-25131,1,true,Block of Manyullyn Cover
-25131,1,true,Block of Copper Cover
-25131,1,true,Block of Bronze Cover
-25131,1,true,Block of Tin Cover
-25131,1,true,Block of Aluminum Cover
-25131,1,true,Block of Aluminum Brass Cover
-25131,1,true,Block of Alumite Cover
-25131,1,true,Block of Steel Cover
 25131,1,true,Block of Smokey Quartz Cover
 25131,1,true,Chiseled Smokey Quartz Block Cover
 25131,1,true,End Stone Cover
@@ -12811,53 +12581,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,2,true,Darkwood Leaves Panel
 25131,2,true,Darkwood Leaves Panel
 25131,2,true,Fusewood Leaves Panel
-25131,2,true,Obsidian Brick Panel
-25131,2,true,Sandstone Brick Panel
-25131,2,true,Slime Brick Panel
-25131,2,true,Slime Brick Panel
-25131,2,true,Endstone Brick Panel
-25131,2,true,Obsidian Brick Panel
-25131,2,true,Netherrack Brick Panel
-25131,2,true,Polished Stone Brick Panel
-25131,2,true,Iron Brick Panel
-25131,2,true,Gold Brick Panel
-25131,2,true,Lapis Brick Panel
-25131,2,true,Diamond Brick Panel
-25131,2,true,Redstone Brick Panel
-25131,2,true,Bone Brick Panel
-25131,2,true,Fancy Obsidian Brick Panel
-25131,2,true,Fancy Sandstone Brick Panel
-25131,2,true,Fancy Slime Brick Panel
-25131,2,true,Fancy Slime Brick Panel
-25131,2,true,Fancy Endstone Brick Panel
-25131,2,true,Fancy Obsidian Brick Panel
-25131,2,true,Fancy Stone Brick Panel
-25131,2,true,Stone Road Panel
-25131,2,true,Fancy Netherrack Brick Panel
-25131,2,true,Fancy Polished Stone Brick Panel
-25131,2,true,Fancy Iron Brick Panel
-25131,2,true,Fancy Gold Brick Panel
-25131,2,true,Fancy Lapis Brick Panel
-25131,2,true,Fancy Diamond Brick Panel
-25131,2,true,Fancy Redstone Brick Panel
-25131,2,true,Fancy Bone Brick Panel
-25131,2,true,Clear Glass Panel
-25131,2,true,White Stained Glass Panel
-25131,2,true,Orange Stained Glass Panel
-25131,2,true,Purple Stained Glass Panel
-25131,2,true,Blue Stained Glass Panel
-25131,2,true,Brown Stained Glass Panel
-25131,2,true,Green Stained Glass Panel
-25131,2,true,Red Stained Glass Panel
-25131,2,true,Black Stained Glass Panel
-25131,2,true,Magenta Stained Glass Panel
-25131,2,true,Light Blue Stained Glass Panel
-25131,2,true,Yellow Stained Glass Panel
-25131,2,true,Lime Stained Glass Panel
-25131,2,true,Pink Stained Glass Panel
-25131,2,true,Gray Stained Glass Panel
-25131,2,true,Light Gray Stained Glass Panel
-25131,2,true,Cyan Stained Glass Panel
 25131,2,true,Maple Leaves Panel
 25131,2,true,Silverbell Leaves Panel
 25131,2,true,Amaranth Leaves Panel
@@ -12866,14 +12589,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,2,true,Silverbell Wood Panel
 25131,2,true,Amaranth Wood Panel
 25131,2,true,Tiger Wood Panel
-25131,2,true,Chiseled Seared Bricks Panel
-25131,2,true,Seared Bricks Panel
-25131,2,true,Seared Stone Panel
-25131,2,true,Seared Cobblestone Panel
-25131,2,true,Seared Paver Panel
-25131,2,true,Cracked Seared Bricks Panel
-25131,2,true,Seared Road Panel
-25131,2,true,Fancy Seared Bricks Panel
 25131,2,true,Block of Coal Panel
 25131,2,true,Amber Block Panel
 25131,2,true,Obsidian Totem Panel
@@ -13139,17 +12854,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,2,true,Mossy Stone Bricks Panel
 25131,2,true,Cracked Stone Bricks Panel
 25131,2,true,Chiseled Stone Bricks Panel
-25131,2,true,Block of Cobalt Panel
-25131,2,true,Block of Ardite Panel
-25131,2,true,Block of Solid Ender Panel
-25131,2,true,Block of Manyullyn Panel
-25131,2,true,Block of Copper Panel
-25131,2,true,Block of Bronze Panel
-25131,2,true,Block of Tin Panel
-25131,2,true,Block of Aluminum Panel
-25131,2,true,Block of Aluminum Brass Panel
-25131,2,true,Block of Alumite Panel
-25131,2,true,Block of Steel Panel
 25131,2,true,Block of Smokey Quartz Panel
 25131,2,true,Chiseled Smokey Quartz Block Panel
 25131,2,true,End Stone Panel
@@ -13162,53 +12866,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,4,true,Darkwood Leaves Slab
 25131,4,true,Darkwood Leaves Slab
 25131,4,true,Fusewood Leaves Slab
-25131,4,true,Obsidian Brick Slab
-25131,4,true,Sandstone Brick Slab
-25131,4,true,Slime Brick Slab
-25131,4,true,Slime Brick Slab
-25131,4,true,Endstone Brick Slab
-25131,4,true,Obsidian Brick Slab
-25131,4,true,Netherrack Brick Slab
-25131,4,true,Polished Stone Brick Slab
-25131,4,true,Iron Brick Slab
-25131,4,true,Gold Brick Slab
-25131,4,true,Lapis Brick Slab
-25131,4,true,Diamond Brick Slab
-25131,4,true,Redstone Brick Slab
-25131,4,true,Bone Brick Slab
-25131,4,true,Fancy Obsidian Brick Slab
-25131,4,true,Fancy Sandstone Brick Slab
-25131,4,true,Fancy Slime Brick Slab
-25131,4,true,Fancy Slime Brick Slab
-25131,4,true,Fancy Endstone Brick Slab
-25131,4,true,Fancy Obsidian Brick Slab
-25131,4,true,Fancy Stone Brick Slab
-25131,4,true,Stone Road Slab
-25131,4,true,Fancy Netherrack Brick Slab
-25131,4,true,Fancy Polished Stone Brick Slab
-25131,4,true,Fancy Iron Brick Slab
-25131,4,true,Fancy Gold Brick Slab
-25131,4,true,Fancy Lapis Brick Slab
-25131,4,true,Fancy Diamond Brick Slab
-25131,4,true,Fancy Redstone Brick Slab
-25131,4,true,Fancy Bone Brick Slab
-25131,4,true,Clear Glass Slab
-25131,4,true,White Stained Glass Slab
-25131,4,true,Orange Stained Glass Slab
-25131,4,true,Purple Stained Glass Slab
-25131,4,true,Blue Stained Glass Slab
-25131,4,true,Brown Stained Glass Slab
-25131,4,true,Green Stained Glass Slab
-25131,4,true,Red Stained Glass Slab
-25131,4,true,Black Stained Glass Slab
-25131,4,true,Magenta Stained Glass Slab
-25131,4,true,Light Blue Stained Glass Slab
-25131,4,true,Yellow Stained Glass Slab
-25131,4,true,Lime Stained Glass Slab
-25131,4,true,Pink Stained Glass Slab
-25131,4,true,Gray Stained Glass Slab
-25131,4,true,Light Gray Stained Glass Slab
-25131,4,true,Cyan Stained Glass Slab
 25131,4,true,Maple Leaves Slab
 25131,4,true,Silverbell Leaves Slab
 25131,4,true,Amaranth Leaves Slab
@@ -13217,14 +12874,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,4,true,Silverbell Wood Slab
 25131,4,true,Amaranth Wood Slab
 25131,4,true,Tiger Wood Slab
-25131,4,true,Chiseled Seared Bricks Slab
-25131,4,true,Seared Bricks Slab
-25131,4,true,Seared Stone Slab
-25131,4,true,Seared Cobblestone Slab
-25131,4,true,Seared Paver Slab
-25131,4,true,Cracked Seared Bricks Slab
-25131,4,true,Seared Road Slab
-25131,4,true,Fancy Seared Bricks Slab
 25131,4,true,Block of Coal Slab
 25131,4,true,Amber Block Slab
 25131,4,true,Obsidian Totem Slab
@@ -13490,17 +13139,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,4,true,Mossy Stone Bricks Slab
 25131,4,true,Cracked Stone Bricks Slab
 25131,4,true,Chiseled Stone Bricks Slab
-25131,4,true,Block of Cobalt Slab
-25131,4,true,Block of Ardite Slab
-25131,4,true,Block of Solid Ender Slab
-25131,4,true,Block of Manyullyn Slab
-25131,4,true,Block of Copper Slab
-25131,4,true,Block of Bronze Slab
-25131,4,true,Block of Tin Slab
-25131,4,true,Block of Aluminum Slab
-25131,4,true,Block of Aluminum Brass Slab
-25131,4,true,Block of Alumite Slab
-25131,4,true,Block of Steel Slab
 25131,4,true,Block of Smokey Quartz Slab
 25131,4,true,Chiseled Smokey Quartz Block Slab
 25131,4,true,End Stone Slab
@@ -13513,53 +13151,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,257,true,Hollow Darkwood Leaves Cover
 25131,257,true,Hollow Darkwood Leaves Cover
 25131,257,true,Hollow Fusewood Leaves Cover
-25131,257,true,Hollow Obsidian Brick Cover
-25131,257,true,Hollow Sandstone Brick Cover
-25131,257,true,Hollow Slime Brick Cover
-25131,257,true,Hollow Slime Brick Cover
-25131,257,true,Hollow Endstone Brick Cover
-25131,257,true,Hollow Obsidian Brick Cover
-25131,257,true,Hollow Netherrack Brick Cover
-25131,257,true,Hollow Polished Stone Brick Cover
-25131,257,true,Hollow Iron Brick Cover
-25131,257,true,Hollow Gold Brick Cover
-25131,257,true,Hollow Lapis Brick Cover
-25131,257,true,Hollow Diamond Brick Cover
-25131,257,true,Hollow Redstone Brick Cover
-25131,257,true,Hollow Bone Brick Cover
-25131,257,true,Hollow Fancy Obsidian Brick Cover
-25131,257,true,Hollow Fancy Sandstone Brick Cover
-25131,257,true,Hollow Fancy Slime Brick Cover
-25131,257,true,Hollow Fancy Slime Brick Cover
-25131,257,true,Hollow Fancy Endstone Brick Cover
-25131,257,true,Hollow Fancy Obsidian Brick Cover
-25131,257,true,Hollow Fancy Stone Brick Cover
-25131,257,true,Hollow Stone Road Cover
-25131,257,true,Hollow Fancy Netherrack Brick Cover
-25131,257,true,Hollow Fancy Polished Stone Brick Cover
-25131,257,true,Hollow Fancy Iron Brick Cover
-25131,257,true,Hollow Fancy Gold Brick Cover
-25131,257,true,Hollow Fancy Lapis Brick Cover
-25131,257,true,Hollow Fancy Diamond Brick Cover
-25131,257,true,Hollow Fancy Redstone Brick Cover
-25131,257,true,Hollow Fancy Bone Brick Cover
-25131,257,true,Hollow Clear Glass Cover
-25131,257,true,Hollow White Stained Glass Cover
-25131,257,true,Hollow Orange Stained Glass Cover
-25131,257,true,Hollow Purple Stained Glass Cover
-25131,257,true,Hollow Blue Stained Glass Cover
-25131,257,true,Hollow Brown Stained Glass Cover
-25131,257,true,Hollow Green Stained Glass Cover
-25131,257,true,Hollow Red Stained Glass Cover
-25131,257,true,Hollow Black Stained Glass Cover
-25131,257,true,Hollow Magenta Stained Glass Cover
-25131,257,true,Hollow Light Blue Stained Glass Cover
-25131,257,true,Hollow Yellow Stained Glass Cover
-25131,257,true,Hollow Lime Stained Glass Cover
-25131,257,true,Hollow Pink Stained Glass Cover
-25131,257,true,Hollow Gray Stained Glass Cover
-25131,257,true,Hollow Light Gray Stained Glass Cover
-25131,257,true,Hollow Cyan Stained Glass Cover
 25131,257,true,Hollow Maple Leaves Cover
 25131,257,true,Hollow Silverbell Leaves Cover
 25131,257,true,Hollow Amaranth Leaves Cover
@@ -13568,14 +13159,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,257,true,Hollow Silverbell Wood Cover
 25131,257,true,Hollow Amaranth Wood Cover
 25131,257,true,Hollow Tiger Wood Cover
-25131,257,true,Hollow Chiseled Seared Bricks Cover
-25131,257,true,Hollow Seared Bricks Cover
-25131,257,true,Hollow Seared Stone Cover
-25131,257,true,Hollow Seared Cobblestone Cover
-25131,257,true,Hollow Seared Paver Cover
-25131,257,true,Hollow Cracked Seared Bricks Cover
-25131,257,true,Hollow Seared Road Cover
-25131,257,true,Hollow Fancy Seared Bricks Cover
 25131,257,true,Hollow Block of Coal Cover
 25131,257,true,Hollow Amber Block Cover
 25131,257,true,Hollow Obsidian Totem Cover
@@ -13841,17 +13424,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,257,true,Hollow Mossy Stone Bricks Cover
 25131,257,true,Hollow Cracked Stone Bricks Cover
 25131,257,true,Hollow Chiseled Stone Bricks Cover
-25131,257,true,Hollow Block of Cobalt Cover
-25131,257,true,Hollow Block of Ardite Cover
-25131,257,true,Hollow Block of Solid Ender Cover
-25131,257,true,Hollow Block of Manyullyn Cover
-25131,257,true,Hollow Block of Copper Cover
-25131,257,true,Hollow Block of Bronze Cover
-25131,257,true,Hollow Block of Tin Cover
-25131,257,true,Hollow Block of Aluminum Cover
-25131,257,true,Hollow Block of Aluminum Brass Cover
-25131,257,true,Hollow Block of Alumite Cover
-25131,257,true,Hollow Block of Steel Cover
 25131,257,true,Hollow Block of Smokey Quartz Cover
 25131,257,true,Hollow Chiseled Smokey Quartz Block Cover
 25131,257,true,Hollow End Stone Cover
@@ -13864,53 +13436,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,258,true,Hollow Darkwood Leaves Panel
 25131,258,true,Hollow Darkwood Leaves Panel
 25131,258,true,Hollow Fusewood Leaves Panel
-25131,258,true,Hollow Obsidian Brick Panel
-25131,258,true,Hollow Sandstone Brick Panel
-25131,258,true,Hollow Slime Brick Panel
-25131,258,true,Hollow Slime Brick Panel
-25131,258,true,Hollow Endstone Brick Panel
-25131,258,true,Hollow Obsidian Brick Panel
-25131,258,true,Hollow Netherrack Brick Panel
-25131,258,true,Hollow Polished Stone Brick Panel
-25131,258,true,Hollow Iron Brick Panel
-25131,258,true,Hollow Gold Brick Panel
-25131,258,true,Hollow Lapis Brick Panel
-25131,258,true,Hollow Diamond Brick Panel
-25131,258,true,Hollow Redstone Brick Panel
-25131,258,true,Hollow Bone Brick Panel
-25131,258,true,Hollow Fancy Obsidian Brick Panel
-25131,258,true,Hollow Fancy Sandstone Brick Panel
-25131,258,true,Hollow Fancy Slime Brick Panel
-25131,258,true,Hollow Fancy Slime Brick Panel
-25131,258,true,Hollow Fancy Endstone Brick Panel
-25131,258,true,Hollow Fancy Obsidian Brick Panel
-25131,258,true,Hollow Fancy Stone Brick Panel
-25131,258,true,Hollow Stone Road Panel
-25131,258,true,Hollow Fancy Netherrack Brick Panel
-25131,258,true,Hollow Fancy Polished Stone Brick Panel
-25131,258,true,Hollow Fancy Iron Brick Panel
-25131,258,true,Hollow Fancy Gold Brick Panel
-25131,258,true,Hollow Fancy Lapis Brick Panel
-25131,258,true,Hollow Fancy Diamond Brick Panel
-25131,258,true,Hollow Fancy Redstone Brick Panel
-25131,258,true,Hollow Fancy Bone Brick Panel
-25131,258,true,Hollow Clear Glass Panel
-25131,258,true,Hollow White Stained Glass Panel
-25131,258,true,Hollow Orange Stained Glass Panel
-25131,258,true,Hollow Purple Stained Glass Panel
-25131,258,true,Hollow Blue Stained Glass Panel
-25131,258,true,Hollow Brown Stained Glass Panel
-25131,258,true,Hollow Green Stained Glass Panel
-25131,258,true,Hollow Red Stained Glass Panel
-25131,258,true,Hollow Black Stained Glass Panel
-25131,258,true,Hollow Magenta Stained Glass Panel
-25131,258,true,Hollow Light Blue Stained Glass Panel
-25131,258,true,Hollow Yellow Stained Glass Panel
-25131,258,true,Hollow Lime Stained Glass Panel
-25131,258,true,Hollow Pink Stained Glass Panel
-25131,258,true,Hollow Gray Stained Glass Panel
-25131,258,true,Hollow Light Gray Stained Glass Panel
-25131,258,true,Hollow Cyan Stained Glass Panel
 25131,258,true,Hollow Maple Leaves Panel
 25131,258,true,Hollow Silverbell Leaves Panel
 25131,258,true,Hollow Amaranth Leaves Panel
@@ -13919,14 +13444,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,258,true,Hollow Silverbell Wood Panel
 25131,258,true,Hollow Amaranth Wood Panel
 25131,258,true,Hollow Tiger Wood Panel
-25131,258,true,Hollow Chiseled Seared Bricks Panel
-25131,258,true,Hollow Seared Bricks Panel
-25131,258,true,Hollow Seared Stone Panel
-25131,258,true,Hollow Seared Cobblestone Panel
-25131,258,true,Hollow Seared Paver Panel
-25131,258,true,Hollow Cracked Seared Bricks Panel
-25131,258,true,Hollow Seared Road Panel
-25131,258,true,Hollow Fancy Seared Bricks Panel
 25131,258,true,Hollow Block of Coal Panel
 25131,258,true,Hollow Amber Block Panel
 25131,258,true,Hollow Obsidian Totem Panel
@@ -14192,17 +13709,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,258,true,Hollow Mossy Stone Bricks Panel
 25131,258,true,Hollow Cracked Stone Bricks Panel
 25131,258,true,Hollow Chiseled Stone Bricks Panel
-25131,258,true,Hollow Block of Cobalt Panel
-25131,258,true,Hollow Block of Ardite Panel
-25131,258,true,Hollow Block of Solid Ender Panel
-25131,258,true,Hollow Block of Manyullyn Panel
-25131,258,true,Hollow Block of Copper Panel
-25131,258,true,Hollow Block of Bronze Panel
-25131,258,true,Hollow Block of Tin Panel
-25131,258,true,Hollow Block of Aluminum Panel
-25131,258,true,Hollow Block of Aluminum Brass Panel
-25131,258,true,Hollow Block of Alumite Panel
-25131,258,true,Hollow Block of Steel Panel
 25131,258,true,Hollow Block of Smokey Quartz Panel
 25131,258,true,Hollow Chiseled Smokey Quartz Block Panel
 25131,258,true,Hollow End Stone Panel
@@ -14215,53 +13721,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,260,true,Hollow Darkwood Leaves Slab
 25131,260,true,Hollow Darkwood Leaves Slab
 25131,260,true,Hollow Fusewood Leaves Slab
-25131,260,true,Hollow Obsidian Brick Slab
-25131,260,true,Hollow Sandstone Brick Slab
-25131,260,true,Hollow Slime Brick Slab
-25131,260,true,Hollow Slime Brick Slab
-25131,260,true,Hollow Endstone Brick Slab
-25131,260,true,Hollow Obsidian Brick Slab
-25131,260,true,Hollow Netherrack Brick Slab
-25131,260,true,Hollow Polished Stone Brick Slab
-25131,260,true,Hollow Iron Brick Slab
-25131,260,true,Hollow Gold Brick Slab
-25131,260,true,Hollow Lapis Brick Slab
-25131,260,true,Hollow Diamond Brick Slab
-25131,260,true,Hollow Redstone Brick Slab
-25131,260,true,Hollow Bone Brick Slab
-25131,260,true,Hollow Fancy Obsidian Brick Slab
-25131,260,true,Hollow Fancy Sandstone Brick Slab
-25131,260,true,Hollow Fancy Slime Brick Slab
-25131,260,true,Hollow Fancy Slime Brick Slab
-25131,260,true,Hollow Fancy Endstone Brick Slab
-25131,260,true,Hollow Fancy Obsidian Brick Slab
-25131,260,true,Hollow Fancy Stone Brick Slab
-25131,260,true,Hollow Stone Road Slab
-25131,260,true,Hollow Fancy Netherrack Brick Slab
-25131,260,true,Hollow Fancy Polished Stone Brick Slab
-25131,260,true,Hollow Fancy Iron Brick Slab
-25131,260,true,Hollow Fancy Gold Brick Slab
-25131,260,true,Hollow Fancy Lapis Brick Slab
-25131,260,true,Hollow Fancy Diamond Brick Slab
-25131,260,true,Hollow Fancy Redstone Brick Slab
-25131,260,true,Hollow Fancy Bone Brick Slab
-25131,260,true,Hollow Clear Glass Slab
-25131,260,true,Hollow White Stained Glass Slab
-25131,260,true,Hollow Orange Stained Glass Slab
-25131,260,true,Hollow Purple Stained Glass Slab
-25131,260,true,Hollow Blue Stained Glass Slab
-25131,260,true,Hollow Brown Stained Glass Slab
-25131,260,true,Hollow Green Stained Glass Slab
-25131,260,true,Hollow Red Stained Glass Slab
-25131,260,true,Hollow Black Stained Glass Slab
-25131,260,true,Hollow Magenta Stained Glass Slab
-25131,260,true,Hollow Light Blue Stained Glass Slab
-25131,260,true,Hollow Yellow Stained Glass Slab
-25131,260,true,Hollow Lime Stained Glass Slab
-25131,260,true,Hollow Pink Stained Glass Slab
-25131,260,true,Hollow Gray Stained Glass Slab
-25131,260,true,Hollow Light Gray Stained Glass Slab
-25131,260,true,Hollow Cyan Stained Glass Slab
 25131,260,true,Hollow Maple Leaves Slab
 25131,260,true,Hollow Silverbell Leaves Slab
 25131,260,true,Hollow Amaranth Leaves Slab
@@ -14270,14 +13729,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,260,true,Hollow Silverbell Wood Slab
 25131,260,true,Hollow Amaranth Wood Slab
 25131,260,true,Hollow Tiger Wood Slab
-25131,260,true,Hollow Chiseled Seared Bricks Slab
-25131,260,true,Hollow Seared Bricks Slab
-25131,260,true,Hollow Seared Stone Slab
-25131,260,true,Hollow Seared Cobblestone Slab
-25131,260,true,Hollow Seared Paver Slab
-25131,260,true,Hollow Cracked Seared Bricks Slab
-25131,260,true,Hollow Seared Road Slab
-25131,260,true,Hollow Fancy Seared Bricks Slab
 25131,260,true,Hollow Block of Coal Slab
 25131,260,true,Hollow Amber Block Slab
 25131,260,true,Hollow Obsidian Totem Slab
@@ -14543,17 +13994,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,260,true,Hollow Mossy Stone Bricks Slab
 25131,260,true,Hollow Cracked Stone Bricks Slab
 25131,260,true,Hollow Chiseled Stone Bricks Slab
-25131,260,true,Hollow Block of Cobalt Slab
-25131,260,true,Hollow Block of Ardite Slab
-25131,260,true,Hollow Block of Solid Ender Slab
-25131,260,true,Hollow Block of Manyullyn Slab
-25131,260,true,Hollow Block of Copper Slab
-25131,260,true,Hollow Block of Bronze Slab
-25131,260,true,Hollow Block of Tin Slab
-25131,260,true,Hollow Block of Aluminum Slab
-25131,260,true,Hollow Block of Aluminum Brass Slab
-25131,260,true,Hollow Block of Alumite Slab
-25131,260,true,Hollow Block of Steel Slab
 25131,260,true,Hollow Block of Smokey Quartz Slab
 25131,260,true,Hollow Chiseled Smokey Quartz Block Slab
 25131,260,true,Hollow End Stone Slab
@@ -14566,53 +14006,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,513,true,Darkwood Leaves Nook
 25131,513,true,Darkwood Leaves Nook
 25131,513,true,Fusewood Leaves Nook
-25131,513,true,Obsidian Brick Nook
-25131,513,true,Sandstone Brick Nook
-25131,513,true,Slime Brick Nook
-25131,513,true,Slime Brick Nook
-25131,513,true,Endstone Brick Nook
-25131,513,true,Obsidian Brick Nook
-25131,513,true,Netherrack Brick Nook
-25131,513,true,Polished Stone Brick Nook
-25131,513,true,Iron Brick Nook
-25131,513,true,Gold Brick Nook
-25131,513,true,Lapis Brick Nook
-25131,513,true,Diamond Brick Nook
-25131,513,true,Redstone Brick Nook
-25131,513,true,Bone Brick Nook
-25131,513,true,Fancy Obsidian Brick Nook
-25131,513,true,Fancy Sandstone Brick Nook
-25131,513,true,Fancy Slime Brick Nook
-25131,513,true,Fancy Slime Brick Nook
-25131,513,true,Fancy Endstone Brick Nook
-25131,513,true,Fancy Obsidian Brick Nook
-25131,513,true,Fancy Stone Brick Nook
-25131,513,true,Stone Road Nook
-25131,513,true,Fancy Netherrack Brick Nook
-25131,513,true,Fancy Polished Stone Brick Nook
-25131,513,true,Fancy Iron Brick Nook
-25131,513,true,Fancy Gold Brick Nook
-25131,513,true,Fancy Lapis Brick Nook
-25131,513,true,Fancy Diamond Brick Nook
-25131,513,true,Fancy Redstone Brick Nook
-25131,513,true,Fancy Bone Brick Nook
-25131,513,true,Clear Glass Nook
-25131,513,true,White Stained Glass Nook
-25131,513,true,Orange Stained Glass Nook
-25131,513,true,Purple Stained Glass Nook
-25131,513,true,Blue Stained Glass Nook
-25131,513,true,Brown Stained Glass Nook
-25131,513,true,Green Stained Glass Nook
-25131,513,true,Red Stained Glass Nook
-25131,513,true,Black Stained Glass Nook
-25131,513,true,Magenta Stained Glass Nook
-25131,513,true,Light Blue Stained Glass Nook
-25131,513,true,Yellow Stained Glass Nook
-25131,513,true,Lime Stained Glass Nook
-25131,513,true,Pink Stained Glass Nook
-25131,513,true,Gray Stained Glass Nook
-25131,513,true,Light Gray Stained Glass Nook
-25131,513,true,Cyan Stained Glass Nook
 25131,513,true,Maple Leaves Nook
 25131,513,true,Silverbell Leaves Nook
 25131,513,true,Amaranth Leaves Nook
@@ -14621,14 +14014,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,513,true,Silverbell Wood Nook
 25131,513,true,Amaranth Wood Nook
 25131,513,true,Tiger Wood Nook
-25131,513,true,Chiseled Seared Bricks Nook
-25131,513,true,Seared Bricks Nook
-25131,513,true,Seared Stone Nook
-25131,513,true,Seared Cobblestone Nook
-25131,513,true,Seared Paver Nook
-25131,513,true,Cracked Seared Bricks Nook
-25131,513,true,Seared Road Nook
-25131,513,true,Fancy Seared Bricks Nook
 25131,513,true,Block of Coal Nook
 25131,513,true,Amber Block Nook
 25131,513,true,Obsidian Totem Nook
@@ -14894,17 +14279,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,513,true,Mossy Stone Bricks Nook
 25131,513,true,Cracked Stone Bricks Nook
 25131,513,true,Chiseled Stone Bricks Nook
-25131,513,true,Block of Cobalt Nook
-25131,513,true,Block of Ardite Nook
-25131,513,true,Block of Solid Ender Nook
-25131,513,true,Block of Manyullyn Nook
-25131,513,true,Block of Copper Nook
-25131,513,true,Block of Bronze Nook
-25131,513,true,Block of Tin Nook
-25131,513,true,Block of Aluminum Nook
-25131,513,true,Block of Aluminum Brass Nook
-25131,513,true,Block of Alumite Nook
-25131,513,true,Block of Steel Nook
 25131,513,true,Block of Smokey Quartz Nook
 25131,513,true,Chiseled Smokey Quartz Block Nook
 25131,513,true,End Stone Nook
@@ -14917,53 +14291,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,514,true,Darkwood Leaves Corner
 25131,514,true,Darkwood Leaves Corner
 25131,514,true,Fusewood Leaves Corner
-25131,514,true,Obsidian Brick Corner
-25131,514,true,Sandstone Brick Corner
-25131,514,true,Slime Brick Corner
-25131,514,true,Slime Brick Corner
-25131,514,true,Endstone Brick Corner
-25131,514,true,Obsidian Brick Corner
-25131,514,true,Netherrack Brick Corner
-25131,514,true,Polished Stone Brick Corner
-25131,514,true,Iron Brick Corner
-25131,514,true,Gold Brick Corner
-25131,514,true,Lapis Brick Corner
-25131,514,true,Diamond Brick Corner
-25131,514,true,Redstone Brick Corner
-25131,514,true,Bone Brick Corner
-25131,514,true,Fancy Obsidian Brick Corner
-25131,514,true,Fancy Sandstone Brick Corner
-25131,514,true,Fancy Slime Brick Corner
-25131,514,true,Fancy Slime Brick Corner
-25131,514,true,Fancy Endstone Brick Corner
-25131,514,true,Fancy Obsidian Brick Corner
-25131,514,true,Fancy Stone Brick Corner
-25131,514,true,Stone Road Corner
-25131,514,true,Fancy Netherrack Brick Corner
-25131,514,true,Fancy Polished Stone Brick Corner
-25131,514,true,Fancy Iron Brick Corner
-25131,514,true,Fancy Gold Brick Corner
-25131,514,true,Fancy Lapis Brick Corner
-25131,514,true,Fancy Diamond Brick Corner
-25131,514,true,Fancy Redstone Brick Corner
-25131,514,true,Fancy Bone Brick Corner
-25131,514,true,Clear Glass Corner
-25131,514,true,White Stained Glass Corner
-25131,514,true,Orange Stained Glass Corner
-25131,514,true,Purple Stained Glass Corner
-25131,514,true,Blue Stained Glass Corner
-25131,514,true,Brown Stained Glass Corner
-25131,514,true,Green Stained Glass Corner
-25131,514,true,Red Stained Glass Corner
-25131,514,true,Black Stained Glass Corner
-25131,514,true,Magenta Stained Glass Corner
-25131,514,true,Light Blue Stained Glass Corner
-25131,514,true,Yellow Stained Glass Corner
-25131,514,true,Lime Stained Glass Corner
-25131,514,true,Pink Stained Glass Corner
-25131,514,true,Gray Stained Glass Corner
-25131,514,true,Light Gray Stained Glass Corner
-25131,514,true,Cyan Stained Glass Corner
 25131,514,true,Maple Leaves Corner
 25131,514,true,Silverbell Leaves Corner
 25131,514,true,Amaranth Leaves Corner
@@ -14972,14 +14299,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,514,true,Silverbell Wood Corner
 25131,514,true,Amaranth Wood Corner
 25131,514,true,Tiger Wood Corner
-25131,514,true,Chiseled Seared Bricks Corner
-25131,514,true,Seared Bricks Corner
-25131,514,true,Seared Stone Corner
-25131,514,true,Seared Cobblestone Corner
-25131,514,true,Seared Paver Corner
-25131,514,true,Cracked Seared Bricks Corner
-25131,514,true,Seared Road Corner
-25131,514,true,Fancy Seared Bricks Corner
 25131,514,true,Block of Coal Corner
 25131,514,true,Amber Block Corner
 25131,514,true,Obsidian Totem Corner
@@ -15245,17 +14564,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,514,true,Mossy Stone Bricks Corner
 25131,514,true,Cracked Stone Bricks Corner
 25131,514,true,Chiseled Stone Bricks Corner
-25131,514,true,Block of Cobalt Corner
-25131,514,true,Block of Ardite Corner
-25131,514,true,Block of Solid Ender Corner
-25131,514,true,Block of Manyullyn Corner
-25131,514,true,Block of Copper Corner
-25131,514,true,Block of Bronze Corner
-25131,514,true,Block of Tin Corner
-25131,514,true,Block of Aluminum Corner
-25131,514,true,Block of Aluminum Brass Corner
-25131,514,true,Block of Alumite Corner
-25131,514,true,Block of Steel Corner
 25131,514,true,Block of Smokey Quartz Corner
 25131,514,true,Chiseled Smokey Quartz Block Corner
 25131,514,true,End Stone Corner
@@ -15268,53 +14576,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,516,true,Darkwood Leaves Notch
 25131,516,true,Darkwood Leaves Notch
 25131,516,true,Fusewood Leaves Notch
-25131,516,true,Obsidian Brick Notch
-25131,516,true,Sandstone Brick Notch
-25131,516,true,Slime Brick Notch
-25131,516,true,Slime Brick Notch
-25131,516,true,Endstone Brick Notch
-25131,516,true,Obsidian Brick Notch
-25131,516,true,Netherrack Brick Notch
-25131,516,true,Polished Stone Brick Notch
-25131,516,true,Iron Brick Notch
-25131,516,true,Gold Brick Notch
-25131,516,true,Lapis Brick Notch
-25131,516,true,Diamond Brick Notch
-25131,516,true,Redstone Brick Notch
-25131,516,true,Bone Brick Notch
-25131,516,true,Fancy Obsidian Brick Notch
-25131,516,true,Fancy Sandstone Brick Notch
-25131,516,true,Fancy Slime Brick Notch
-25131,516,true,Fancy Slime Brick Notch
-25131,516,true,Fancy Endstone Brick Notch
-25131,516,true,Fancy Obsidian Brick Notch
-25131,516,true,Fancy Stone Brick Notch
-25131,516,true,Stone Road Notch
-25131,516,true,Fancy Netherrack Brick Notch
-25131,516,true,Fancy Polished Stone Brick Notch
-25131,516,true,Fancy Iron Brick Notch
-25131,516,true,Fancy Gold Brick Notch
-25131,516,true,Fancy Lapis Brick Notch
-25131,516,true,Fancy Diamond Brick Notch
-25131,516,true,Fancy Redstone Brick Notch
-25131,516,true,Fancy Bone Brick Notch
-25131,516,true,Clear Glass Notch
-25131,516,true,White Stained Glass Notch
-25131,516,true,Orange Stained Glass Notch
-25131,516,true,Purple Stained Glass Notch
-25131,516,true,Blue Stained Glass Notch
-25131,516,true,Brown Stained Glass Notch
-25131,516,true,Green Stained Glass Notch
-25131,516,true,Red Stained Glass Notch
-25131,516,true,Black Stained Glass Notch
-25131,516,true,Magenta Stained Glass Notch
-25131,516,true,Light Blue Stained Glass Notch
-25131,516,true,Yellow Stained Glass Notch
-25131,516,true,Lime Stained Glass Notch
-25131,516,true,Pink Stained Glass Notch
-25131,516,true,Gray Stained Glass Notch
-25131,516,true,Light Gray Stained Glass Notch
-25131,516,true,Cyan Stained Glass Notch
 25131,516,true,Maple Leaves Notch
 25131,516,true,Silverbell Leaves Notch
 25131,516,true,Amaranth Leaves Notch
@@ -15323,14 +14584,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,516,true,Silverbell Wood Notch
 25131,516,true,Amaranth Wood Notch
 25131,516,true,Tiger Wood Notch
-25131,516,true,Chiseled Seared Bricks Notch
-25131,516,true,Seared Bricks Notch
-25131,516,true,Seared Stone Notch
-25131,516,true,Seared Cobblestone Notch
-25131,516,true,Seared Paver Notch
-25131,516,true,Cracked Seared Bricks Notch
-25131,516,true,Seared Road Notch
-25131,516,true,Fancy Seared Bricks Notch
 25131,516,true,Block of Coal Notch
 25131,516,true,Amber Block Notch
 25131,516,true,Obsidian Totem Notch
@@ -15596,17 +14849,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,516,true,Mossy Stone Bricks Notch
 25131,516,true,Cracked Stone Bricks Notch
 25131,516,true,Chiseled Stone Bricks Notch
-25131,516,true,Block of Cobalt Notch
-25131,516,true,Block of Ardite Notch
-25131,516,true,Block of Solid Ender Notch
-25131,516,true,Block of Manyullyn Notch
-25131,516,true,Block of Copper Notch
-25131,516,true,Block of Bronze Notch
-25131,516,true,Block of Tin Notch
-25131,516,true,Block of Aluminum Notch
-25131,516,true,Block of Aluminum Brass Notch
-25131,516,true,Block of Alumite Notch
-25131,516,true,Block of Steel Notch
 25131,516,true,Block of Smokey Quartz Notch
 25131,516,true,Chiseled Smokey Quartz Block Notch
 25131,516,true,End Stone Notch
@@ -15619,53 +14861,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,769,true,Darkwood Leaves Strip
 25131,769,true,Darkwood Leaves Strip
 25131,769,true,Fusewood Leaves Strip
-25131,769,true,Obsidian Brick Strip
-25131,769,true,Sandstone Brick Strip
-25131,769,true,Slime Brick Strip
-25131,769,true,Slime Brick Strip
-25131,769,true,Endstone Brick Strip
-25131,769,true,Obsidian Brick Strip
-25131,769,true,Netherrack Brick Strip
-25131,769,true,Polished Stone Brick Strip
-25131,769,true,Iron Brick Strip
-25131,769,true,Gold Brick Strip
-25131,769,true,Lapis Brick Strip
-25131,769,true,Diamond Brick Strip
-25131,769,true,Redstone Brick Strip
-25131,769,true,Bone Brick Strip
-25131,769,true,Fancy Obsidian Brick Strip
-25131,769,true,Fancy Sandstone Brick Strip
-25131,769,true,Fancy Slime Brick Strip
-25131,769,true,Fancy Slime Brick Strip
-25131,769,true,Fancy Endstone Brick Strip
-25131,769,true,Fancy Obsidian Brick Strip
-25131,769,true,Fancy Stone Brick Strip
-25131,769,true,Stone Road Strip
-25131,769,true,Fancy Netherrack Brick Strip
-25131,769,true,Fancy Polished Stone Brick Strip
-25131,769,true,Fancy Iron Brick Strip
-25131,769,true,Fancy Gold Brick Strip
-25131,769,true,Fancy Lapis Brick Strip
-25131,769,true,Fancy Diamond Brick Strip
-25131,769,true,Fancy Redstone Brick Strip
-25131,769,true,Fancy Bone Brick Strip
-25131,769,true,Clear Glass Strip
-25131,769,true,White Stained Glass Strip
-25131,769,true,Orange Stained Glass Strip
-25131,769,true,Purple Stained Glass Strip
-25131,769,true,Blue Stained Glass Strip
-25131,769,true,Brown Stained Glass Strip
-25131,769,true,Green Stained Glass Strip
-25131,769,true,Red Stained Glass Strip
-25131,769,true,Black Stained Glass Strip
-25131,769,true,Magenta Stained Glass Strip
-25131,769,true,Light Blue Stained Glass Strip
-25131,769,true,Yellow Stained Glass Strip
-25131,769,true,Lime Stained Glass Strip
-25131,769,true,Pink Stained Glass Strip
-25131,769,true,Gray Stained Glass Strip
-25131,769,true,Light Gray Stained Glass Strip
-25131,769,true,Cyan Stained Glass Strip
 25131,769,true,Maple Leaves Strip
 25131,769,true,Silverbell Leaves Strip
 25131,769,true,Amaranth Leaves Strip
@@ -15674,14 +14869,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,769,true,Silverbell Wood Strip
 25131,769,true,Amaranth Wood Strip
 25131,769,true,Tiger Wood Strip
-25131,769,true,Chiseled Seared Bricks Strip
-25131,769,true,Seared Bricks Strip
-25131,769,true,Seared Stone Strip
-25131,769,true,Seared Cobblestone Strip
-25131,769,true,Seared Paver Strip
-25131,769,true,Cracked Seared Bricks Strip
-25131,769,true,Seared Road Strip
-25131,769,true,Fancy Seared Bricks Strip
 25131,769,true,Block of Coal Strip
 25131,769,true,Amber Block Strip
 25131,769,true,Obsidian Totem Strip
@@ -15947,17 +15134,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,769,true,Mossy Stone Bricks Strip
 25131,769,true,Cracked Stone Bricks Strip
 25131,769,true,Chiseled Stone Bricks Strip
-25131,769,true,Block of Cobalt Strip
-25131,769,true,Block of Ardite Strip
-25131,769,true,Block of Solid Ender Strip
-25131,769,true,Block of Manyullyn Strip
-25131,769,true,Block of Copper Strip
-25131,769,true,Block of Bronze Strip
-25131,769,true,Block of Tin Strip
-25131,769,true,Block of Aluminum Strip
-25131,769,true,Block of Aluminum Brass Strip
-25131,769,true,Block of Alumite Strip
-25131,769,true,Block of Steel Strip
 25131,769,true,Block of Smokey Quartz Strip
 25131,769,true,Chiseled Smokey Quartz Block Strip
 25131,769,true,End Stone Strip
@@ -15970,53 +15146,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,770,true,Darkwood Leaves Post
 25131,770,true,Darkwood Leaves Post
 25131,770,true,Fusewood Leaves Post
-25131,770,true,Obsidian Brick Post
-25131,770,true,Sandstone Brick Post
-25131,770,true,Slime Brick Post
-25131,770,true,Slime Brick Post
-25131,770,true,Endstone Brick Post
-25131,770,true,Obsidian Brick Post
-25131,770,true,Netherrack Brick Post
-25131,770,true,Polished Stone Brick Post
-25131,770,true,Iron Brick Post
-25131,770,true,Gold Brick Post
-25131,770,true,Lapis Brick Post
-25131,770,true,Diamond Brick Post
-25131,770,true,Redstone Brick Post
-25131,770,true,Bone Brick Post
-25131,770,true,Fancy Obsidian Brick Post
-25131,770,true,Fancy Sandstone Brick Post
-25131,770,true,Fancy Slime Brick Post
-25131,770,true,Fancy Slime Brick Post
-25131,770,true,Fancy Endstone Brick Post
-25131,770,true,Fancy Obsidian Brick Post
-25131,770,true,Fancy Stone Brick Post
-25131,770,true,Stone Road Post
-25131,770,true,Fancy Netherrack Brick Post
-25131,770,true,Fancy Polished Stone Brick Post
-25131,770,true,Fancy Iron Brick Post
-25131,770,true,Fancy Gold Brick Post
-25131,770,true,Fancy Lapis Brick Post
-25131,770,true,Fancy Diamond Brick Post
-25131,770,true,Fancy Redstone Brick Post
-25131,770,true,Fancy Bone Brick Post
-25131,770,true,Clear Glass Post
-25131,770,true,White Stained Glass Post
-25131,770,true,Orange Stained Glass Post
-25131,770,true,Purple Stained Glass Post
-25131,770,true,Blue Stained Glass Post
-25131,770,true,Brown Stained Glass Post
-25131,770,true,Green Stained Glass Post
-25131,770,true,Red Stained Glass Post
-25131,770,true,Black Stained Glass Post
-25131,770,true,Magenta Stained Glass Post
-25131,770,true,Light Blue Stained Glass Post
-25131,770,true,Yellow Stained Glass Post
-25131,770,true,Lime Stained Glass Post
-25131,770,true,Pink Stained Glass Post
-25131,770,true,Gray Stained Glass Post
-25131,770,true,Light Gray Stained Glass Post
-25131,770,true,Cyan Stained Glass Post
 25131,770,true,Maple Leaves Post
 25131,770,true,Silverbell Leaves Post
 25131,770,true,Amaranth Leaves Post
@@ -16025,14 +15154,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,770,true,Silverbell Wood Post
 25131,770,true,Amaranth Wood Post
 25131,770,true,Tiger Wood Post
-25131,770,true,Chiseled Seared Bricks Post
-25131,770,true,Seared Bricks Post
-25131,770,true,Seared Stone Post
-25131,770,true,Seared Cobblestone Post
-25131,770,true,Seared Paver Post
-25131,770,true,Cracked Seared Bricks Post
-25131,770,true,Seared Road Post
-25131,770,true,Fancy Seared Bricks Post
 25131,770,true,Block of Coal Post
 25131,770,true,Amber Block Post
 25131,770,true,Obsidian Totem Post
@@ -16298,17 +15419,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,770,true,Mossy Stone Bricks Post
 25131,770,true,Cracked Stone Bricks Post
 25131,770,true,Chiseled Stone Bricks Post
-25131,770,true,Block of Cobalt Post
-25131,770,true,Block of Ardite Post
-25131,770,true,Block of Solid Ender Post
-25131,770,true,Block of Manyullyn Post
-25131,770,true,Block of Copper Post
-25131,770,true,Block of Bronze Post
-25131,770,true,Block of Tin Post
-25131,770,true,Block of Aluminum Post
-25131,770,true,Block of Aluminum Brass Post
-25131,770,true,Block of Alumite Post
-25131,770,true,Block of Steel Post
 25131,770,true,Block of Smokey Quartz Post
 25131,770,true,Chiseled Smokey Quartz Block Post
 25131,770,true,End Stone Post
@@ -16321,53 +15431,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,772,true,Darkwood Leaves Pillar
 25131,772,true,Darkwood Leaves Pillar
 25131,772,true,Fusewood Leaves Pillar
-25131,772,true,Obsidian Brick Pillar
-25131,772,true,Sandstone Brick Pillar
-25131,772,true,Slime Brick Pillar
-25131,772,true,Slime Brick Pillar
-25131,772,true,Endstone Brick Pillar
-25131,772,true,Obsidian Brick Pillar
-25131,772,true,Netherrack Brick Pillar
-25131,772,true,Polished Stone Brick Pillar
-25131,772,true,Iron Brick Pillar
-25131,772,true,Gold Brick Pillar
-25131,772,true,Lapis Brick Pillar
-25131,772,true,Diamond Brick Pillar
-25131,772,true,Redstone Brick Pillar
-25131,772,true,Bone Brick Pillar
-25131,772,true,Fancy Obsidian Brick Pillar
-25131,772,true,Fancy Sandstone Brick Pillar
-25131,772,true,Fancy Slime Brick Pillar
-25131,772,true,Fancy Slime Brick Pillar
-25131,772,true,Fancy Endstone Brick Pillar
-25131,772,true,Fancy Obsidian Brick Pillar
-25131,772,true,Fancy Stone Brick Pillar
-25131,772,true,Stone Road Pillar
-25131,772,true,Fancy Netherrack Brick Pillar
-25131,772,true,Fancy Polished Stone Brick Pillar
-25131,772,true,Fancy Iron Brick Pillar
-25131,772,true,Fancy Gold Brick Pillar
-25131,772,true,Fancy Lapis Brick Pillar
-25131,772,true,Fancy Diamond Brick Pillar
-25131,772,true,Fancy Redstone Brick Pillar
-25131,772,true,Fancy Bone Brick Pillar
-25131,772,true,Clear Glass Pillar
-25131,772,true,White Stained Glass Pillar
-25131,772,true,Orange Stained Glass Pillar
-25131,772,true,Purple Stained Glass Pillar
-25131,772,true,Blue Stained Glass Pillar
-25131,772,true,Brown Stained Glass Pillar
-25131,772,true,Green Stained Glass Pillar
-25131,772,true,Red Stained Glass Pillar
-25131,772,true,Black Stained Glass Pillar
-25131,772,true,Magenta Stained Glass Pillar
-25131,772,true,Light Blue Stained Glass Pillar
-25131,772,true,Yellow Stained Glass Pillar
-25131,772,true,Lime Stained Glass Pillar
-25131,772,true,Pink Stained Glass Pillar
-25131,772,true,Gray Stained Glass Pillar
-25131,772,true,Light Gray Stained Glass Pillar
-25131,772,true,Cyan Stained Glass Pillar
 25131,772,true,Maple Leaves Pillar
 25131,772,true,Silverbell Leaves Pillar
 25131,772,true,Amaranth Leaves Pillar
@@ -16376,14 +15439,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,772,true,Silverbell Wood Pillar
 25131,772,true,Amaranth Wood Pillar
 25131,772,true,Tiger Wood Pillar
-25131,772,true,Chiseled Seared Bricks Pillar
-25131,772,true,Seared Bricks Pillar
-25131,772,true,Seared Stone Pillar
-25131,772,true,Seared Cobblestone Pillar
-25131,772,true,Seared Paver Pillar
-25131,772,true,Cracked Seared Bricks Pillar
-25131,772,true,Seared Road Pillar
-25131,772,true,Fancy Seared Bricks Pillar
 25131,772,true,Block of Coal Pillar
 25131,772,true,Amber Block Pillar
 25131,772,true,Obsidian Totem Pillar
@@ -16649,17 +15704,6 @@ Item ID,Item meta,Has NBT,Display Name
 25131,772,true,Mossy Stone Bricks Pillar
 25131,772,true,Cracked Stone Bricks Pillar
 25131,772,true,Chiseled Stone Bricks Pillar
-25131,772,true,Block of Cobalt Pillar
-25131,772,true,Block of Ardite Pillar
-25131,772,true,Block of Solid Ender Pillar
-25131,772,true,Block of Manyullyn Pillar
-25131,772,true,Block of Copper Pillar
-25131,772,true,Block of Bronze Pillar
-25131,772,true,Block of Tin Pillar
-25131,772,true,Block of Aluminum Pillar
-25131,772,true,Block of Aluminum Brass Pillar
-25131,772,true,Block of Alumite Pillar
-25131,772,true,Block of Steel Pillar
 25131,772,true,Block of Smokey Quartz Pillar
 25131,772,true,Chiseled Smokey Quartz Block Pillar
 25131,772,true,End Stone Pillar
@@ -18207,27 +17251,11 @@ Item ID,Item meta,Has NBT,Display Name
 31266,0,false,Counter Sensor Location Card
 31266,1,false,Liquid Sensor Location Card
 31267,0,false,Text Card
-31756,0,false,Water Cell
 31992,0,false,Fish Finger
 31992,1,false,Calamari
 31992,2,false,Smoked Salmon
 31993,0,false,Titanium Battery
 31994,0,false,FluidDisplay
-31994,1,false,Water
-31994,2,false,fluid.tile.lava
-31994,3,false,fluid.oil
-31994,4,false,fluid.fuel
-31994,5,false,fluid.ic2.blockfluidUuMatter
-31994,6,false,fluid.ic2.blockfluidCf
-31994,7,false,fluid.ic2.blockFluidcoolant
-31994,8,false,Liquid Poison
-31994,9,false,Spring Water
-31994,10,false,Black Ink
-31994,11,false,Flux Goo
-31994,12,false,Creosote Oil
-31994,13,false,Steam
-31994,14,false,fluid.liquidEssence
-31994,15,false,Uranium Hexafluoride
 31995,0,false,Advanced Storage Cell Housing
 31995,1,false,Advanced Fluid Storage Cell Housing
 31996,0,false,Copper Ingot

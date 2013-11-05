@@ -80,6 +80,7 @@ block {
     I:"Ores Slag"=1475
     I:Punji=3232
     I:"Redstone Machines"=3226
+    I:SDX=3247
     I:"Seared Slab"=3230
     I:"Seared Table"=1477
     I:"Slime Channel"=3190
@@ -140,6 +141,7 @@ dimblacklist {
     B:GenerateSlimeIslandInDim0Only=false
     I:SlimeIslandDimBlacklist <
      >
+    B:genIslandsFlat=false
     B:slimeIslGenDim0=true
 }
 
@@ -169,6 +171,7 @@ equipables {
 
 experimental {
     B:"Items can be thrown into smelteries"=true
+    B:"Use new adaptive Smeltery code"=false
 }
 
 
