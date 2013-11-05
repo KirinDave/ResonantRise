@@ -1,6 +1,10 @@
 <version>
   <pack>
+<<<<<<< HEAD
     <version>2.3.1-BETA</version>
+=======
+    <version>2.3.0c-BETA</version>
+>>>>>>> 93dafe1536f59bf99b9f010c35ecf8aa8ad9656a
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
