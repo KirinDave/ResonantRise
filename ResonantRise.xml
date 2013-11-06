@@ -256,7 +256,7 @@
        name="Mekanism" type="mods" version="5.6.0.334" website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" description="Osmium also cures light wounds."  />
   <mod url="packs/ResonantRise/files/2.3/MekanismGenerators-v5.6.0.334.jar" file="MekanismGenerators-v5.6.0.334.jar" md5="f6d606cb48c9f2f36bbaad6cf4e1d678" download="server"
        name="Mekanism Generators" type="mods" version="5.6.0.334" 
-       website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" description="Infinite water = infinite power!" />
+       website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" description="Infinite water is infinite power!" />
   <mod url="packs/ResonantRise/files/2.3/MekanismTools-v5.6.0.334.jar" file="MekanismTools-v5.6.0.334.jar" md5="57e07c0389777419e1761c8a7a6e8694" download="server"
        name="Mekanism Tools" type="mods" version="5.6.0.334" website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" description="Not Pixel, P-A-X-E-L."  />
     <mod url="packs/ResonantRise/files/2.3/Metallurgy-1.6.4-3.3.1.jar" file="Metallurgy-1.6.4-3.3.1.jar" md5="ee4ce03e9c78526d903613429dd40031" download="server"
