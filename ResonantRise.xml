@@ -440,9 +440,6 @@
     <!-- Remote Download, all types -->
     
     
-    <mod url="http://tinyurl.com/khvoxbt"
-		 md5="FBCBD5EE2B6A22C2CF4B267E4AB35E23"
-		 file="Basic_Components_v1.0.0.19.jar" download="direct" name="Basic Components" type="mods" version="1.0.0.19" website="http://universalelectricity.com/basiccomponents/downloads" donation="http://universalelectricity.com/basiccomponents/" description=""  />
 	<mod url="http://addons.curse.cursecdn.com/files/720/249/flatsigns-1.6.2-universal-1.4.0.15.jar" 
          md5="581BF79ECBDA0132101FFCD0BA165FA0"
 		 file="flatsigns-1.6.2-universal-1.4.0.15.jar" download="direct" name="Flat Signs" type="mods" version="1.4.0.15" website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/" description="" 
