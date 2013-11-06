@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.3.1-BETA</version>
+    <version>2.3.2-BETA</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -252,13 +252,13 @@
     <mod url="packs/ResonantRise/files/2.3/mariculture-1.6.X-v1.0.1b.zip" file="mariculture-1.6.X-v1.0.1b.zip" md5="6088178d698c61eca7eb6dab43109213" download="server"
          name="Mariculture" version="1.0.1b" optional="yes"
          website="http://www.minecraftforum.net/topic/2049315-" description="Sea life!" type="mods" />
-  <mod url="packs/ResonantRise/files/2.2/Mekanism-v5.5.7.211.jar" file="Mekanism-v5.5.7.211.jar" md5="d22ba680d2e62797d03135944b8fab7a" download="server"
-       name="Mekanism" type="mods" version="5.5.7.211" website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" description=""  />
-  <mod url="packs/ResonantRise/files/2.2/MekanismGenerators-v5.5.7.211.jar" file="MekanismGenerators-v5.5.7.211.jar" md5="17ca4049d633a4e2485b069ef70e86a3" download="server"
-       name="Mekanism Generators" type="mods" version="5.5.7.211" 
-       website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" description="" />
-  <mod url="packs/ResonantRise/files/2.2/MekanismTools-v5.5.7.211.jar" file="MekanismTools-v5.5.7.211.jar" md5="32b715f235cf43069b8306eda3e69906" download="server"
-       name="Mekanism Tools" type="mods" version="5.5.7.211" website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" description=""  />
+  <mod url="packs/ResonantRise/files/2.3/Mekanism-v5.6.0.334.jar" file="Mekanism-v5.6.0.334.jar" md5="e52adfe9087c50bdf30d82492928a04e" download="server"
+       name="Mekanism" type="mods" version="5.6.0.334" website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" description="Osmium also cures light wounds."  />
+  <mod url="packs/ResonantRise/files/2.3/MekanismGenerators-v5.6.0.334.jar" file="MekanismGenerators-v5.6.0.334.jar" md5="f6d606cb48c9f2f36bbaad6cf4e1d678" download="server"
+       name="Mekanism Generators" type="mods" version="5.6.0.334" 
+       website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" description="Infinite water is infinite power!" />
+  <mod url="packs/ResonantRise/files/2.3/MekanismTools-v5.6.0.334.jar" file="MekanismTools-v5.6.0.334.jar" md5="57e07c0389777419e1761c8a7a6e8694" download="server"
+       name="Mekanism Tools" type="mods" version="5.6.0.334" website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" description="Not Pixel, P-A-X-E-L."  />
     <mod url="packs/ResonantRise/files/2.3/Metallurgy-1.6.4-3.3.1.jar" file="Metallurgy-1.6.4-3.3.1.jar" md5="ee4ce03e9c78526d903613429dd40031" download="server"
          name="Metallurgy" type="mods" version="3.3.1"
          website="http://www.minecraftforum.net/topic/744918-15x162forgesmp-metallurgy-putting-the-mine-back-in-minecraft/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Shadowclaimer2%40gmail%2ecom&amp;lc=US&amp;item_name=Metallurgy%20Software%EF%BF%BDcy_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
@@ -440,9 +440,6 @@
     <!-- Remote Download, all types -->
     
     
-    <mod url="http://tinyurl.com/khvoxbt"
-		 md5="FBCBD5EE2B6A22C2CF4B267E4AB35E23"
-		 file="Basic_Components_v1.0.0.19.jar" download="direct" name="Basic Components" type="mods" version="1.0.0.19" website="http://universalelectricity.com/basiccomponents/downloads" donation="http://universalelectricity.com/basiccomponents/" description=""  />
 	<mod url="http://addons.curse.cursecdn.com/files/720/249/flatsigns-1.6.2-universal-1.4.0.15.jar" 
          md5="581BF79ECBDA0132101FFCD0BA165FA0"
 		 file="flatsigns-1.6.2-universal-1.4.0.15.jar" download="direct" name="Flat Signs" type="mods" version="1.4.0.15" website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/" description="" 
