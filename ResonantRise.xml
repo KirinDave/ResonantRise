@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.3.2a-BETA</version>
+    <version>2.3.3-BETA</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -135,12 +135,12 @@
 	<mod url="packs/ResonantRise/files/2.3/compactsolars-universal-1.6.4-4.4.19.210.zip" file="compactsolars-universal-1.6.4-4.4.19.210.zip" md5="a12f3dc4700ac93faa3fe4c64bf12354" download="server"
          name="Compact Solars" type="mods" optional="yes"  version="4.4.19.210" website="http://files.minecraftforge.net/CompactSolars/" donation="http://www.computercraft.info/donate/" 
          description="The dreaded easy power is now in testing!" />
-    <mod url="packs/ResonantRise/files/2.3/DartCraft%20Beta%200.2.11.jar" file="DartCraft Beta 0.2.11.jar" md5="1964e7de0b7d88f434d7061cb469b76f" download="server"
-         name="DartCraft" type="mods"  version="0.2.11" optional="yes"
+    <mod url="packs/ResonantRise/files/2.3/00001_DartCraft%20Beta%200.2.12.jar" file="00001_DartCraft Beta 0.2.12.jar" md5="ad71b41acd116eece197084e30b98df7" download="server"
+         name="DartCraft" type="mods"  version="0.2.12" optional="yes"
          website="http://www.minecraftforum.net/topic/1686840-151-152-dartcraft-beta-0118/" 
          description="Convenience is king." />
     <mod url="packs/ResonantRise/files/2.3/1.6.4%20DamageIndicatorsv2.9.1.1.zip" file="1.6.4 DamageIndicatorsv2.9.1.1.zip" md5="213a4d33319c6d5b81e98a3d98667f49" download="server"
-         name="Damage Indicators [by rich1051414]" type="mods" optional="yes" version="2.9.1.1" 
+         name="Damage Indicators [by rich1051414]" type="mods" optional="yes" server="no" version="2.9.1.1" 
          website="http://www.minecraftforum.net/topic/1536685-" 
          description=""  />
 	<mod url="packs/ResonantRise/files/2.2/dimensional-anchor-57.0.0.jar" file="dimensional-anchor-57.0.0.jar" md5="8679b7e0d5e7e4a4493e14eec4d79fb4" download="server"
@@ -159,8 +159,8 @@
         name="DenPipes-Forestry" type="mods" version="1.1.8"
         website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=INpureProjects%40gmail%2ecom&amp;lc=US&amp;item_name=denoflions%20mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
         description="" />
-	<mod url="packs/ResonantRise/files/2.2/EmasherResource-1.2.1.4.zip" file="EmasherResource-1.2.1.4.zip" md5="f724f9464ea01bf33c8f80097a66aa9c" download="server"
-         name="EmasherResource" type="mods" version="1.2.1.4"
+	<mod url="packs/ResonantRise/files/2.3/EmasherResource-1.2.1.5.zip" file="EmasherResource-1.2.1.5.zip" md5="dad49b443839a3b299742238b6fa4b9f" download="server"
+         name="EmasherResource" type="mods" version="1.2.1.5"
          website="http://emashersmods.wikispaces.com"
          description="Build big or build tiny." />
     <mod url="packs/ResonantRise/files/2.2/EngineersToolbox-1.1.5.1.zip" file="EngineersToolbox-1.1.5.1.zip" md5="7103239f0046849752bafc17208c940b" download="server"
@@ -249,9 +249,9 @@
     <mod url="packs/ResonantRise/files/2.2/Natura-1.6.4-2.1.11.1.jar" file="Natura-1.6.4-2.1.11.1.jar" md5="87f93348d35abac425d7424428341a43" download="server"
          name="Natura"  type="mods" 
          version="2.1.11.1" website="http://www.minecraftforum.net/topic/1753754-15xnatura/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=56Q7K92KRPW2N&amp;lc=US&amp;item_name=Tinkers%20Construct&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted" description=""  />
-    <mod url="packs/ResonantRise/files/2.3/mariculture-1.6.X-v1.0.1b.zip" file="mariculture-1.6.X-v1.0.1b.zip" md5="6088178d698c61eca7eb6dab43109213" download="server"
-         name="Mariculture" version="1.0.1b" optional="yes"
-         website="http://www.minecraftforum.net/topic/2049315-" description="Sea life!" type="mods" />
+    <mod url="packs/ResonantRise/files/2.3/mariculture-1.6.X-v1.1.0.zip" file="mariculture-1.6.X-v1.1.0.zip" md5="ae5563f0de6648b30f6084aa48a48525" download="server"
+         name="Mariculture" version="1.1.0" optional="yes"
+         website="http://www.minecraftforum.net/topic/2049315-" description="If you're looking for me, look under the sea, because that is where you'll find me." type="mods" />
   <mod url="packs/ResonantRise/files/2.3/Mekanism-v5.6.0.334.jar" file="Mekanism-v5.6.0.334.jar" md5="e52adfe9087c50bdf30d82492928a04e" download="server"
        name="Mekanism" type="mods" version="5.6.0.334" website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" description="Osmium also cures light wounds."  />
   <mod url="packs/ResonantRise/files/2.3/MekanismGenerators-v5.6.0.334.jar" file="MekanismGenerators-v5.6.0.334.jar" md5="f6d606cb48c9f2f36bbaad6cf4e1d678" download="server"
@@ -365,9 +365,9 @@
         name="Super Crafting Frame" type="mods" version="1.6.2.7"
         website="http://www.minecraftforum.net/topic/1870830-"
         description="" />
-    <mod url="packs/ResonantRise/files/2.3/TConstruct_1.6.4_1.4.7d7.jar" file="TConstruct_1.6.4_1.4.7d7.jar" md5="506f7e94a04078b4876e782565661fa4" download="server"
+    <mod url="packs/ResonantRise/files/2.3/TConstruct_1.6.4_1.5.0d13.jar" file="TConstruct_1.6.4_1.5.0d13.jar" md5="23f8d17376f6de5f877a4570839bf2b8" download="server"
          name="Tinker's Construct"  type="mods" 
-         version="1.4.7d7" 
+         version="1.5.0d13" 
          website="http://www.minecraftforum.net/topic/1659892-15xtinkers-construct/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=56Q7K92KRPW2N&amp;lc=US&amp;item_name=Tinkers%20Construct&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
          description="Dat Glass, Dem Tools" />
     <mod url="packs/ResonantRise/files/2.2/Translocator%201.1.0.13.jar" file="Translocator 1.1.0.13.jar" md5="33acf4d7617611afdb46d1d6a7234bdd" download="server"
@@ -464,8 +464,7 @@
 		 file="GravityGun2.0.0.zip" download="browser" name="GravityGun" type="mods" version="2.0.0" website="http://ichun.us/mods/gravity-gun/" donation="http://pitchinbox.com/redirect.php?id=9657538021" description="" 
          depends="iChunUtil"/>
 	<mod url="http://adf.ly/1311628/thaumcraft-4" 
-         md5="55A827A9159D0CEECA24956CA363C827"
-		 file="Thaumcraft4.0.3a.zip" download="browser" name="Thaumcraft 4" optional="yes" type="mods" version="4.0.3a" website="http://tinyurl.com/kg3t8dv" donation="http://tinyurl.com/nfptdtz" description="The Ur Magic Mod for Minecraft!" 
+		 file="Thaumcraft4.0.4a.jar" download="browser" name="Thaumcraft 4" optional="yes" type="mods" version="4.0.4a" website="http://tinyurl.com/kg3t8dv" donation="http://tinyurl.com/nfptdtz" description="This one won't creep you out, kids."
          />
 	<mod url="http://adf.ly/WsDke"
          file="ThaumicTinkerer 2.0-24.jar" download="browser" depends="Thaumcraft 4" optional="yes" name="Thaumic Tinkerer" type="mods" version="2.0-24" website="http://tinyurl.com/qz5wzps" description="" 
