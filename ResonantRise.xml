@@ -365,9 +365,9 @@
         name="Super Crafting Frame" type="mods" version="1.6.2.7"
         website="http://www.minecraftforum.net/topic/1870830-"
         description="" />
-    <mod url="packs/ResonantRise/files/2.3/TConstruct_1.6.4_1.5.0d13.jar" file="TConstruct_1.6.4_1.5.0d13.jar" md5="23f8d17376f6de5f877a4570839bf2b8" download="server"
+    <mod url="packs/ResonantRise/files/2.3/TConstruct_1.6.4_1.5.0.2.jar" file="TConstruct_1.6.4_1.5.0.2.jar" md5="eff15066cddec46e8abe7c641af35a6a" download="server"
          name="Tinker's Construct"  type="mods" 
-         version="1.5.0d13" 
+         version="1.5.0.2" 
          website="http://www.minecraftforum.net/topic/1659892-15xtinkers-construct/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=56Q7K92KRPW2N&amp;lc=US&amp;item_name=Tinkers%20Construct&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
          description="Dat Glass, Dem Tools" />
     <mod url="packs/ResonantRise/files/2.2/Translocator%201.1.0.13.jar" file="Translocator 1.1.0.13.jar" md5="33acf4d7617611afdb46d1d6a7234bdd" download="server"
