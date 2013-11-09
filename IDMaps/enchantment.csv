@@ -30,7 +30,7 @@ ID,Unlocalised name,Type,Min Level,Max Level,Class
 153,enchantment.haste,armor,1,3,thaumcraft.common.lib.enchantment.EnchantmentHaste
 154,enchantment.repair,all,1,2,thaumcraft.common.lib.enchantment.EnchantmentRepair
 188,Reading,armor_head,1,1,jds.bibliocraft.EnchantmentReading
-200,enchantment.spiderman,all,1,1,mariculture.magic.enchantments.EnchantmentSpider
+200,enchantment.blink,all,1,3,mariculture.magic.enchantments.EnchantmentBlink
 201,enchantment.clock,all,1,1,mariculture.magic.enchantments.EnchantmentClock
 202,enchantment.fall,all,1,4,mariculture.magic.enchantments.EnchantmentFallDamage
 203,enchantment.fireResistance,all,1,3,mariculture.magic.enchantments.EnchantmentFire
