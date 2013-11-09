@@ -138,10 +138,17 @@ block {
 ####################
 
 dimblacklist {
+    # True: slime islands wont generate in any ages other than overworld(if enabled); False: will generate in all non-blackisted ages
     B:GenerateSlimeIslandInDim0Only=false
+
+    # Add dimension ID's to prevent slime islands from generating in them
     I:SlimeIslandDimBlacklist <
      >
+
+    # Generate slime islands in flat worlds
     B:genIslandsFlat=false
+
+    # True: slime islands generate in overworld; False they do not generate
     B:slimeIslGenDim0=true
 }
 
@@ -171,6 +178,8 @@ equipables {
 
 experimental {
     B:"Items can be thrown into smelteries"=true
+
+    # Warning: Very buggy
     B:"Use new adaptive Smeltery code"=false
 }
 
