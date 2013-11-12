@@ -99,20 +99,6 @@ Item ID,Item meta,Has NBT,Display Name
 51,0,false,Fire
 52,37,false,Monster Spawner
 52,40,false,Monster Spawner
-52,67,false,Monster Spawner
-52,68,false,Monster Spawner
-52,69,false,Monster Spawner
-52,70,false,Monster Spawner
-52,71,false,Monster Spawner
-52,72,false,Monster Spawner
-52,73,false,Monster Spawner
-52,74,false,Monster Spawner
-52,75,false,Monster Spawner
-52,76,false,Monster Spawner
-52,77,false,Monster Spawner
-52,78,false,Monster Spawner
-52,80,false,Monster Spawner
-52,81,false,Monster Spawner
 52,219,false,Monster Spawner
 53,0,false,Oak Wood Stairs
 54,0,false,Chest
@@ -131,21 +117,21 @@ Item ID,Item meta,Has NBT,Display Name
 76,0,false,Redstone Torch
 77,0,false,Button
 78,0,false,Snow
-79,1,false,Rough ice block
-79,2,false,Cobbleice
-79,3,false,Large rough ice bricks
-79,4,false,Large ice bricks
-79,5,false,Small ice bricks
-79,6,false,Fancy glass wall
-79,7,false,Large ice tiles
-79,8,false,Fancy ice tiles
-79,9,false,Sunken ice tiles
-79,10,false,Disordered ice tiles
-79,11,false,Ice panel
-79,12,false,Ice double slab
-79,13,false,Ice Zelda block
-79,14,false,Ice Bismuth block
-79,15,false,Ice Poison block
+79,1,false,ice
+79,2,false,ice
+79,3,false,ice
+79,4,false,ice
+79,5,false,ice
+79,6,false,ice
+79,7,false,ice
+79,8,false,ice
+79,9,false,ice
+79,10,false,ice
+79,11,false,ice
+79,12,false,ice
+79,13,false,ice
+79,14,false,ice
+79,15,false,ice
 80,0,false,Snow
 81,0,false,Cactus
 82,0,false,Clay
@@ -301,6 +287,8 @@ Item ID,Item meta,Has NBT,Display Name
 243,0,false,Rubber Wood
 246,0,false,Lead Ore
 247,0,false,Uranium Ore
+251,0,false,Chunk Loader
+251,1,false,Spot Loader
 252,0,false,Ender Chest
 252,4096,false,Ender Tank
 256,0,false,Iron Shovel
@@ -373,7 +361,7 @@ Item ID,Item meta,Has NBT,Display Name
 322,0,false,Golden Apple
 323,0,false,Sign
 324,0,false,Wooden Door
-325,0,false,Bucket
+325,0,false,Bucket.name
 326,0,false,Water Bucket
 327,0,false,Lava Bucket
 328,0,false,Minecart
@@ -535,8 +523,6 @@ Item ID,Item meta,Has NBT,Display Name
 383,36,false,Spawn Ender Tot
 383,37,false,Spawn Creeper Tot
 383,38,false,Spawn Chu Chu
-383,39,false,Spawn Fallen Angel
-383,40,false,Spawn Lower Stone Guardian
 383,50,false,Spawn Creeper
 383,51,false,Spawn Skeleton
 383,52,false,Spawn Spider
@@ -551,18 +537,6 @@ Item ID,Item meta,Has NBT,Display Name
 383,62,false,Spawn Magma Cube
 383,65,false,Spawn Bat
 383,66,false,Spawn Witch
-383,67,false,Spawn Bile Demon
-383,68,false,Spawn Winged Fire Demon
-383,69,false,Spawn Small Earth Golem
-383,70,false,Spawn Ice Demon
-383,71,false,Spawn Boulder Fist
-383,72,false,Spawn Shade
-383,73,false,Spawn Air Elemental
-383,74,false,Spawn Water Elemental
-383,75,false,Spawn Earth Elemental
-383,76,false,Spawn Fire Elemental
-383,77,false,Spawn Shade Elemental
-383,78,false,Spawn Holy Elemental
 383,90,false,Spawn Pig
 383,91,false,Spawn Sheep
 383,92,false,Spawn Cow
@@ -593,7 +567,7 @@ Item ID,Item meta,Has NBT,Display Name
 383,6397,false,Spawn Demon
 383,6398,false,Spawn Mandrake
 384,0,false,Bottle o' Enchanting
-385,0,false,Fire Charge
+385,0,false,Fireball Launcher.name
 386,0,false,Book and Quill
 387,0,false,Written Book
 388,0,false,Emerald
@@ -1462,6 +1436,43 @@ Item ID,Item meta,Has NBT,Display Name
 719,0,false,SAG Mill
 720,0,false,Dimensional Transceiver
 721,0,false,Power Monitor
+741,0,false,Bedrock Slice
+742,0,false,Blast Glass
+743,0,false,Blast Glass Pane
+745,0,false,Steel Block
+745,1,false,Anthracite Block
+745,2,false,Lonsdaleite Block
+780,0,false,Reactor
+781,0,false,Concrete
+781,1,false,Corium
+782,0,false,Molten Corium (Flowing)
+783,0,false,Molten Corium
+784,0,false,ReactorModelled
+785,0,false,Machine
+786,0,false,MachineModelled
+787,1,false,Pitchblende
+787,2,false,Cadmium Ore
+787,3,false,Indium Ore
+787,4,false,Silver Ore
+787,6,false,Ammonium Chloride
+787,7,false,Calcite
+788,0,false,Blue Fluorite Block
+788,1,false,Pink Fluorite Block
+788,2,false,Orange Fluorite Block
+788,3,false,Magenta Fluorite Block
+788,4,false,Green Fluorite Block
+788,5,false,Red Fluorite Block
+788,6,false,White Fluorite Block
+788,7,false,Yellow Fluorite Block
+789,0,false,Blue Fluorite
+789,1,false,Pink Fluorite
+789,2,false,Orange Fluorite
+789,3,false,Magenta Fluorite
+789,4,false,Green Fluorite
+789,5,false,Red Fluorite
+789,6,false,White Fluorite
+789,7,false,Yellow Fluorite
+790,0,false,Steam
 816,0,false,Iron Scaffold
 817,0,false,ic2.blockBarrel
 818,0,false,Crop
@@ -1623,7 +1634,7 @@ Item ID,Item meta,Has NBT,Display Name
 903,11,false,ME P2P Tunnel
 903,12,false,Spatial IO Port
 904,0,false,Tiny TNT
-908,0,false,ME Item Supply Bus
+907,0,false,ME Fluid Level Emitter
 909,0,false,walrus
 910,0,false,Soldering Station
 911,0,false,ME Item Dropper
@@ -1679,21 +1690,12 @@ Item ID,Item meta,Has NBT,Display Name
 975,6,false,Obsidian Chest
 975,7,false,DirtChest 9000!
 1000,26,true,Leyden Jar
+9318,2750,true,Jungle Wood Barrel
+9318,2751,true,Silky Jungle Wood Barrel
+9318,2752,true,Hopping Jungle Wood Barrel
+9318,2753,true,Larger Jungle Wood Barrel
+9318,2754,true,Sticky Jungle Wood Barrel
 9318,9125,true,Creative Block of Diamond Barrel
-9318,2720,true,Oak Wood Barrel
-9318,2721,true,Silky Oak Wood Barrel
-9318,2722,true,Hopping Oak Wood Barrel
-9318,2723,true,Larger Oak Wood Barrel
-9318,2724,true,Sticky Oak Wood Barrel
-9318,2740,true,Birch Wood Barrel
-9318,9282,true,Hopping Acacia Wood Barrel
-9318,9604,true,Sticky Redwood Wood Barrel
-9318,9451,true,Silky Magic Wood Barrel
-9318,5853,true,Larger Hellbark Wood Barrel
-9318,5860,true,Jacaranda Wood Barrel
-9318,9472,true,Hopping Palm Wood Barrel
-9318,2094,true,Sticky Teak Wood Barrel
-9318,2241,true,Silky Chestnut Wood Barrel
 1000,0,false,Router
 1000,2,false,factorization.factoryBlock.null.name
 1000,3,false,Stamper
@@ -1713,11 +1715,14 @@ Item ID,Item meta,Has NBT,Display Name
 1000,28,false,Parasieve
 1000,29,false,Compression Crafter
 1000,31,false,Caliometric Burner
+1000,32,false,Empty Socket
 1001,0,false,tile.lightair.name
 1002,0,false,Silver Ore
 1002,1,false,Block of Silver
 1002,2,false,Block of Lead
 1002,3,false,Block of Dark Iron
+1003,0,false,Bedrock
+1004,0,false,Dark Iron Ore
 1010,0,false,Netherrack
 1011,0,false,Nether Coal Ore
 1011,1,false,Nether Diamond Ore
@@ -2005,7 +2010,7 @@ Item ID,Item meta,Has NBT,Display Name
 1351,0,false,Automatic Dialler
 1376,0,false,Lepidopterist's Chest
 1377,0,false,Arborist's Chest
-1378,0,false,Candle
+1378,0,false,Unlit Candle
 1379,0,false,Candle Stump
 1380,0,false,Larch Wood Planks
 1380,1,false,Teak Wood Planks
@@ -2175,15 +2180,15 @@ Item ID,Item meta,Has NBT,Display Name
 1396,0,true,Citrus Stairs
 1397,0,false,Humus
 1397,1,false,Bog Earth
-1398,0,false,tile.resources.0
-1398,1,false,tile.resources.1
-1398,2,false,tile.resources.2
-1399,1,false,tile.beehives.1
-1399,2,false,tile.beehives.2
-1399,3,false,tile.beehives.3
-1399,4,false,tile.beehives.4
-1399,6,false,tile.beehives.6
-1399,7,false,tile.beehives.7
+1398,0,false,Apatite Ore
+1398,1,false,Copper Ore
+1398,2,false,Tin Ore
+1399,1,false,Forest Hive
+1399,2,false,Meadows Hive
+1399,3,false,Modest Hive
+1399,4,false,Tropical Hive
+1399,6,false,Wintry Hive
+1399,7,false,Marshy Hive
 1404,0,false,Electrical Engine
 1404,1,false,Peat-fired Engine
 1404,2,false,Biogas Engine
@@ -2818,15 +2823,6 @@ Item ID,Item meta,Has NBT,Display Name
 1567,0,false,LaserPlus
 1568,0,false,BreakerPlus
 1569,0,false,PlacerPlus
-1580,0,true,Tool Charger T1
-1580,1,true,Tool Charger T2
-1580,2,true,Tool Charger T3
-1580,3,true,Heat Press
-1580,4,true,Metal Manipulator
-1580,5,true,Recycler
-1580,6,true,Charge Shaper
-1581,0,false,Kinetic Engine
-1582,0,false,Building Planner
 1601,0,false,Drum
 1602,0,false,Drum
 1603,0,false,Blood Altar
@@ -2849,6 +2845,7 @@ Item ID,Item meta,Has NBT,Display Name
 1620,0,false,Arcane Plinth
 1621,0,false,Arcane Pedestal
 1622,0,false,Teleposer
+1623,0,false,Spectral Block
 1681,0,false,Force Field
 1682,0,false,Coercion Deriver
 1683,0,false,Fortron Capacitor
@@ -3537,6 +3534,7 @@ Item ID,Item meta,Has NBT,Display Name
 2011,6,false,Greywacke
 2011,7,false,Chert
 2020,0,false,Power Box
+2021,0,false,Power Cable
 2130,0,false,Ruby Ore
 2130,1,false,Sapphire Ore
 2130,2,false,Peridot Ore
@@ -3663,6 +3661,8 @@ Item ID,Item meta,Has NBT,Display Name
 2169,4,false,Mayapple
 2169,8,false,Fiddlehead
 2169,9,false,Mushgloom
+2169,10,false,Forest Grass
+2169,11,false,Dried Bush
 2169,13,false,Torchberry Plant
 2169,14,false,Root Strands
 2170,0,false,Roots
@@ -3732,6 +3732,9 @@ Item ID,Item meta,Has NBT,Display Name
 2185,0,false,Trophy Pedestal
 2185,15,false,Latent Trophy Pedestal
 2186,0,false,Aurora Block
+2187,0,false,Underbrick
+2187,1,false,Cracked Underbrick
+2187,2,false,Mossy Underbrick
 2240,0,false,Oak Seat
 2240,1,false,Spruce Seat
 2240,2,false,Birch Seat
@@ -4535,6 +4538,7 @@ Item ID,Item meta,Has NBT,Display Name
 2412,0,false,Carpenter's Bed
 2413,0,false,Carpenter's Ladder
 2414,0,false,Carpenter's Collapsible Block
+2415,0,false,Carpenter's Torch
 2477,0,false,Power Armor Tinker Table
 2478,0,false,Lux Capacitor
 2500,0,false,Angel Block
@@ -4647,11 +4651,13 @@ Item ID,Item meta,Has NBT,Display Name
 2525,0,true,Molten Steel Drum
 2525,0,true,Molten Kalendrite Drum
 2525,0,true,Molten Midasium Drum
+2525,0,true,Rc ethanol Drum
 2525,0,true,Gascraft_toxicgas Drum
 2525,0,true,Biomass Drum
 2525,0,true,Gascraft_hydrogen Drum
 2525,0,true,Liquid Nitrogen Drum
 2525,0,true,Molten Cobalt Drum
+2525,0,true,Heavy water Drum
 2525,0,true,Molten Lemurite Drum
 2525,0,true,Gascraft_corrosivegas Drum
 2525,0,true,Oil Drum
@@ -4661,6 +4667,7 @@ Item ID,Item meta,Has NBT,Display Name
 2525,0,true,Fortron Drum
 2525,0,true,Molten Inolashite Drum
 2525,0,true,Molten Aluminium Drum
+2525,0,true,Hydrofluoric acid Drum
 2525,0,true,Molten Silver Drum
 2525,0,true,Water Drum
 2525,0,true,Molten Shadow Steel Drum
@@ -4678,6 +4685,7 @@ Item ID,Item meta,Has NBT,Display Name
 2525,0,true,Liquid Poison Drum
 2525,0,true,Molten Manganese Drum
 2525,0,true,Latex Drum
+2525,0,true,Lowpammonia Drum
 2525,0,true,Steam Drum
 2525,0,true,Molten Gold Drum
 2525,0,true,Molten Ardite Drum
@@ -4698,11 +4706,12 @@ Item ID,Item meta,Has NBT,Display Name
 2525,0,true,Molten Ignatius Drum
 2525,0,true,Molten Alduorite Drum
 2525,0,true,Liquidessence Drum
+2525,0,true,Molten Astral Silver Drum
 2525,0,true,Molten Lead Drum
 2525,0,true,Molten Ceruclase Drum
-2525,0,true,Molten Astral Silver Drum
 2525,0,true,Molten Copper Drum
 2525,0,true,Ethanol Drum
+2525,0,true,Ammonia Drum
 2525,0,true,Poison Drum
 2525,0,true,Molten Zinc Drum
 2525,0,true,Molten Steel Drum
@@ -4716,8 +4725,8 @@ Item ID,Item meta,Has NBT,Display Name
 2525,0,true,Slickwater Drum
 2525,0,true,Electrum.molten Drum
 2525,0,true,Molten Platinum Drum
-2525,0,true,Constructionfoam Drum
 2525,0,true,Molten Vyroxeres Drum
+2525,0,true,Constructionfoam Drum
 2525,0,true,Short.mead Drum
 2525,0,true,Molten Infuscolium Drum
 2525,0,true,Molten Haderoth Drum
@@ -4729,17 +4738,21 @@ Item ID,Item meta,Has NBT,Display Name
 2525,0,true,Meat Drum
 2525,0,true,Liquid Glass Drum
 2525,0,true,Fuel Drum
-2525,0,true,Liquid DNA Drum
 2525,0,true,Molten Atlarus Drum
+2525,0,true,Liquid DNA Drum
+2525,0,true,Uranium hexafluoride Drum
 2525,0,true,Molten Shadow Iron Drum
 2525,0,true,Invar.molten Drum
 2525,0,true,Liquid Force Drum
 2525,0,true,Molten Obsidian Drum
 2525,0,true,Molten Alumite Drum
+2525,0,true,Lowpwater Drum
+2525,0,true,Lubricant Drum
 2525,0,true,Gascraft_neurotoxin Drum
 2525,0,true,Molten Amordrine Drum
 2525,0,true,Acid Drum
 2525,0,true,Lava Drum
+2525,0,true,Jet fuel Drum
 2525,0,true,Gascraft_propellent Drum
 2525,0,true,Molten Aluminum Drum
 2525,0,true,Pinkslime Drum
@@ -4899,163 +4912,163 @@ Item ID,Item meta,Has NBT,Display Name
 2659,0,false,Transvector Interface
 2660,0,false,Kinetic Attractor
 2660,1,false,Corporeal Attractor
-2761,0,false,Raw marble
-2761,1,false,Marble brick
-2761,2,false,Classic marble panel
-2761,3,false,Ornate marble panel
-2761,4,false,Marble panel
-2761,5,false,Marble block
-2761,6,false,Dark creeper marble
-2761,7,false,Light creeper marble
-2761,8,false,Carved marble
-2761,9,false,Radial carved marble
-2761,10,false,Marble with dent
-2761,11,false,Marble with large dent
-2761,12,false,Marble tiles
-2761,13,false,Arranged marble tiles
-2761,14,false,Fancy marble tiles
-2761,15,false,Marble blocks
+2761,0,false,Marble
+2761,1,false,Marble
+2761,2,false,Marble
+2761,3,false,Marble
+2761,4,false,Marble
+2761,5,false,Marble
+2761,6,false,Marble
+2761,7,false,Marble
+2761,8,false,Marble
+2761,9,false,Marble
+2761,10,false,Marble
+2761,11,false,Marble
+2761,12,false,Marble
+2761,13,false,Marble
+2761,14,false,Marble
+2761,15,false,Marble
 2762,0,false,Limestone
-2762,1,false,Small limestone tiles
-2762,2,false,French limestone tiles
-2762,3,false,French limestone tiles
-2762,4,false,Creeper limestone tiles
-2762,5,false,Small limestone bricks
-2762,6,false,Damaged limestone tiles
-2762,7,false,Smooth limestone
-2762,8,false,Limestone with ornate panel
-2762,9,false,Limestone with ornate panel
-2762,10,false,Limestone with creeper panel
-2762,11,false,Limestone with dent
-2762,12,false,Limestone with panel
-2762,13,false,Large limestone tiles
-2762,14,false,Limestone with light panel
-2762,15,false,Limestone with dark panel
-2763,0,false,Raw marble slab
-2763,1,false,Marble brick slab
-2763,2,false,Classic marble panel slab
-2763,3,false,Ornate marble panel slab
-2763,4,false,Marble panel slab
-2763,5,false,Marble block slab
-2763,6,false,Dark creeper marble slab
-2763,7,false,Light creeper marble slab
-2763,8,false,Carved marble slab
-2763,9,false,Radial carved marble slab
-2763,10,false,Marble slab with dent
-2763,11,false,Marble slab with large dent
-2763,12,false,Marble tiles slab
-2763,13,false,Arranged marble tiles slab
-2763,14,false,Fancy marble tiles slab
-2763,15,false,Marble blocks slab
-2764,0,false,Limestone slab
-2764,1,false,Small limestone tiles slab
-2764,2,false,French limestone tiles slab
-2764,3,false,French limestone tiles slab
-2764,4,false,Creeper limestone tiles slab
-2764,5,false,Small limestone bricks slab
-2764,6,false,Damaged limestone tiles slab
-2764,7,false,Smooth limestone slab
-2764,8,false,Limestone slab with ornate panel
-2764,9,false,Limestone slab with ornate panel
-2764,10,false,Limestone slab with creeper panel
-2764,11,false,Limestone slab with dent
-2764,12,false,Limestone slab with panel
-2764,13,false,Large limestone tiles slab
-2764,14,false,Limestone slab with light panel
-2764,15,false,Limestone slab with dark panel
-2765,0,false,Marble pillar
-2765,1,false,Original marble pillar
-2765,2,false,Simplistic marble pillar
-2765,3,false,Convex marble pillar
-2765,4,false,Rough marble pillar
-2765,5,false,Greek marble pillar with ornate capstone
-2765,6,false,Greek marble pillar
-2765,7,false,Greek marble pillar with plain capstone
-2765,8,false,Plain marble pillar with ornate capstone
-2765,9,false,Plain marble pillar with Greek capstone
-2765,10,false,Plain marble pillar
-2765,11,false,Wide marble pillar with ornate capstone
-2765,12,false,Wide marble pillar with Greek capstone
-2765,13,false,Wide marble pillar with plain capstone
-2765,14,false,Carved pillar capstone
-2765,15,false,Ornamental pillar capstone
-2766,0,false,Marble pillar slab
-2766,1,false,Original marble pillar slab
-2766,2,false,Simplistic marble pillar slab
-2766,3,false,Convex marble pillar slab
-2766,4,false,Rough marble pillar slab
-2766,5,false,Greek marble pillar slab with ornate capstone
-2766,6,false,Greek marble pillar slab
-2766,7,false,Greek marble pillar slab with plain capstone
-2766,8,false,Plain marble pillar slab with ornate capstone
-2766,9,false,Plain marble pillar slab with Greek capstone
-2766,10,false,Plain marble pillar slab
-2766,11,false,Wide marble pillar slab with ornate capstone
-2766,12,false,Wide marble pillar slab with Greek capstone
-2766,13,false,Wide marble pillar slab with plain capstone
-2766,14,false,Carved pillar capstone slab
-2766,15,false,Ornamental pillar capstone slab
-2775,0,false,Ice pillar
-2775,1,false,Ice pillar capstone
-2775,2,false,Ice pillar base
-2775,3,false,Small ice pillar
-2775,4,false,Carved ice pillar
-2775,5,false,Ornamental ice pillar
-2775,6,false,Greek ice pillar
-2775,7,false,Plain ice pillar
-2775,8,false,Greek ice pillar capstone
-2775,9,false,Plain ice pillar capstone
-2775,10,false,Greek ice pillar base
-2775,11,false,Plain ice pillar base
-2775,12,false,Greek ice pillar ornate capstone
-2775,13,false,Plain ice pillar ornate capstone
-2775,14,false,Greek ice pillar ornate base
-2775,15,false,Plain ice pillar ornate base
-2777,1,false,Smooth oak wood planks
-2777,2,false,Short oak wood planks
-2777,3,false,Vertical oak wood planks
-2777,4,false,Vertical uneven oak wood planks
-2777,5,false,Oak wood parquet
-2777,6,false,Fancy oak wood plank arrangement
-2777,7,false,Oak wood plank blinds
-2777,8,false,Oak wood panel
-2777,9,false,Oak wood double slab
-2777,10,false,Oak wood crate
-2777,11,false,Fancy oak wood crate
-2777,12,false,Oak wood scaffold
-2777,13,false,Large long oak wood planks
-2777,14,false,Oak wood planks in disarray
-2777,15,false,Vertical oak wood planks in disarray
-2778,1,false,Smooth spruce wood planks
-2778,2,false,Short spruce wood planks
-2778,3,false,Vertical spruce wood planks
-2778,4,false,Vertical uneven spruce wood planks
-2778,5,false,Spruce wood parquet
-2778,6,false,Fancy spruce wood plank arrangement
-2778,7,false,Spruce wood plank blinds
-2778,8,false,Spruce wood panel
-2778,9,false,Spruce wood double slab
-2778,10,false,Spruce wood crate
-2778,11,false,Fancy spruce wood crate
-2778,12,false,Spruce wood scaffold
-2778,13,false,Large long spruce wood planks
-2778,14,false,Spruce wood planks in disarray
-2778,15,false,Vertical spruce wood planks in disarray
-2779,1,false,Smooth birch wood planks
-2779,2,false,Short birch wood planks
-2779,3,false,Vertical birch wood planks
-2779,4,false,Vertical uneven birch wood planks
-2779,5,false,Birch wood parquet
-2779,6,false,Fancy birch wood plank arrangement
-2779,7,false,Birch wood plank blinds
-2779,8,false,Birch wood panel
-2779,9,false,Birch wood double slab
-2779,10,false,Birch wood crate
-2779,11,false,Fancy birch wood crate
-2779,12,false,Birch wood scaffold
-2779,13,false,Large long birch wood planks
-2779,14,false,Birch wood planks in disarray
-2779,15,false,Vertical birch wood planks in disarray
+2762,1,false,Limestone
+2762,2,false,Limestone
+2762,3,false,Limestone
+2762,4,false,Limestone
+2762,5,false,Limestone
+2762,6,false,Limestone
+2762,7,false,Limestone
+2762,8,false,Limestone
+2762,9,false,Limestone
+2762,10,false,Limestone
+2762,11,false,Limestone
+2762,12,false,Limestone
+2762,13,false,Limestone
+2762,14,false,Limestone
+2762,15,false,Limestone
+2763,0,false,Marble Slab
+2763,1,false,Marble Slab
+2763,2,false,Marble Slab
+2763,3,false,Marble Slab
+2763,4,false,Marble Slab
+2763,5,false,Marble Slab
+2763,6,false,Marble Slab
+2763,7,false,Marble Slab
+2763,8,false,Marble Slab
+2763,9,false,Marble Slab
+2763,10,false,Marble Slab
+2763,11,false,Marble Slab
+2763,12,false,Marble Slab
+2763,13,false,Marble Slab
+2763,14,false,Marble Slab
+2763,15,false,Marble Slab
+2764,0,false,Limestone Slab
+2764,1,false,Limestone Slab
+2764,2,false,Limestone Slab
+2764,3,false,Limestone Slab
+2764,4,false,Limestone Slab
+2764,5,false,Limestone Slab
+2764,6,false,Limestone Slab
+2764,7,false,Limestone Slab
+2764,8,false,Limestone Slab
+2764,9,false,Limestone Slab
+2764,10,false,Limestone Slab
+2764,11,false,Limestone Slab
+2764,12,false,Limestone Slab
+2764,13,false,Limestone Slab
+2764,14,false,Limestone Slab
+2764,15,false,Limestone Slab
+2765,0,false,Marble Pillar
+2765,1,false,Marble Pillar
+2765,2,false,Marble Pillar
+2765,3,false,Marble Pillar
+2765,4,false,Marble Pillar
+2765,5,false,Marble Pillar
+2765,6,false,Marble Pillar
+2765,7,false,Marble Pillar
+2765,8,false,Marble Pillar
+2765,9,false,Marble Pillar
+2765,10,false,Marble Pillar
+2765,11,false,Marble Pillar
+2765,12,false,Marble Pillar
+2765,13,false,Marble Pillar
+2765,14,false,Marble Pillar
+2765,15,false,Marble Pillar
+2766,0,false,Marble Pillar Slab
+2766,1,false,Marble Pillar Slab
+2766,2,false,Marble Pillar Slab
+2766,3,false,Marble Pillar Slab
+2766,4,false,Marble Pillar Slab
+2766,5,false,Marble Pillar Slab
+2766,6,false,Marble Pillar Slab
+2766,7,false,Marble Pillar Slab
+2766,8,false,Marble Pillar Slab
+2766,9,false,Marble Pillar Slab
+2766,10,false,Marble Pillar Slab
+2766,11,false,Marble Pillar Slab
+2766,12,false,Marble Pillar Slab
+2766,13,false,Marble Pillar Slab
+2766,14,false,Marble Pillar Slab
+2766,15,false,Marble Pillar Slab
+2775,0,false,Ice Pillar
+2775,1,false,Ice Pillar
+2775,2,false,Ice Pillar
+2775,3,false,Ice Pillar
+2775,4,false,Ice Pillar
+2775,5,false,Ice Pillar
+2775,6,false,Ice Pillar
+2775,7,false,Ice Pillar
+2775,8,false,Ice Pillar
+2775,9,false,Ice Pillar
+2775,10,false,Ice Pillar
+2775,11,false,Ice Pillar
+2775,12,false,Ice Pillar
+2775,13,false,Ice Pillar
+2775,14,false,Ice Pillar
+2775,15,false,Ice Pillar
+2777,1,false,Oak Wood Planks
+2777,2,false,Oak Wood Planks
+2777,3,false,Oak Wood Planks
+2777,4,false,Oak Wood Planks
+2777,5,false,Oak Wood Planks
+2777,6,false,Oak Wood Planks
+2777,7,false,Oak Wood Planks
+2777,8,false,Oak Wood Planks
+2777,9,false,Oak Wood Planks
+2777,10,false,Oak Wood Planks
+2777,11,false,Oak Wood Planks
+2777,12,false,Oak Wood Planks
+2777,13,false,Oak Wood Planks
+2777,14,false,Oak Wood Planks
+2777,15,false,Oak Wood Planks
+2778,1,false,Spruce Wood Planks
+2778,2,false,Spruce Wood Planks
+2778,3,false,Spruce Wood Planks
+2778,4,false,Spruce Wood Planks
+2778,5,false,Spruce Wood Planks
+2778,6,false,Spruce Wood Planks
+2778,7,false,Spruce Wood Planks
+2778,8,false,Spruce Wood Planks
+2778,9,false,Spruce Wood Planks
+2778,10,false,Spruce Wood Planks
+2778,11,false,Spruce Wood Planks
+2778,12,false,Spruce Wood Planks
+2778,13,false,Spruce Wood Planks
+2778,14,false,Spruce Wood Planks
+2778,15,false,Spruce Wood Planks
+2779,1,false,Birch Wood Planks
+2779,2,false,Birch Wood Planks
+2779,3,false,Birch Wood Planks
+2779,4,false,Birch Wood Planks
+2779,5,false,Birch Wood Planks
+2779,6,false,Birch Wood Planks
+2779,7,false,Birch Wood Planks
+2779,8,false,Birch Wood Planks
+2779,9,false,Birch Wood Planks
+2779,10,false,Birch Wood Planks
+2779,11,false,Birch Wood Planks
+2779,12,false,Birch Wood Planks
+2779,13,false,Birch Wood Planks
+2779,14,false,Birch Wood Planks
+2779,15,false,Birch Wood Planks
 2780,0,false,Sandstone scribbles
 2780,1,false,Sandstone scribbles
 2780,2,false,Sandstone scribbles
@@ -5073,16 +5086,16 @@ Item ID,Item meta,Has NBT,Display Name
 2780,14,false,Sandstone scribbles
 2780,15,false,Sandstone scribbles
 2781,0,false,Concrete
-2781,1,false,Concrete block
-2781,2,false,Concrete double slab
-2781,3,false,Small concrete blocks
-2781,4,false,Weathered concrete
-2781,5,false,Weathered concrete block
-2781,6,false,Weathered concrete double slab
-2781,7,false,Small weathered blocks
-2781,8,false,Partly weathered concrete
-2781,9,false,Partly weathered concrete block
-2781,10,false,Asphalt
+2781,1,false,Concrete
+2781,2,false,Concrete
+2781,3,false,Concrete
+2781,4,false,Concrete
+2781,5,false,Concrete
+2781,6,false,Concrete
+2781,7,false,Concrete
+2781,8,false,Concrete
+2781,9,false,Concrete
+2781,10,false,Concrete
 2782,0,false,Road lines
 2783,1,false,Stone snake block head
 2783,13,false,Stone snake block body
@@ -5090,212 +5103,212 @@ Item ID,Item meta,Has NBT,Display Name
 2784,13,false,Sandstone snake block body
 2785,1,false,Obsidian snakestone head
 2785,13,false,Obsidian snakestone body
-2787,1,false,Aligned cobblestone bricks
-2787,2,false,Detailed cobblestone bricks
-2787,3,false,Small cobblestone bricks
-2787,4,false,Large cobblestone tiles
-2787,5,false,Small cobblestone tiles
-2787,6,false,French cobblestone tiles
-2787,7,false,French cobblestone tiles
-2787,8,false,Creeper cobblestone tiles
-2787,9,false,Damaged cobblestone tiles
-2787,10,false,Huge cobblestone tiles
-2787,11,false,Cobblestone with creeper panel
-2787,12,false,Cobblestone with dent
-2787,13,false,Cobblestone with panel
-2787,14,false,Cobblestone with light panel
-2787,15,false,Cobblestone with dark panel
-2788,1,false,Bubble glass
-2788,2,false,Chinese glass
-2788,3,false,Japanese(?) glass
-2788,4,false,Dungeon glass
-2788,5,false,Light glass
-2788,6,false,Borderless glass
-2788,7,false,Ornate steel glass
-2788,8,false,Screen
-2788,9,false,Shale glass
-2788,10,false,Steel frame glass
-2788,11,false,Stone frame glass
-2788,12,false,Streak glass
-2788,13,false,Thick grid glass
-2788,14,false,Thin grid glass
-2788,15,false,Modern Iron Fence
-2789,3,false,Faded sandstone
-2789,4,false,Sandstone pillar
-2789,5,false,Sandstone pillar capstone
-2789,6,false,Small sandstone pillar
-2789,7,false,Sandstone pillar base
-2789,8,false,Smooth & flat sandstone
-2789,9,false,Smooth sandstone pillar capstone
-2789,10,false,Small smooth sandstone pillar
-2789,11,false,Smooth sandstone pillar base
-2789,12,false,Sandstone block
-2789,13,false,Small sandstone blocks
-2789,14,false,Sandstone mosaic
-2789,15,false,Stacked sandstone tiles
-2790,1,false,Large iron ingots
-2790,2,false,Small iron ingots
-2790,3,false,Iron gears
-2790,4,false,Iron bricks
-2790,5,false,Iron plates
-2790,6,false,Iron plates with rivets
-2790,7,false,Iron coin stack heads up
-2790,8,false,Iron coin stack heads down
-2790,9,false,Dark iron crate
-2790,10,false,Light iron crate
-2790,11,false,Iron block with moon decoration
-2790,12,false,Iron moon in purple obsidian
-2790,13,false,Iron moon in obsidian
-2790,14,false,Iron vents
-2790,15,false,Iron block simple
-2792,1,false,Embossed diamond block
-2792,2,false,Diamond block with panel
-2792,3,false,Diamond cells
-2792,4,false,Diamonds in purple obsidian
-2792,5,false,Diamonds in obsidian
-2792,6,false,Diamond block simple
-2792,7,false,Bismuth
-2792,8,false,Crushed diamond
-2792,9,false,Small diamond blocks
-2792,10,false,Small ornate diamond blocks
-2792,11,false,Zelda diamond block
-2792,12,false,Diamond block with ornate layer
-2793,1,false,Cobble glowstone block
-2793,2,false,Corroded glowstone blocks
-2793,3,false,Glowstone blocks with glass
-2793,4,false,Neon glowstone
-2793,5,false,Ornate glowstone blocks
-2793,6,false,Rocky glowstone
-2793,7,false,Shale-shaped glowstone
-2793,8,false,Glowstone tiles
-2793,9,false,Fancy glowstone latern
-2793,10,false,Crumbling glowstone block
-2793,11,false,Organic glowstone growth block
-2793,12,false,Glowstone layers
-2793,13,false,Corroded glowstone tiles
-2793,14,false,Glowstone bismuth
-2793,15,false,Glowstone bismuth panel
-2794,1,false,Chunky lapis block
-2794,2,false,Dark lapis block
-2794,3,false,Zelda lapis block
-2794,4,false,Ornate lapis block
-2794,5,false,Lapis tile
-2794,6,false,Lapis panel
-2794,7,false,Smooth lapis
-2794,8,false,Lapis with ornate layer
-2795,1,false,Emerald panel
-2795,2,false,Classic emerald panel
-2795,3,false,Smooth emerald
-2795,4,false,Emerald chunk
-2795,5,false,Emerald with ornate layer
-2795,6,false,Zelda emerald block
-2795,7,false,Emerald cell
-2795,8,false,Emerald bismuth
-2795,9,false,Small emerald blocks
-2795,10,false,Small ornate emerald blocks
-2795,11,false,Ornate emerald block
-2796,1,false,Blue nether brick
-2796,2,false,Spattered nether brick
-2796,3,false,Nether brick made of guts
-2796,4,false,Dark nether brick made of guts
-2796,5,false,Small nether brick made of guts
-2796,6,false,Blue nether brick with lava
-2796,7,false,Brown nether brick
-2796,8,false,Obsidian nether brick
-2796,9,false,Stone nether brick
-2796,10,false,Nether brick made of meat
-2796,11,false,Red nether brick made of meat
-2796,12,false,Small nether brick made of meat
-2796,13,false,Small red nether brick made of meat
-2796,14,false,Red nether brick
-2796,15,false,Small red nether brick
-2797,1,false,Nethegravel with blood
-2797,2,false,Netherrack with blood
-2797,3,false,Darker netherrack with blood
-2797,4,false,Blue netherrack
-2797,5,false,Shale blue netherrack
-2797,6,false,Classic netherrack
-2797,7,false,Spattered netherrack
-2797,8,false,Netherrack made of guts
-2797,9,false,Dark netherrack made of guts
-2797,10,false,Netherrack made of meat
-2797,11,false,Red netherrack made of meat
-2797,12,false,Netherrack made of smaller meat chunks
-2797,13,false,Dark red netherrack
-2797,14,false,Netherrack with lava flowing
-2798,1,false,Aligned mossy cobblestone bricks
-2798,2,false,Detailed mossy cobblestone bricks
-2798,3,false,Small mossy cobblestone bricks
-2798,4,false,Large mossy cobblestone tiles
-2798,5,false,Small mossy cobblestone tiles
-2798,6,false,French mossy cobblestone tiles
-2798,7,false,French mossy cobblestone tiles
-2798,8,false,Creeper mossy cobblestone tiles
-2798,9,false,Damaged mossy cobblestone tiles
-2798,10,false,Huge mossy cobblestone tiles
-2798,11,false,Mossy cobblestone with creeper panel
-2798,12,false,Mossy cobblestone with dent
-2798,13,false,Mossy cobblestone with panel
-2798,14,false,Mossy cobblestone with light panel
-2798,15,false,Mossy cobblestone with dark panel
-2799,4,false,Small stone bricks
-2799,5,false,Wide stone bricks
-2799,6,false,Small disordered stone bricks
-2799,7,false,Disordered stone bricks
-2799,8,false,Disordered stone panels
-2799,9,false,Stone bricks in a fancy arrangement
-2799,10,false,Ornate stone brick tiles
-2799,11,false,Large ornate stone brick tiles
-2799,12,false,Stone panel
-2799,13,false,Sunken stone panel
-2799,14,false,Ornate stone panel
-2799,15,false,Poison stone brick
-2801,1,false,Large obsidian pillar
-2801,2,false,Obsidian pillar
-2801,3,false,Chiseled obsidian
-2801,4,false,Shiny obsidian panel
-2801,5,false,Obsidian panel
-2801,6,false,Organic-looking obsidian chunks
-2801,7,false,Organic-looking obsidian growth
-2801,8,false,Obsidian crystal
-2801,9,false,Obsidian panel with an ancient map on it
-2801,10,false,Obsidian panel with a map of some weird region on it
-2801,11,false,Bright obsidian panel
-2801,12,false,Obsidian blocks
-2801,13,false,Obsidian tiles
-2801,14,false,Light obsidian blocks with Greek decor
-2801,15,false,Small obsidian blocks inside an oak wood crate
-2802,1,false,Iron bars without frame
-2802,2,false,Menacing iron bars
-2802,3,false,Iron cage bars
-2802,4,false,Menacing iron spikes
-2802,5,false,Thick iron grid
-2802,6,false,Thin iron grid
-2802,7,false,Ornate iron pane fence
-2802,8,false,Vertical iron bars
-2802,9,false,Iron spikes
-2803,1,false,Bubble glass pane
-2803,2,false,Borderless glass pane
-2803,3,false,Screen pane
-2803,4,false,Streak glass pane
-2803,12,false,Chinese glass pane
-2803,13,false,Chinese glass pane with golden frame
-2803,14,false,Japanese glass pane
-2803,15,false,Ornate japanese glass pane
-2804,1,false,Large golden ingots
-2804,2,false,Small golden ingots
-2804,3,false,Golden bricks
-2804,4,false,Gold cart
-2804,5,false,Golden coin stack heads up
-2804,6,false,Golden coin stack heads down
-2804,7,false,Dark gold crate
-2804,8,false,Light gold crate
-2804,9,false,Golden plates
-2804,10,false,Iron plates with rivets
-2804,11,false,Gold block with star decoration
-2804,12,false,Golden star in purple obsidian
-2804,13,false,Golden star in obsidian
-2804,14,false,Gold block simple
+2787,1,false,stonebrick
+2787,2,false,stonebrick
+2787,3,false,stonebrick
+2787,4,false,stonebrick
+2787,5,false,stonebrick
+2787,6,false,stonebrick
+2787,7,false,stonebrick
+2787,8,false,stonebrick
+2787,9,false,stonebrick
+2787,10,false,stonebrick
+2787,11,false,stonebrick
+2787,12,false,stonebrick
+2787,13,false,stonebrick
+2787,14,false,stonebrick
+2787,15,false,stonebrick
+2788,1,false,glass
+2788,2,false,glass
+2788,3,false,glass
+2788,4,false,glass
+2788,5,false,glass
+2788,6,false,glass
+2788,7,false,glass
+2788,8,false,glass
+2788,9,false,glass
+2788,10,false,glass
+2788,11,false,glass
+2788,12,false,glass
+2788,13,false,glass
+2788,14,false,glass
+2788,15,false,glass
+2789,3,false,sandStone
+2789,4,false,sandStone
+2789,5,false,sandStone
+2789,6,false,sandStone
+2789,7,false,sandStone
+2789,8,false,sandStone
+2789,9,false,sandStone
+2789,10,false,sandStone
+2789,11,false,sandStone
+2789,12,false,sandStone
+2789,13,false,sandStone
+2789,14,false,sandStone
+2789,15,false,sandStone
+2790,1,false,blockIron
+2790,2,false,blockIron
+2790,3,false,blockIron
+2790,4,false,blockIron
+2790,5,false,blockIron
+2790,6,false,blockIron
+2790,7,false,blockIron
+2790,8,false,blockIron
+2790,9,false,blockIron
+2790,10,false,blockIron
+2790,11,false,blockIron
+2790,12,false,blockIron
+2790,13,false,blockIron
+2790,14,false,blockIron
+2790,15,false,blockIron
+2792,1,false,blockDiamond
+2792,2,false,blockDiamond
+2792,3,false,blockDiamond
+2792,4,false,blockDiamond
+2792,5,false,blockDiamond
+2792,6,false,blockDiamond
+2792,7,false,blockDiamond
+2792,8,false,blockDiamond
+2792,9,false,blockDiamond
+2792,10,false,blockDiamond
+2792,11,false,blockDiamond
+2792,12,false,blockDiamond
+2793,1,false,lightgem
+2793,2,false,lightgem
+2793,3,false,lightgem
+2793,4,false,lightgem
+2793,5,false,lightgem
+2793,6,false,lightgem
+2793,7,false,lightgem
+2793,8,false,lightgem
+2793,9,false,lightgem
+2793,10,false,lightgem
+2793,11,false,lightgem
+2793,12,false,lightgem
+2793,13,false,lightgem
+2793,14,false,lightgem
+2793,15,false,lightgem
+2794,1,false,blockLapis
+2794,2,false,blockLapis
+2794,3,false,blockLapis
+2794,4,false,blockLapis
+2794,5,false,blockLapis
+2794,6,false,blockLapis
+2794,7,false,blockLapis
+2794,8,false,blockLapis
+2795,1,false,blockEmerald
+2795,2,false,blockEmerald
+2795,3,false,blockEmerald
+2795,4,false,blockEmerald
+2795,5,false,blockEmerald
+2795,6,false,blockEmerald
+2795,7,false,blockEmerald
+2795,8,false,blockEmerald
+2795,9,false,blockEmerald
+2795,10,false,blockEmerald
+2795,11,false,blockEmerald
+2796,1,false,netherBrick
+2796,2,false,netherBrick
+2796,3,false,netherBrick
+2796,4,false,netherBrick
+2796,5,false,netherBrick
+2796,6,false,netherBrick
+2796,7,false,netherBrick
+2796,8,false,netherBrick
+2796,9,false,netherBrick
+2796,10,false,netherBrick
+2796,11,false,netherBrick
+2796,12,false,netherBrick
+2796,13,false,netherBrick
+2796,14,false,netherBrick
+2796,15,false,netherBrick
+2797,1,false,hellrock
+2797,2,false,hellrock
+2797,3,false,hellrock
+2797,4,false,hellrock
+2797,5,false,hellrock
+2797,6,false,hellrock
+2797,7,false,hellrock
+2797,8,false,hellrock
+2797,9,false,hellrock
+2797,10,false,hellrock
+2797,11,false,hellrock
+2797,12,false,hellrock
+2797,13,false,hellrock
+2797,14,false,hellrock
+2798,1,false,stoneMoss
+2798,2,false,stoneMoss
+2798,3,false,stoneMoss
+2798,4,false,stoneMoss
+2798,5,false,stoneMoss
+2798,6,false,stoneMoss
+2798,7,false,stoneMoss
+2798,8,false,stoneMoss
+2798,9,false,stoneMoss
+2798,10,false,stoneMoss
+2798,11,false,stoneMoss
+2798,12,false,stoneMoss
+2798,13,false,stoneMoss
+2798,14,false,stoneMoss
+2798,15,false,stoneMoss
+2799,4,false,stonebricksmooth
+2799,5,false,stonebricksmooth
+2799,6,false,stonebricksmooth
+2799,7,false,stonebricksmooth
+2799,8,false,stonebricksmooth
+2799,9,false,stonebricksmooth
+2799,10,false,stonebricksmooth
+2799,11,false,stonebricksmooth
+2799,12,false,stonebricksmooth
+2799,13,false,stonebricksmooth
+2799,14,false,stonebricksmooth
+2799,15,false,stonebricksmooth
+2801,1,false,obsidian
+2801,2,false,obsidian
+2801,3,false,obsidian
+2801,4,false,obsidian
+2801,5,false,obsidian
+2801,6,false,obsidian
+2801,7,false,obsidian
+2801,8,false,obsidian
+2801,9,false,obsidian
+2801,10,false,obsidian
+2801,11,false,obsidian
+2801,12,false,obsidian
+2801,13,false,obsidian
+2801,14,false,obsidian
+2801,15,false,obsidian
+2802,1,false,fenceIron
+2802,2,false,fenceIron
+2802,3,false,fenceIron
+2802,4,false,fenceIron
+2802,5,false,fenceIron
+2802,6,false,fenceIron
+2802,7,false,fenceIron
+2802,8,false,fenceIron
+2802,9,false,fenceIron
+2803,1,false,thinGlass
+2803,2,false,thinGlass
+2803,3,false,thinGlass
+2803,4,false,thinGlass
+2803,12,false,thinGlass
+2803,13,false,thinGlass
+2803,14,false,thinGlass
+2803,15,false,thinGlass
+2804,1,false,blockGold
+2804,2,false,blockGold
+2804,3,false,blockGold
+2804,4,false,blockGold
+2804,5,false,blockGold
+2804,6,false,blockGold
+2804,7,false,blockGold
+2804,8,false,blockGold
+2804,9,false,blockGold
+2804,10,false,blockGold
+2804,11,false,blockGold
+2804,12,false,blockGold
+2804,13,false,blockGold
+2804,14,false,blockGold
 2805,0,false,item.tile.null.0.name
 2805,1,false,item.tile.null.1.name
 2805,2,false,item.tile.null.2.name
@@ -5344,245 +5357,246 @@ Item ID,Item meta,Has NBT,Display Name
 2807,13,false,item.tile.null.13.name
 2807,14,false,item.tile.null.14.name
 2807,15,false,item.tile.null.15.name
-2808,0,false,Raw marble stairs
-2808,8,false,Marble brick stairs
-2809,0,false,Classic marble panel stairs
-2809,8,false,Ornate marble panel stairs
-2810,0,false,Marble panel stairs
-2810,8,false,Marble block stairs
-2811,0,false,Dark creeper marble stairs
-2811,8,false,Light creeper marble stairs
-2812,0,false,Carved marble stairs
-2812,8,false,Radial carved marble stairs
-2813,0,false,Marble stairs with dent
-2813,8,false,Marble stairs with large dent
-2814,0,false,Marble tiles stairs
-2814,8,false,Arranged marble tiles stairs
-2815,0,false,Fancy marble tiles stairs
-2815,8,false,Marble blocks stairs
-2816,0,false,Limestone stairs
-2816,8,false,Small limestone tiles stairs
-2817,0,false,French limestone tiles stairs
-2817,8,false,French limestone tiles stairs
-2818,0,false,Creeper limestone tiles stairs
-2818,8,false,Small limestone bricks stairs
-2819,0,false,Damaged limestone tiles stairs
-2819,8,false,Smooth limestone stairs
-2820,0,false,Limestone stairs with ornate panel
-2820,8,false,Limestone stairs with ornate panel
-2821,0,false,Limestone stairs with creeper panel
-2821,8,false,Limestone stairs with dent
-2822,0,false,Limestone stairs with panel
-2822,8,false,Large limestone tiles stairs
-2823,0,false,Limestone stairs with light panel
-2823,8,false,Limestone stairs with dark panel
-2824,0,false,Ice stairs
-2824,8,false,Rough ice stairs
-2825,0,false,Cobbleice stairs
-2825,8,false,Large rough ice brick stairs
-2826,0,false,Large ice brick stairs
-2826,8,false,Small ice brick stairs
-2827,0,false,Fancy ice wall stairs
-2827,8,false,Large ice tile stairs
-2828,0,false,Fancy ice tile stairs
-2828,8,false,Sunken ice tile stairs
-2829,0,false,Disordered ice tile stairs
-2829,8,false,Ice panel stairs
-2830,0,false,Ice double slab stairs
-2830,8,false,Ice Zelda stairs
-2831,0,false,Ice bismuth stairs
-2831,8,false,Ice poison stairs
-2832,1,false,Smooth redstone
-2832,2,false,Large redstone block
-2832,3,false,Small redstone blocks
-2832,4,false,Redstone bricks
-2832,5,false,Small redstone bricks
-2832,6,false,Chaotic redstone bricks
-2832,7,false,Chiseled redstone
-2832,8,false,Redstone Greek decoration
-2832,9,false,Ornate redstone tiles
-2832,10,false,Redstone pillar
-2832,11,false,Redstone tiles
-2832,12,false,Redstone circuit
-2832,13,false,Redstone supaplex circuit
-2832,14,false,Redstone skulls
-2832,15,false,Redstone Zelda block
+2808,0,false,Marble Stairs
+2808,8,false,Marble Stairs
+2809,0,false,Marble Stairs
+2809,8,false,Marble Stairs
+2810,0,false,Marble Stairs
+2810,8,false,Marble Stairs
+2811,0,false,Marble Stairs
+2811,8,false,Marble Stairs
+2812,0,false,Marble Stairs
+2812,8,false,Marble Stairs
+2813,0,false,Marble Stairs
+2813,8,false,Marble Stairs
+2814,0,false,Marble Stairs
+2814,8,false,Marble Stairs
+2815,0,false,Marble Stairs
+2815,8,false,Marble Stairs
+2816,0,false,Limestone Stairs
+2816,8,false,Limestone Stairs
+2817,0,false,Limestone Stairs
+2817,8,false,Limestone Stairs
+2818,0,false,Limestone Stairs
+2818,8,false,Limestone Stairs
+2819,0,false,Limestone Stairs
+2819,8,false,Limestone Stairs
+2820,0,false,Limestone Stairs
+2820,8,false,Limestone Stairs
+2821,0,false,Limestone Stairs
+2821,8,false,Limestone Stairs
+2822,0,false,Limestone Stairs
+2822,8,false,Limestone Stairs
+2823,0,false,Limestone Stairs
+2823,8,false,Limestone Stairs
+2824,0,false,Ice Stairs
+2824,8,false,Ice Stairs
+2825,0,false,Ice Stairs
+2825,8,false,Ice Stairs
+2826,0,false,Ice Stairs
+2826,8,false,Ice Stairs
+2827,0,false,Ice Stairs
+2827,8,false,Ice Stairs
+2828,0,false,Ice Stairs
+2828,8,false,Ice Stairs
+2829,0,false,Ice Stairs
+2829,8,false,Ice Stairs
+2830,0,false,Ice Stairs
+2830,8,false,Ice Stairs
+2831,0,false,Ice Stairs
+2831,8,false,Ice Stairs
+2832,1,false,blockRedstone
+2832,2,false,blockRedstone
+2832,3,false,blockRedstone
+2832,4,false,blockRedstone
+2832,5,false,blockRedstone
+2832,6,false,blockRedstone
+2832,7,false,blockRedstone
+2832,8,false,blockRedstone
+2832,9,false,blockRedstone
+2832,10,false,blockRedstone
+2832,11,false,blockRedstone
+2832,12,false,blockRedstone
+2832,13,false,blockRedstone
+2832,14,false,blockRedstone
+2832,15,false,blockRedstone
 2833,0,false,Holystone
-2833,1,false,Smooth holystone
-2833,2,false,Mysterious holystone symbol
-2833,3,false,Chiseled holystone
-2833,4,false,Holystone blocks
-2833,5,false,Rough holystone blocks
-2833,6,false,Holystone bricks
-2833,7,false,Large holystone bricks
-2833,8,false,Holystone platform
-2833,9,false,Holystone platform tiles
-2833,10,false,Fancy holystone construction
-2833,11,false,Fancy holystone tiles
-2833,12,false,Smooth holystone plate
-2833,13,false,Holystone plate
+2833,1,false,Holystone
+2833,2,false,Holystone
+2833,3,false,Holystone
+2833,4,false,Holystone
+2833,5,false,Holystone
+2833,6,false,Holystone
+2833,7,false,Holystone
+2833,8,false,Holystone
+2833,9,false,Holystone
+2833,10,false,Holystone
+2833,11,false,Holystone
+2833,12,false,Holystone
+2833,13,false,Holystone
 2834,0,false,Lavastone
-2834,1,false,Black lavastone
-2834,2,false,Lavastone tiles
-2834,3,false,Chaotic lavastone bricks
-2834,4,false,Lava creeper in tiles
-2834,5,false,Lava panel
-2834,6,false,Ornate lava panel
-2835,0,false,Fantasy brick
-2835,1,false,Faded fantasy brick
-2835,2,false,Weared fantasy brick
-2835,3,false,Damaged fantasy bricks
-2835,4,false,Fantasy decoration
-2835,5,false,Fantasy decoration block
-2835,6,false,Fantasy pillar
-2835,7,false,Fantasy pillar decoration
-2835,8,false,Fantasy gold snake decoration
-2835,9,false,Fantasy gold noise decoration
-2835,10,false,Fantasy gold engravings decoration
-2835,11,false,Fantasy gold chains decoration
-2835,12,false,Fantasy plate decoration
-2835,13,false,Fantasy block
-2835,14,false,Fantasy bricks in disarray
-2835,15,false,Weared fantasy bricks
-2836,0,false,White carpet block
-2836,1,false,Orange carpet block
-2836,2,false,Magenta carpet block
-2836,3,false,Light blue carpet block
-2836,4,false,Yellow carpet block
-2836,5,false,Light green carpet block
-2836,6,false,Pink carpet block
-2836,7,false,Dark grey carpet block
-2836,8,false,Grey carpet block
-2836,9,false,Teal carpet block
-2836,10,false,Purple carpet block
-2836,11,false,Dark blue carpet block
-2836,12,false,Brown carpet block
-2836,13,false,Green carpet block
-2836,14,false,Red carpet block
-2836,15,false,Black carpet block
-2837,1,false,Bookshelf with rainbow colored books
-2837,2,false,Necromancer novice's bookshelf
-2837,3,false,Necromancer's bookshelf
-2837,4,false,Bookshelf with red tomes
-2837,5,false,Abandoned bookshelf
-2837,6,false,Hoarder's bookshelf
-2837,7,false,Bookshelf filled to brim with boring pastel books
-2837,8,false,Historician's bookshelf
-2838,0,false,Futuristic armor plating block
-2838,1,false,Bleak futuristic armor plating block
-2838,2,false,Purple futuristic armor plating block
-2838,3,false,Faded purple futuristic armor plating block
-2838,4,false,Rusted futuristic armor plating block
-2838,5,false,Elaborate futuristic armor plating block
-2838,6,false,Futuristic armor plating block with many seams
-2838,7,false,Futuristic platform block
-2838,8,false,Futuristic armor plating tiles
-2838,9,false,Diagonal futuristic armor plating block
-2838,10,false,Futuristic armor plating block with dent
-2838,11,false,Blue futuristic armor plating block
-2838,12,false,Black futuristic armor plating block
-2838,13,false,Black futuristic armor plating tiles
-2838,14,false,Black futuristic armor plating block with an opening
-2838,15,false,Futuristic armor plating with shining metal bits
-2839,1,false,Dirt bricks in disarray
-2839,2,false,Dirt bricks imitating nether brick design
-2839,3,false,Dirt bricks
-2839,4,false,Cobbledirt
-2839,5,false,Reinforced cobbledirt
-2839,6,false,Reinforced dirt
-2839,7,false,Happy dirt
-2839,8,false,Large dirt bricks
-2839,9,false,Large dirt bricks on top of dirt
-2839,10,false,Horizontal dirt
-2839,11,false,Vertical dirt
-2839,12,false,Dirt layers
-2839,13,false,Crumbling dirt
-2840,1,false,Smooth jungle wood planks
-2840,2,false,Short jungle wood planks
-2840,3,false,Vertical jungle wood planks
-2840,4,false,Vertical uneven jungle wood planks
-2840,5,false,Jungle wood parquet
-2840,6,false,Fancy jungle wood plank arrangement
-2840,7,false,Jungle wood plank blinds
-2840,8,false,Jungle wood panel
-2840,9,false,Jungle wood double slab
-2840,10,false,Jungle wood crate
-2840,11,false,Fancy jungle wood crate
-2840,12,false,Jungle wood scaffold
-2840,13,false,Large long jungle wood planks
-2840,14,false,Jungle wood planks in disarray
-2840,15,false,Vertical jungle wood planks in disarray
-2841,0,false,Mossy temple cobblestone
-2841,1,false,Orante mossy temple block
-2841,2,false,Mossy temple plate
-2841,3,false,Cracked mossy temple plate
-2841,4,false,Mossy temple bricks
-2841,5,false,Large mossy temple bricks
-2841,6,false,Weared mossy temple bricks
-2841,7,false,Mossy temple bricks in disarray
-2841,8,false,Mossy temple column
-2841,9,false,Mossy temple stand
-2841,10,false,Mossy temple mosaic stand
-2841,11,false,Mossy temple creeper stand
-2841,12,false,Mossy temple tiles
-2841,13,false,Small mossy temple tiles
-2841,14,false,Light mossy temple tiles
-2841,15,false,Small light mossy  temple tiles
+2834,1,false,Lavastone
+2834,2,false,Lavastone
+2834,3,false,Lavastone
+2834,4,false,Lavastone
+2834,5,false,Lavastone
+2834,6,false,Lavastone
+2835,0,false,Fantasy Block
+2835,1,false,Fantasy Block
+2835,2,false,Fantasy Block
+2835,3,false,Fantasy Block
+2835,4,false,Fantasy Block
+2835,5,false,Fantasy Block
+2835,6,false,Fantasy Block
+2835,7,false,Fantasy Block
+2835,8,false,Fantasy Block
+2835,9,false,Fantasy Block
+2835,10,false,Fantasy Block
+2835,11,false,Fantasy Block
+2835,12,false,Fantasy Block
+2835,13,false,Fantasy Block
+2835,14,false,Fantasy Block
+2835,15,false,Fantasy Block
+2836,0,false,Carpet Block
+2836,1,false,Carpet Block
+2836,2,false,Carpet Block
+2836,3,false,Carpet Block
+2836,4,false,Carpet Block
+2836,5,false,Carpet Block
+2836,6,false,Carpet Block
+2836,7,false,Carpet Block
+2836,8,false,Carpet Block
+2836,9,false,Carpet Block
+2836,10,false,Carpet Block
+2836,11,false,Carpet Block
+2836,12,false,Carpet Block
+2836,13,false,Carpet Block
+2836,14,false,Carpet Block
+2836,15,false,Carpet Block
+2837,1,false,bookshelf
+2837,2,false,bookshelf
+2837,3,false,bookshelf
+2837,4,false,bookshelf
+2837,5,false,bookshelf
+2837,6,false,bookshelf
+2837,7,false,bookshelf
+2837,8,false,bookshelf
+2838,0,false,Futuristic Armor Plating Block
+2838,1,false,Futuristic Armor Plating Block
+2838,2,false,Futuristic Armor Plating Block
+2838,3,false,Futuristic Armor Plating Block
+2838,4,false,Futuristic Armor Plating Block
+2838,5,false,Futuristic Armor Plating Block
+2838,6,false,Futuristic Armor Plating Block
+2838,7,false,Futuristic Armor Plating Block
+2838,8,false,Futuristic Armor Plating Block
+2838,9,false,Futuristic Armor Plating Block
+2838,10,false,Futuristic Armor Plating Block
+2838,11,false,Futuristic Armor Plating Block
+2838,12,false,Futuristic Armor Plating Block
+2838,13,false,Futuristic Armor Plating Block
+2838,14,false,Futuristic Armor Plating Block
+2838,15,false,Futuristic Armor Plating Block
+2839,1,false,dirt
+2839,2,false,dirt
+2839,3,false,dirt
+2839,4,false,dirt
+2839,5,false,dirt
+2839,6,false,dirt
+2839,7,false,dirt
+2839,8,false,dirt
+2839,9,false,dirt
+2839,10,false,dirt
+2839,11,false,dirt
+2839,12,false,dirt
+2839,13,false,dirt
+2840,1,false,Jungle Wood Planks
+2840,2,false,Jungle Wood Planks
+2840,3,false,Jungle Wood Planks
+2840,4,false,Jungle Wood Planks
+2840,5,false,Jungle Wood Planks
+2840,6,false,Jungle Wood Planks
+2840,7,false,Jungle Wood Planks
+2840,8,false,Jungle Wood Planks
+2840,9,false,Jungle Wood Planks
+2840,10,false,Jungle Wood Planks
+2840,11,false,Jungle Wood Planks
+2840,12,false,Jungle Wood Planks
+2840,13,false,Jungle Wood Planks
+2840,14,false,Jungle Wood Planks
+2840,15,false,Jungle Wood Planks
+2841,0,false,Mossy Temple Block
+2841,1,false,Mossy Temple Block
+2841,2,false,Mossy Temple Block
+2841,3,false,Mossy Temple Block
+2841,4,false,Mossy Temple Block
+2841,5,false,Mossy Temple Block
+2841,6,false,Mossy Temple Block
+2841,7,false,Mossy Temple Block
+2841,8,false,Mossy Temple Block
+2841,9,false,Mossy Temple Block
+2841,10,false,Mossy Temple Block
+2841,11,false,Mossy Temple Block
+2841,12,false,Mossy Temple Block
+2841,13,false,Mossy Temple Block
+2841,14,false,Mossy Temple Block
+2841,15,false,Mossy Temple Block
 2842,0,false,Cloud block
-2843,0,false,Rusty metal plate with dot pattern
-2843,1,false,Rusty metal plate
-2843,2,false,Very rusty metal plate
-2843,3,false,A metal plate with almost no rust on it
-2843,4,false,Wireframe
-2843,5,false,Wireframe in a shade of purple
-2843,6,false,Yellow-black hazard block
-2843,7,false,Orange-white hazard block
-2843,8,false,Fancy circuit block
-2843,9,false,Fancy metal box
-2843,10,false,Fancy circuit block with gold plating
-2843,11,false,Rusty purple block with gold plating
-2843,12,false,Shiny metal construction
-2843,13,false,Weared metal wall with openings for ventilation
-2843,14,false,Rusty metal plates
-2843,15,false,Weared metal column
-2844,0,false,White carpet
-2844,1,false,Orange carpet
-2844,2,false,Magenta carpet
-2844,3,false,Light blue carpet
-2844,4,false,Yellow carpet
-2844,5,false,Light green carpet
-2844,6,false,Pink carpet
-2844,7,false,Dark grey carpet
-2844,8,false,Grey carpet
-2844,9,false,Teal carpet
-2844,10,false,Purple carpet
-2844,11,false,Dark blue carpet
-2844,12,false,Brown carpet
-2844,13,false,Green carpet
-2844,14,false,Red carpet
-2844,15,false,Black carpet
-2845,0,false,Temple cobblestone
-2845,1,false,Orante temple block
-2845,2,false,Temple plate
-2845,3,false,Cracked temple plate
-2845,4,false,Temple bricks
-2845,5,false,Large temple bricks
-2845,6,false,Weared temple bricks
-2845,7,false,Temple bricks in disarray
-2845,8,false,Temple column
-2845,9,false,Temple stand
-2845,10,false,Temple mosaic stand
-2845,11,false,Temple creeper stand
-2845,12,false,Temple tiles
-2845,13,false,Small temple tiles
-2845,14,false,Light temple tiles
-2845,15,false,Small light temple tiles
+2843,0,false,Factory Block
+2843,1,false,Factory Block
+2843,2,false,Factory Block
+2843,3,false,Factory Block
+2843,4,false,Factory Block
+2843,5,false,Factory Block
+2843,6,false,Factory Block
+2843,7,false,Factory Block
+2843,8,false,Factory Block
+2843,9,false,Factory Block
+2843,10,false,Factory Block
+2843,11,false,Factory Block
+2843,12,false,Factory Block
+2843,13,false,Factory Block
+2843,14,false,Factory Block
+2843,15,false,Factory Block
+2844,0,false,Carpet
+2844,1,false,Carpet
+2844,2,false,Carpet
+2844,3,false,Carpet
+2844,4,false,Carpet
+2844,5,false,Carpet
+2844,6,false,Carpet
+2844,7,false,Carpet
+2844,8,false,Carpet
+2844,9,false,Carpet
+2844,10,false,Carpet
+2844,11,false,Carpet
+2844,12,false,Carpet
+2844,13,false,Carpet
+2844,14,false,Carpet
+2844,15,false,Carpet
+2845,0,false,Temple Block
+2845,1,false,Temple Block
+2845,2,false,Temple Block
+2845,3,false,Temple Block
+2845,4,false,Temple Block
+2845,5,false,Temple Block
+2845,6,false,Temple Block
+2845,7,false,Temple Block
+2845,8,false,Temple Block
+2845,9,false,Temple Block
+2845,10,false,Temple Block
+2845,11,false,Temple Block
+2845,12,false,Temple Block
+2845,13,false,Temple Block
+2845,14,false,Temple Block
+2845,15,false,Temple Block
 3000,0,false,Osmium Block
 3000,1,false,Bronze Block
 3000,2,false,Refined Obsidian
 3000,3,false,Coal Block
 3000,4,false,Refined Glowstone
 3000,5,false,Steel Block
+3000,6,false,Bin
 3000,7,false,Teleporter Frame
 3000,8,false,Steel Casing
 3000,9,false,Dynamic Tank
@@ -6024,6 +6038,37 @@ Item ID,Item meta,Has NBT,Display Name
 3541,0,false,Wool Colorizer
 3558,0,false,Super Crafting Frame
 3559,0,false,Super Item Frame
+3902,0,false,tile.endermanSpawner.name
+3903,0,false,Drum
+3904,0,false,Enderman Head
+3905,0,false,tile.flowerPot.name
+3906,0,false,Death Flower
+3907,0,false,Spooky Leaves
+3908,0,false,Spooky Log
+3909,2,false,Thorny Bush
+3909,3,false,Infested Bush
+3909,4,false,Infested Fern
+3909,5,false,Infested Grass
+3909,6,false,Lilyfire
+3910,0,false,Infested End Stone
+3910,1,false,Burned End Stone
+3910,2,false,Enchanted End Stone
+3910,3,false,Mossy End Stone
+3911,0,false,Instability Orb Ore
+3912,0,false,Igneous Rock Ore
+3913,0,false,End Powder Ore
+3914,0,false,tile.brewingStand.name
+3915,0,false,Basic Essence Altar
+3915,1,false,Dragon Essence Altar
+3915,2,false,Fiery Essence Altar
+3916,0,false,Smooth Glowing Obsidian
+3916,1,false,Chiseled Glowing Obsidian
+3916,2,false,Glowing Obsidian Pillar
+3917,0,false,Smooth Obsidian
+3917,1,false,Chiseled Obsidian
+3917,2,false,Obsidian Pillar
+3918,0,false,Obsidian Stairs
+3920,0,false,Obsidian
 3941,0,false,Item Translocator
 3941,1,false,Liquid Translocator
 3942,0,false,Drum
@@ -6047,6 +6092,11 @@ Item ID,Item meta,Has NBT,Display Name
 4072,15,false,White Planks
 4073,0,false,Ground Limestone
 4074,0,false,Drum
+4075,0,false,Universal Extractor
+4076,0,false,Fluid Pipe
+4077,0,false,Flux Pipe
+4078,0,false,MJ Adapter
+4079,0,false,EU Adapter
 4085,0,false,Block Of Plastic
 4089,0,false,Portal to the 'Deep Dark'
 4090,0,false,Fan
@@ -6249,7 +6299,14 @@ Item ID,Item meta,Has NBT,Display Name
 4448,23,false,Pure Platinum Dust
 4448,24,false,Pure Silver Dust
 4448,25,false,Pure Tin Dust
+4448,26,false,Ground Cobalt Ore
+4448,27,false,Ground Ardite Ore
+4448,28,false,Impure Cobalt Dust
+4448,29,false,Impure Ardite Dust
+4448,30,false,Pure Cobalt Dust
+4448,31,false,Pure Ardite Dust
 4449,0,false,Slickwater Bucket
+4450,0,false,Sweet Redstone Ingot
 4600,0,false,Sugar Charcoal
 4600,1,false,Sugar Coke
 4600,2,false,Cactus Charcoal
@@ -6277,7 +6334,7 @@ Item ID,Item meta,Has NBT,Display Name
 4601,25,false,Glass Barrel
 4601,26,false,Milk Barrel
 4601,27,false,Biomass Barrel
-4601,28,false,Biofuel Barrel
+4601,28,false,Bioethanol Barrel
 4601,29,false,Seedoil Barrel
 4601,30,false,Honey Barrel
 4601,31,false,Juice Barrel
@@ -6297,6 +6354,7 @@ Item ID,Item meta,Has NBT,Display Name
 4601,56,false,Sludge Barrel
 4601,57,false,Sewage Barrel
 4601,58,false,Mobessence Barrel
+4601,59,false,Biofuel Barrel
 4601,60,false,Meat Barrel
 4601,61,false,Pinkslime Barrel
 4601,62,false,Chocolatemilk Barrel
@@ -6309,6 +6367,13 @@ Item ID,Item meta,Has NBT,Display Name
 4601,69,false,Fishfood Barrel
 4601,70,false,Fastwater Barrel
 4601,71,false,Plastic Barrel
+4601,72,false,Heavy water Barrel
+4601,73,false,Ammonia Barrel
+4601,74,false,Lowpammonia Barrel
+4601,75,false,Lowpwater Barrel
+4601,76,false,Rc ethanol Barrel
+4601,77,false,Jet fuel Barrel
+4601,78,false,Lubricant Barrel
 4602,0,false,Blacksmithing Hammer
 4603,0,false,Iron Ring
 4700,0,false,Wooden Bucket
@@ -6334,7 +6399,7 @@ Item ID,Item meta,Has NBT,Display Name
 4700,25,false,Glass Wooden Bucket
 4700,26,false,Milk Wooden Bucket
 4700,27,false,Biomass Wooden Bucket
-4700,28,false,Biofuel Wooden Bucket
+4700,28,false,Bioethanol Wooden Bucket
 4700,29,false,Seedoil Wooden Bucket
 4700,30,false,Honey Wooden Bucket
 4700,31,false,Juice Wooden Bucket
@@ -6354,6 +6419,7 @@ Item ID,Item meta,Has NBT,Display Name
 4700,56,false,Sludge Wooden Bucket
 4700,57,false,Sewage Wooden Bucket
 4700,58,false,Mobessence Wooden Bucket
+4700,59,false,Biofuel Wooden Bucket
 4700,60,false,Meat Wooden Bucket
 4700,61,false,Pinkslime Wooden Bucket
 4700,62,false,Chocolatemilk Wooden Bucket
@@ -6366,6 +6432,13 @@ Item ID,Item meta,Has NBT,Display Name
 4700,69,false,Fishfood Wooden Bucket
 4700,70,false,Fastwater Wooden Bucket
 4700,71,false,Plastic Wooden Bucket
+4700,72,false,Heavy water Wooden Bucket
+4700,73,false,Ammonia Wooden Bucket
+4700,74,false,Lowpammonia Wooden Bucket
+4700,75,false,Lowpwater Wooden Bucket
+4700,76,false,Rc ethanol Wooden Bucket
+4700,77,false,Jet fuel Wooden Bucket
+4700,78,false,Lubricant Wooden Bucket
 4826,0,false,Gas Mask
 4827,0,false,Smoke Grenade
 4828,0,false,Empty Gas Vial
@@ -6470,7 +6543,7 @@ Item ID,Item meta,Has NBT,Display Name
 5757,6,false,Shell fossil
 5757,7,false,Bone shard fossil
 6016,0,false,Capacity Upgrade
-6017,0,false,Output Speed Upgrade
+6016,1,false,Output Speed Upgrade
 6256,0,false,Force Gem
 6257,0,false,Force Ingot
 6258,0,false,Golden Power Source
@@ -6894,7 +6967,7 @@ Item ID,Item meta,Has NBT,Display Name
 9257,0,true,Bag of Holding
 9258,0,false,Pocket Crafting Table
 9262,0,false,Diamond Block Shard
-9263,0,false,Wrath Igniter
+9263,0,false,Wrath Igniter (Going Away!)
 9264,0,false,Dark Iron Ingot
 9270,0,false,Lead Ingot
 9271,0,false,Silver Ingot
@@ -6925,6 +6998,7 @@ Item ID,Item meta,Has NBT,Display Name
 9290,7,false,Dirty Aluminum Gravel
 9290,8,false,Dirty Cobalt Gravel
 9290,9,false,Dirty Ardite Gravel
+9290,10,false,Dirty Dark Iron Gravel
 9291,0,false,Clean Iron Gravel
 9291,1,false,Clean Gold Gravel
 9291,3,false,Clean Tin Gravel
@@ -6933,6 +7007,7 @@ Item ID,Item meta,Has NBT,Display Name
 9291,7,false,Clean Aluminum Gravel
 9291,8,false,Clean Cobalt Gravel
 9291,9,false,Clean Ardite Gravel
+9291,10,false,Clean Dark Iron Gravel
 9292,0,false,Reduced Iron Chunks
 9292,1,false,Reduced Gold Chunks
 9292,2,false,Reduced Lead Chunks
@@ -6942,6 +7017,7 @@ Item ID,Item meta,Has NBT,Display Name
 9292,7,false,Reduced Aluminum Chunks
 9292,8,false,Reduced Cobalt Chunks
 9292,9,false,Reduced Ardite Chunks
+9292,10,false,Reduced Dark Iron Chunks
 9293,0,false,Crystalline Iron
 9293,1,false,Crystalline Gold
 9293,2,false,Crystalline Lead
@@ -6951,6 +7027,7 @@ Item ID,Item meta,Has NBT,Display Name
 9293,7,false,Crystalline Aluminum
 9293,8,false,Crystalline Cobalt
 9293,9,false,Crystalline Ardite
+9293,10,false,Crystalline Dark Iron
 9294,0,false,Diamond Cutting Head
 9295,0,false,Sludge
 9297,0,false,Sculpting Tool
@@ -6977,17 +7054,12 @@ Item ID,Item meta,Has NBT,Display Name
 9311,0,true,Mimicing Glaze: Water
 9311,0,true,Mimicing Glaze: Lava
 9312,0,false,Servo
-9313,19934,true,Loading Bay
 9313,15064,true,Glass Servo Grate
 9313,13495,true,Iron Servo Grate
 9313,1705,true,Wooden Servo Grate
-9314,0,true,Item Syringe
 9315,0,false,Dark Iron Sprocket
 9316,0,false,Servo Motor
-9317,7934,true,Click
-9317,12680,true,Boop
 9317,3981,true,Compare
-9317,7225,true,Configure Actuator
 9317,9611,true,Drop
 9317,2772,true,Duplicate
 9317,28353,true,Entry Control
@@ -6998,10 +7070,17 @@ Item ID,Item meta,Has NBT,Display Name
 9317,5024,true,Point Top
 9317,29572,true,Set Direction
 9317,26379,true,Set Speed
+9317,8963,true,Item Shifter Control
+9317,28651,true,Socket Signal
 9317,28395,true,Spin
 9317,21127,true,Sum
+9317,27095,true,Trap
 9318,0,false,Oak Wood Barrel
 9319,0,false,Logic Matrix: Controller
+9320,33,false,Lacerator
+9320,34,false,Robotic Arm
+9320,35,false,Item Shifter
+9321,0,false,Instruction Plate
 9800,0,false,Hacksaw
 9801,0,false,LXP Bucket
 9803,0,false,Empty Medallion
@@ -7043,7 +7122,7 @@ Item ID,Item meta,Has NBT,Display Name
 10270,6,false,Ender Receptor
 10271,0,false,Golden Bag of Holding
 10272,0,false,Portable Scanner
-10356,0,false,Gate Settings Duplicator
+10356,0,false,item.null
 10456,0,false,Valve Pipe
 10457,0,false,Golden Iron Fluid Pipe
 10459,0,false,Balancing Fluid Pipe
@@ -7151,6 +7230,7 @@ Item ID,Item meta,Has NBT,Display Name
 10886,73,false,Fume Filter
 10886,74,false,Creeper Heart
 10886,75,false,Brew of Love
+10886,76,false,item.ingredient.brewIce.name
 10887,0,false,Circle Talisman
 10887,1,false,Circle Talisman (Small Ritual)
 10887,2,false,Circle Talisman (Small Otherwhere)
@@ -7551,6 +7631,7 @@ Item ID,Item meta,Has NBT,Display Name
 13209,0,true,Saffron Species Serum
 13209,0,true,Short Lifespan Serum
 13209,0,true,No Temp. Tol. Serum
+13209,0,true,Invincible Species Serum
 13209,0,true,Ebony Species Serum
 13209,0,true,Slower Flowering Serum
 13209,0,true,Savant Species Serum
@@ -7841,6 +7922,7 @@ Item ID,Item meta,Has NBT,Display Name
 13213,13,false,Lead Grains
 13213,14,false,Zinc Grains
 13213,15,false,Titanium Grains
+13213,16,false,Tungsten Grains
 13213,17,false,Radioactive Fragments
 13213,18,false,Coal Grains
 13213,19,false,Red Dye
@@ -7914,6 +7996,7 @@ Item ID,Item meta,Has NBT,Display Name
 13226,37,false,Leaden Comb
 13226,40,false,Zinc Comb
 13226,41,false,Titanium Comb
+13226,42,false,Tungsten Comb
 13226,45,false,Platinum Comb
 13226,46,false,Lapis Comb
 13226,52,false,Emerald Comb
@@ -8276,6 +8359,7 @@ Item ID,Item meta,Has NBT,Display Name
 13340,0,true,Leaden Drone
 13340,0,true,Galvanized Drone
 13340,0,true,Impregnable Drone
+13340,0,true,Invincible Drone
 13340,0,true,Glittering Drone
 13340,0,true,Shining Drone
 13340,0,true,Valuable Drone
@@ -8507,6 +8591,7 @@ Item ID,Item meta,Has NBT,Display Name
 13341,0,true,Leaden Princess
 13341,0,true,Galvanized Princess
 13341,0,true,Impregnable Princess
+13341,0,true,Invincible Princess
 13341,0,true,Glittering Princess
 13341,0,true,Shining Princess
 13341,0,true,Valuable Princess
@@ -8697,7 +8782,6 @@ Item ID,Item meta,Has NBT,Display Name
 13360,7,false,Parched Comb
 13360,15,false,Mossy Comb
 13360,16,false,Mellow Comb
-13361,0,false,Habitat Locator
 13362,0,true,Builder's Backpack
 13363,0,true,Woven Builder's Backpack
 13364,0,false,Infuser
@@ -11008,8 +11092,6 @@ Item ID,Item meta,Has NBT,Display Name
 15239,0,false,Crane Control
 15240,0,false,Crane Backpack
 15241,0,false,Slimalyzer
-15446,0,false,Gravity Gun
-15446,1,false,Gravity Gun
 15457,0,false,Portal Gun
 15457,1,false,Portal Gun
 15457,2,false,Portal Gun
@@ -11344,10 +11426,9 @@ Item ID,Item meta,Has NBT,Display Name
 17268,0,false,Dagger of Sacrifice
 17269,0,false,Air Sigil
 17270,0,false,Sigil of the Fast Miner
-17271,0,false,Elemental Ink: Water
-17272,0,false,Elemental Ink: Fire
-17273,0,false,Elemental Ink: Earth
-17274,0,false,Elemental Ink: Air
+17271,0,false,Elemental Inscription Tool: Dusk
+17272,0,false,Demon Crystal
+17274,0,false,Armour Inhibitor
 17275,0,false,Divination Sigil
 17276,0,false,Elemental Inscription Tool: Water
 17277,0,false,Elemental Inscription Tool: Fire
@@ -11386,6 +11467,8 @@ Item ID,Item meta,Has NBT,Display Name
 17310,0,false,Demonic Teleposition Focus
 17311,0,false,Imbued Slate
 17312,0,false,Demonic Slate
+17313,0,false,Sigil of the Phantom Bridge
+17314,0,false,Orb of Testing
 17316,0,false,Simple Catalyst
 17317,0,false,Incendium
 17318,0,false,Magicales
@@ -14235,7 +14318,7 @@ Item ID,Item meta,Has NBT,Display Name
 25131,1,true,Grass Block Cover
 25131,1,true,Netherrack Cover
 25131,1,true,Soul Sand Cover
-25131,1,true,Ice block Cover
+25131,1,true,ice Cover
 25131,1,true,Oak Leaves Cover
 25131,1,true,Spruce Leaves Cover
 25131,1,true,Birch Leaves Cover
@@ -14587,7 +14670,7 @@ Item ID,Item meta,Has NBT,Display Name
 25131,2,true,Grass Block Panel
 25131,2,true,Netherrack Panel
 25131,2,true,Soul Sand Panel
-25131,2,true,Ice block Panel
+25131,2,true,ice Panel
 25131,2,true,Oak Leaves Panel
 25131,2,true,Spruce Leaves Panel
 25131,2,true,Birch Leaves Panel
@@ -14939,7 +15022,7 @@ Item ID,Item meta,Has NBT,Display Name
 25131,4,true,Grass Block Slab
 25131,4,true,Netherrack Slab
 25131,4,true,Soul Sand Slab
-25131,4,true,Ice block Slab
+25131,4,true,ice Slab
 25131,4,true,Oak Leaves Slab
 25131,4,true,Spruce Leaves Slab
 25131,4,true,Birch Leaves Slab
@@ -15291,7 +15374,7 @@ Item ID,Item meta,Has NBT,Display Name
 25131,257,true,Hollow Grass Block Cover
 25131,257,true,Hollow Netherrack Cover
 25131,257,true,Hollow Soul Sand Cover
-25131,257,true,Hollow Ice block Cover
+25131,257,true,Hollow ice Cover
 25131,257,true,Hollow Oak Leaves Cover
 25131,257,true,Hollow Spruce Leaves Cover
 25131,257,true,Hollow Birch Leaves Cover
@@ -15643,7 +15726,7 @@ Item ID,Item meta,Has NBT,Display Name
 25131,258,true,Hollow Grass Block Panel
 25131,258,true,Hollow Netherrack Panel
 25131,258,true,Hollow Soul Sand Panel
-25131,258,true,Hollow Ice block Panel
+25131,258,true,Hollow ice Panel
 25131,258,true,Hollow Oak Leaves Panel
 25131,258,true,Hollow Spruce Leaves Panel
 25131,258,true,Hollow Birch Leaves Panel
@@ -15995,7 +16078,7 @@ Item ID,Item meta,Has NBT,Display Name
 25131,260,true,Hollow Grass Block Slab
 25131,260,true,Hollow Netherrack Slab
 25131,260,true,Hollow Soul Sand Slab
-25131,260,true,Hollow Ice block Slab
+25131,260,true,Hollow ice Slab
 25131,260,true,Hollow Oak Leaves Slab
 25131,260,true,Hollow Spruce Leaves Slab
 25131,260,true,Hollow Birch Leaves Slab
@@ -16347,7 +16430,7 @@ Item ID,Item meta,Has NBT,Display Name
 25131,513,true,Grass Block Nook
 25131,513,true,Netherrack Nook
 25131,513,true,Soul Sand Nook
-25131,513,true,Ice block Nook
+25131,513,true,ice Nook
 25131,513,true,Oak Leaves Nook
 25131,513,true,Spruce Leaves Nook
 25131,513,true,Birch Leaves Nook
@@ -16699,7 +16782,7 @@ Item ID,Item meta,Has NBT,Display Name
 25131,514,true,Grass Block Corner
 25131,514,true,Netherrack Corner
 25131,514,true,Soul Sand Corner
-25131,514,true,Ice block Corner
+25131,514,true,ice Corner
 25131,514,true,Oak Leaves Corner
 25131,514,true,Spruce Leaves Corner
 25131,514,true,Birch Leaves Corner
@@ -17051,7 +17134,7 @@ Item ID,Item meta,Has NBT,Display Name
 25131,516,true,Grass Block Notch
 25131,516,true,Netherrack Notch
 25131,516,true,Soul Sand Notch
-25131,516,true,Ice block Notch
+25131,516,true,ice Notch
 25131,516,true,Oak Leaves Notch
 25131,516,true,Spruce Leaves Notch
 25131,516,true,Birch Leaves Notch
@@ -17403,7 +17486,7 @@ Item ID,Item meta,Has NBT,Display Name
 25131,769,true,Grass Block Strip
 25131,769,true,Netherrack Strip
 25131,769,true,Soul Sand Strip
-25131,769,true,Ice block Strip
+25131,769,true,ice Strip
 25131,769,true,Oak Leaves Strip
 25131,769,true,Spruce Leaves Strip
 25131,769,true,Birch Leaves Strip
@@ -17755,7 +17838,7 @@ Item ID,Item meta,Has NBT,Display Name
 25131,770,true,Grass Block Post
 25131,770,true,Netherrack Post
 25131,770,true,Soul Sand Post
-25131,770,true,Ice block Post
+25131,770,true,ice Post
 25131,770,true,Oak Leaves Post
 25131,770,true,Spruce Leaves Post
 25131,770,true,Birch Leaves Post
@@ -18107,7 +18190,7 @@ Item ID,Item meta,Has NBT,Display Name
 25131,772,true,Grass Block Pillar
 25131,772,true,Netherrack Pillar
 25131,772,true,Soul Sand Pillar
-25131,772,true,Ice block Pillar
+25131,772,true,ice Pillar
 25131,772,true,Oak Leaves Pillar
 25131,772,true,Spruce Leaves Pillar
 25131,772,true,Birch Leaves Pillar
@@ -18865,57 +18948,22 @@ Item ID,Item meta,Has NBT,Display Name
 28038,0,false,Knightly Sword
 28039,0,false,Knightly Pick
 28040,0,false,Knightly Axe
-28195,0,false,Energized Ingot
-28196,0,false,Energized Plate
-28196,1,false,Hardened Energized Plate
-28197,0,false,Small Pneumatic Motor
-28197,1,false,Enhanced Pneumatic Motor
-28197,2,false,Complex Pneumatic Motor
-28198,0,false,High Pressure Tank
-28199,0,false,Heat Inductor
-28201,0,true,Pneumatic Jackhammer
-28202,0,false,Igniter
-28203,0,true,Industrial Jackhammer
-28204,0,false,Chainsaw
-28205,0,true,Powered Hoe
-28206,0,false,Mechatronic Helmet T3
-28207,0,false,Mechatronic Chestplate T3
-28208,0,false,Mechatronic Leggings T3
-28209,0,false,Mechatronic Boots T3
-28210,0,false,Mechatronic Helmet T2
-28211,0,false,Mechatronic Chestplate T2
-28212,0,false,Mechatronic Leggings T2
-28213,0,false,Mechatronic Boots T2
-28214,0,false,Mechatronic Helmet T1
-28215,0,false,Mechatronic Chestplate T1
-28216,0,false,Mechatronic Leggings T1
-28217,0,false,Mechatronic Boots T1
-28218,0,false,Powered Shears
-28219,1,true,Pneumatic Gun
-28219,2,true,Vacuum Cleaner
-28219,3,true,EMP Orb
-28219,4,true,Spawner Wrench
-28219,5,true,Potato Gun
-28219,0,false,Tool Pack
-28220,0,false,Compressed Air Provider Pack
-28221,0,true,Small Waterwheel
-28221,1,true,Big Waterwheel
-28221,2,true,Huge Waterwheel
-28222,0,false,Metal Nail
-28222,1,false,Percussive Nail
-28222,2,false,Fiery Nail
-28222,3,false,Heavy Nail
-28222,4,false,Rusty Nail
-28222,5,false,Ender Nail
-28223,0,false,Nail Form
-28223,1,false,Ore Form
-28223,2,false,Spring Form
-28224,0,false,Electrum Gear
-28224,1,false,Energized Gear
-28225,0,false,Spring
-28226,0,false,Syringe
-28227,0,false,Armor Module T3
-28227,1,false,Armor Module T2
+28041,0,false,Phantom Helm
+28042,0,false,Phantom Plate
+28781,0,false,Dragon Essence
+28781,1,false,Fiery Essence
+28782,0,false,Baconator
+28783,0,false,item.itemNumber.name
+28784,0,false,Temple Caller
+28785,0,false,Enderman Head
+28786,0,false,Transference Gem
+28787,0,false,Instability Orb
+28788,0,false,Igneous Rock
+28789,0,false,End Powder
+28790,0,false,Ender Pearl
+28791,0,false,Enhanced Brewing Stand
+28792,0,false,Altar Nexus
+28793,0,false,Adventurer's Diary
 29256,0,false,Aluminium Ingot
 29256,1,false,Magnesium Ingot
 29256,2,false,Titanium Ingot
@@ -19208,11 +19256,83 @@ Item ID,Item meta,Has NBT,Display Name
 29297,0,false,Fish Finger
 29297,1,false,Calamari
 29297,2,false,Smoked Salmon
-29756,0,false,Redstone Circuit
-29757,0,false,Plastic
-29758,0,false,Milk Curd
-29759,0,false,Plastic
-29760,0,false,Plastic Pellets
+29656,0,true,Nuclear Waste
+29656,0,true,Nuclear Waste
+29656,0,true,Nuclear Waste
+29656,0,true,Nuclear Waste
+29656,0,true,Nuclear Waste
+29656,0,true,Nuclear Waste
+29656,0,true,Nuclear Waste
+29656,0,true,Nuclear Waste
+29656,0,true,Nuclear Waste
+29656,0,true,Nuclear Waste
+29656,0,true,Nuclear Waste
+29656,0,true,Nuclear Waste
+29656,0,true,Nuclear Waste
+29656,0,true,Nuclear Waste
+29656,0,true,Nuclear Waste
+29656,0,true,Nuclear Waste
+29656,0,true,Nuclear Waste
+29656,0,true,Nuclear Waste
+29657,0,false,Uranium Fuel Pellet (Fresh)
+29657,1,false,Uranium Fuel Pellet (10% Depleted)
+29657,2,false,Uranium Fuel Pellet (20% Depleted)
+29657,3,false,Uranium Fuel Pellet (30% Depleted)
+29657,4,false,Uranium Fuel Pellet (40% Depleted)
+29657,5,false,Uranium Fuel Pellet (50% Depleted)
+29657,6,false,Uranium Fuel Pellet (60% Depleted)
+29657,7,false,Uranium Fuel Pellet (70% Depleted)
+29657,8,false,Uranium Fuel Pellet (80% Depleted)
+29657,9,false,Uranium Fuel Pellet (90% Depleted)
+29658,0,false,Depleted Uranium
+29659,0,false,Fuel Core
+29659,1,false,Control Rod
+29659,2,false,Water Cell
+29659,3,false,Central Control
+29659,4,false,Turbine
+29659,5,false,Condenser
+29659,6,false,Steam Line
+29659,7,false,Heavy Water Extractor
+29659,8,false,Isotope Centrifuge
+29659,9,false,Uranium Processor
+29659,10,false,Spent Fuel Container
+29659,11,false,Steam Boiler
+29659,12,false,Steam Grate
+29659,13,false,Pump
+29659,14,false,Ammonia Synthesizer
+29660,0,false,Bucket
+29661,0,false,Hydrogen Fluoride
+29661,1,false,Enriched Uranium Dust
+29661,2,false,Depleted Uranium Dust
+29661,3,false,Ammonium Nitrate
+29661,4,false,Quicklime
+29661,5,false,Calcite Crystal
+29662,0,false,Blue Fluorite Crystal
+29662,1,false,Pink Fluorite Crystal
+29662,2,false,Orange Fluorite Crystal
+29662,3,false,Magenta Fluorite Crystal
+29662,4,false,Green Fluorite Crystal
+29662,5,false,Red Fluorite Crystal
+29662,6,false,White Fluorite Crystal
+29662,7,false,Yellow Fluorite Crystal
+29663,0,false,Raw Uranium Ingot
+29663,1,false,Cadmium Ingot
+29663,2,false,Indium Ingot
+29663,3,false,Silver Ingot
+29664,0,false,Empty Canister
+29664,1,false,Uranium Hexafluoride Canister
+29664,2,false,Hydrofluoric Acid Canister
+29664,3,false,Ammonia Canister
+29665,0,false,Radiation Goggles
+29666,0,false,Fuel Canister
+29666,1,false,Absorption Rod
+29666,2,false,Obsidian Tank
+29666,3,false,Cd-In-Ag Alloy Ingot
+29756,0,false,Bedrock Shaft Unit
+29757,0,false,Ignition Unit
+29758,0,false,Bedrock 16x Gear Unit
+29759,0,false,Compound Turbine
+29760,0,false,Worm Gear
 29761,0,true,Restriction Tube
 29761,0,true,Tube
 29761,0,true,Requesting Tube
@@ -19222,6 +19342,636 @@ Item ID,Item meta,Has NBT,Display Name
 29761,0,true,Extraction Tube
 29761,0,true,Compressor Tube
 29761,0,true,Filter Tube
+29766,0,false,Handheld Crafting Tool
+29767,0,false,RailGun Ammunition (1 kg)
+29767,1,false,RailGun Ammunition (2 kg)
+29767,2,false,RailGun Ammunition (4 kg)
+29767,3,false,RailGun Ammunition (8 kg)
+29767,4,false,RailGun Ammunition (16 kg)
+29767,5,false,RailGun Ammunition (32 kg)
+29767,6,false,RailGun Ammunition (64 kg)
+29767,7,false,RailGun Ammunition (128 kg)
+29767,8,false,RailGun Ammunition (256 kg)
+29767,9,false,RailGun Ammunition (512 kg)
+29767,10,false,RailGun Ammunition (1024 kg)
+29767,11,false,RailGun Ammunition (2048 kg)
+29767,12,false,RailGun Ammunition (4096 kg)
+29767,13,false,RailGun Ammunition (8192 kg)
+29767,14,false,RailGun Ammunition (16384 kg)
+29767,15,false,RailGun Ammunition (32768 kg)
+29768,0,false,Lubricant Bucket
+29768,1,false,Jet Fuel Bucket
+29768,2,false,Ethanol Bucket
+29769,0,false,TNT Cannon Targeting Aid
+29770,0,false,I/O Goggles
+29771,0,false,Projector Slide 23
+29772,0,false,Cannon Key
+29773,0,false,Explosive Shell
+29774,0,false,Ethanol Minecart
+29775,0,true,Bedrock Helmet
+29776,24000,false,Motion Tracker
+29777,24000,false,Vacuum
+29778,24000,false,Knockback Gun
+29779,24000,false,Gravel Gun
+29780,24000,false,Fireball Launcher
+29781,0,true,Bedrock Pickaxe
+29782,0,false,Bedrock Axe
+29783,0,false,Bedrock Shovel
+29784,8192,false,Night Vision Goggles
+29785,0,false,Night Vision Helmet
+29786,0,true,Bedrock Chestplate
+29787,0,true,Bedrock Leggings
+29788,0,true,Bedrock Boots
+29789,0,false,Tile Selector
+29790,0,true,Bedrock Jetpack
+29791,0,false,HSLA Steel Pickaxe
+29792,0,false,HSLA Steel Axe
+29793,0,false,HSLA Steel Shovel
+29794,0,false,HSLA Steel Helmet
+29795,0,false,HSLA Steel Chestplate
+29796,0,false,HSLA Steel Leggings
+29797,0,false,HSLA Steel Boots
+29798,0,false,High-Strength Spring (0 kJ)
+29798,1,false,High-Strength Spring (1 kJ)
+29798,2,false,High-Strength Spring (2 kJ)
+29798,4,false,High-Strength Spring (4 kJ)
+29798,8,false,High-Strength Spring (8 kJ)
+29798,16,false,High-Strength Spring (16 kJ)
+29798,32,false,High-Strength Spring (32 kJ)
+29798,64,false,High-Strength Spring (64 kJ)
+29798,128,false,High-Strength Spring (128 kJ)
+29798,256,false,High-Strength Spring (256 kJ)
+29798,512,false,High-Strength Spring (512 kJ)
+29798,1024,false,High-Strength Spring (1024 kJ)
+29798,2048,false,High-Strength Spring (2048 kJ)
+29798,4096,false,High-Strength Spring (4096 kJ)
+29798,8192,false,High-Strength Spring (8192 kJ)
+29798,16384,false,High-Strength Spring (16384 kJ)
+29798,24000,false,High-Strength Spring (24000 kJ)
+29798,30000,false,High-Strength Spring (30000 kJ)
+29806,0,false,Screwdriver
+29807,0,false,Angular Transducer
+29808,0,false,Magic Wand
+29809,0,false,WorldEdit Tool
+29810,0,false,RotaryCraft Handbook
+29811,0,false,Yeast
+29812,0,false,Ethanol Crystals
+29813,0,false,Canola Seeds
+29814,0,false,Wind Spring (0 kJ)
+29814,1,false,Wind Spring (1 kJ)
+29814,2,false,Wind Spring (2 kJ)
+29814,4,false,Wind Spring (4 kJ)
+29814,8,false,Wind Spring (8 kJ)
+29814,16,false,Wind Spring (16 kJ)
+29814,32,false,Wind Spring (32 kJ)
+29814,64,false,Wind Spring (64 kJ)
+29814,128,false,Wind Spring (128 kJ)
+29814,256,false,Wind Spring (256 kJ)
+29814,512,false,Wind Spring (512 kJ)
+29814,1024,false,Wind Spring (1024 kJ)
+29814,2048,false,Wind Spring (2048 kJ)
+29814,4096,false,Wind Spring (4096 kJ)
+29814,8192,false,Wind Spring (8192 kJ)
+29814,16384,false,Wind Spring (16384 kJ)
+29814,24000,false,Wind Spring (24000 kJ)
+29814,30000,false,Wind Spring (30000 kJ)
+29815,24000,false,Ultrasound
+29872,0,false,Bedrock Breaker
+29872,4,false,Bevel Gears
+29872,6,false,Shaft Junction
+29872,7,false,Fermenter
+29872,8,false,Floodlight
+29872,9,false,Clutch
+29872,10,false,Dynamometer
+29872,11,false,Grinder
+29872,12,false,Heat Ray
+29872,14,false,Boring Machine
+29872,15,false,Light Bridge
+29872,16,false,Pump
+29872,18,false,Reservoir
+29872,19,false,Aerosolizer
+29872,20,false,Extractor
+29872,21,false,Pulse Jet Furnace
+29872,22,false,Compactor
+29872,23,false,Fan
+29872,25,false,Fractionation Unit
+29872,26,false,Ground Penetrating Radar
+29872,27,false,Obsidian Factory
+29872,28,false,Pile Driver
+29872,29,false,Item Vacuum
+29872,30,false,Fireworks Display
+29872,31,false,Sprinkler
+29872,32,false,Woodcutter
+29872,33,false,Spawner Controller
+29872,34,false,Player Detector
+29872,35,false,Heater
+29872,36,false,Bait Box
+29872,37,false,Auto Breeder
+29872,38,false,Engine Control Unit
+29872,39,false,Smoke Detector
+29872,40,false,Mob Radar
+29872,41,false,Coil Winder
+29872,43,false,TNT Cannon
+29872,44,false,Sonic Weapon
+29872,45,false,Blast Furnace
+29872,46,false,Force Field
+29872,47,false,Music Box
+29872,48,false,Liquid Spiller
+29872,50,false,Mob Harvester
+29872,52,false,Projector
+29872,53,false,RailGun
+29872,54,false,Silver Iodide Cannon
+29872,55,false,Item Refresher
+29872,56,false,Freeze Gun
+29872,57,false,Cave Scanner
+29872,58,false,Scaleable Chest
+29872,59,false,Firestarter
+29872,60,false,Magnetizing Unit
+29872,61,false,Containment Field
+29872,62,false,CCTV Screen
+29872,63,false,Steel Purifier
+29872,64,false,Laser Gun
+29872,65,false,Item Cannon
+29872,66,false,Land Mine
+29872,67,false,Friction Heater
+29872,68,false,Block Cannon
+29872,69,false,Bucket Filler
+29872,70,false,Solar Mirror
+29872,71,false,Solar Tower
+29872,72,false,Aerial Camera
+29872,73,false,Self Destruct Mechanism
+29872,74,false,Cooling Fin
+29872,75,false,Worktable
+29872,76,false,Air Compressor
+29872,77,false,Pneumatic Engine
+29872,78,false,Display Screen
+29872,79,false,Bright Lamp
+29872,80,false,EMP Machine
+29872,81,false,Block Ram
+29872,82,false,Beam Mirror
+29872,83,false,Multi-Directional Clutch
+29872,84,false,Terraformer
+29872,86,false,Fuel Enhancer
+29872,87,false,Arrow Gun
+29872,88,false,Friction Boiler
+29872,89,false,Steam Turbine
+29872,90,false,Fertilizer
+29872,91,false,Rock Melter
+29872,92,false,Electric Generator
+29872,93,false,Electric Motor
+29872,97,false,Dew Point Aggregator
+29872,98,false,Air Pressure Gun
+29872,99,false,Sonic Borer
+29872,100,false,Fuel Powered Engine
+29888,0,false,Coal Ore Dust
+29888,1,false,Iron Ore Dust
+29888,2,false,Gold Ore Dust
+29888,3,false,Redstone Ore Dust
+29888,4,false,Lapis Ore Dust
+29888,5,false,Diamond Ore Dust
+29888,6,false,Emerald Ore Dust
+29888,7,false,Nether Quartz Dust
+29888,8,false,Coal Ore Slurry
+29888,9,false,Iron Ore Slurry
+29888,10,false,Gold Ore Slurry
+29888,11,false,Redstone Ore Slurry
+29888,12,false,Lapis Ore Slurry
+29888,13,false,Diamond Ore Slurry
+29888,14,false,Emerald Ore Slurry
+29888,15,false,Nether Quartz Slurry
+29888,16,false,Coal Ore Solution
+29888,17,false,Iron Ore Solution
+29888,18,false,Gold Ore Solution
+29888,19,false,Redstone Ore Solution
+29888,20,false,Lapis Ore Solution
+29888,21,false,Diamond Ore Solution
+29888,22,false,Emerald Ore Solution
+29888,24,false,Coal Ore Flakes
+29888,25,false,Iron Ore Flakes
+29888,26,false,Gold Ore Flakes
+29888,27,false,Redstone Ore Flakes
+29888,28,false,Lapis Ore Flakes
+29888,29,false,Diamond Ore Flakes
+29888,30,false,Emerald Ore Flakes
+29888,31,false,Nether Quartz Flakes
+29888,32,false,Silver Flakes
+29889,0,false,Anthracite
+29889,1,false,Prismane
+29889,2,false,Lonsdaleite
+29889,3,false,Bedrock Ingot
+29889,4,false,Aluminum Ingot
+29889,7,false,Silver Ingot
+29890,0,false,DC Electric Engine
+29890,1,false,Wind Turbine
+29890,2,false,Steam Engine
+29890,3,false,Gasoline Engine
+29890,4,false,AC Electric Engine
+29890,5,false,Performance Engine
+29890,6,false,Hydrokinetic Engine
+29890,7,false,Microturbine
+29890,8,false,Gas Turbine
+29891,0,false,Netherrack Dust
+29891,1,false,Tar Sand
+29891,2,false,Sludge
+29891,3,false,Sawdust
+29891,4,false,Bedrock Dust
+29891,5,false,Salt
+29891,6,false,Ammonium Nitrate
+29891,7,false,Silver Iodide
+29891,8,false,Aluminum Powder
+29892,0,true,Monster Spawner.name
+29892,0,true,Monster Spawner.name
+29892,0,true,Monster Spawner.name
+29892,0,true,Monster Spawner.name
+29892,0,true,Monster Spawner.name
+29892,0,true,Monster Spawner.name
+29892,0,true,Monster Spawner.name
+29892,0,true,Monster Spawner.name
+29892,0,true,Monster Spawner.name
+29892,0,true,Monster Spawner.name
+29892,0,true,Monster Spawner.name
+29892,0,true,Monster Spawner.name
+29892,0,true,Monster Spawner.name
+29892,0,true,Monster Spawner.name
+29892,0,true,Monster Spawner.name
+29892,0,true,Monster Spawner.name
+29892,0,true,Monster Spawner.name
+29892,0,true,Monster Spawner.name
+29892,0,true,Monster Spawner.name
+29892,0,true,Monster Spawner.name
+29892,0,true,Monster Spawner.name
+29892,0,true,Monster Spawner.name
+29892,0,true,Monster Spawner.name
+29892,0,true,Monster Spawner.name
+29892,0,true,Monster Spawner.name
+29892,0,true,Monster Spawner.name
+29892,0,true,Monster Spawner.name
+29892,0,true,Monster Spawner.name
+29893,0,false,Lubricant Hose
+29893,1,false,Liquid Pipe
+29893,2,false,Fuel Line
+29893,4,false,Valve Pipe
+29893,5,false,Bypass Pipe
+29893,6,false,Separation Pipe
+29895,0,false,Wood Shaft
+29895,1,false,Stone Shaft
+29895,2,false,Steel Shaft
+29895,3,false,Diamond Shaft
+29895,4,false,Bedrock Shaft
+29895,5,false,Shaft Cross
+29896,0,true,Wooden 2:1 Gearbox
+29896,1,true,Stone 2:1 Gearbox
+29896,2,true,Steel 2:1 Gearbox
+29896,3,true,Diamond 2:1 Gearbox
+29896,4,true,Bedrock 2:1 Gearbox
+29896,5,true,Wooden 4:1 Gearbox
+29896,6,true,Stone 4:1 Gearbox
+29896,7,true,Steel 4:1 Gearbox
+29896,8,true,Diamond 4:1 Gearbox
+29896,9,true,Bedrock 4:1 Gearbox
+29896,10,true,Wooden 8:1 Gearbox
+29896,11,true,Stone 8:1 Gearbox
+29896,12,true,Steel 8:1 Gearbox
+29896,13,true,Diamond 8:1 Gearbox
+29896,14,true,Bedrock 8:1 Gearbox
+29896,15,true,Wooden 16:1 Gearbox
+29896,16,true,Stone 16:1 Gearbox
+29896,17,true,Steel 16:1 Gearbox
+29896,18,true,Diamond 16:1 Gearbox
+29896,19,true,Bedrock 16:1 Gearbox
+29898,2,true,Industrial Coil
+29898,0,false,Worm Gear
+29898,1,false,CVT Unit
+29898,2,false,Industrial Coil
+29899,0,false,Wood Flywheel
+29899,1,false,Stone Flywheel
+29899,2,false,Iron Flywheel
+29899,3,false,Gold Flywheel
+29900,0,false,Tin Dust
+29900,1,false,Tin Slurry
+29900,2,false,Tin Solution
+29900,3,false,Tin Flakes
+29900,4,false,Copper Dust
+29900,5,false,Copper Slurry
+29900,6,false,Copper Solution
+29900,7,false,Copper Flakes
+29900,8,false,Lead Dust
+29900,9,false,Lead Slurry
+29900,10,false,Lead Solution
+29900,11,false,Lead Flakes
+29900,12,false,Nickel Dust
+29900,13,false,Nickel Slurry
+29900,14,false,Nickel Solution
+29900,15,false,Nickel Flakes
+29900,16,false,Silver Dust
+29900,17,false,Silver Slurry
+29900,18,false,Silver Solution
+29900,19,false,Silver Flakes
+29900,20,false,Galena Dust
+29900,21,false,Galena Slurry
+29900,22,false,Galena Solution
+29900,23,false,Galena Flakes
+29900,24,false,Aluminum Dust
+29900,25,false,Aluminum Slurry
+29900,26,false,Aluminum Solution
+29900,27,false,Aluminum Flakes
+29900,28,false,Iridium Dust
+29900,29,false,Iridium Slurry
+29900,30,false,Iridium Solution
+29900,31,false,Iridium Flakes
+29900,32,false,Firestone Dust
+29900,33,false,Firestone Slurry
+29900,34,false,Firestone Solution
+29900,35,false,Firestone Flakes
+29900,36,false,Certus Quartz Dust
+29900,37,false,Certus Quartz Slurry
+29900,38,false,Certus Quartz Solution
+29900,39,false,Certus Quartz Flakes
+29900,40,false,Uranium Dust
+29900,41,false,Uranium Slurry
+29900,42,false,Uranium Solution
+29900,43,false,Uranium Flakes
+29900,44,false,Mercury Dust
+29900,45,false,Mercury Slurry
+29900,46,false,Mercury Solution
+29900,47,false,Mercury Flakes
+29900,48,false,Amber Dust
+29900,49,false,Amber Slurry
+29900,50,false,Amber Solution
+29900,51,false,Amber Flakes
+29900,52,false,Air Infused Dust
+29900,53,false,Air Infused Slurry
+29900,54,false,Air Infused Solution
+29900,55,false,Air Infused Flakes
+29900,56,false,Fire Infused Dust
+29900,57,false,Fire Infused Slurry
+29900,58,false,Fire Infused Solution
+29900,59,false,Fire Infused Flakes
+29900,60,false,Water Infused Dust
+29900,61,false,Water Infused Slurry
+29900,62,false,Water Infused Solution
+29900,63,false,Water Infused Flakes
+29900,64,false,Earth Infused Dust
+29900,65,false,Earth Infused Slurry
+29900,66,false,Earth Infused Solution
+29900,67,false,Earth Infused Flakes
+29900,68,false,Entropy Infused Dust
+29900,69,false,Entropy Infused Slurry
+29900,70,false,Entropy Infused Solution
+29900,71,false,Entropy Infused Flakes
+29900,72,false,Order Infused Dust
+29900,73,false,Order Infused Slurry
+29900,74,false,Order Infused Solution
+29900,75,false,Order Infused Flakes
+29900,76,false,Apatite Dust
+29900,77,false,Apatite Slurry
+29900,78,false,Apatite Solution
+29900,79,false,Apatite Flakes
+29900,80,false,Saltpeter Dust
+29900,81,false,Saltpeter Slurry
+29900,82,false,Saltpeter Solution
+29900,83,false,Saltpeter Flakes
+29900,84,false,Tungsten Dust
+29900,85,false,Tungsten Slurry
+29900,86,false,Tungsten Solution
+29900,87,false,Tungsten Flakes
+29900,88,false,Nikolite Dust
+29900,89,false,Nikolite Slurry
+29900,90,false,Nikolite Solution
+29900,91,false,Nikolite Flakes
+29900,92,false,Green Sapphire Dust
+29900,93,false,Green Sapphire Slurry
+29900,94,false,Green Sapphire Solution
+29900,95,false,Green Sapphire Flakes
+29900,96,false,Ruby Dust
+29900,97,false,Ruby Slurry
+29900,98,false,Ruby Solution
+29900,99,false,Ruby Flakes
+29900,100,false,Sapphire Dust
+29900,101,false,Sapphire Slurry
+29900,102,false,Sapphire Solution
+29900,103,false,Sapphire Flakes
+29900,104,false,Monazit Dust
+29900,105,false,Monazit Slurry
+29900,106,false,Monazit Solution
+29900,107,false,Monazit Flakes
+29900,108,false,Force Dust
+29900,109,false,Force Slurry
+29900,110,false,Force Solution
+29900,111,false,Force Flakes
+29900,112,false,Nether Coal Dust
+29900,113,false,Nether Coal Slurry
+29900,114,false,Nether Coal Solution
+29900,115,false,Nether Coal Flakes
+29900,116,false,Nether Iron Dust
+29900,117,false,Nether Iron Slurry
+29900,118,false,Nether Iron Solution
+29900,119,false,Nether Iron Flakes
+29900,120,false,Nether Gold Dust
+29900,121,false,Nether Gold Slurry
+29900,122,false,Nether Gold Solution
+29900,123,false,Nether Gold Flakes
+29900,124,false,Nether Redstone Dust
+29900,125,false,Nether Redstone Slurry
+29900,126,false,Nether Redstone Solution
+29900,127,false,Nether Redstone Flakes
+29900,128,false,Nether Lapis Dust
+29900,129,false,Nether Lapis Slurry
+29900,130,false,Nether Lapis Solution
+29900,131,false,Nether Lapis Flakes
+29900,132,false,Nether Diamond Dust
+29900,133,false,Nether Diamond Slurry
+29900,134,false,Nether Diamond Solution
+29900,135,false,Nether Diamond Flakes
+29900,136,false,Nether Emerald Dust
+29900,137,false,Nether Emerald Slurry
+29900,138,false,Nether Emerald Solution
+29900,139,false,Nether Emerald Flakes
+29900,140,false,Nether Tin Dust
+29900,141,false,Nether Tin Slurry
+29900,142,false,Nether Tin Solution
+29900,143,false,Nether Tin Flakes
+29900,144,false,Nether Copper Dust
+29900,145,false,Nether Copper Slurry
+29900,146,false,Nether Copper Solution
+29900,147,false,Nether Copper Flakes
+29900,148,false,Nether Lead Dust
+29900,149,false,Nether Lead Slurry
+29900,150,false,Nether Lead Solution
+29900,151,false,Nether Lead Flakes
+29900,152,false,Nether Nickel Dust
+29900,153,false,Nether Nickel Slurry
+29900,154,false,Nether Nickel Solution
+29900,155,false,Nether Nickel Flakes
+29900,156,false,Nether Silver Dust
+29900,157,false,Nether Silver Slurry
+29900,158,false,Nether Silver Solution
+29900,159,false,Nether Silver Flakes
+29900,160,false,Nether Nikolite Dust
+29900,161,false,Nether Nikolite Slurry
+29900,162,false,Nether Nikolite Solution
+29900,163,false,Nether Nikolite Flakes
+29900,164,false,Cobalt Dust
+29900,165,false,Cobalt Slurry
+29900,166,false,Cobalt Solution
+29900,167,false,Cobalt Flakes
+29900,168,false,Ardite Dust
+29900,169,false,Ardite Slurry
+29900,170,false,Ardite Solution
+29900,171,false,Ardite Flakes
+29900,172,false,Platinum Dust
+29900,173,false,Platinum Slurry
+29900,174,false,Platinum Solution
+29900,175,false,Platinum Flakes
+29900,176,false,Nether Platinum Dust
+29900,177,false,Nether Platinum Slurry
+29900,178,false,Nether Platinum Solution
+29900,179,false,Nether Platinum Flakes
+29900,180,false,Zinc Dust
+29900,181,false,Zinc Slurry
+29900,182,false,Zinc Solution
+29900,183,false,Zinc Flakes
+29900,184,false,Osmium Dust
+29900,185,false,Osmium Slurry
+29900,186,false,Osmium Solution
+29900,187,false,Osmium Flakes
+29900,188,false,Steel Dust
+29900,189,false,Steel Slurry
+29900,190,false,Steel Solution
+29900,191,false,Steel Flakes
+29900,192,false,Sulfur Dust
+29900,193,false,Sulfur Slurry
+29900,194,false,Sulfur Solution
+29900,195,false,Sulfur Flakes
+29900,196,false,Pitchblende Dust
+29900,197,false,Pitchblende Slurry
+29900,198,false,Pitchblende Solution
+29900,199,false,Pitchblende Flakes
+29900,200,false,Cadmium Dust
+29900,201,false,Cadmium Slurry
+29900,202,false,Cadmium Solution
+29900,203,false,Cadmium Flakes
+29900,204,false,Indium Dust
+29900,205,false,Indium Slurry
+29900,206,false,Indium Solution
+29900,207,false,Indium Flakes
+29900,208,false,Fluorite Dust
+29900,209,false,Fluorite Slurry
+29900,210,false,Fluorite Solution
+29900,211,false,Fluorite Flakes
+29900,212,false,Bauxite Dust
+29900,213,false,Bauxite Slurry
+29900,214,false,Bauxite Solution
+29900,215,false,Bauxite Flakes
+29900,216,false,Sodalite Dust
+29900,217,false,Sodalite Slurry
+29900,218,false,Sodalite Solution
+29900,219,false,Sodalite Flakes
+29900,220,false,Pyrite Dust
+29900,221,false,Pyrite Slurry
+29900,222,false,Pyrite Solution
+29900,223,false,Pyrite Flakes
+29900,224,false,Ammonium Chloride Dust
+29900,225,false,Ammonium Chloride Slurry
+29900,226,false,Ammonium Chloride Solution
+29900,227,false,Ammonium Chloride Flakes
+29900,228,false,Calcite Dust
+29900,229,false,Calcite Slurry
+29900,230,false,Calcite Solution
+29900,231,false,Calcite Flakes
+29900,232,false,Chimerite Dust
+29900,233,false,Chimerite Slurry
+29900,234,false,Chimerite Solution
+29900,235,false,Chimerite Flakes
+29900,236,false,Vinteum Dust
+29900,237,false,Vinteum Slurry
+29900,238,false,Vinteum Solution
+29900,239,false,Vinteum Flakes
+29900,240,false,Blue Topaz Dust
+29900,241,false,Blue Topaz Slurry
+29900,242,false,Blue Topaz Solution
+29900,243,false,Blue Topaz Flakes
+29900,244,false,Moonstone Dust
+29900,245,false,Moonstone Slurry
+29900,246,false,Moonstone Solution
+29900,247,false,Moonstone Flakes
+29900,248,false,Sunstone Dust
+29900,249,false,Sunstone Slurry
+29900,250,false,Sunstone Solution
+29900,251,false,Sunstone Flakes
+29900,252,false,Titanium Dust
+29900,253,false,Titanium Slurry
+29900,254,false,Titanium Solution
+29900,255,false,Titanium Flakes
+29900,256,false,Magmanite Dust
+29900,257,false,Magmanite Slurry
+29900,258,false,Magmanite Solution
+29900,259,false,Magmanite Flakes
+29901,0,false,Tin Ingot
+29901,1,false,Copper Ingot
+29901,2,false,Lead Ingot
+29901,3,false,Nickel Ingot
+29901,4,false,Silver Ingot
+29901,5,false,Galena Ingot
+29901,6,false,Aluminum Ingot
+29901,7,false,Iridium Ingot
+29901,8,false,Firestone Item
+29901,9,false,Certus Quartz Gem
+29901,10,false,Uranium Ingot
+29901,11,false,Mercury Item
+29901,12,false,Amber Gem
+29901,13,false,Air Infused Item
+29901,14,false,Fire Infused Item
+29901,15,false,Water Infused Item
+29901,16,false,Earth Infused Item
+29901,17,false,Entropy Infused Item
+29901,18,false,Order Infused Item
+29901,19,false,Apatite Gem
+29901,20,false,Saltpeter Dust
+29901,21,false,Tungsten Ingot
+29901,22,false,Nikolite Dust
+29901,23,false,Green Sapphire Gem
+29901,24,false,Ruby Gem
+29901,25,false,Sapphire Gem
+29901,26,false,Monazit Item
+29901,27,false,Force Gem
+29901,28,false,Nether Coal Item
+29901,29,false,Nether Iron Ingot
+29901,30,false,Nether Gold Ingot
+29901,31,false,Nether Redstone Dust
+29901,32,false,Nether Lapis Item
+29901,33,false,Nether Diamond Gem
+29901,34,false,Nether Emerald Gem
+29901,35,false,Nether Tin Ingot
+29901,36,false,Nether Copper Ingot
+29901,37,false,Nether Lead Ingot
+29901,38,false,Nether Nickel Ingot
+29901,39,false,Nether Silver Ingot
+29901,40,false,Nether Nikolite Dust
+29901,41,false,Cobalt Ingot
+29901,42,false,Ardite Ingot
+29901,43,false,Platinum Ingot
+29901,44,false,Nether Platinum Ingot
+29901,45,false,Zinc Ingot
+29901,46,false,Osmium Ingot
+29901,47,false,Steel Ingot
+29901,48,false,Sulfur Dust
+29901,49,false,Pitchblende Ingot
+29901,50,false,Cadmium Ingot
+29901,51,false,Indium Ingot
+29901,52,false,Fluorite Gem
+29901,53,false,Bauxite Dust
+29901,54,false,Sodalite Item
+29901,55,false,Pyrite Dust
+29901,56,false,Ammonium Chloride Dust
+29901,57,false,Calcite Gem
+29901,58,false,Chimerite Gem
+29901,59,false,Vinteum Dust
+29901,60,false,Blue Topaz Gem
+29901,61,false,Moonstone Gem
+29901,62,false,Sunstone Gem
+29901,63,false,Titanium Ingot
+29901,64,false,Magmanite Item
 29997,8,true,Basic Drill
 29997,9,true,Galgadorian Drill
 29997,14,true,Basic Farmer
@@ -19269,8 +20019,6 @@ Item ID,Item meta,Has NBT,Display Name
 29997,41,false,Colorizer
 29997,44,false,Tiny Coal Engine
 29997,45,false,Basic Solar Engine
-29997,47,false,Pumpkin chariot
-29997,48,false,Entity Detector: Bat
 29997,49,false,Chunk Loader
 29997,51,false,Projectile: Potion
 29997,53,false,Projectile: Egg
@@ -19311,7 +20059,6 @@ Item ID,Item meta,Has NBT,Display Name
 29997,96,false,Creative Incinerator
 29997,97,false,Creative Supplies
 29997,99,false,Cake Server
-29997,100,false,Trick-or-Treat Cake Server
 29998,0,false,Wooden Wheels
 29998,1,false,Iron Wheels
 29998,2,false,Red Pigment
@@ -19510,7 +20257,7 @@ Item ID,Item meta,Has NBT,Display Name
 30105,0,false,Weed-EX
 30106,0,false,Grin Powder
 30107,0,false,Zero
-30108,0,false,Empty Booze Barrel
+30108,0,false,ic2.item.item.EmptBoozeBarrel
 30109,0,false,Hops
 30110,0,false,Cold Coffee
 30110,1,false,Dark Coffee
@@ -19528,6 +20275,8 @@ Item ID,Item meta,Has NBT,Display Name
 30120,0,false,Hydration Cell
 30121,0,false,Fertilizer
 30122,0,false,Cropnalyzer
+30123,1,true,ic2.plasmaLauncher
+30123,26,true,ic2.plasmaLauncher
 30124,1,true,Electric Treetap
 30124,26,true,Electric Treetap
 30125,0,false,Overclocker Upgrade
