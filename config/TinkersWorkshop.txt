@@ -354,7 +354,7 @@ worldgen {
     I:"Iron Surface Rarity"=400
     I:"Nether Ores Density"=8
     I:"Silver Bush Density"=1
-    I:"Slime Island Rarity"=450
+    I:"Slime Island Rarity"=1430
     I:"Tin Bush Density"=2
     I:"Tin Bush Max Y"=40
     I:"Tin Bush Min Y"=0
