@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.3.4a-BETA</version>
+    <version>2.3.4b-BETA</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -253,9 +253,9 @@
     <mod url="packs/ResonantRise/files/2.3/mariculture-1.6.X-v1.1.0.zip" file="mariculture-1.6.X-v1.1.0.zip" md5="ae5563f0de6648b30f6084aa48a48525" download="server"
          name="Mariculture" version="1.1.0"
          website="http://www.minecraftforum.net/topic/2049315-" description="If you're looking for me, look under the sea, because that is where you'll find me." type="mods" />
-  <mod url="packs/ResonantRise/files/2.3/Mekanism-v5.6.0.362.jar" file="Mekanism-v5.6.0.362.jar" md5="ea619a353199d9a1334b5ab6c5300986" download="server"
+  <mod url="packs/ResonantRise/files/2.3/Mekanism-v5.6.0.367.jar" file="Mekanism-v5.6.0.367.jar" md5="fa132f162c8fe1d00906630c8d762539" download="server"
        name="Mekanism" type="mods" version="5.6.0.362" website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" description="Osmium also cures light wounds."  />
-  <mod url="packs/ResonantRise/files/2.3/MekanismGenerators-v5.6.0.362.jar" file="MekanismGenerators-v5.6.0.362.jar" md5="4d6c15a2be747c30c8649a216aa2608a" download="server"
+  <mod url="packs/ResonantRise/files/2.3/MekanismGenerators-v5.6.0.367.jar" file="MekanismGenerators-v5.6.0.367.jar" md5="3de2456ebf9997312c71211e80e64711" download="server"
        name="Mekanism Generators" type="mods" version="5.6.0.362" 
        website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" description="Infinite water is infinite power!" />
     <mod url="packs/ResonantRise/files/2.3/Metallurgy-1.6.4-3.3.1.jar" file="Metallurgy-1.6.4-3.3.1.jar" md5="ee4ce03e9c78526d903613429dd40031" download="server"
