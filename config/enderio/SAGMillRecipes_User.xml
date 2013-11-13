@@ -848,7 +848,7 @@
         </recipe>
     </recipeGroup>
     
-    <recipeGroup name="Mekanism" />
+    <recipeGroup name="Mekanism" >
     
     <!-- Metals -->
     <recipe name="OsmiumOre" energyCost="360">
