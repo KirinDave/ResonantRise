@@ -177,6 +177,8 @@
         name="denLib" type="mods" version="3.1.35"
         website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=INpureProjects%40gmail%2ecom&amp;lc=US&amp;item_name=denoflions%20mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
         description="Library pack for denoflions' mods." />
+	<mod url="packs/ResonantRise/files/2.3/denLibFiles.zip" file="denLibFiles.zip" md5="40bc48b1c3c81a51bcb27b03e5bc5e32" download="server"
+         name="denLib Utils" type="extract" extractto="root" version="n/a" website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" description="Because waiting five seconds is for suckers."  />
 	<mod url="packs/ResonantRise/files/2.3/DenPipes-1.6.4-2.1.18.jar" file="DenPipes-1.6.4-2.1.18.jar" md5="25e8d825ec6eaf26073d1ffa4f46d34d" download="server"
         name="DenPipes" type="mods" version="2.1.18"
         website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=INpureProjects%40gmail%2ecom&amp;lc=US&amp;item_name=denoflions%20mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
