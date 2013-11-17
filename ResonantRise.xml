@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.3.6b-BETA</version>
+    <version>2.3.6c-BETA</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -21,7 +21,7 @@
 
   <mods>
     <!-- Evaluation Holding pen cuz it's easier here -->
-    <mod url="packs/ResonantRise/files/2.3/HEE_1.6.4_release-1.1.2.zip" file="HEE_1.6.4_release-1.1.2.zip" md5="a343d9290f1b48ebc44d58620de49244" download="server"
+    <mod url="packs/ResonantRise/files/2.3/HardcoreEnderExpansion_v1.1.2.zip" file="HardcoreEnderExpansion_v1.1.2.zip" md5="3e8f27cb9ddd450820309b97c74f24d9" download="server"
          name="Hardcore Ender Expansion" type="mods" version="1.1.2"
          website="http://hardcore-enderdragon.wikia.com/wiki/Home"
          description="The Ender Dragon Is Not Happy With You."
