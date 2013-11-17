@@ -21,22 +21,10 @@
 
   <mods>
     <!-- Evaluation Holding pen cuz it's easier here -->
-    <mod url="packs/ResonantRise/files/2.3/RemoteIO-1.3.0.jar" file="RemoteIO-1.3.0.jar" md5="6a6b9c0cc85e5f75177aebd74f380cef" download="server"
-         name="RemoteIO" type="mods" version="1.3.0"
-         website="http://www.minecraftforum.net/topic/2038242-16x-forge-remote-io-v130-its-time-to-think-outside-the-blocks/"
-         description="Thaumic Tinkerer isn't the only one with a plan."
-         optional="yes"
-         donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=K78KZ37HLU4X2&amp;lc=US&amp;item_name=dmillerw%27s%20Mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"
-         />
     <mod url="packs/ResonantRise/files/2.3/HEE_1.6.4_release-1.1.2.zip" file="HEE_1.6.4_release-1.1.2.zip" md5="a343d9290f1b48ebc44d58620de49244" download="server"
          name="Hardcore Ender Expansion" type="mods" version="1.1.2"
          website="http://hardcore-enderdragon.wikia.com/wiki/Home"
          description="The Ender Dragon Is Not Happy With You."
-         optional="yes" />
-    <mod url="packs/ResonantRise/files/2.3/Opis_1.0.3b_alpha.zip" file="Opis_1.0.3b_alpha.zip" md5="2553744e1903c657f42c9f8a84b43355" download="server"
-         name="Opis" type="mods" version="1.0.3b"
-         website="http://www.minecraftforum.net/topic/2104497-164server-admin-opis-103-alpha-now-with-mcpc-support/"
-         description="For server admins, needs to be on servers."
          optional="yes" />
     <mod url="packs/ResonantRise/files/2.3/CompactDisplayHUD[1.0.1].zip" file="CompactDisplayHUD[1.0.1].zip" md5="9fc062202a1af3317628a67ee68393af" download="server"
          name="CompactDisplayHUD" type="mods" version="1.0.1"
@@ -46,8 +34,8 @@
          server="no" />
     
     <!-- Mods -->
-    <mod url="packs/ResonantRise/files/2.2/minecraftforge-universal-1.6.4-9.11.1.916.jar" file="minecraftforge-universal-1.6.4-9.11.1.916.jar" md5="c2fd946099d295869d188e9064a76106" download="server"
-          name="Forge" type="forge" version="9.11.1.916" website="http://www.minecraftforge.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" description="The Core." />
+    <mod url="packs/ResonantRise/files/2.3/minecraftforge-universal-1.6.4-9.11.1.938.jar" file="minecraftforge-universal-1.6.4-9.11.1.938.jar" md5="4a211464692ee1c6331360cb2a843928" download="server"
+          name="Forge" type="forge" version="9.11.1.938" website="http://www.minecraftforge.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" description="The Core." />
     <mod url="packs/ResonantRise/files/forgelibs/ForgeMultipartDebug_1.0.0.193.zip" file="ForgeMultipartDebug_1.0.0.193.zip" md5="99e2ec47ec49465f1acfa81766e52d24" download="server"
          name="Forge Multipart" type="extract" extractto="root" version="1.0.0.193" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Forge Multipart done right."  />
 	<mod url="packs/ResonantRise/files/2.2/iChunUtil2.3.0.zip" file="iChunUtil2.3.0.zip" md5="9c370bb6b27c4b670634552302f94422" download="server"
@@ -299,8 +287,8 @@
        name="MFFS" type="mods" optional="yes" version="3.4.0.232"
        website="http://www.minecraftforum.net/topic/1703498-" donation="http://universalelectricity.com/mffs/"
        description="" />
-  <mod url="packs/ResonantRise/files/2.3/ModularPowersuits-1.6.2-0.8.0-32.jar" file="ModularPowersuits-1.6.2-0.8.0-32.jar" md5="cc38e70b5c78b998140924752b96e6ce" download="server"
-       name="Modular Power Suits" type="mods" version="0.8.0-32"
+  <mod url="packs/ResonantRise/files/2.3/ModularPowersuits-1.6.2-0.8.0-44.jar" file="ModularPowersuits-1.6.2-0.8.0-44.jar" md5="3a80e47cabca87fe354400360b4c886a" download="server"
+       name="Modular Power Suits" type="mods" version="0.8.0-44"
        website="http://www.machinemuse.net" donation="http://tinyurl.com/mjsd7eh"
        description="" />
   <mod url="packs/ResonantRise/files/2.3/Numina-1.6.2-0.0.1-32.jar" file="Numina-1.6.2-0.0.1-32.jar" md5="d8156307525984e21b8a99938923b7c9" download="server"

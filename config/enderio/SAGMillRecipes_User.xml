@@ -857,8 +857,7 @@
         </input>
         <output>
             <itemStack oreDictionary="dustOsmium" number="2" />
-            <itemStack oreDictionary="dustOsmium" number="1"
-            chance="0.10" />
+            <itemStack oreDictionary="dustOsmium" number="1" chance="0.10" />
         </output>
     </recipe>
     
