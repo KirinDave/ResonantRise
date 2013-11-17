@@ -5673,10 +5673,6 @@ Item ID,Item meta,Has NBT,Display Name
 3197,0,false,Molten Nickel
 3198,0,false,Molten Shiny
 3199,0,false,Molten Invar
-3200,0,false,Tesla Coil
-3201,0,false,Multimeter
-3202,0,false,Electromagnetic Contractor
-3203,0,false,Modular Battery
 3205,0,false,Molten Aluminum
 3206,0,false,Molten Cobalt
 3207,0,false,Molten Ardite
@@ -5964,10 +5960,45 @@ Item ID,Item meta,Has NBT,Display Name
 3354,0,false,Darkwood Fence Gate
 3355,0,false,Fusewood Fence Gate
 3391,0,false,Sign
+3400,0,false,Tesla Coil
+3401,0,false,Multimeter
+3402,0,false,Electromagnetic Contractor
+3403,0,false,Modular Battery
 3540,0,false,Colored Wool
 3541,0,false,Wool Colorizer
 3558,0,false,Super Crafting Frame
 3559,0,false,Super Item Frame
+3902,0,false,tile.endermanSpawner.name
+3903,0,false,Drum
+3904,0,false,Enderman Head
+3905,0,false,tile.flowerPot.name
+3906,0,false,Death Flower
+3907,0,false,Spooky Leaves
+3908,0,false,Spooky Log
+3909,2,false,Thorny Bush
+3909,3,false,Infested Bush
+3909,4,false,Infested Fern
+3909,5,false,Infested Grass
+3909,6,false,Lilyfire
+3910,0,false,Infested End Stone
+3910,1,false,Burned End Stone
+3910,2,false,Enchanted End Stone
+3910,3,false,Mossy End Stone
+3911,0,false,Instability Orb Ore
+3912,0,false,Igneous Rock Ore
+3913,0,false,End Powder Ore
+3914,0,false,tile.brewingStand.name
+3915,0,false,Basic Essence Altar
+3915,1,false,Dragon Essence Altar
+3915,2,false,Fiery Essence Altar
+3916,0,false,Smooth Glowing Obsidian
+3916,1,false,Chiseled Glowing Obsidian
+3916,2,false,Glowing Obsidian Pillar
+3917,0,false,Smooth Obsidian
+3917,1,false,Chiseled Obsidian
+3917,2,false,Obsidian Pillar
+3918,0,false,Obsidian Stairs
+3920,0,false,Obsidian
 3941,0,false,Item Translocator
 3941,1,false,Liquid Translocator
 3942,0,false,Drum
@@ -6342,7 +6373,6 @@ Item ID,Item meta,Has NBT,Display Name
 5259,0,false,Floppy Disk
 5260,0,false,Tin Ingot
 5261,0,false,Bronze Ingot
-5262,0,false,Tube Cap
 5263,0,false,Wrench
 5264,0,false,Bronze Gear
 5265,0,false,Biomass Bucket
@@ -13195,10 +13225,8 @@ Item ID,Item meta,Has NBT,Display Name
 20403,0,false,Lesser Focus
 20404,0,false,Standard Focus
 20405,0,false,Greater Focus
-20406,100,true,Capacitor Cell
-20406,0,true,Capacitor Cell
-20407,0,false,Electrostatic Linker
-20408,0,false,Infinite Capacitor Cell
+20406,0,false,Mana Focus
+20407,0,false,Charge Focus
 20409,0,false,Affinity Tome: NONE
 20409,1,false,Affinity Tome: ARCANE
 20409,2,false,Affinity Tome: WATER
@@ -13842,6 +13870,10 @@ Item ID,Item meta,Has NBT,Display Name
 22574,21,false,Walnut Seat Back
 22574,22,false,Wenge Seat Back
 22574,23,false,Willow Seat Back
+23406,100,true,Capacitor Cell
+23406,0,true,Capacitor Cell
+23407,0,false,Electrostatic Linker
+23408,0,false,Infinite Capacitor Cell
 23792,0,false,Flint and Steel
 23793,0,false,Upgrade Card
 23794,0,false,Network Card
@@ -18804,6 +18836,20 @@ Item ID,Item meta,Has NBT,Display Name
 28040,0,false,Knightly Axe
 28041,0,false,Phantom Helm
 28042,0,false,Phantom Plate
+28781,0,false,Dragon Essence
+28781,1,false,Fiery Essence
+28782,0,false,Baconator
+28783,0,false,item.itemNumber.name
+28784,0,false,Temple Caller
+28785,0,false,Enderman Head
+28786,0,false,Transference Gem
+28787,0,false,Instability Orb
+28788,0,false,Igneous Rock
+28789,0,false,End Powder
+28790,0,false,Ender Pearl
+28791,0,false,Enhanced Brewing Stand
+28792,0,false,Altar Nexus
+28793,0,false,Adventurer's Diary
 29256,0,false,Aluminium Ingot
 29256,1,false,Magnesium Ingot
 29256,2,false,Titanium Ingot
@@ -19114,6 +19160,7 @@ Item ID,Item meta,Has NBT,Display Name
 29761,0,true,Extraction Tube
 29761,0,true,Compressor Tube
 29761,0,true,Filter Tube
+29762,0,false,Tube Cap
 29997,8,true,Basic Drill
 29997,9,true,Galgadorian Drill
 29997,14,true,Basic Farmer
@@ -19358,7 +19405,7 @@ Item ID,Item meta,Has NBT,Display Name
 30067,5,false,Lead Ingot
 30067,6,false,Silver Ingot
 30076,1,true,Obscurator
-30076,27,true,Obscurator
+30076,27,false,Obscurator
 30077,0,false,Carbon Fiber Canoe
 30077,1,false,Rubber Dinghy
 30077,2,false,Damaged Rubber Dinghy
@@ -19566,7 +19613,7 @@ Item ID,Item meta,Has NBT,Display Name
 30224,0,false,Plantball
 30225,0,false,H. Coal
 30231,0,false,(Empty) Fuel Can
-30232,0,true,Filled Fuel Can
+30232,0,false,Filled Fuel Can
 30233,1,true,Chainsaw
 30233,26,true,Chainsaw
 30234,1,true,Diamond Drill
@@ -19616,7 +19663,7 @@ Item ID,Item meta,Has NBT,Display Name
 30481,1,true,Advanced Electric Jetpack
 30481,27,false,Advanced Electric Jetpack
 30482,1,true,GraviTool
-30482,27,true,GraviTool
+30482,27,false,GraviTool
 30483,1,true,Advanced NanoChestPlate
 30483,27,false,Advanced NanoChestPlate
 30786,0,false,Lapis Plate
