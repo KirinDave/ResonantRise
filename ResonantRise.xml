@@ -185,12 +185,12 @@
         name="DenPipes-Forestry" type="mods" version="1.1.8"
         website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=INpureProjects%40gmail%2ecom&amp;lc=US&amp;item_name=denoflions%20mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
         description="" />
-	<mod url="packs/ResonantRise/files/2.3/EmasherResource-1.2.1.6.zip" file="EmasherResource-1.2.1.6.zip" md5="409a939ea562f2a81d57b06a52633c6d" download="server"
-         name="EmasherResource" type="mods" version="1.2.1.6"
+	<mod url="packs/ResonantRise/files/2.3/EmasherResource-1.2.1.7.zip" file="EmasherResource-1.2.1.7.zip" md5="3f958b8129719c4971dda40c48df612b" download="server"
+         name="EmasherResource" type="mods" version="1.2.1.7"
          website="http://emashersmods.wikispaces.com"
          description="Build big or build tiny." />
-    <mod url="packs/ResonantRise/files/2.3/EngineersToolbox-1.1.6.3.zip" file="EngineersToolbox-1.1.6.3.zip" md5="dda0e5584f428433c277cb18c678d991" download="server"
-         name="Engineer's Toolbox" type="mods" version="1.1.6.3"
+    <mod url="packs/ResonantRise/files/2.3/EngineersToolbox-1.1.6.4.zip" file="EngineersToolbox-1.1.6.4.zip" md5="2acacb19aada15470d3e5880d9bc7d70" download="server"
+         name="Engineer's Toolbox" type="mods" version="1.1.6.4"
          depends="EmasherResource"
          website="http://emashersmods.wikispaces.com"
          description="Build big or build tiny." />
