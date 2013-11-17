@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.3.6-BETA</version>
+    <version>2.3.6a-BETA</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -153,8 +153,8 @@
          name="DartPatch" type="mods"  version="1.2" optional="yes" depends="DartCraft"
          website="http://tinyurl.com/kh9e2fb" 
          description="Proper compatibility is queen." />
-    <mod url="packs/ResonantRise/files/2.3/1.6.4%20DamageIndicatorsv2.9.1.1.zip" file="1.6.4 DamageIndicatorsv2.9.1.1.zip" md5="213a4d33319c6d5b81e98a3d98667f49" download="server"
-         name="Damage Indicators [by rich1051414]" type="mods" optional="yes" server="no" version="2.9.1.1" 
+    <mod url="packs/ResonantRise/files/2.3/1.6.4%20DamageIndicatorsv2.9.1.4.zip" file="1.6.4 DamageIndicatorsv2.9.1.4.zip" md5="14894d9a54f6608e9fdd25179c080054" download="server"
+         name="Damage Indicators [by rich1051414]" type="mods" optional="yes" server="no" version="2.9.1.4" 
          website="http://www.minecraftforum.net/topic/1536685-" 
          description=""  />
 	<mod url="packs/ResonantRise/files/2.2/dimensional-anchor-57.0.0.jar" file="dimensional-anchor-57.0.0.jar" md5="8679b7e0d5e7e4a4493e14eec4d79fb4" download="server"
@@ -185,8 +185,8 @@
     <mod url="packs/ResonantRise/files/2.3/EnderStorage%201.4.3.5.jar" file="EnderStorage 1.4.3.5.jar" md5="2dd5d9024752e894500bfe901b08221b" download="server"
          name="Ender Storage" depends="CodeChickenCore"  type="mods"  
          version="1.4.3.5" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description=""  />
-    <mod url="packs/ResonantRise/files/2.3/EnderIO-1.6.4-0.4.2.46.jar" file="EnderIO-1.6.4-0.4.2.46.jar" md5="a072dc10de8f6fdcfe6c70ebd96fa2c2" download="server"
-	 name="EnderIO" type="mods" version="0.4.2.46"
+    <mod url="packs/ResonantRise/files/2.3/EnderIO-1.6.4-0.4.3.63.jar" file="EnderIO-1.6.4-0.4.3.63.jar" md5="7efa4a02873d8975aa35650e1f66abd2" download="server"
+	 name="EnderIO" type="mods" version="0.4.3.63"
 	 website="http://www.minecraftforum.net/topic/1937619-"
 	 description="" />
     <mod url="packs/ResonantRise/files/2.2/EnhancedCore_1.1.3.jar" file="EnhancedCore_1.1.3.jar" md5="fa87514cd28a2c323c2872412fce1f15" download="server"
@@ -299,8 +299,8 @@
        name="Slick Util [MPS]" type="mods" version="?"
        website="http://www.machinemuse.net"
        description="MPS Utils" />
-  <mod url="packs/ResonantRise/files/2.2/00000_MineFactoryReloaded-2.7.1-36.jar" file="00000_MineFactoryReloaded-2.7.1-36.jar" md5="7e7c8c1dd76e8c1ce4999199ac468801" download="server"
-       name="MineFactory Reloaded [Skyboy Fork]" type="mods" version="2.7.1-36"
+  <mod url="packs/ResonantRise/files/2.3/00000_MineFactoryReloaded-2.7.2-143.jar" file="00000_MineFactoryReloaded-2.7.2-143.jar" md5="301e6ab0537a4f011faecfbcbafb31ab" download="server"
+       name="MineFactory Reloaded [Skyboy Fork]" type="mods" version="2.7.2-143"
        website="http://tinyurl.com/qhupt9g"
        description="Originally by PowerCrystals" />
   <mod url="packs/ResonantRise/files/2.3/NetherOres-2.2.1-14.jar" file="NetherOres-2.2.1-14.jar" md5="3bb3bba8316b3999eab6f3e15ae4e44d" download="server"
@@ -389,8 +389,8 @@
     <mod url="packs/ResonantRise/files/2.2/Translocator%201.1.0.13.jar" file="Translocator 1.1.0.13.jar" md5="33acf4d7617611afdb46d1d6a7234bdd" download="server"
          name="Translocator"  type="mods" 
          version="1.1.0.13" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description=""  />
-    <mod url="packs/ResonantRise/files/2.3/Tubes-1.1.1.jar" file="Tubes-1.1.1.jar" md5="5311a3ba124cf67ade948a5e45d826e5" download="server"
-         name="Tubes" type="mods" version="1.1.1" 
+    <mod url="packs/ResonantRise/files/2.3/Tubes-1.1.2.jar" file="Tubes-1.1.2.jar" md5="4036514bb62465e98f0f60eb5f613164" download="server"
+         name="Tubes" type="mods" version="1.1.2" 
          website="http://www.minecraftforum.net/topic/2071224-" 
          description=""  />
 	<mod url="packs/ResonantRise/files/2.3/tubestuff-57.0.2.jar" file="tubestuff-57.0.2.jar" md5="b4bf3c407a2b07aefb5a51e086ecd608" download="server"
@@ -409,8 +409,8 @@
         name="WRCBE" type="mods" version="1.4.0.6" depends=""
         website="http://www.chickenbones.craftsaddle.org/wr.html" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php"
         description="Thing!" />
-	<mod url="packs/ResonantRise/files/2.3/Witchery_0-9-1_164.zip" file="Witchery_0-9-1_164.zip" md5="7aadc3dae5ab89546a1c695d5a19a8f6" download="server"
-		name="Witchery" type="mods" version="0.8.0"
+	<mod url="packs/ResonantRise/files/2.3/Witchery_0-10-0_164.zip" file="Witchery_0-10-0_164.zip" md5="3fb53782ad163e6c0a5f1509f83fde63" download="server"
+		name="Witchery" type="mods" version="0.10.0"
 		website="https://sites.google.com/site/witcherymod/home" description="More magic with a witch's bent!" 
          />
 
