@@ -189,8 +189,8 @@
          name="EmasherResource" type="mods" version="1.2.1.6"
          website="http://emashersmods.wikispaces.com"
          description="Build big or build tiny." />
-    <mod url="packs/ResonantRise/files/2.3/EngineersToolbox-1.1.6.2.zip" file="EngineersToolbox-1.1.6.2.zip" md5="5c447b0c967b2c4a926f6ec641a46367" download="server"
-         name="Engineer's Toolbox" type="mods" version="1.1.6.2"
+    <mod url="packs/ResonantRise/files/2.3/EngineersToolbox-1.1.6.3.zip" file="EngineersToolbox-1.1.6.3.zip" md5="dda0e5584f428433c277cb18c678d991" download="server"
+         name="Engineer's Toolbox" type="mods" version="1.1.6.3"
          depends="EmasherResource"
          website="http://emashersmods.wikispaces.com"
          description="Build big or build tiny." />
@@ -233,8 +233,8 @@
          name="Forestry" type="mods"  version="2.3.0.7" 
          website="http://forestry.sengir.net/wiki.new/" donation="http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads#donations" 
          description=""  />
-    <mod url="packs/ResonantRise/files/2.3/GasCraft-2.0.3.0.zip" file="GasCraft-2.0.3.0.zip" md5="067d664d4df8dd5c90c66246146780a4" download="server"
-        name="GasCraft" type="mods" version="2.0.3.0"
+    <mod url="packs/ResonantRise/files/2.3/GasCraft-2.0.3.1.zip" file="GasCraft-2.0.3.1.zip" md5="dd859dcdf7beb5d920d2c847672bcb7f" download="server"
+        name="GasCraft" type="mods" version="2.0.3.1"
         website="http://emashersmods.wikispaces.com/Downloads"
         description="Flutey Toot." />
     <mod url="packs/ResonantRise/files/2.2/mod_zGraviSuite_1_9_8_MC_1_6_4_IC_EXP.zip" file="mod_zGraviSuite_1_9_8_MC_1_6_4_IC_EXP.zip" md5="a74da90012db6f06303e3c1428f99066" download="server"
