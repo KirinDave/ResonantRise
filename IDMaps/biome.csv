@@ -8,7 +8,7 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Min Height,Max Height,Types,Class
 6,Swampland,0.8,0.9,0.1,-0.2,0.1,SWAMP,net.minecraft.world.biome.BiomeGenSwamp
 7,River,0.5,0.5,0.1,-0.5,0.0,WATER,net.minecraft.world.biome.BiomeGenRiver
 8,Hell,2.0,0.0,0.1,0.1,0.3,NETHER,net.minecraft.world.biome.BiomeGenHell
-9,Sky,0.5,0.5,0.1,0.1,0.3,END,chylex.hee.world.BiomeGenEndCustom
+9,Sky,0.5,0.5,0.1,0.1,0.3,END,net.minecraft.world.biome.BiomeGenEnd
 10,FrozenOcean,0.0,0.5,0.1,-1.0,0.5,"WATER, FROZEN",net.minecraft.world.biome.BiomeGenOcean
 11,FrozenRiver,0.0,0.5,0.1,-0.5,0.0,"WATER, FROZEN",net.minecraft.world.biome.BiomeGenRiver
 12,Ice Plains,0.0,0.5,0.1,0.1,0.3,FROZEN,net.minecraft.world.biome.BiomeGenSnow

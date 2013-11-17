@@ -41,6 +41,7 @@ tile.mfr.machine.autobrewer.name = Auto-Brewer
 tile.mfr.machine.fruitpicker.name = Fruit Picker
 tile.mfr.machine.blockplacer.name = Block Placer
 tile.mfr.machine.mobcounter.name = Mob Counter
+tile.mfr.machine.steamturbine.name = Steam Turbine
 
 tile.mfr.conveyor.default.name = Conveyor Belt
 tile.mfr.conveyor.white.name = Conveyor Belt (White)
@@ -204,6 +205,7 @@ item.mfr.meat.nugget.raw.name = Raw "Meat" Nugget
 item.mfr.meat.nugget.cooked.name = Cooked "Meat" Nugget
 item.mfr.pinkslimeball.name = Pink Slimeball
 item.mfr.rocket.name = Self-Propelled Anti Material Rocket
+item.mfr.rocket.smart.name = Tracking Self-Propelled Anti Material Rocket
 item.mfr.rocketlauncher.name = SPAMR Launcher
 
 item.mfr.ceramicdye.white.name = Ceramic Dye (White)
@@ -339,13 +341,13 @@ chat.info.mfr.safarinet.release=Changed to release mode
 
 chat.info.mfr.spyglass.nosight=Nothing in sight
 chat.info.mfr.spyglass.hitentity=Found a %s at %.1f, %.1f, %.1f
-chat.info.mfr.spyglass.hitblock=Found %s [%i:%i] at %.1f, %.1f, %.1f
+chat.info.mfr.spyglass.hitblock=Found %s [%d:%d] at %.1f, %.1f, %.1f
 chat.info.mfr.spyglass.hitunknown=Found UNKNOWN (bugged mod?) at %.1f, %.1f, %.1f
 
 chat.info.mfr.ruler.nosight=Nothing in sight
 chat.info.mfr.ruler.hitentity=Hit entity - measurement failed
 chat.info.mfr.ruler.startposition=Recorded start position
-chat.info.mfr.ruler.distance=distance: %i, count: %i
+chat.info.mfr.ruler.distance=distance: %d, count: %d
 chat.info.mfr.ruler.total=Total Distance: %.1f
 
 chat.info.mfr.rednet.meter.cable.allzero=All RedNet subnets are 0
@@ -361,6 +363,7 @@ chat.info.mfr.rednet.memorycard.error=PRC contains insufficient circuits to hold
 
 chat.info.mfr.rednet.connection.standard=Set cable to standard connection mode
 chat.info.mfr.rednet.connection.forced=Set cable to forced-connection mode
+chat.info.mfr.rednet.connection.forcedstrong=Set cable to strong-connection mode
 chat.info.mfr.rednet.connection.cableonly=Set cable to cable-only connection mode
 
 death.attack.mfr.slaughterhouse=%1$s was processed into Liquid Meat

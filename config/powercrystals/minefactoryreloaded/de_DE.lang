@@ -41,6 +41,7 @@ tile.mfr.machine.autobrewer.name = Automatischer Braustand
 tile.mfr.machine.fruitpicker.name = Fruchtsammler
 tile.mfr.machine.blockplacer.name = Block-Platzierer
 tile.mfr.machine.mobcounter.name = Mob-Z\u00e4hler
+tile.mfr.machine.steamturbine.name = Dampfturbine
 
 tile.mfr.conveyor.default.name = F\u00f6rderband
 tile.mfr.conveyor.white.name = Wei\u00dfes F\u00f6rderband
@@ -203,7 +204,8 @@ item.mfr.meat.ingot.cooked.name = Gekochter Fleischbarren
 item.mfr.meat.nugget.raw.name = Roher Fleischnugget
 item.mfr.meat.nugget.cooked.name = Gekochter Fleischnugget
 item.mfr.pinkslimeball.name = Pinker Schleimball
-item.mfr.rocket.name = Self-Propelled Anti Material Rocket
+item.mfr.rocket.name = Selbstangetriebene Anti-Material-Rakete (SPAMR)
+item.mfr.rocket.smart.name = Verfolgende Selbstangetriebene Anti-Material-Rakete
 item.mfr.rocketlauncher.name = SPAMR-Raketenwerfer
 
 item.mfr.ceramicdye.white.name = Wei\u00dfe Lasur
@@ -339,13 +341,13 @@ chat.info.mfr.safarinet.release=Gewechselt in Freilassmodus
 
 chat.info.mfr.spyglass.nosight=Nichts in Sichtweite
 chat.info.mfr.spyglass.hitentity=%s bei %.1f, %.1f, %.1f gefunden
-chat.info.mfr.spyglass.hitblock=%s [%i:%i] bei %.1f, %.1f, %.1f gefunden
+chat.info.mfr.spyglass.hitblock=%s [%d:%d] bei %.1f, %.1f, %.1f gefunden
 chat.info.mfr.spyglass.hitunknown=UNBEKANNTES (Bug?) bei %.1f, %.1f, %.1f gefunden
 
 chat.info.mfr.ruler.nosight=Nichts in Sichtweite
 chat.info.mfr.ruler.hitentity=Auf Wesen getroffen - Messung fehlgeschlagen
 chat.info.mfr.ruler.startposition=Startposition aufgenommen
-chat.info.mfr.ruler.distance=Entfernung: %i, Z\u00e4hlung: %i
+chat.info.mfr.ruler.distance=Entfernung: %d, Z\u00e4hlung: %d
 chat.info.mfr.ruler.total=Gesamtdistanz: %.1f
 
 chat.info.mfr.rednet.meter.cable.allzero=Alle RedNet-Subnetzwerke sind 0
@@ -361,6 +363,7 @@ chat.info.mfr.rednet.memorycard.error=PRC besutzt zu wenige Schaltkreise, um die
 
 chat.info.mfr.rednet.connection.standard=Kabel auf Standard-Verbindungsmodus gestellt
 chat.info.mfr.rednet.connection.forced=Kabel auf Erzwungenen Verbindungsmodus gestellt
+chat.info.mfr.rednet.connection.forcedstrong=Kabel auf Starken Verbindungsmodus gestellt
 chat.info.mfr.rednet.connection.cableonly=Kabel auf Nur-Kabel-Verbindungsmodus gestellt
 
 death.attack.mfr.slaughterhouse=%1$s wurde zu fl\u00fcssigem Fleisch verarbeitet

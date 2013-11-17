@@ -343,6 +343,35 @@ circuit.mfr.xor.2 = \u5f02\u6216(2-\u8f93\u5165)
 circuit.mfr.xor.3 = \u5f02\u6216(3-\u8f93\u5165)
 circuit.mfr.xor.4 = \u5f02\u6216(4-\u8f93\u5165)
 
+chat.info.mfr.safarinet.capture=\u5207\u6362\u4e3a\u6355\u83b7\u6a21\u5f0f
+chat.info.mfr.safarinet.release=\u5207\u6362\u4e3a\u91ca\u653e\u6a21\u5f0f
+
+chat.info.mfr.spyglass.nosight=\u89c6\u91ce\u91cc\u7a7a\u65e0\u4e00\u7269
+chat.info.mfr.spyglass.hitentity=\u53d1\u73b0%s\u4f4d\u4e8e%.1f, %.1f, %.1f
+chat.info.mfr.spyglass.hitblock=\u53d1\u73b0%s [%d:%d]\u4f4d\u4e8e%.1f, %.1f, %.1f
+chat.info.mfr.spyglass.hitunknown=\u53d1\u73b0\u4e0d\u660e\u7269\u4f53(\u6765\u81ea\u67d0\u4e2a\u51fabug\u7684\u6a21\u7ec4?)\u4f4d\u4e8e%.1f, %.1f, %.1f
+
+chat.info.mfr.ruler.nosight=\u89c6\u91ce\u91cc\u7a7a\u65e0\u4e00\u7269
+chat.info.mfr.ruler.hitentity=\u51fb\u4e2d\u5b9e\u4f53 - \u6d4b\u91cf\u5931\u8d25
+chat.info.mfr.ruler.startposition=\u8bb0\u5f55\u8d77\u59cb\u4f4d\u7f6e
+chat.info.mfr.ruler.distance=\u8ddd\u79bb: %d, \u8ba1\u6570: %d
+chat.info.mfr.ruler.total=\u603b\u8ddd\u79bb: %.1f
+
+chat.info.mfr.rednet.meter.cable.allzero=\u6240\u6709\u7ea2\u77f3\u7ebf\u7f06\u5b50\u7f51\u7edc\u4fe1\u53f7\u5f3a\u5ea6\u5747\u4e3a0
+chat.info.mfr.rednet.meter.cable.restzero=\u6240\u6709\u5176\u4ed6\u7ea2\u77f3\u7ebf\u7f06\u5b50\u7f51\u7edc\u4fe1\u53f7\u5f3a\u5ea6\u5747\u4e3a0
+chat.info.mfr.rednet.meter.varprefix=\u53d8\u91cf
+chat.info.mfr.rednet.meter.var.allzero=\u5168\u90e8\u53d8\u91cf\u5747\u4e3a0
+chat.info.mfr.rednet.meter.var.restzero=\u5168\u90e8\u5176\u4ed6\u53d8\u91cf\u5747\u4e3a0
+chat.info.mfr.rednet.meter.dustprefix=\u7ea2\u77f3\u7c89
+
+chat.info.mfr.rednet.memorycard.uploaded=PRC\u7a0b\u5e8f\u5df2\u7ecf\u4ece\u63d2\u5165PRC\u7684\u5185\u5b58\u5361\u8f7d\u5165
+chat.info.mfr.rednet.memorycard.downloaded=PRC\u7a0b\u5e8f\u5df2\u7ecf\u4e0b\u8f7d\u5230\u63d2\u5165PRC\u7684\u5185\u5b58\u5361\u4e2d
+chat.info.mfr.rednet.memorycard.error=PRC\u5143\u4ef6\u4e0d\u8db3\u4ee5\u8fd0\u884c\u8be5\u7a0b\u5e8f
+
+chat.info.mfr.rednet.connection.standard=\u8bbe\u7f6e\u7ebf\u7f06\u4e3a\u6807\u51c6\u8fde\u63a5\u6a21\u5f0f
+chat.info.mfr.rednet.connection.forced=\u8bbe\u7f6e\u7ebf\u7f06\u4e3a\u5f3a\u5236\u8fde\u63a5\u6a21\u5f0f
+chat.info.mfr.rednet.connection.forcedstrong=\u8bbe\u7f6e\u7ebf\u7f06\u4e3a\u5f3a\u8fde\u63a5\u6a21\u5f0f
+chat.info.mfr.rednet.connection.cableonly=\u8bbe\u7f6e\u7ebf\u7f06\u4e3a\u5747\u4e0e\u7ebf\u7f06\u8fde\u63a5\u6a21\u5f0f
 death.attack.mfr.slaughterhouse=%1$s\u88ab\u52a0\u5de5\u6210\u4e86\u8089\u6c64\u3002
 death.attack.mfr.slaughterhouse.player=%1$s\u88ab%2$s\u52a0\u5de5\u6210\u4e86\u8089\u6c64\u3002 
 death.attack.mfr.slaughterhouse.1=%1$s\u88ab\u52a0\u5de5\u6210\u4e86\u8089\u9171\u3002

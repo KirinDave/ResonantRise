@@ -97,8 +97,56 @@ Item ID,Item meta,Has NBT,Display Name
 49,0,false,Obsidian
 50,0,false,Torch
 51,0,false,Fire
+52,90,false,Monster Spawner
+52,3,false,Monster Spawner
+52,4,false,Monster Spawner
+52,5,false,Monster Spawner
+52,6,false,Monster Spawner
+52,7,false,Monster Spawner
+52,23,false,Monster Spawner
+52,24,false,Monster Spawner
+52,25,false,Monster Spawner
+52,26,false,Monster Spawner
+52,27,false,Monster Spawner
+52,28,false,Monster Spawner
+52,29,false,Monster Spawner
+52,30,false,Monster Spawner
+52,31,false,Monster Spawner
+52,32,false,Monster Spawner
+52,33,false,Monster Spawner
+52,34,false,Monster Spawner
+52,35,false,Monster Spawner
+52,36,false,Monster Spawner
 52,37,false,Monster Spawner
+52,38,false,Monster Spawner
 52,40,false,Monster Spawner
+52,50,false,Monster Spawner
+52,51,false,Monster Spawner
+52,52,false,Monster Spawner
+52,53,false,Monster Spawner
+52,54,false,Monster Spawner
+52,55,false,Monster Spawner
+52,56,false,Monster Spawner
+52,57,false,Monster Spawner
+52,58,false,Monster Spawner
+52,59,false,Monster Spawner
+52,60,false,Monster Spawner
+52,61,false,Monster Spawner
+52,62,false,Monster Spawner
+52,64,false,Monster Spawner
+52,65,false,Monster Spawner
+52,66,false,Monster Spawner
+52,91,false,Monster Spawner
+52,92,false,Monster Spawner
+52,93,false,Monster Spawner
+52,94,false,Monster Spawner
+52,95,false,Monster Spawner
+52,96,false,Monster Spawner
+52,97,false,Monster Spawner
+52,98,false,Monster Spawner
+52,99,false,Monster Spawner
+52,100,false,Monster Spawner
+52,120,false,Monster Spawner
 52,219,false,Monster Spawner
 53,0,false,Oak Wood Stairs
 54,0,false,Chest
@@ -361,7 +409,7 @@ Item ID,Item meta,Has NBT,Display Name
 322,0,false,Golden Apple
 323,0,false,Sign
 324,0,false,Wooden Door
-325,0,false,Bucket.name
+325,0,false,Bucket
 326,0,false,Water Bucket
 327,0,false,Lava Bucket
 328,0,false,Minecart
@@ -567,7 +615,7 @@ Item ID,Item meta,Has NBT,Display Name
 383,6397,false,Spawn Demon
 383,6398,false,Spawn Mandrake
 384,0,false,Bottle o' Enchanting
-385,0,false,Fireball Launcher.name
+385,0,false,Fire Charge
 386,0,false,Book and Quill
 387,0,false,Written Book
 388,0,false,Emerald
@@ -1006,22 +1054,11 @@ Item ID,Item meta,Has NBT,Display Name
 526,0,false,Custom Gate
 527,0,false,Custom Wall
 528,0,false,Custom Light
-530,0,false,Molten Aluminium
 531,0,false,Molten Titanium
 532,0,false,Fish Oil
-534,0,false,Molten Iron
-535,0,false,Molten Gold
-536,0,false,Molten Copper
-537,0,false,Molten Tin
 538,0,false,Molten Magnesium
-539,0,false,Molten Bronze
-540,0,false,Molten Lead
-541,0,false,Molten Silver
-542,0,false,Molten Steel
-543,0,false,Molten Nickel
 544,0,false,Fish Food
 545,0,false,Pressurised Water
-546,0,false,Molten Glass
 580,0,false,Terminal Glasses Bridge
 581,0,false,Peripheral Proxy
 582,0,false,PIM
@@ -1436,43 +1473,6 @@ Item ID,Item meta,Has NBT,Display Name
 719,0,false,SAG Mill
 720,0,false,Dimensional Transceiver
 721,0,false,Power Monitor
-741,0,false,Bedrock Slice
-742,0,false,Blast Glass
-743,0,false,Blast Glass Pane
-745,0,false,Steel Block
-745,1,false,Anthracite Block
-745,2,false,Lonsdaleite Block
-780,0,false,Reactor
-781,0,false,Concrete
-781,1,false,Corium
-782,0,false,Molten Corium (Flowing)
-783,0,false,Molten Corium
-784,0,false,ReactorModelled
-785,0,false,Machine
-786,0,false,MachineModelled
-787,1,false,Pitchblende
-787,2,false,Cadmium Ore
-787,3,false,Indium Ore
-787,4,false,Silver Ore
-787,6,false,Ammonium Chloride
-787,7,false,Calcite
-788,0,false,Blue Fluorite Block
-788,1,false,Pink Fluorite Block
-788,2,false,Orange Fluorite Block
-788,3,false,Magenta Fluorite Block
-788,4,false,Green Fluorite Block
-788,5,false,Red Fluorite Block
-788,6,false,White Fluorite Block
-788,7,false,Yellow Fluorite Block
-789,0,false,Blue Fluorite
-789,1,false,Pink Fluorite
-789,2,false,Orange Fluorite
-789,3,false,Magenta Fluorite
-789,4,false,Green Fluorite
-789,5,false,Red Fluorite
-789,6,false,White Fluorite
-789,7,false,Yellow Fluorite
-790,0,false,Steam
 816,0,false,Iron Scaffold
 817,0,false,ic2.blockBarrel
 818,0,false,Crop
@@ -1643,7 +1643,7 @@ Item ID,Item meta,Has NBT,Display Name
 914,0,false,ME Fluid Import Bus
 915,0,false,ME Fluid Export Bus
 916,0,false,ME Fluid Storage Bus
-917,0,false,ME Fluid Access Terminal
+917,0,false,ME Fluid Terminal
 918,0,false,ME Fluid Transition Plane
 919,0,false,ME Certus Tank
 920,0,false,Reinforced Metal Block
@@ -1690,11 +1690,11 @@ Item ID,Item meta,Has NBT,Display Name
 975,6,false,Obsidian Chest
 975,7,false,DirtChest 9000!
 1000,26,true,Leyden Jar
-9318,2750,true,Jungle Wood Barrel
-9318,2751,true,Silky Jungle Wood Barrel
-9318,2752,true,Hopping Jungle Wood Barrel
-9318,2753,true,Larger Jungle Wood Barrel
-9318,2754,true,Sticky Jungle Wood Barrel
+9318,2720,true,Oak Wood Barrel
+9318,2721,true,Silky Oak Wood Barrel
+9318,2722,true,Hopping Oak Wood Barrel
+9318,2723,true,Larger Oak Wood Barrel
+9318,2724,true,Sticky Oak Wood Barrel
 9318,9125,true,Creative Block of Diamond Barrel
 1000,0,false,Router
 1000,2,false,factorization.factoryBlock.null.name
@@ -1738,7 +1738,7 @@ Item ID,Item meta,Has NBT,Display Name
 1011,11,false,Nether Uranium Ore
 1011,12,false,Nether Nikolite Ore
 1011,13,false,Nether Ruby Ore
-1011,14,false,Nether Green Sapphire Ore
+1011,14,false,Nether Peridot Ore
 1011,15,false,Nether Sapphire Ore
 1012,0,false,Nether Platinum Ore
 1012,1,false,Nether Ferrous Ore
@@ -1883,6 +1883,7 @@ Item ID,Item meta,Has NBT,Display Name
 1046,6,false,Fruit Picker
 1046,7,false,Block Placer
 1046,8,false,Mob Counter
+1046,9,false,Steam Turbine
 1048,0,false,Vine Scaffolding
 1049,0,false,RedNet Historian
 1100,0,false,tile.PortalMod.name
@@ -2823,10 +2824,11 @@ Item ID,Item meta,Has NBT,Display Name
 1567,0,false,LaserPlus
 1568,0,false,BreakerPlus
 1569,0,false,PlacerPlus
-1601,0,false,Drum
-1602,0,false,Drum
 1603,0,false,Blood Altar
 1604,0,false,Blood Rune
+1604,1,false,Rune of Augmented Capacity
+1604,2,false,Rune of Dislocation
+1604,3,false,Rune of the Orb
 1605,0,false,Speed Rune
 1606,0,false,Efficiency Rune
 1607,0,false,Life Essence
@@ -3086,6 +3088,8 @@ Item ID,Item meta,Has NBT,Display Name
 1870,0,false,Rowan Leaves
 1870,1,false,Alder Leaves
 1870,2,false,Hawthron Leaves
+1881,0,false,tile.rowanDoorWood.name
+1882,0,false,tile.alderDoorWood.name
 1883,0,false,Rowan Slab
 1883,1,false,Alder Slab
 1883,2,false,Hawthorn Slab
@@ -3113,6 +3117,9 @@ Item ID,Item meta,Has NBT,Display Name
 1895,0,false,Filtered Fume Funnel
 1896,0,false,Void Bramble
 1897,0,false,Glint Weed
+1898,0,false,Snowbell
+1899,0,false,Wicker Bundle
+1899,1,false,Bloodied Wicker Bundle
 1900,0,false,Power Ore
 1900,1,false,Nether Ore
 1901,0,false,Black Force Stairs
@@ -3534,7 +3541,6 @@ Item ID,Item meta,Has NBT,Display Name
 2011,6,false,Greywacke
 2011,7,false,Chert
 2020,0,false,Power Box
-2021,0,false,Power Cable
 2130,0,false,Ruby Ore
 2130,1,false,Sapphire Ore
 2130,2,false,Peridot Ore
@@ -4619,8 +4625,8 @@ Item ID,Item meta,Has NBT,Display Name
 2525,0,true,Honey Drum
 2525,0,true,Fish Oil Drum
 2525,0,true,Life essence Drum
-2525,0,true,Molten Meutoite Drum
 2525,0,true,Liquified Emerald Drum
+2525,0,true,Molten Meutoite Drum
 2525,0,true,Black Ink Drum
 2525,0,true,Molten Oureclase Drum
 2525,0,true,Mushroomsoup Drum
@@ -4630,19 +4636,18 @@ Item ID,Item meta,Has NBT,Display Name
 2525,0,true,Molten Adamantine Drum
 2525,0,true,Molten Glass Drum
 2525,0,true,Chocolatemilk Drum
-2525,0,true,Molten Rubracium Drum
 2525,0,true,Sewage Drum
+2525,0,true,Molten Rubracium Drum
 2525,0,true,Molten Iron Drum
 2525,0,true,Molten Angmallen Drum
 2525,0,true,Molten redstone Drum
 2525,0,true,naturalGas Drum
 2525,0,true,Molten Tartarite Drum
 2525,0,true,Blood Drum
-2525,0,true,Molten Lead Drum
 2525,0,true,Molten Prometheum Drum
 2525,0,true,Sap Drum
-2525,0,true,Molten Platinum Drum
 2525,0,true,Molten Manyullyn Drum
+2525,0,true,Molten Platinum Drum
 2525,0,true,Molten Nickel Drum
 2525,0,true,Flux Goo Drum
 2525,0,true,Uumatter Drum
@@ -4651,13 +4656,11 @@ Item ID,Item meta,Has NBT,Display Name
 2525,0,true,Molten Steel Drum
 2525,0,true,Molten Kalendrite Drum
 2525,0,true,Molten Midasium Drum
-2525,0,true,Rc ethanol Drum
 2525,0,true,Gascraft_toxicgas Drum
 2525,0,true,Biomass Drum
 2525,0,true,Gascraft_hydrogen Drum
 2525,0,true,Liquid Nitrogen Drum
 2525,0,true,Molten Cobalt Drum
-2525,0,true,Heavy water Drum
 2525,0,true,Molten Lemurite Drum
 2525,0,true,Gascraft_corrosivegas Drum
 2525,0,true,Oil Drum
@@ -4666,14 +4669,10 @@ Item ID,Item meta,Has NBT,Display Name
 2525,0,true,Gascraft_naturalgas Drum
 2525,0,true,Fortron Drum
 2525,0,true,Molten Inolashite Drum
-2525,0,true,Molten Aluminium Drum
-2525,0,true,Hydrofluoric acid Drum
-2525,0,true,Molten Silver Drum
 2525,0,true,Water Drum
 2525,0,true,Molten Shadow Steel Drum
 2525,0,true,Ic2coolant Drum
 2525,0,true,Seared Stone Drum
-2525,0,true,Molten Nickel Drum
 2525,0,true,Pressurised Water Drum
 2525,0,true,Molten Copper Drum
 2525,0,true,Molten Deep Iron Drum
@@ -4685,18 +4684,14 @@ Item ID,Item meta,Has NBT,Display Name
 2525,0,true,Liquid Poison Drum
 2525,0,true,Molten Manganese Drum
 2525,0,true,Latex Drum
-2525,0,true,Lowpammonia Drum
 2525,0,true,Steam Drum
-2525,0,true,Molten Gold Drum
 2525,0,true,Molten Ardite Drum
-2525,0,true,Molten Orichalcum Drum
 2525,0,true,Creosote Oil Drum
+2525,0,true,Molten Orichalcum Drum
 2525,0,true,Sludge Drum
 2525,0,true,Molten conductive redmetal Drum
-2525,0,true,Molten Iron Drum
 2525,0,true,Molten Silver Drum
 2525,0,true,Molten Vulcanite Drum
-2525,0,true,Molten Bronze Drum
 2525,0,true,Resin Drum
 2525,0,true,Molten Carmot Drum
 2525,0,true,Molten Gold Drum
@@ -4706,30 +4701,26 @@ Item ID,Item meta,Has NBT,Display Name
 2525,0,true,Molten Ignatius Drum
 2525,0,true,Molten Alduorite Drum
 2525,0,true,Liquidessence Drum
-2525,0,true,Molten Astral Silver Drum
 2525,0,true,Molten Lead Drum
 2525,0,true,Molten Ceruclase Drum
-2525,0,true,Molten Copper Drum
+2525,0,true,Molten Astral Silver Drum
 2525,0,true,Ethanol Drum
-2525,0,true,Ammonia Drum
 2525,0,true,Poison Drum
 2525,0,true,Molten Zinc Drum
-2525,0,true,Molten Steel Drum
 2525,0,true,Molten Sanguinite Drum
+2525,0,true,Seed Oil Drum
 2525,0,true,Molten Tin Drum
 2525,0,true,Mobessence Drum
-2525,0,true,Seed Oil Drum
 2525,0,true,Molten Magnesium Drum
 2525,0,true,Liquid Blueslime Drum
-2525,0,true,Molten Tin Drum
 2525,0,true,Slickwater Drum
 2525,0,true,Electrum.molten Drum
 2525,0,true,Molten Platinum Drum
-2525,0,true,Molten Vyroxeres Drum
 2525,0,true,Constructionfoam Drum
+2525,0,true,Molten Vyroxeres Drum
 2525,0,true,Short.mead Drum
-2525,0,true,Molten Infuscolium Drum
 2525,0,true,Molten Haderoth Drum
+2525,0,true,Molten Infuscolium Drum
 2525,0,true,Molten Black Steel Drum
 2525,0,true,Biofuel Drum
 2525,0,true,Molten Brass Drum
@@ -4738,21 +4729,17 @@ Item ID,Item meta,Has NBT,Display Name
 2525,0,true,Meat Drum
 2525,0,true,Liquid Glass Drum
 2525,0,true,Fuel Drum
-2525,0,true,Molten Atlarus Drum
 2525,0,true,Liquid DNA Drum
-2525,0,true,Uranium hexafluoride Drum
+2525,0,true,Molten Atlarus Drum
 2525,0,true,Molten Shadow Iron Drum
 2525,0,true,Invar.molten Drum
 2525,0,true,Liquid Force Drum
 2525,0,true,Molten Obsidian Drum
 2525,0,true,Molten Alumite Drum
-2525,0,true,Lowpwater Drum
-2525,0,true,Lubricant Drum
 2525,0,true,Gascraft_neurotoxin Drum
 2525,0,true,Molten Amordrine Drum
 2525,0,true,Acid Drum
 2525,0,true,Lava Drum
-2525,0,true,Jet fuel Drum
 2525,0,true,Gascraft_propellent Drum
 2525,0,true,Molten Aluminum Drum
 2525,0,true,Pinkslime Drum
@@ -5648,67 +5635,6 @@ Item ID,Item meta,Has NBT,Display Name
 3009,2,false,Mechanical Pipe
 3009,3,false,Logistical Transporter
 3009,4,false,Restrictive Transporter
-3050,0,false,Basic Frame
-3050,1,false,Reinforced Frame
-3050,2,false,Industrial Frame
-3050,3,false,Advanced Frame
-3051,0,false,Detector
-3052,0,false,Bluebell
-3052,1,false,Orchid
-3052,2,false,Iris
-3052,3,false,Lotus
-3053,0,false,Basalt
-3053,1,false,Basalt Cobblestone
-3053,2,false,Basalt Brick
-3053,3,false,Basalt Paver
-3053,4,false,Basalt Antipaver
-3053,5,false,Chiseled Basalt
-3054,0,false,Marble
-3054,1,false,Marble Cobblestone
-3054,2,false,Marble Brick
-3054,3,false,Marble Paver
-3054,4,false,Marble Antipaver
-3054,5,false,Chiseled Marble
-3055,0,false,Basalt Brick Stairs
-3056,0,false,Marble Brick Stairs
-3057,0,false,Basalt Cobblestone Stairs
-3058,0,false,Marble Cobblestone Stairs
-3059,0,false,Basalt Brick Slab
-3059,1,false,Basalt Cobblestone Slab
-3059,2,false,Basalt Paver Slab
-3059,3,false,Basalt Antipaver Slab
-3060,0,false,Basalt Brick Slab
-3060,1,false,Basalt Cobblestone Slab
-3060,2,false,Basalt Paver Slab
-3060,3,false,Basalt Antipaver Slab
-3060,4,false,Basalt Brick Slab
-3060,5,false,Basalt Brick Slab
-3060,6,false,Basalt Brick Slab
-3061,0,false,Marble Brick Slab
-3061,1,false,Marble Cobblestone Slab
-3061,2,false,Marble Paver Slab
-3061,3,false,Marble Antipaver Slab
-3062,0,false,Marble Brick Slab
-3062,1,false,Marble Cobblestone Slab
-3062,2,false,Marble Paver Slab
-3062,3,false,Marble Antipaver Slab
-3062,4,false,Marble Brick Slab
-3062,5,false,Marble Brick Slab
-3062,6,false,Marble Brick Slab
-3063,0,false,Lotus Lily
-3064,0,false,Block of Steel
-3065,0,false,Basic Blast Wall
-3065,1,false,Reinforced Blast Wall
-3065,2,false,Industrial Blast Wall
-3065,3,false,Advanced Blast Wall
-3066,0,false,Basic Glass Wall
-3066,1,false,Reinforced Glass Wall
-3066,2,false,Industrial Glass Wall
-3066,3,false,Advanced Glass Wall
-3067,0,false,Basic Scaffolding
-3067,1,false,Reinforced Scaffolding
-3067,2,false,Industrial Scaffolding
-3067,3,false,Advanced Scaffolding
 3160,0,false,Chimney
 3161,0,false,naturalGas
 3162,0,false,Gas Pocket
@@ -5747,6 +5673,10 @@ Item ID,Item meta,Has NBT,Display Name
 3197,0,false,Molten Nickel
 3198,0,false,Molten Shiny
 3199,0,false,Molten Invar
+3200,0,false,Tesla Coil
+3201,0,false,Multimeter
+3202,0,false,Electromagnetic Contractor
+3203,0,false,Modular Battery
 3205,0,false,Molten Aluminum
 3206,0,false,Molten Cobalt
 3207,0,false,Molten Ardite
@@ -6038,37 +5968,6 @@ Item ID,Item meta,Has NBT,Display Name
 3541,0,false,Wool Colorizer
 3558,0,false,Super Crafting Frame
 3559,0,false,Super Item Frame
-3902,0,false,tile.endermanSpawner.name
-3903,0,false,Drum
-3904,0,false,Enderman Head
-3905,0,false,tile.flowerPot.name
-3906,0,false,Death Flower
-3907,0,false,Spooky Leaves
-3908,0,false,Spooky Log
-3909,2,false,Thorny Bush
-3909,3,false,Infested Bush
-3909,4,false,Infested Fern
-3909,5,false,Infested Grass
-3909,6,false,Lilyfire
-3910,0,false,Infested End Stone
-3910,1,false,Burned End Stone
-3910,2,false,Enchanted End Stone
-3910,3,false,Mossy End Stone
-3911,0,false,Instability Orb Ore
-3912,0,false,Igneous Rock Ore
-3913,0,false,End Powder Ore
-3914,0,false,tile.brewingStand.name
-3915,0,false,Basic Essence Altar
-3915,1,false,Dragon Essence Altar
-3915,2,false,Fiery Essence Altar
-3916,0,false,Smooth Glowing Obsidian
-3916,1,false,Chiseled Glowing Obsidian
-3916,2,false,Glowing Obsidian Pillar
-3917,0,false,Smooth Obsidian
-3917,1,false,Chiseled Obsidian
-3917,2,false,Obsidian Pillar
-3918,0,false,Obsidian Stairs
-3920,0,false,Obsidian
 3941,0,false,Item Translocator
 3941,1,false,Liquid Translocator
 3942,0,false,Drum
@@ -6367,13 +6266,6 @@ Item ID,Item meta,Has NBT,Display Name
 4601,69,false,Fishfood Barrel
 4601,70,false,Fastwater Barrel
 4601,71,false,Plastic Barrel
-4601,72,false,Heavy water Barrel
-4601,73,false,Ammonia Barrel
-4601,74,false,Lowpammonia Barrel
-4601,75,false,Lowpwater Barrel
-4601,76,false,Rc ethanol Barrel
-4601,77,false,Jet fuel Barrel
-4601,78,false,Lubricant Barrel
 4602,0,false,Blacksmithing Hammer
 4603,0,false,Iron Ring
 4700,0,false,Wooden Bucket
@@ -6432,13 +6324,6 @@ Item ID,Item meta,Has NBT,Display Name
 4700,69,false,Fishfood Wooden Bucket
 4700,70,false,Fastwater Wooden Bucket
 4700,71,false,Plastic Wooden Bucket
-4700,72,false,Heavy water Wooden Bucket
-4700,73,false,Ammonia Wooden Bucket
-4700,74,false,Lowpammonia Wooden Bucket
-4700,75,false,Lowpwater Wooden Bucket
-4700,76,false,Rc ethanol Wooden Bucket
-4700,77,false,Jet fuel Wooden Bucket
-4700,78,false,Lubricant Wooden Bucket
 4826,0,false,Gas Mask
 4827,0,false,Smoke Grenade
 4828,0,false,Empty Gas Vial
@@ -6457,6 +6342,7 @@ Item ID,Item meta,Has NBT,Display Name
 5259,0,false,Floppy Disk
 5260,0,false,Tin Ingot
 5261,0,false,Bronze Ingot
+5262,0,false,Tube Cap
 5263,0,false,Wrench
 5264,0,false,Bronze Gear
 5265,0,false,Biomass Bucket
@@ -6543,7 +6429,7 @@ Item ID,Item meta,Has NBT,Display Name
 5757,6,false,Shell fossil
 5757,7,false,Bone shard fossil
 6016,0,false,Capacity Upgrade
-6016,1,false,Output Speed Upgrade
+6017,0,false,Output Speed Upgrade
 6256,0,false,Force Gem
 6257,0,false,Force Ingot
 6258,0,false,Golden Power Source
@@ -6697,43 +6583,6 @@ Item ID,Item meta,Has NBT,Display Name
 6426,0,false,Wireless Transmitter
 6426,1,false,Wireless Receiver
 6426,2,false,Wireless Jammer
-6756,0,false,Wooden Sledge
-6757,0,false,Stone Sledge
-6758,0,false,Iron Sledge
-6759,0,false,Gold Sledge
-6760,0,false,Diamond Sledge
-6761,0,false,Steel Ingot
-6761,1,false,Steel Dust
-6762,0,false,Box
-6763,0,false,Sea Blue
-6763,1,false,Midnight Black
-6763,2,false,Oak Brown
-6763,3,false,Bone White
-6764,0,false,Wooden Sickle
-6765,0,false,Stone Sickle
-6766,0,false,Iron Sickle
-6767,0,false,Gold Sickle
-6768,0,false,Diamond Sickle
-6769,0,false,Copper Nugget
-6769,1,false,Silver Nugget
-6769,2,false,Platinum Nugget
-6770,0,false,Shilling
-6770,1,false,Florin
-6770,2,false,Sovereign
-6770,3,false,Marque
-6771,0,false,Sharpening Kit
-6771,1,false,Reinforcement
-6771,2,false,Reinforced Limbs
-6771,3,false,Plaited String
-6771,4,false,Counterweight
-6771,5,false,Armor Spikes
-6771,6,false,Laminated Padding
-6771,7,false,Quilted Cover
-6771,8,false,Elastic Soles
-6771,9,false,Firedamp
-6771,10,false,Elastic Layering
-6771,11,false,Scuba Tank
-6771,12,false,Dive Kit
 7119,0,false,Logistics Broken Item
 7120,0,false,Logistics Fluid Container
 7121,0,false,Upgrade Manager
@@ -7230,7 +7079,11 @@ Item ID,Item meta,Has NBT,Display Name
 10886,73,false,Fume Filter
 10886,74,false,Creeper Heart
 10886,75,false,Brew of Love
-10886,76,false,item.ingredient.brewIce.name
+10886,76,false,Brew of Frost
+10886,77,false,Brew of the Depths
+10886,78,false,Icy Needle
+10886,79,false,Frozen Heart
+10886,80,false,Demonic Blood
 10887,0,false,Circle Talisman
 10887,1,false,Circle Talisman (Small Ritual)
 10887,2,false,Circle Talisman (Small Otherwhere)
@@ -7249,6 +7102,8 @@ Item ID,Item meta,Has NBT,Display Name
 10893,0,false,Water Artichoke Seeds
 10894,0,false,Witches Robes
 10895,0,false,Necromancer Robes
+10896,0,false,Icy Slippers
+10897,0,false,Snowbell Seeds
 11204,0,false,Iron Dust
 11204,1,false,Gold Dust
 11204,2,false,Osmium Dust
@@ -7631,7 +7486,6 @@ Item ID,Item meta,Has NBT,Display Name
 13209,0,true,Saffron Species Serum
 13209,0,true,Short Lifespan Serum
 13209,0,true,No Temp. Tol. Serum
-13209,0,true,Invincible Species Serum
 13209,0,true,Ebony Species Serum
 13209,0,true,Slower Flowering Serum
 13209,0,true,Savant Species Serum
@@ -7922,7 +7776,6 @@ Item ID,Item meta,Has NBT,Display Name
 13213,13,false,Lead Grains
 13213,14,false,Zinc Grains
 13213,15,false,Titanium Grains
-13213,16,false,Tungsten Grains
 13213,17,false,Radioactive Fragments
 13213,18,false,Coal Grains
 13213,19,false,Red Dye
@@ -7996,7 +7849,6 @@ Item ID,Item meta,Has NBT,Display Name
 13226,37,false,Leaden Comb
 13226,40,false,Zinc Comb
 13226,41,false,Titanium Comb
-13226,42,false,Tungsten Comb
 13226,45,false,Platinum Comb
 13226,46,false,Lapis Comb
 13226,52,false,Emerald Comb
@@ -8359,7 +8211,6 @@ Item ID,Item meta,Has NBT,Display Name
 13340,0,true,Leaden Drone
 13340,0,true,Galvanized Drone
 13340,0,true,Impregnable Drone
-13340,0,true,Invincible Drone
 13340,0,true,Glittering Drone
 13340,0,true,Shining Drone
 13340,0,true,Valuable Drone
@@ -8591,7 +8442,6 @@ Item ID,Item meta,Has NBT,Display Name
 13341,0,true,Leaden Princess
 13341,0,true,Galvanized Princess
 13341,0,true,Impregnable Princess
-13341,0,true,Invincible Princess
 13341,0,true,Glittering Princess
 13341,0,true,Shining Princess
 13341,0,true,Valuable Princess
@@ -11992,6 +11842,41 @@ Item ID,Item meta,Has NBT,Display Name
 19397,0,true,Facade: Walnut Wood Planks
 19397,0,true,Facade: Greenheart Wood Planks
 19397,0,true,Facade: Cherry Wood Planks
+19397,0,true,Facade: Fir Wood Planks
+19397,0,true,Facade: Cedar Wood Planks
+19397,0,true,Facade: Hemlock Wood Planks
+19397,0,true,Facade: Cypress Wood Planks
+19397,0,true,Facade: Fig Wood Planks
+19397,0,true,Facade: Beech Wood Planks
+19397,0,true,Facade: Alder Wood Planks
+19397,0,true,Facade: Hazel Wood Planks
+19397,0,true,Facade: Hornbeam Wood Planks
+19397,0,true,Facade: Box Wood Planks
+19397,0,true,Facade: Butternut Wood Planks
+19397,0,true,Facade: Hickory Wood Planks
+19397,0,true,Facade: Whitebeam Wood Planks
+19397,0,true,Facade: Elm Wood Planks
+19397,0,true,Facade: Apple Wood Planks
+19397,0,true,Facade: Yew Wood Planks
+19397,0,true,Facade: Pear Wood Planks
+19397,0,true,Facade: Hawthorn Wood Planks
+19397,0,true,Facade: Rowan Wood Planks
+19397,0,true,Facade: Elder Wood Planks
+19397,0,true,Facade: Maclura Wood Planks
+19397,0,true,Facade: Syzgium Wood Planks
+19397,0,true,Facade: Brazilwood Wood Planks
+19397,0,true,Facade: Logwood Wood Planks
+19397,0,true,Facade: Iroko Wood Planks
+19397,0,true,Facade: Locust Wood Planks
+19397,0,true,Facade: Eucalyptus Wood Planks
+19397,0,true,Facade: Purpleheart Wood Planks
+19397,0,true,Facade: Ash Wood Planks
+19397,0,true,Facade: Holly Wood Planks
+19397,0,true,Facade: Olive Wood Planks
+19397,0,true,Facade: Sweetgum Wood Planks
+19397,0,true,Facade: Rosewood Wood Planks
+19397,0,true,Facade: Gingko Wood Planks
+19397,0,true,Facade: Pink Ivory Wood Planks
 19397,0,true,Facade: Block of Concrete
 19397,0,true,Facade: Creosote Wood Block
 19397,0,true,Facade: Block of Steel
@@ -12060,41 +11945,6 @@ Item ID,Item meta,Has NBT,Display Name
 19397,0,true,Facade: Ornate Nether Stone
 19397,0,true,Facade: Etched Nether Stone
 19397,0,true,Facade: Nether Cobblestone
-19397,0,true,Facade: Fir Wood Planks
-19397,0,true,Facade: Cedar Wood Planks
-19397,0,true,Facade: Hemlock Wood Planks
-19397,0,true,Facade: Cypress Wood Planks
-19397,0,true,Facade: Fig Wood Planks
-19397,0,true,Facade: Beech Wood Planks
-19397,0,true,Facade: Alder Wood Planks
-19397,0,true,Facade: Hazel Wood Planks
-19397,0,true,Facade: Hornbeam Wood Planks
-19397,0,true,Facade: Box Wood Planks
-19397,0,true,Facade: Butternut Wood Planks
-19397,0,true,Facade: Hickory Wood Planks
-19397,0,true,Facade: Whitebeam Wood Planks
-19397,0,true,Facade: Elm Wood Planks
-19397,0,true,Facade: Apple Wood Planks
-19397,0,true,Facade: Yew Wood Planks
-19397,0,true,Facade: Pear Wood Planks
-19397,0,true,Facade: Hawthorn Wood Planks
-19397,0,true,Facade: Rowan Wood Planks
-19397,0,true,Facade: Elder Wood Planks
-19397,0,true,Facade: Maclura Wood Planks
-19397,0,true,Facade: Syzgium Wood Planks
-19397,0,true,Facade: Brazilwood Wood Planks
-19397,0,true,Facade: Logwood Wood Planks
-19397,0,true,Facade: Iroko Wood Planks
-19397,0,true,Facade: Locust Wood Planks
-19397,0,true,Facade: Eucalyptus Wood Planks
-19397,0,true,Facade: Purpleheart Wood Planks
-19397,0,true,Facade: Ash Wood Planks
-19397,0,true,Facade: Holly Wood Planks
-19397,0,true,Facade: Olive Wood Planks
-19397,0,true,Facade: Sweetgum Wood Planks
-19397,0,true,Facade: Rosewood Wood Planks
-19397,0,true,Facade: Gingko Wood Planks
-19397,0,true,Facade: Pink Ivory Wood Planks
 19397,0,true,Facade: Acacia Wood
 19397,0,true,Facade: Acacia Wood
 19397,0,true,Facade: Acacia Wood
@@ -13345,8 +13195,10 @@ Item ID,Item meta,Has NBT,Display Name
 20403,0,false,Lesser Focus
 20404,0,false,Standard Focus
 20405,0,false,Greater Focus
-20406,0,false,Mana Focus
-20407,0,false,Charge Focus
+20406,100,true,Capacitor Cell
+20406,0,true,Capacitor Cell
+20407,0,false,Electrostatic Linker
+20408,0,false,Infinite Capacitor Cell
 20409,0,false,Affinity Tome: NONE
 20409,1,false,Affinity Tome: ARCANE
 20409,2,false,Affinity Tome: WATER
@@ -13406,6 +13258,7 @@ Item ID,Item meta,Has NBT,Display Name
 20463,0,false,Arcane Compendium
 20464,0,false,Baconator
 20465,0,false,Wakebloom
+20466,3,true,Crystal Phylactery
 20466,3,true,Crystal Phylactery
 20466,3,true,Crystal Phylactery
 20466,3,true,Crystal Phylactery
@@ -13620,7 +13473,8 @@ Item ID,Item meta,Has NBT,Display Name
 21299,0,false,Needlegun Ammo (Anvil)
 21300,0,false,Plastic Cup
 21301,0,false,SPAMR Launcher
-21302,0,false,Self-Propelled Anti Material Rocket
+21302,0,false,Tracking Self-Propelled Anti Material Rocket
+21302,1,false,Self-Propelled Anti Material Rocket
 21443,0,false,Precision Sledgehammer
 21448,0,false,Industrial Fertilizer
 21449,0,false,Plastic Sheets
@@ -18950,20 +18804,6 @@ Item ID,Item meta,Has NBT,Display Name
 28040,0,false,Knightly Axe
 28041,0,false,Phantom Helm
 28042,0,false,Phantom Plate
-28781,0,false,Dragon Essence
-28781,1,false,Fiery Essence
-28782,0,false,Baconator
-28783,0,false,item.itemNumber.name
-28784,0,false,Temple Caller
-28785,0,false,Enderman Head
-28786,0,false,Transference Gem
-28787,0,false,Instability Orb
-28788,0,false,Igneous Rock
-28789,0,false,End Powder
-28790,0,false,Ender Pearl
-28791,0,false,Enhanced Brewing Stand
-28792,0,false,Altar Nexus
-28793,0,false,Adventurer's Diary
 29256,0,false,Aluminium Ingot
 29256,1,false,Magnesium Ingot
 29256,2,false,Titanium Ingot
@@ -18995,8 +18835,9 @@ Item ID,Item meta,Has NBT,Display Name
 29257,11,false,Iron Wheel
 29257,12,false,Wicker
 29257,13,false,Golden Plastic
-29257,14,false,Paintbrush
+29257,14,false,Legacy Paintbrush - Craft with self to get new
 29257,15,false,Spawn Ender Dragon
+29257,16,false,item.craftingItems.unnamed.name
 29258,0,false,Bait Worm
 29258,1,false,Ant Bait
 29258,2,false,Maggot Bait
@@ -19252,726 +19093,27 @@ Item ID,Item meta,Has NBT,Display Name
 29287,15,false,Bottle of Molten Glass
 29288,0,true,Aquatic Backpack
 29289,0,true,Woven Aquatic Backpack
+29290,0,false,Paintbrush
 29296,0,false,Titanium Battery
 29297,0,false,Fish Finger
 29297,1,false,Calamari
 29297,2,false,Smoked Salmon
-29656,0,true,Nuclear Waste
-29656,0,true,Nuclear Waste
-29656,0,true,Nuclear Waste
-29656,0,true,Nuclear Waste
-29656,0,true,Nuclear Waste
-29656,0,true,Nuclear Waste
-29656,0,true,Nuclear Waste
-29656,0,true,Nuclear Waste
-29656,0,true,Nuclear Waste
-29656,0,true,Nuclear Waste
-29656,0,true,Nuclear Waste
-29656,0,true,Nuclear Waste
-29656,0,true,Nuclear Waste
-29656,0,true,Nuclear Waste
-29656,0,true,Nuclear Waste
-29656,0,true,Nuclear Waste
-29656,0,true,Nuclear Waste
-29656,0,true,Nuclear Waste
-29657,0,false,Uranium Fuel Pellet (Fresh)
-29657,1,false,Uranium Fuel Pellet (10% Depleted)
-29657,2,false,Uranium Fuel Pellet (20% Depleted)
-29657,3,false,Uranium Fuel Pellet (30% Depleted)
-29657,4,false,Uranium Fuel Pellet (40% Depleted)
-29657,5,false,Uranium Fuel Pellet (50% Depleted)
-29657,6,false,Uranium Fuel Pellet (60% Depleted)
-29657,7,false,Uranium Fuel Pellet (70% Depleted)
-29657,8,false,Uranium Fuel Pellet (80% Depleted)
-29657,9,false,Uranium Fuel Pellet (90% Depleted)
-29658,0,false,Depleted Uranium
-29659,0,false,Fuel Core
-29659,1,false,Control Rod
-29659,2,false,Water Cell
-29659,3,false,Central Control
-29659,4,false,Turbine
-29659,5,false,Condenser
-29659,6,false,Steam Line
-29659,7,false,Heavy Water Extractor
-29659,8,false,Isotope Centrifuge
-29659,9,false,Uranium Processor
-29659,10,false,Spent Fuel Container
-29659,11,false,Steam Boiler
-29659,12,false,Steam Grate
-29659,13,false,Pump
-29659,14,false,Ammonia Synthesizer
-29660,0,false,Bucket
-29661,0,false,Hydrogen Fluoride
-29661,1,false,Enriched Uranium Dust
-29661,2,false,Depleted Uranium Dust
-29661,3,false,Ammonium Nitrate
-29661,4,false,Quicklime
-29661,5,false,Calcite Crystal
-29662,0,false,Blue Fluorite Crystal
-29662,1,false,Pink Fluorite Crystal
-29662,2,false,Orange Fluorite Crystal
-29662,3,false,Magenta Fluorite Crystal
-29662,4,false,Green Fluorite Crystal
-29662,5,false,Red Fluorite Crystal
-29662,6,false,White Fluorite Crystal
-29662,7,false,Yellow Fluorite Crystal
-29663,0,false,Raw Uranium Ingot
-29663,1,false,Cadmium Ingot
-29663,2,false,Indium Ingot
-29663,3,false,Silver Ingot
-29664,0,false,Empty Canister
-29664,1,false,Uranium Hexafluoride Canister
-29664,2,false,Hydrofluoric Acid Canister
-29664,3,false,Ammonia Canister
-29665,0,false,Radiation Goggles
-29666,0,false,Fuel Canister
-29666,1,false,Absorption Rod
-29666,2,false,Obsidian Tank
-29666,3,false,Cd-In-Ag Alloy Ingot
-29756,0,false,Bedrock Shaft Unit
-29757,0,false,Ignition Unit
-29758,0,false,Bedrock 16x Gear Unit
-29759,0,false,Compound Turbine
-29760,0,false,Worm Gear
+29756,0,false,Redstone Circuit
+29757,0,false,Plastic
+29758,0,false,Milk Curd
+29759,0,false,Plastic
+29760,0,false,Plastic Pellets
 29761,0,true,Restriction Tube
 29761,0,true,Tube
+29761,0,true,Valve Tube
 29761,0,true,Requesting Tube
 29761,0,true,Injection Tube
+29761,0,true,Coloring Tube
 29761,0,true,Routing Tube
 29761,0,true,Ejection Tube
 29761,0,true,Extraction Tube
 29761,0,true,Compressor Tube
 29761,0,true,Filter Tube
-29766,0,false,Handheld Crafting Tool
-29767,0,false,RailGun Ammunition (1 kg)
-29767,1,false,RailGun Ammunition (2 kg)
-29767,2,false,RailGun Ammunition (4 kg)
-29767,3,false,RailGun Ammunition (8 kg)
-29767,4,false,RailGun Ammunition (16 kg)
-29767,5,false,RailGun Ammunition (32 kg)
-29767,6,false,RailGun Ammunition (64 kg)
-29767,7,false,RailGun Ammunition (128 kg)
-29767,8,false,RailGun Ammunition (256 kg)
-29767,9,false,RailGun Ammunition (512 kg)
-29767,10,false,RailGun Ammunition (1024 kg)
-29767,11,false,RailGun Ammunition (2048 kg)
-29767,12,false,RailGun Ammunition (4096 kg)
-29767,13,false,RailGun Ammunition (8192 kg)
-29767,14,false,RailGun Ammunition (16384 kg)
-29767,15,false,RailGun Ammunition (32768 kg)
-29768,0,false,Lubricant Bucket
-29768,1,false,Jet Fuel Bucket
-29768,2,false,Ethanol Bucket
-29769,0,false,TNT Cannon Targeting Aid
-29770,0,false,I/O Goggles
-29771,0,false,Projector Slide 23
-29772,0,false,Cannon Key
-29773,0,false,Explosive Shell
-29774,0,false,Ethanol Minecart
-29775,0,true,Bedrock Helmet
-29776,24000,false,Motion Tracker
-29777,24000,false,Vacuum
-29778,24000,false,Knockback Gun
-29779,24000,false,Gravel Gun
-29780,24000,false,Fireball Launcher
-29781,0,true,Bedrock Pickaxe
-29782,0,false,Bedrock Axe
-29783,0,false,Bedrock Shovel
-29784,8192,false,Night Vision Goggles
-29785,0,false,Night Vision Helmet
-29786,0,true,Bedrock Chestplate
-29787,0,true,Bedrock Leggings
-29788,0,true,Bedrock Boots
-29789,0,false,Tile Selector
-29790,0,true,Bedrock Jetpack
-29791,0,false,HSLA Steel Pickaxe
-29792,0,false,HSLA Steel Axe
-29793,0,false,HSLA Steel Shovel
-29794,0,false,HSLA Steel Helmet
-29795,0,false,HSLA Steel Chestplate
-29796,0,false,HSLA Steel Leggings
-29797,0,false,HSLA Steel Boots
-29798,0,false,High-Strength Spring (0 kJ)
-29798,1,false,High-Strength Spring (1 kJ)
-29798,2,false,High-Strength Spring (2 kJ)
-29798,4,false,High-Strength Spring (4 kJ)
-29798,8,false,High-Strength Spring (8 kJ)
-29798,16,false,High-Strength Spring (16 kJ)
-29798,32,false,High-Strength Spring (32 kJ)
-29798,64,false,High-Strength Spring (64 kJ)
-29798,128,false,High-Strength Spring (128 kJ)
-29798,256,false,High-Strength Spring (256 kJ)
-29798,512,false,High-Strength Spring (512 kJ)
-29798,1024,false,High-Strength Spring (1024 kJ)
-29798,2048,false,High-Strength Spring (2048 kJ)
-29798,4096,false,High-Strength Spring (4096 kJ)
-29798,8192,false,High-Strength Spring (8192 kJ)
-29798,16384,false,High-Strength Spring (16384 kJ)
-29798,24000,false,High-Strength Spring (24000 kJ)
-29798,30000,false,High-Strength Spring (30000 kJ)
-29806,0,false,Screwdriver
-29807,0,false,Angular Transducer
-29808,0,false,Magic Wand
-29809,0,false,WorldEdit Tool
-29810,0,false,RotaryCraft Handbook
-29811,0,false,Yeast
-29812,0,false,Ethanol Crystals
-29813,0,false,Canola Seeds
-29814,0,false,Wind Spring (0 kJ)
-29814,1,false,Wind Spring (1 kJ)
-29814,2,false,Wind Spring (2 kJ)
-29814,4,false,Wind Spring (4 kJ)
-29814,8,false,Wind Spring (8 kJ)
-29814,16,false,Wind Spring (16 kJ)
-29814,32,false,Wind Spring (32 kJ)
-29814,64,false,Wind Spring (64 kJ)
-29814,128,false,Wind Spring (128 kJ)
-29814,256,false,Wind Spring (256 kJ)
-29814,512,false,Wind Spring (512 kJ)
-29814,1024,false,Wind Spring (1024 kJ)
-29814,2048,false,Wind Spring (2048 kJ)
-29814,4096,false,Wind Spring (4096 kJ)
-29814,8192,false,Wind Spring (8192 kJ)
-29814,16384,false,Wind Spring (16384 kJ)
-29814,24000,false,Wind Spring (24000 kJ)
-29814,30000,false,Wind Spring (30000 kJ)
-29815,24000,false,Ultrasound
-29872,0,false,Bedrock Breaker
-29872,4,false,Bevel Gears
-29872,6,false,Shaft Junction
-29872,7,false,Fermenter
-29872,8,false,Floodlight
-29872,9,false,Clutch
-29872,10,false,Dynamometer
-29872,11,false,Grinder
-29872,12,false,Heat Ray
-29872,14,false,Boring Machine
-29872,15,false,Light Bridge
-29872,16,false,Pump
-29872,18,false,Reservoir
-29872,19,false,Aerosolizer
-29872,20,false,Extractor
-29872,21,false,Pulse Jet Furnace
-29872,22,false,Compactor
-29872,23,false,Fan
-29872,25,false,Fractionation Unit
-29872,26,false,Ground Penetrating Radar
-29872,27,false,Obsidian Factory
-29872,28,false,Pile Driver
-29872,29,false,Item Vacuum
-29872,30,false,Fireworks Display
-29872,31,false,Sprinkler
-29872,32,false,Woodcutter
-29872,33,false,Spawner Controller
-29872,34,false,Player Detector
-29872,35,false,Heater
-29872,36,false,Bait Box
-29872,37,false,Auto Breeder
-29872,38,false,Engine Control Unit
-29872,39,false,Smoke Detector
-29872,40,false,Mob Radar
-29872,41,false,Coil Winder
-29872,43,false,TNT Cannon
-29872,44,false,Sonic Weapon
-29872,45,false,Blast Furnace
-29872,46,false,Force Field
-29872,47,false,Music Box
-29872,48,false,Liquid Spiller
-29872,50,false,Mob Harvester
-29872,52,false,Projector
-29872,53,false,RailGun
-29872,54,false,Silver Iodide Cannon
-29872,55,false,Item Refresher
-29872,56,false,Freeze Gun
-29872,57,false,Cave Scanner
-29872,58,false,Scaleable Chest
-29872,59,false,Firestarter
-29872,60,false,Magnetizing Unit
-29872,61,false,Containment Field
-29872,62,false,CCTV Screen
-29872,63,false,Steel Purifier
-29872,64,false,Laser Gun
-29872,65,false,Item Cannon
-29872,66,false,Land Mine
-29872,67,false,Friction Heater
-29872,68,false,Block Cannon
-29872,69,false,Bucket Filler
-29872,70,false,Solar Mirror
-29872,71,false,Solar Tower
-29872,72,false,Aerial Camera
-29872,73,false,Self Destruct Mechanism
-29872,74,false,Cooling Fin
-29872,75,false,Worktable
-29872,76,false,Air Compressor
-29872,77,false,Pneumatic Engine
-29872,78,false,Display Screen
-29872,79,false,Bright Lamp
-29872,80,false,EMP Machine
-29872,81,false,Block Ram
-29872,82,false,Beam Mirror
-29872,83,false,Multi-Directional Clutch
-29872,84,false,Terraformer
-29872,86,false,Fuel Enhancer
-29872,87,false,Arrow Gun
-29872,88,false,Friction Boiler
-29872,89,false,Steam Turbine
-29872,90,false,Fertilizer
-29872,91,false,Rock Melter
-29872,92,false,Electric Generator
-29872,93,false,Electric Motor
-29872,97,false,Dew Point Aggregator
-29872,98,false,Air Pressure Gun
-29872,99,false,Sonic Borer
-29872,100,false,Fuel Powered Engine
-29888,0,false,Coal Ore Dust
-29888,1,false,Iron Ore Dust
-29888,2,false,Gold Ore Dust
-29888,3,false,Redstone Ore Dust
-29888,4,false,Lapis Ore Dust
-29888,5,false,Diamond Ore Dust
-29888,6,false,Emerald Ore Dust
-29888,7,false,Nether Quartz Dust
-29888,8,false,Coal Ore Slurry
-29888,9,false,Iron Ore Slurry
-29888,10,false,Gold Ore Slurry
-29888,11,false,Redstone Ore Slurry
-29888,12,false,Lapis Ore Slurry
-29888,13,false,Diamond Ore Slurry
-29888,14,false,Emerald Ore Slurry
-29888,15,false,Nether Quartz Slurry
-29888,16,false,Coal Ore Solution
-29888,17,false,Iron Ore Solution
-29888,18,false,Gold Ore Solution
-29888,19,false,Redstone Ore Solution
-29888,20,false,Lapis Ore Solution
-29888,21,false,Diamond Ore Solution
-29888,22,false,Emerald Ore Solution
-29888,24,false,Coal Ore Flakes
-29888,25,false,Iron Ore Flakes
-29888,26,false,Gold Ore Flakes
-29888,27,false,Redstone Ore Flakes
-29888,28,false,Lapis Ore Flakes
-29888,29,false,Diamond Ore Flakes
-29888,30,false,Emerald Ore Flakes
-29888,31,false,Nether Quartz Flakes
-29888,32,false,Silver Flakes
-29889,0,false,Anthracite
-29889,1,false,Prismane
-29889,2,false,Lonsdaleite
-29889,3,false,Bedrock Ingot
-29889,4,false,Aluminum Ingot
-29889,7,false,Silver Ingot
-29890,0,false,DC Electric Engine
-29890,1,false,Wind Turbine
-29890,2,false,Steam Engine
-29890,3,false,Gasoline Engine
-29890,4,false,AC Electric Engine
-29890,5,false,Performance Engine
-29890,6,false,Hydrokinetic Engine
-29890,7,false,Microturbine
-29890,8,false,Gas Turbine
-29891,0,false,Netherrack Dust
-29891,1,false,Tar Sand
-29891,2,false,Sludge
-29891,3,false,Sawdust
-29891,4,false,Bedrock Dust
-29891,5,false,Salt
-29891,6,false,Ammonium Nitrate
-29891,7,false,Silver Iodide
-29891,8,false,Aluminum Powder
-29892,0,true,Monster Spawner.name
-29892,0,true,Monster Spawner.name
-29892,0,true,Monster Spawner.name
-29892,0,true,Monster Spawner.name
-29892,0,true,Monster Spawner.name
-29892,0,true,Monster Spawner.name
-29892,0,true,Monster Spawner.name
-29892,0,true,Monster Spawner.name
-29892,0,true,Monster Spawner.name
-29892,0,true,Monster Spawner.name
-29892,0,true,Monster Spawner.name
-29892,0,true,Monster Spawner.name
-29892,0,true,Monster Spawner.name
-29892,0,true,Monster Spawner.name
-29892,0,true,Monster Spawner.name
-29892,0,true,Monster Spawner.name
-29892,0,true,Monster Spawner.name
-29892,0,true,Monster Spawner.name
-29892,0,true,Monster Spawner.name
-29892,0,true,Monster Spawner.name
-29892,0,true,Monster Spawner.name
-29892,0,true,Monster Spawner.name
-29892,0,true,Monster Spawner.name
-29892,0,true,Monster Spawner.name
-29892,0,true,Monster Spawner.name
-29892,0,true,Monster Spawner.name
-29892,0,true,Monster Spawner.name
-29892,0,true,Monster Spawner.name
-29893,0,false,Lubricant Hose
-29893,1,false,Liquid Pipe
-29893,2,false,Fuel Line
-29893,4,false,Valve Pipe
-29893,5,false,Bypass Pipe
-29893,6,false,Separation Pipe
-29895,0,false,Wood Shaft
-29895,1,false,Stone Shaft
-29895,2,false,Steel Shaft
-29895,3,false,Diamond Shaft
-29895,4,false,Bedrock Shaft
-29895,5,false,Shaft Cross
-29896,0,true,Wooden 2:1 Gearbox
-29896,1,true,Stone 2:1 Gearbox
-29896,2,true,Steel 2:1 Gearbox
-29896,3,true,Diamond 2:1 Gearbox
-29896,4,true,Bedrock 2:1 Gearbox
-29896,5,true,Wooden 4:1 Gearbox
-29896,6,true,Stone 4:1 Gearbox
-29896,7,true,Steel 4:1 Gearbox
-29896,8,true,Diamond 4:1 Gearbox
-29896,9,true,Bedrock 4:1 Gearbox
-29896,10,true,Wooden 8:1 Gearbox
-29896,11,true,Stone 8:1 Gearbox
-29896,12,true,Steel 8:1 Gearbox
-29896,13,true,Diamond 8:1 Gearbox
-29896,14,true,Bedrock 8:1 Gearbox
-29896,15,true,Wooden 16:1 Gearbox
-29896,16,true,Stone 16:1 Gearbox
-29896,17,true,Steel 16:1 Gearbox
-29896,18,true,Diamond 16:1 Gearbox
-29896,19,true,Bedrock 16:1 Gearbox
-29898,2,true,Industrial Coil
-29898,0,false,Worm Gear
-29898,1,false,CVT Unit
-29898,2,false,Industrial Coil
-29899,0,false,Wood Flywheel
-29899,1,false,Stone Flywheel
-29899,2,false,Iron Flywheel
-29899,3,false,Gold Flywheel
-29900,0,false,Tin Dust
-29900,1,false,Tin Slurry
-29900,2,false,Tin Solution
-29900,3,false,Tin Flakes
-29900,4,false,Copper Dust
-29900,5,false,Copper Slurry
-29900,6,false,Copper Solution
-29900,7,false,Copper Flakes
-29900,8,false,Lead Dust
-29900,9,false,Lead Slurry
-29900,10,false,Lead Solution
-29900,11,false,Lead Flakes
-29900,12,false,Nickel Dust
-29900,13,false,Nickel Slurry
-29900,14,false,Nickel Solution
-29900,15,false,Nickel Flakes
-29900,16,false,Silver Dust
-29900,17,false,Silver Slurry
-29900,18,false,Silver Solution
-29900,19,false,Silver Flakes
-29900,20,false,Galena Dust
-29900,21,false,Galena Slurry
-29900,22,false,Galena Solution
-29900,23,false,Galena Flakes
-29900,24,false,Aluminum Dust
-29900,25,false,Aluminum Slurry
-29900,26,false,Aluminum Solution
-29900,27,false,Aluminum Flakes
-29900,28,false,Iridium Dust
-29900,29,false,Iridium Slurry
-29900,30,false,Iridium Solution
-29900,31,false,Iridium Flakes
-29900,32,false,Firestone Dust
-29900,33,false,Firestone Slurry
-29900,34,false,Firestone Solution
-29900,35,false,Firestone Flakes
-29900,36,false,Certus Quartz Dust
-29900,37,false,Certus Quartz Slurry
-29900,38,false,Certus Quartz Solution
-29900,39,false,Certus Quartz Flakes
-29900,40,false,Uranium Dust
-29900,41,false,Uranium Slurry
-29900,42,false,Uranium Solution
-29900,43,false,Uranium Flakes
-29900,44,false,Mercury Dust
-29900,45,false,Mercury Slurry
-29900,46,false,Mercury Solution
-29900,47,false,Mercury Flakes
-29900,48,false,Amber Dust
-29900,49,false,Amber Slurry
-29900,50,false,Amber Solution
-29900,51,false,Amber Flakes
-29900,52,false,Air Infused Dust
-29900,53,false,Air Infused Slurry
-29900,54,false,Air Infused Solution
-29900,55,false,Air Infused Flakes
-29900,56,false,Fire Infused Dust
-29900,57,false,Fire Infused Slurry
-29900,58,false,Fire Infused Solution
-29900,59,false,Fire Infused Flakes
-29900,60,false,Water Infused Dust
-29900,61,false,Water Infused Slurry
-29900,62,false,Water Infused Solution
-29900,63,false,Water Infused Flakes
-29900,64,false,Earth Infused Dust
-29900,65,false,Earth Infused Slurry
-29900,66,false,Earth Infused Solution
-29900,67,false,Earth Infused Flakes
-29900,68,false,Entropy Infused Dust
-29900,69,false,Entropy Infused Slurry
-29900,70,false,Entropy Infused Solution
-29900,71,false,Entropy Infused Flakes
-29900,72,false,Order Infused Dust
-29900,73,false,Order Infused Slurry
-29900,74,false,Order Infused Solution
-29900,75,false,Order Infused Flakes
-29900,76,false,Apatite Dust
-29900,77,false,Apatite Slurry
-29900,78,false,Apatite Solution
-29900,79,false,Apatite Flakes
-29900,80,false,Saltpeter Dust
-29900,81,false,Saltpeter Slurry
-29900,82,false,Saltpeter Solution
-29900,83,false,Saltpeter Flakes
-29900,84,false,Tungsten Dust
-29900,85,false,Tungsten Slurry
-29900,86,false,Tungsten Solution
-29900,87,false,Tungsten Flakes
-29900,88,false,Nikolite Dust
-29900,89,false,Nikolite Slurry
-29900,90,false,Nikolite Solution
-29900,91,false,Nikolite Flakes
-29900,92,false,Green Sapphire Dust
-29900,93,false,Green Sapphire Slurry
-29900,94,false,Green Sapphire Solution
-29900,95,false,Green Sapphire Flakes
-29900,96,false,Ruby Dust
-29900,97,false,Ruby Slurry
-29900,98,false,Ruby Solution
-29900,99,false,Ruby Flakes
-29900,100,false,Sapphire Dust
-29900,101,false,Sapphire Slurry
-29900,102,false,Sapphire Solution
-29900,103,false,Sapphire Flakes
-29900,104,false,Monazit Dust
-29900,105,false,Monazit Slurry
-29900,106,false,Monazit Solution
-29900,107,false,Monazit Flakes
-29900,108,false,Force Dust
-29900,109,false,Force Slurry
-29900,110,false,Force Solution
-29900,111,false,Force Flakes
-29900,112,false,Nether Coal Dust
-29900,113,false,Nether Coal Slurry
-29900,114,false,Nether Coal Solution
-29900,115,false,Nether Coal Flakes
-29900,116,false,Nether Iron Dust
-29900,117,false,Nether Iron Slurry
-29900,118,false,Nether Iron Solution
-29900,119,false,Nether Iron Flakes
-29900,120,false,Nether Gold Dust
-29900,121,false,Nether Gold Slurry
-29900,122,false,Nether Gold Solution
-29900,123,false,Nether Gold Flakes
-29900,124,false,Nether Redstone Dust
-29900,125,false,Nether Redstone Slurry
-29900,126,false,Nether Redstone Solution
-29900,127,false,Nether Redstone Flakes
-29900,128,false,Nether Lapis Dust
-29900,129,false,Nether Lapis Slurry
-29900,130,false,Nether Lapis Solution
-29900,131,false,Nether Lapis Flakes
-29900,132,false,Nether Diamond Dust
-29900,133,false,Nether Diamond Slurry
-29900,134,false,Nether Diamond Solution
-29900,135,false,Nether Diamond Flakes
-29900,136,false,Nether Emerald Dust
-29900,137,false,Nether Emerald Slurry
-29900,138,false,Nether Emerald Solution
-29900,139,false,Nether Emerald Flakes
-29900,140,false,Nether Tin Dust
-29900,141,false,Nether Tin Slurry
-29900,142,false,Nether Tin Solution
-29900,143,false,Nether Tin Flakes
-29900,144,false,Nether Copper Dust
-29900,145,false,Nether Copper Slurry
-29900,146,false,Nether Copper Solution
-29900,147,false,Nether Copper Flakes
-29900,148,false,Nether Lead Dust
-29900,149,false,Nether Lead Slurry
-29900,150,false,Nether Lead Solution
-29900,151,false,Nether Lead Flakes
-29900,152,false,Nether Nickel Dust
-29900,153,false,Nether Nickel Slurry
-29900,154,false,Nether Nickel Solution
-29900,155,false,Nether Nickel Flakes
-29900,156,false,Nether Silver Dust
-29900,157,false,Nether Silver Slurry
-29900,158,false,Nether Silver Solution
-29900,159,false,Nether Silver Flakes
-29900,160,false,Nether Nikolite Dust
-29900,161,false,Nether Nikolite Slurry
-29900,162,false,Nether Nikolite Solution
-29900,163,false,Nether Nikolite Flakes
-29900,164,false,Cobalt Dust
-29900,165,false,Cobalt Slurry
-29900,166,false,Cobalt Solution
-29900,167,false,Cobalt Flakes
-29900,168,false,Ardite Dust
-29900,169,false,Ardite Slurry
-29900,170,false,Ardite Solution
-29900,171,false,Ardite Flakes
-29900,172,false,Platinum Dust
-29900,173,false,Platinum Slurry
-29900,174,false,Platinum Solution
-29900,175,false,Platinum Flakes
-29900,176,false,Nether Platinum Dust
-29900,177,false,Nether Platinum Slurry
-29900,178,false,Nether Platinum Solution
-29900,179,false,Nether Platinum Flakes
-29900,180,false,Zinc Dust
-29900,181,false,Zinc Slurry
-29900,182,false,Zinc Solution
-29900,183,false,Zinc Flakes
-29900,184,false,Osmium Dust
-29900,185,false,Osmium Slurry
-29900,186,false,Osmium Solution
-29900,187,false,Osmium Flakes
-29900,188,false,Steel Dust
-29900,189,false,Steel Slurry
-29900,190,false,Steel Solution
-29900,191,false,Steel Flakes
-29900,192,false,Sulfur Dust
-29900,193,false,Sulfur Slurry
-29900,194,false,Sulfur Solution
-29900,195,false,Sulfur Flakes
-29900,196,false,Pitchblende Dust
-29900,197,false,Pitchblende Slurry
-29900,198,false,Pitchblende Solution
-29900,199,false,Pitchblende Flakes
-29900,200,false,Cadmium Dust
-29900,201,false,Cadmium Slurry
-29900,202,false,Cadmium Solution
-29900,203,false,Cadmium Flakes
-29900,204,false,Indium Dust
-29900,205,false,Indium Slurry
-29900,206,false,Indium Solution
-29900,207,false,Indium Flakes
-29900,208,false,Fluorite Dust
-29900,209,false,Fluorite Slurry
-29900,210,false,Fluorite Solution
-29900,211,false,Fluorite Flakes
-29900,212,false,Bauxite Dust
-29900,213,false,Bauxite Slurry
-29900,214,false,Bauxite Solution
-29900,215,false,Bauxite Flakes
-29900,216,false,Sodalite Dust
-29900,217,false,Sodalite Slurry
-29900,218,false,Sodalite Solution
-29900,219,false,Sodalite Flakes
-29900,220,false,Pyrite Dust
-29900,221,false,Pyrite Slurry
-29900,222,false,Pyrite Solution
-29900,223,false,Pyrite Flakes
-29900,224,false,Ammonium Chloride Dust
-29900,225,false,Ammonium Chloride Slurry
-29900,226,false,Ammonium Chloride Solution
-29900,227,false,Ammonium Chloride Flakes
-29900,228,false,Calcite Dust
-29900,229,false,Calcite Slurry
-29900,230,false,Calcite Solution
-29900,231,false,Calcite Flakes
-29900,232,false,Chimerite Dust
-29900,233,false,Chimerite Slurry
-29900,234,false,Chimerite Solution
-29900,235,false,Chimerite Flakes
-29900,236,false,Vinteum Dust
-29900,237,false,Vinteum Slurry
-29900,238,false,Vinteum Solution
-29900,239,false,Vinteum Flakes
-29900,240,false,Blue Topaz Dust
-29900,241,false,Blue Topaz Slurry
-29900,242,false,Blue Topaz Solution
-29900,243,false,Blue Topaz Flakes
-29900,244,false,Moonstone Dust
-29900,245,false,Moonstone Slurry
-29900,246,false,Moonstone Solution
-29900,247,false,Moonstone Flakes
-29900,248,false,Sunstone Dust
-29900,249,false,Sunstone Slurry
-29900,250,false,Sunstone Solution
-29900,251,false,Sunstone Flakes
-29900,252,false,Titanium Dust
-29900,253,false,Titanium Slurry
-29900,254,false,Titanium Solution
-29900,255,false,Titanium Flakes
-29900,256,false,Magmanite Dust
-29900,257,false,Magmanite Slurry
-29900,258,false,Magmanite Solution
-29900,259,false,Magmanite Flakes
-29901,0,false,Tin Ingot
-29901,1,false,Copper Ingot
-29901,2,false,Lead Ingot
-29901,3,false,Nickel Ingot
-29901,4,false,Silver Ingot
-29901,5,false,Galena Ingot
-29901,6,false,Aluminum Ingot
-29901,7,false,Iridium Ingot
-29901,8,false,Firestone Item
-29901,9,false,Certus Quartz Gem
-29901,10,false,Uranium Ingot
-29901,11,false,Mercury Item
-29901,12,false,Amber Gem
-29901,13,false,Air Infused Item
-29901,14,false,Fire Infused Item
-29901,15,false,Water Infused Item
-29901,16,false,Earth Infused Item
-29901,17,false,Entropy Infused Item
-29901,18,false,Order Infused Item
-29901,19,false,Apatite Gem
-29901,20,false,Saltpeter Dust
-29901,21,false,Tungsten Ingot
-29901,22,false,Nikolite Dust
-29901,23,false,Green Sapphire Gem
-29901,24,false,Ruby Gem
-29901,25,false,Sapphire Gem
-29901,26,false,Monazit Item
-29901,27,false,Force Gem
-29901,28,false,Nether Coal Item
-29901,29,false,Nether Iron Ingot
-29901,30,false,Nether Gold Ingot
-29901,31,false,Nether Redstone Dust
-29901,32,false,Nether Lapis Item
-29901,33,false,Nether Diamond Gem
-29901,34,false,Nether Emerald Gem
-29901,35,false,Nether Tin Ingot
-29901,36,false,Nether Copper Ingot
-29901,37,false,Nether Lead Ingot
-29901,38,false,Nether Nickel Ingot
-29901,39,false,Nether Silver Ingot
-29901,40,false,Nether Nikolite Dust
-29901,41,false,Cobalt Ingot
-29901,42,false,Ardite Ingot
-29901,43,false,Platinum Ingot
-29901,44,false,Nether Platinum Ingot
-29901,45,false,Zinc Ingot
-29901,46,false,Osmium Ingot
-29901,47,false,Steel Ingot
-29901,48,false,Sulfur Dust
-29901,49,false,Pitchblende Ingot
-29901,50,false,Cadmium Ingot
-29901,51,false,Indium Ingot
-29901,52,false,Fluorite Gem
-29901,53,false,Bauxite Dust
-29901,54,false,Sodalite Item
-29901,55,false,Pyrite Dust
-29901,56,false,Ammonium Chloride Dust
-29901,57,false,Calcite Gem
-29901,58,false,Chimerite Gem
-29901,59,false,Vinteum Dust
-29901,60,false,Blue Topaz Gem
-29901,61,false,Moonstone Gem
-29901,62,false,Sunstone Gem
-29901,63,false,Titanium Ingot
-29901,64,false,Magmanite Item
 29997,8,true,Basic Drill
 29997,9,true,Galgadorian Drill
 29997,14,true,Basic Farmer
@@ -20216,7 +19358,7 @@ Item ID,Item meta,Has NBT,Display Name
 30067,5,false,Lead Ingot
 30067,6,false,Silver Ingot
 30076,1,true,Obscurator
-30076,27,false,Obscurator
+30076,27,true,Obscurator
 30077,0,false,Carbon Fiber Canoe
 30077,1,false,Rubber Dinghy
 30077,2,false,Damaged Rubber Dinghy
@@ -20424,7 +19566,7 @@ Item ID,Item meta,Has NBT,Display Name
 30224,0,false,Plantball
 30225,0,false,H. Coal
 30231,0,false,(Empty) Fuel Can
-30232,0,false,Filled Fuel Can
+30232,0,true,Filled Fuel Can
 30233,1,true,Chainsaw
 30233,26,true,Chainsaw
 30234,1,true,Diamond Drill
@@ -20474,7 +19616,7 @@ Item ID,Item meta,Has NBT,Display Name
 30481,1,true,Advanced Electric Jetpack
 30481,27,false,Advanced Electric Jetpack
 30482,1,true,GraviTool
-30482,27,false,GraviTool
+30482,27,true,GraviTool
 30483,1,true,Advanced NanoChestPlate
 30483,27,false,Advanced NanoChestPlate
 30786,0,false,Lapis Plate
