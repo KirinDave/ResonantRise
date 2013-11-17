@@ -33,15 +33,15 @@
          optional="yes"
          server="no" />
 	<mod url="packs/ResonantRise/files/2.3/ThermalExpansion-3.0.0.b2.jar" file="ThermalExpansion-3.0.0.b2.jar" md5="5709a5f22b2f0727068d48b48b42eca7" download="server"
-         name="Thermal Expansion" type="mods" version="3.0.0b2"
+         name="Thermal Expansion" type="mods" depends="CoFH Core" version="3.0.0b2"
          website="http://teamcofh.com/"
-		 donate="http://tinyurl.com/pm9ubfk"
+		 donation="http://tinyurl.com/pm9ubfk"
          description="The hero returns."
          optional="yes" />
 	<mod url="packs/ResonantRise/files/2.3/CoFHCore-2.0.0.b2.jar" file="CoFHCore-2.0.0.b2.jar" md5="85eef8f94e6db5114b3f43f101f0ea89" download="server"
          name="CoFH Core" type="mods" version="2.0.0b2"
          website="http://teamcofh.com/"
-		 donate="http://tinyurl.com/pm9ubfk"
+		 donation="http://tinyurl.com/pm9ubfk"
          description="The hero's great legacy follows him."
          optional="yes" />
     
