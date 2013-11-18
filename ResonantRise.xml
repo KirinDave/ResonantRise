@@ -348,8 +348,8 @@
     <mod url="packs/ResonantRise/files/2.3/redlogic-57.2.1.jar" file="redlogic-57.2.1.jar" md5="0f271334792363d48f4eff278cf855f8" download="server"
          name="Red Logic" depends="ImmibisCore"  type="mods" 
          version="57.2.1" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description=""  />
-    <mod url="packs/ResonantRise/files/2.3/LogisticsPipes-MC1.6.2-0.7.4.dev.73.jar" file="LogisticsPipes-MC1.6.2-0.7.4.dev.73.jar" md5="35f74b33b6f4006631979db909c1f705" download="server"
-         name="LogisticsPipes" type="mods" version="0.7.4.dev.73"
+    <mod url="packs/ResonantRise/files/2.3/LogisticsPipes-MC1.6.2-0.7.4.dev.75.jar" file="LogisticsPipes-MC1.6.2-0.7.4.dev.75.jar" md5="87435d0db52585fb67f567811e36e999" download="server"
+         name="LogisticsPipes" type="mods" version="0.7.4.dev.75"
          website="http://www.minecraftforum.net/topic/1831791-152buildcraft-logistics-pipes/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HMEH9HF4Q2RFJ"
          description="Even more amazing pipes." />
 	<mod url="packs/ResonantRise/files/2.2/magicbees-2.1.7.jar" file="magicbees-2.1.7.jar" md5="0bf1385d956bab96f48de6ddc8b3d17b" download="server"
