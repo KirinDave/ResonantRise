@@ -372,15 +372,15 @@ worldgen {
 
 "worldgen disabler" {
     B:"Add Village Generation"=true
-    B:"Generate Aluminum"=true
-    B:"Generate Aluminum Bushes"=true
+    B:"Generate Aluminum"=false
+    B:"Generate Aluminum Bushes"=false
     B:"Generate Cobalt and Ardite"=true
     B:"Generate Copper"=false
     B:"Generate Copper Bushes"=true
     B:"Generate Essence Bushes"=true
     B:"Generate Gold Bushes"=true
     B:"Generate Iron Bushes"=true
-    B:"Generate Surface Aluminum"=true
+    B:"Generate Surface Aluminum"=false
     B:"Generate Surface Copper"=true
     B:"Generate Surface Gold"=true
     B:"Generate Surface Iron"=true
