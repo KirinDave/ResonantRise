@@ -313,9 +313,9 @@ ingotSaltpeter
 ingotImpureTin
 cropPear
 oreCeruclase
+ingotPlastic
 oreVulcanite
 oreAngmallen
-ingotPlastic
 dustObsidian
 cropSatsuma
 dustBlack Steel
@@ -369,6 +369,7 @@ ingotOsmium
 ingotSilver
 dustPrometheum
 logWood
+calclavia:BATTERY_BOX
 manyullynRod
 cropPomelo
 ingotCertusQuartz
@@ -472,15 +473,16 @@ MonazitOre
 coralLightBlue
 dustShadow Iron
 dirtyGravelLead
+ingotDiamond
 ingotSteel
 oreApatite
 dustVulcanite
-ingotDiamond
 dustArdite
 ingotNetherCopper
 ingotDamascus Steel
 oreShadow Steel
 oreDesichalkos
+circuitElite
 cropBlackberry
 dustTopaz
 cropPotato
@@ -541,6 +543,7 @@ alumiteRod
 nuggetSilver
 oreImpureSilver
 cropHazelnut
+calclavia:WIRE
 componentFieldEmitter
 blockHepatizon
 coralBrown
@@ -628,6 +631,7 @@ dustCeruclase
 blockOrichalcum
 ingotPrometheum
 ingotPureCobalt
+batteryBox
 cropClove
 dyeWhite
 cropNectarine
@@ -643,7 +647,9 @@ cropLime
 dustGold
 dyeMagenta
 plateDenseObsidian
+calclavia:MOTOR
 orePlatinum
+calclavia:WRENCH
 ingotAdamantine
 dustPhosphorus
 ingotInfuscolium
@@ -706,6 +712,7 @@ copperRod
 oreNetherIridium
 blockZinc
 compressedCobblestone1x
+advancedBattery
 ingotCarmot
 ingotSapphire
 oreNetherSteel
@@ -786,9 +793,10 @@ componentSolenoid
 blockFft
 blockGold
 oreManganese
+battery
+dustNetherUranium
 dustHepatizon
 oreEximite
-dustNetherUranium
 plateGold
 blockBlack Steel
 dustMagnesium
@@ -808,6 +816,7 @@ fuelCoke
 oreGalena
 cropRedBanana
 oreCelenegil
+calclavia:ADVANCED_BATTERY
 crushedPurifiedLead
 stoneRod
 cropPlantain
@@ -820,6 +829,7 @@ nuggetIron
 oreNetherIron
 plateLead
 oreNetherLapis
+wrench
 dustEmerald
 dustSaltpeter
 compressedCobblestone3x
@@ -829,6 +839,7 @@ cropSourCherry
 oreNetherSilver
 crystalSulfur
 oreNetherGold
+copperCableBlock
 slimeRod
 blockBrass
 dustNetherIron
@@ -845,8 +856,8 @@ oreNaturalAluminum
 oreCoal
 reducedArdite
 compressedCobblestone5x
-dirtDried
 oreInvar
+dirtDried
 dustCharcoal
 plateBronze
 dustRedstone
@@ -888,8 +899,8 @@ ingotSanguinite
 oreAtlarus
 dustNetherPeridot
 gemEmerald
-crushedIron
 oreLithium
+crushedIron
 dustNetherRuby
 mushroomGlowshroom
 projredPart
@@ -931,8 +942,11 @@ ingotShadow Iron
 nuggetAluminumBrass
 dyeYellow
 groundGold
+calclavia:CIRCUIT_T3
+calclavia:CIRCUIT_T2
 oreImpureIron
 blockTitanium
+calclavia:CIRCUIT_T1
 gemEmery
 dustLemurite
 reducedTin
@@ -942,6 +956,7 @@ dustImpureNickel
 oreQuicksilver
 itemSuperconductor
 ingotLemurite
+calclavia:BATTERY
 ingotAngmallen
 oreNetherNickel
 blockEximite
@@ -1015,6 +1030,7 @@ componentLaserEmitter
 ingotTitanium
 oreNetherRedstone
 dustNetherCopper
+motor
 dirtyGravelGalena
 oreRubracium
 gemForce
@@ -1060,6 +1076,7 @@ ingotImpureArdite
 ingotMeutoite
 dustSteel
 cropMelon
+plateSteel
 rodBlizz
 ingotArdite
 ingotTin
@@ -1075,6 +1092,7 @@ dustOsmium
 dirtyGravelArdite
 dustDiamond
 ingotHepatizon
+copperWire
 blockAluminumBrass
 oreNetherTin
 blockInolashite
@@ -1145,6 +1163,7 @@ flowerRainbow
 dustTitanium
 oreZinc
 plantKelp
+circuitAdvanced
 dustAsh
 cropDate
 crafterWood
@@ -1154,6 +1173,7 @@ ingotRedstone
 nuggetThaumium
 plateDenseBronze
 ingotNetherCoal
+plateBrass
 dustNetherSapphire
 oreHaderoth
 dustImpureGold

@@ -23,8 +23,11 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Min Height,Max Height,Types,Class
 21,Jungle,1.2,0.9,0.1,0.2,0.4,JUNGLE,net.minecraft.world.biome.BiomeGenJungle
 22,JungleHills,1.2,0.9,0.1,1.8,0.5,JUNGLE,net.minecraft.world.biome.BiomeGenJungle
 23,Storage Cell,-100.0,0.5,0.1,0.1,0.3,"PLAINS, FROZEN",appeng.world.BiomeGenStorage
+28,Sublime Shrubland,2.0,2.0,0.1,0.1,2.0,"FOREST, PLAINS, MAGICAL",biomesoplenty.biomes.promisedland.BiomeGenPromisedLandShrub
+29,Thinned Mystic Grove,0.9,1.0,0.1,0.1,0.3,"FOREST, MAGICAL",biomesoplenty.biomes.BiomeGenMysticGroveThin
+30,Bloody Heap,2.0,0.0,0.1,0.1,0.3,NETHER,biomesoplenty.biomes.nether.BiomeGenNetherBlood
 31,Lavender Fields,0.6,0.7,0.1,0.3,0.3,PLAINS,biomesoplenty.biomes.BiomeGenLavenderFields
-32,Tropics Mountain,2.0,2.0,0.1,0.5,1.1,"WATER, JUNGLE",biomesoplenty.biomes.BiomeGenTropics
+32,Tropics Mountain,2.0,2.0,0.1,0.7,1.2,"WATER, JUNGLE",biomesoplenty.biomes.BiomeGenTropics
 33,Autumn Hills,0.5,0.2,0.1,0.5,0.8,"FOREST, HILLS",biomesoplenty.biomes.BiomeGenAutumnHills
 34,Overgrown Greens,0.8,0.8,0.1,0.3,0.4,"PLAINS, JUNGLE",biomesoplenty.biomes.BiomeGenOvergrownGreens
 35,ForestHills,0.7,0.8,0.1,0.8,1.0,"FOREST, HILLS",biomesoplenty.biomes.vanilla.BiomeGenForestNew
@@ -33,13 +36,13 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Min Height,Max Height,Types,Class
 38,Silkglades,0.5,0.9,0.1,0.3,0.3,"SWAMP, WASTELAND",biomesoplenty.biomes.BiomeGenSilkglades
 39,Savanna Plateau,1.5,0.1,0.1,0.9,0.9,"PLAINS, HILLS, DESERT",biomesoplenty.biomes.BiomeGenSavannaPlateau
 40,Forested Field,0.6,0.7,0.1,0.3,0.3,"FOREST, PLAINS",biomesoplenty.biomes.BiomeGenFieldForest
-41,Seasonal Spruce Forest,0.7,0.8,0.1,0.3,0.7,FOREST,biomesoplenty.biomes.BiomeGenSeasonalSpruceForest
+41,Seasonal Spruce Forest,0.7,0.8,0.1,0.6,0.9,FOREST,biomesoplenty.biomes.BiomeGenSeasonalSpruceForest
 42,Alps Forest,0.5,0.4,0.1,0.2,0.5,"FOREST, MOUNTAIN, FROZEN",biomesoplenty.biomes.BiomeGenAlpsBase
 43,Alps Mountainside,0.0,0.5,0.1,1.0,2.0,"MOUNTAIN, FROZEN",biomesoplenty.biomes.BiomeGenAlpsForest
 44,Thinned Timber,0.7,0.8,0.1,0.3,0.4,FOREST,biomesoplenty.biomes.BiomeGenTimberThin
 45,Thinned Pasture,0.8,0.4,0.1,0.3,0.4,PLAINS,biomesoplenty.biomes.BiomeGenPastureThin
 46,Pasture Meadow,0.8,0.4,0.1,0.3,0.4,"FOREST, PLAINS",biomesoplenty.biomes.BiomeGenPastureMeadow
-47,Thick Ominous Woods,0.8,0.9,0.1,0.1,0.3,MAGICAL,biomesoplenty.biomes.BiomeGenOminousWoodsThick
+47,Thick Ominous Woods,0.8,0.9,0.1,0.4,0.8,MAGICAL,biomesoplenty.biomes.BiomeGenOminousWoodsThick
 48,Thick Shrubland,0.6,0.05,0.1,0.2,0.2,PLAINS,biomesoplenty.biomes.BiomeGenShrublandForest
 49,Canyon Ravine,0.8,0.4,0.1,0.3,0.4,"HILLS, DESERT",biomesoplenty.biomes.BiomeGenCanyonRavine
 50,Meadow Forest,0.7,0.7,0.1,0.1,0.3,"FOREST, PLAINS",biomesoplenty.biomes.BiomeGenMeadowForest
@@ -52,7 +55,7 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Min Height,Max Height,Types,Class
 63,Majestic Meadow,2.0,2.0,0.1,0.1,2.0,"PLAINS, MAGICAL",biomesoplenty.biomes.promisedland.BiomeGenPromisedLandPlains
 64,Blessed Bog,2.0,2.0,0.1,0.1,2.0,"SWAMP, MAGICAL",biomesoplenty.biomes.promisedland.BiomeGenPromisedLandSwamp
 65,Nether,2.0,0.0,0.1,0.1,0.3,NETHER,biomesoplenty.biomes.nether.BiomeGenNetherBase
-66,Undergarden,2.0,0.0,0.1,0.1,0.3,"FOREST, NETHER",biomesoplenty.biomes.nether.BiomeGenNetherGarden
+66,Undergarden,2.0,0.0,0.1,0.1,0.3,"JUNGLE, NETHER",biomesoplenty.biomes.nether.BiomeGenNetherGarden
 67,Corrupted Sands,2.0,0.0,0.1,0.1,0.3,"DESERT, NETHER",biomesoplenty.biomes.nether.BiomeGenNetherDesert
 68,Phantasmagoric Inferno,2.0,0.0,0.1,0.1,0.3,NETHER,biomesoplenty.biomes.nether.BiomeGenNetherLava
 69,Boneyard,2.0,0.0,0.1,0.1,0.3,"WASTELAND, NETHER",biomesoplenty.biomes.nether.BiomeGenNetherBone
@@ -92,8 +95,8 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Min Height,Max Height,Types,Class
 179,Canyon,0.8,0.4,0.1,1.5,2.0,"MOUNTAIN, HILLS, DESERT",biomesoplenty.biomes.BiomeGenCanyon
 180,Chaparral,0.8,0.4,0.1,0.3,0.6,PLAINS,biomesoplenty.biomes.BiomeGenChaparral
 181,Cherry Blossom Grove,0.7,0.8,0.1,0.3,0.4,"FOREST, MAGICAL",biomesoplenty.biomes.BiomeGenCherryBlossomGrove
-182,Coniferous Forest,0.5,0.4,0.1,0.2,0.8,"FOREST, HILLS",biomesoplenty.biomes.BiomeGenConiferousForest
-183,Snowy Coniferous Forest,0.0,0.5,0.1,0.2,0.7,"FOREST, HILLS, FROZEN",biomesoplenty.biomes.BiomeGenConiferousForestSnow
+182,Coniferous Forest,0.5,0.4,0.1,0.4,0.9,"FOREST, HILLS",biomesoplenty.biomes.BiomeGenConiferousForest
+183,Snowy Coniferous Forest,0.0,0.5,0.1,0.3,0.6,"FOREST, HILLS, FROZEN",biomesoplenty.biomes.BiomeGenConiferousForestSnow
 184,Crag,0.4,0.2,0.1,2.0,3.0,"MOUNTAIN, WASTELAND",biomesoplenty.biomes.BiomeGenCrag
 185,Dead Forest,1.2,0.1,0.1,0.2,0.7,FOREST,biomesoplenty.biomes.BiomeGenDeadForest
 186,Snowy Dead Forest,0.05,0.8,0.1,0.2,0.7,"FOREST, FROZEN",biomesoplenty.biomes.BiomeGenDeadForestSnow
@@ -118,12 +121,12 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Min Height,Max Height,Types,Class
 205,Lush Swamp,0.7,1.0,0.1,0.2,0.3,"SWAMP, WATER",biomesoplenty.biomes.BiomeGenLushSwamp
 206,Mangrove,0.8,0.9,0.1,0.1,0.3,"FOREST, WATER",biomesoplenty.biomes.BiomeGenMangrove
 210,Maple Woods,0.2,0.8,0.1,0.3,0.6,FOREST,biomesoplenty.biomes.BiomeGenMapleWoods
-211,Marsh,0.5,0.9,0.1,0.2,0.3,"SWAMP, WATER",biomesoplenty.biomes.BiomeGenMarsh
+211,Marsh,0.5,0.9,0.1,0.2,0.2,"SWAMP, WATER",biomesoplenty.biomes.BiomeGenMarsh
 212,Meadow,0.7,0.7,0.1,0.1,0.3,"FOREST, PLAINS",biomesoplenty.biomes.BiomeGenMeadow
 213,Mesa,2.0,0.05,0.1,0.4,2.0,"MOUNTAIN, DESERT, WASTELAND",biomesoplenty.biomes.BiomeGenMesa
 214,Moor,0.5,1.0,0.1,0.7,0.8,"HILLS, SWAMP",biomesoplenty.biomes.BiomeGenMoor
 215,Mountain,0.5,0.1,0.1,1.0,1.5,MOUNTAIN,biomesoplenty.biomes.BiomeGenMountain
-216,Mystic Grove,0.9,1.0,0.1,0.1,0.3,"FOREST, MAGICAL",biomesoplenty.biomes.BiomeGenMysticGrove
+216,Mystic Grove,0.9,1.0,0.1,0.3,0.8,"FOREST, MAGICAL",biomesoplenty.biomes.BiomeGenMysticGrove
 217,Oasis,0.9,0.7,0.1,0.3,0.4,"DESERT, JUNGLE",biomesoplenty.biomes.BiomeGenOasis
 218,Ominous Woods,0.8,0.9,0.1,0.1,0.3,MAGICAL,biomesoplenty.biomes.BiomeGenOminousWoods
 219,Orchard,0.8,0.4,0.1,0.1,0.3,"FOREST, PLAINS",biomesoplenty.biomes.BiomeGenOrchard
@@ -133,7 +136,7 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Min Height,Max Height,Types,Class
 223,Polar,0.0,0.5,0.1,-0.5,0.0,"WATER, FROZEN",biomesoplenty.biomes.BiomeGenPolar
 224,Prairie,0.9,0.6,0.1,0.3,0.4,PLAINS,biomesoplenty.biomes.BiomeGenPrairie
 225,Quagmire,0.8,0.9,0.1,0.2,0.3,"SWAMP, WASTELAND",biomesoplenty.biomes.BiomeGenQuagmire
-226,Rainforest,2.0,2.0,0.1,0.7,1.8,"FOREST, HILLS, JUNGLE",biomesoplenty.biomes.BiomeGenRainforest
+226,Rainforest,2.0,2.0,0.1,0.2,1.8,"FOREST, HILLS, JUNGLE",biomesoplenty.biomes.BiomeGenRainforest
 227,Redwood Forest,0.8,0.4,0.1,0.3,0.4,FOREST,biomesoplenty.biomes.BiomeGenRedwoodForest
 228,Sacred Springs,1.2,0.9,0.1,0.4,1.2,"FOREST, MOUNTAIN, MAGICAL",biomesoplenty.biomes.BiomeGenSacredSprings
 229,Savanna,1.5,0.1,0.1,0.3,0.4,"PLAINS, DESERT",biomesoplenty.biomes.BiomeGenSavanna
@@ -145,16 +148,16 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Min Height,Max Height,Types,Class
 235,Sludgepit,0.8,0.9,0.1,0.1,0.3,"FOREST, SWAMP, WASTELAND",biomesoplenty.biomes.BiomeGenSludgepit
 236,Spruce Woods,0.6,0.7,0.1,0.1,0.3,FOREST,biomesoplenty.biomes.BiomeGenSpruceWoods
 237,Steppe,2.0,0.05,0.1,0.3,0.4,"PLAINS, DESERT",biomesoplenty.biomes.BiomeGenSteppe
-238,Temperate Rainforest,0.7,0.8,0.1,0.2,1.2,"FOREST, HILLS",biomesoplenty.biomes.BiomeGenTemperateRainforest
+238,Temperate Rainforest,0.7,0.8,0.1,0.2,0.6,"FOREST, HILLS",biomesoplenty.biomes.BiomeGenTemperateRainforest
 239,Thicket,0.6,0.2,0.1,0.2,0.2,"FOREST, PLAINS",biomesoplenty.biomes.BiomeGenThicket
 240,Timber,0.7,0.8,0.1,0.3,0.4,FOREST,biomesoplenty.biomes.BiomeGenTimber
 241,Tropical Rainforest,1.2,0.9,0.1,0.3,0.7,JUNGLE,biomesoplenty.biomes.BiomeGenTropicalRainforest
-242,Tropics,2.0,2.0,0.1,0.1,0.5,"WATER, JUNGLE",biomesoplenty.biomes.BiomeGenTropics
+242,Tropics,2.0,2.0,0.1,0.0,0.4,"WATER, JUNGLE",biomesoplenty.biomes.BiomeGenTropics
 243,Tundra,0.2,0.8,0.1,0.1,0.3,"FROZEN, WASTELAND",biomesoplenty.biomes.BiomeGenTundra
-244,Volcano,2.0,0.05,0.1,0.6,0.9,"MOUNTAIN, WASTELAND",biomesoplenty.biomes.BiomeGenVolcano
+244,Volcano,2.0,0.05,0.1,0.6,1.2,"MOUNTAIN, WASTELAND",biomesoplenty.biomes.BiomeGenVolcano
 245,Wasteland,2.0,0.05,0.1,0.3,0.4,WASTELAND,biomesoplenty.biomes.BiomeGenWasteland
 246,Wetland,0.8,0.9,0.1,0.3,0.5,"FOREST, SWAMP",biomesoplenty.biomes.BiomeGenWetland
-247,Woodland,1.7,0.2,0.1,0.3,0.4,FOREST,biomesoplenty.biomes.BiomeGenWoodland
+247,Woodland,1.7,0.2,0.1,0.3,0.7,FOREST,biomesoplenty.biomes.BiomeGenWoodland
 248,Plains,0.8,0.4,0.1,0.1,0.3,PLAINS,biomesoplenty.biomes.vanilla.BiomeGenPlainsNew
 249,Desert,2.0,0.05,0.1,0.2,0.3,DESERT,biomesoplenty.biomes.vanilla.BiomeGenDesertNew
 250,Forest,0.7,0.8,0.1,0.1,0.3,FOREST,biomesoplenty.biomes.vanilla.BiomeGenForestNew

@@ -1,6 +1,15 @@
 # Configuration file
 
 ####################
+# achievement properties
+####################
+
+"achievement properties" {
+    B:AchievementsEnabled=true
+}
+
+
+####################
 # alpha behavior
 ####################
 
@@ -38,6 +47,7 @@ block {
     I:"Crafting Station"=3233
     I:"Drying Rack"=3227
     I:"Essence Extractor"=3234
+    I:"Furnace Slab"=3192
     I:"Glass Pane"=3228
     I:"Held Item Block"=1472
     I:"Jungle Barricade"=1487
@@ -224,6 +234,28 @@ looks {
     I:"Tool Rod"=14021
     I:"Tool Shard"=14022
     I:"Wood Pattern"=14023
+}
+
+
+####################
+# smeltery output modification
+####################
+
+"smeltery output modification" {
+    # Number of ingots returned from smelting Aluminum Brass in the smeltery
+    I:"Aluminum Brass ingot return"=4
+
+    # Number of ingots returned from smelting Alumite in the smeltery
+    I:"Alumite ingot return"=3
+
+    # Number of ingots returned from smelting Bronze in the smeltery
+    I:"Bronze ingot return"=3
+
+    # Number of ingots returned from smelting ores in the smeltery
+    I:"Ingots per ore"=2
+
+    # Number of ingots returned from smelting Manyullyn in the smeltery
+    I:"Manyullyn ingot return"=1
 }
 
 
