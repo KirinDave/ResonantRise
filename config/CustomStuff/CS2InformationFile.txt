@@ -450,8 +450,8 @@ oreImpureCopper
 nuggetMeat
 ingotNetherOsmium
 ingotAluminum
-gemTanzanite
 logWillow
+gemTanzanite
 nuggetEnderium
 dustCobalt
 nuggetNaturalAluminum
@@ -1016,6 +1016,7 @@ crystallineDark Iron
 blockPrometheum
 plateDenseLapis
 blockAstral Silver
+rodIron
 dustAluminum
 blockCarpet
 cropWildCherry
