@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.3.6d-BETA</version>
+    <version>2.3.6e-BETA</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -321,8 +321,8 @@
         name="OpenBlocks" type="mods" version="1.2.0"
         website="http://openmods.info/"
         description="[pending]" />
-	<mod url="packs/ResonantRise/files/2.3/PluginsforForestry-1.6.4-3.2.28.jar" file="PluginsforForestry-1.6.4-3.2.28.jar" md5="086045f08dcbf31bb7d81c917552237b" download="server"
-        name="Plugins for Forestry" type="mods" version="3.2.28"
+	<mod url="packs/ResonantRise/files/2.3/PluginsforForestry-1.6.4-3.2.30.jar" file="PluginsforForestry-1.6.4-3.2.30.jar" md5="6ffc845319e8289c5bbbb89c78de0044" download="server"
+        name="Plugins for Forestry" type="mods" version="3.2.30"
         website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=INpureProjects%40gmail%2ecom&amp;lc=US&amp;item_name=denoflions%20mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
         description="[pending]" />
 	<mod url="packs/ResonantRise/files/2.3/QuarryPlus-1.6.4-1.5.5.3.zip" file="QuarryPlus-1.6.4-1.5.5.3.zip" md5="951b462e0afb400ae6bbd9c24c0b93a2" download="server"
