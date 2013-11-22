@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.4-DEV-003</version>
+    <version>2.4-DEV-004</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -21,13 +21,13 @@
 
   <mods>
     <!-- INTERNAL MODS ONLY -->
-	<mod url="packs/ResonantRise/files/GEC-only/Opis_1.0.3b_alpha.zip" file="Opis_1.0.3b_alpha.zip" md5="2553744e1903c657f42c9f8a84b43355" download="server"
-         name="Opis" type="mods" group="Cartographer" depends="Mobius Core" version="1.0.3b"
+	<mod url="packs/ResonantRise/files/GEC-only/Opis_1.0.4_alpha.zip" file="Opis_1.0.4_alpha.zip" md5="aea7e08c0ac8ee2a0f9f1bdce2f63c5c" download="server"
+         name="Opis" type="mods" group="Cartographer" depends="Mobius Core" version="1.0.4"
          website="http://www.minecraftforum.net/topic/2104497-"
          description="THIS SHOULD NOT BE IN A PUBLICLY RELEASED BUILD."
          optional="yes" />
-	<mod url="packs/ResonantRise/files/GEC-only/MobiusCore_1.0.1.jar" file="MobiusCore_1.0.1.jar" md5="95c4d36fa2a8506ee99a795d982e9a7d" download="server"
-         name="Mobius Core" type="mods" version="1.0.1"
+	<mod url="packs/ResonantRise/files/GEC-only/MobiusCore_1.0.2.jar" file="MobiusCore_1.0.2.jar" md5="2a192bcd015d12049d2ab758015db4e7" download="server"
+         name="Mobius Core" type="mods" version="1.0.2"
          website="http://www.minecraftforum.net/topic/2104497-"
          description="THIS SHOULD NOT BE IN A PUBLICLY RELEASED BUILD."
          optional="yes" />
