@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.4-DEV-002</version>
+    <version>2.4-DEV-003</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -29,6 +29,12 @@
 	<mod url="packs/ResonantRise/files/GEC-only/MobiusCore_1.0.1.jar" file="MobiusCore_1.0.1.jar" md5="95c4d36fa2a8506ee99a795d982e9a7d" download="server"
          name="Mobius Core" type="mods" version="1.0.1"
          website="http://www.minecraftforum.net/topic/2104497-"
+         description="THIS SHOULD NOT BE IN A PUBLICLY RELEASED BUILD."
+         optional="yes" />
+	<mod url="packs/ResonantRise/files/GEC-only/Atomic_Science_v1.0.0.153.jar" file="Atomic_Science_v1.0.0.153.jar" md5="3f6eac9c39bebb469ecf97db7ad8996f" download="server"
+         name="Atomic Science" type="mods" version="1.0.0.153"
+         website="http://universalelectricity.com/"
+		 donation="http://universalelectricity.com/"
          description="THIS SHOULD NOT BE IN A PUBLICLY RELEASED BUILD."
          optional="yes" />
 	
