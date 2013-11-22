@@ -256,6 +256,9 @@ looks {
 
     # Number of ingots returned from smelting Manyullyn in the smeltery
     I:"Manyullyn ingot return"=1
+
+    # Number of ingots returned from smelting Pig Iron in the smeltery
+    I:"Pig Iron ingot return"=1
 }
 
 

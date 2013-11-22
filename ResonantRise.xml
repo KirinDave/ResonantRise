@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.4.2a-BETA</version>
+    <version>2.4.2b-BETA</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -407,9 +407,9 @@
         name="Super Crafting Frame" type="mods" version="1.6.2.7"
         website="http://www.minecraftforum.net/topic/1870830-"
         description="[pending]" />
-    <mod url="packs/ResonantRise/files/2.4/TConstruct_1.6.4_1.5.1d6.jar" file="TConstruct_1.6.4_1.5.1d6.jar" md5="4458a1f16e2679eb7143291b0301e4c7" download="server"
+    <mod url="packs/ResonantRise/files/2.4/TConstruct_1.6.4_1.5.1d7.1.jar" file="TConstruct_1.6.4_1.5.1d7.1.jar" md5="7ddb205373cb820c04ddec57d6721296" download="server"
          name="Tinker's Construct"  type="mods" 
-         version="1.5.1.d6" 
+         version="1.5.1.d7" 
          website="http://www.minecraftforum.net/topic/1659892-15xtinkers-construct/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=56Q7K92KRPW2N&amp;lc=US&amp;item_name=Tinkers%20Construct&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
          description="Dat Glass, Dem Tools" />
 	<mod url="packs/ResonantRise/files/2.4/TMechworks_1.6.4_0.1.1.jar" file="TMechworks_1.6.4_0.1.1.jar" md5="46a1fb64ac853127c52b6861d5cbb9ea" download="server"
