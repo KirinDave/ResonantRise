@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.3.6f-BETA</version>
+    <version>2.3.6g-BETA</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -34,8 +34,8 @@
          server="no" />
     
     <!-- Mods -->
-    <mod url="packs/ResonantRise/files/2.3/minecraftforge-universal-1.6.4-9.11.1.938.jar" file="minecraftforge-universal-1.6.4-9.11.1.938.jar" md5="4a211464692ee1c6331360cb2a843928" download="server"
-          name="Forge" type="forge" version="9.11.1.938" website="http://www.minecraftforge.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" description="The Core." />
+    <mod url="packs/ResonantRise/files/2.3/forge-1.6.4-9.11.1.953-universal.jar" file="forge-1.6.4-9.11.1.953-universal.jar" md5="0bf5250f9ff4b7b0f3bcc41893010781" download="server"
+          name="Forge" type="forge" version="9.11.1.953" website="http://www.minecraftforge.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" description="The Core." />
     <mod url="packs/ResonantRise/files/forgelibs/ForgeMultipartDebug_1.0.0.193.zip" file="ForgeMultipartDebug_1.0.0.193.zip" md5="99e2ec47ec49465f1acfa81766e52d24" download="server"
          name="Forge Multipart" type="extract" extractto="root" version="1.0.0.193" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Forge Multipart done right."  />
 	<mod url="packs/ResonantRise/files/2.2/iChunUtil2.3.0.zip" file="iChunUtil2.3.0.zip" md5="9c370bb6b27c4b670634552302f94422" download="server"
