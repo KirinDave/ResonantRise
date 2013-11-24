@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.4.2d-BETA</version>
+    <version>2.4.2e-BETA</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -507,10 +507,10 @@
          version="2.0.1" website="http://ichun.us/mods/portalgun/" donation="http://pitchinbox.com/redirect.php?id=9657538021" description="[pending]"
          depends="iChunUtil"/>
     <mod url="http://adf.ly/1311628/thaumcraft-4" 
-		 file="Thaumcraft4.0.5.zip" download="browser" name="Thaumcraft 4" optional="yes" type="mods" version="4.0.5" website="http://tinyurl.com/kg3t8dv" donation="http://tinyurl.com/nfptdtz" description="This one won't creep you out, kids."
+		 file="Thaumcraft4.0.5a.zip" download="browser" name="Thaumcraft 4" optional="yes" type="mods" version="4.0.5a" website="http://tinyurl.com/kg3t8dv" donation="http://tinyurl.com/nfptdtz" description="This one won't creep you out, kids."
          />
 	<mod url="http://adf.ly/WsDke"
-         file="ThaumicTinkerer 2.0-28.jar" download="browser" depends="Thaumcraft 4" optional="yes" name="Thaumic Tinkerer" type="mods" version="2.0-28" website="http://tinyurl.com/qz5wzps" description="[pending]" 
+         file="ThaumicTinkerer 2.0-29.jar" download="browser" depends="Thaumcraft 4" optional="yes" name="Thaumic Tinkerer" type="mods" version="2.0-29" website="http://tinyurl.com/qz5wzps" description="[pending]" 
          />
 	<mod url="http://binarymage.com/mystcraft/publish/mystcraft-uni-1.6.4-0.10.11.00.zip"
              file="mystcraft-uni-1.6.4-0.10.11.00.zip"
