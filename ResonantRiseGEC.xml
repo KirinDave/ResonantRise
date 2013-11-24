@@ -38,7 +38,6 @@
          description="THIS SHOULD NOT BE IN A PUBLICLY RELEASED BUILD."
          optional="yes" />
 	
-  <mods>
     <!-- Evaluation Holding pen cuz it's easier here -->
     <mod url="packs/ResonantRise/files/2.3/CompactDisplayHUD[1.0.1].zip" file="CompactDisplayHUD[1.0.1].zip" md5="9fc062202a1af3317628a67ee68393af" download="server"
          name="CompactDisplayHUD" type="mods" version="1.0.1"
