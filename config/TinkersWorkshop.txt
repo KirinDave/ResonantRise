@@ -49,6 +49,8 @@ block {
     I:"Essence Extractor"=3234
     I:"Furnace Slab"=3192
     I:"Glass Pane"=3228
+    I:"Glue Block"=3219
+    I:"Glue Fluid Block"=3220
     I:"Held Item Block"=1472
     I:"Jungle Barricade"=1487
     I:Landmine=1470
@@ -187,6 +189,7 @@ equipables {
 ####################
 
 experimental {
+    B:"Allow horses to be melted down for glue"=true
     B:"Items can be thrown into smelteries"=true
 
     # Warning: Very buggy

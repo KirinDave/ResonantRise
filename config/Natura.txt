@@ -243,6 +243,15 @@ item {
 
 
 ####################
+# retrogen
+####################
+
+retrogen {
+    B:"Retroactive Generation"=false
+}
+
+
+####################
 # terrain
 ####################
 
