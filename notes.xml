@@ -54,6 +54,12 @@
          name="Luma"  type="mods" 
          version="0.2.2" website="http://www.kelmai.com/luma/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=NAZUR5CTQ46HU" description=""  />
     
+	<mod url="http://adf.ly/V13HJ"
+         md5="EA2EEF7EE8B876DBD6ADF6F8967B84D4"
+		 file="PortalGun2.0.1.zip" download="browser" name="iChun's PortalGun" type="mods" optional="yes"
+         version="2.0.1" website="http://ichun.us/mods/portalgun/" donation="http://pitchinbox.com/redirect.php?id=9657538021" description="[pending]"
+         depends="iChunUtil"/>
+	
 	== MOD W/ DISTRO PERMS SKELETON ==
 	
     <mod url="PLACEHOLDER" file="PLACEHOLDER" md5="LONG STRING OF TEXT" download="server"
