@@ -27,8 +27,8 @@
          description="Hud 2.0"
          optional="yes"
          server="no" />
-	<mod url="packs/ResonantRise/files/2.4/RemoteIO-1.3.1.jar" file="RemoteIO-1.3.1.jar" md5="c5f1a0615b6621bac4445213f3676229" download="server"
-         name="RemoteIO" type="mods" version="1.3.1" group="CrashBlock1"
+	<mod url="packs/ResonantRise/files/2.4/RemoteIO-1.4.0.jar" file="RemoteIO-1.4.0.jar" md5="d651f4acfee65cb2f41b2742d9a9f268" download="server"
+         name="RemoteIO" type="mods" version="1.4.0" group="CrashBlock1"
          website="http://www.minecraftforum.net/topic/2038242-"
 		 donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;amp;business=K78KZ37HLU4X2&amp;amp;lc=US&amp;amp;item_name=dmillerw%27s%20Mods&amp;amp;currency_code=USD&amp;amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"
          description="Technical Tinkering."
@@ -448,8 +448,8 @@
         name="Underground Biomes" type="mods" optional="yes" version="0.4.2c"
         website="http://www.minecraftforum.net/topic/1593704-"
         description="[pending]" />
-	<mod url="packs/ResonantRise/files/2.4/Waila_1.4.0.zip" file="Waila_1.4.0.zip" md5="f6293e6864356a1ef2879177fa31562c" download="server"
-         name="Waila" type="mods" version="1.4.0"
+	<mod url="packs/ResonantRise/files/2.4/Waila_1.4.1.zip" file="Waila_1.4.1.zip" md5="402c381d816e5312cd8501f8ffb07327" download="server"
+         name="Waila" type="mods" version="1.4.1"
          website="http://www.minecraftforum.net/topic/1846244-152-waila-134-block-and-mod-info-ingame/"
          description="What am I looking at?" />
     <mod url="packs/ResonantRise/files/2.2/WR-CBE%201.4.0.6.jar" file="WR-CBE 1.4.0.6.jar" md5="fcba120a8d1086365b3009fe937326c2" download="server"
