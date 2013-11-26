@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.4-DEV-010</version>
+    <version>2.4-DEV-011</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -438,14 +438,14 @@
 		 donation="http://tinyurl.com/pm9ubfk"
          description="The hero's great legacy follows him."
          />
-	<mod url="packs/ResonantRise/files/2.4/TConstruct_1.6.4_1.5.1d10.jar" file="TConstruct_1.6.4_1.5.1d10.jar" md5="8cfa46033a9d3706282e6992b645c59f" download="server"
+	<mod url="packs/ResonantRise/files/2.4/TConstruct_1.6.4_1.5.1RC2.jar" file="TConstruct_1.6.4_1.5.1RC2.jar" md5="df21e42aed2e31f7ee584d401a0eee42" download="server"
          name="Tinker's Construct"  type="mods" 
-         version="1.5.1d10" 
+         version="1.5.1RC2" 
          website="http://www.minecraftforum.net/topic/1659892-15xtinkers-construct/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=56Q7K92KRPW2N&amp;lc=US&amp;item_name=Tinkers%20Construct&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
          description="Dat Glass, Dem Tools" />
-	<mod url="packs/ResonantRise/files/2.4/TMechworks_1.6.4_0.1.1.jar" file="TMechworks_1.6.4_0.1.1.jar" md5="46a1fb64ac853127c52b6861d5cbb9ea" download="server"
+	<mod url="packs/ResonantRise/files/2.4/TMechworks_1.6.4_0.1.2.jar" file="TMechworks_1.6.4_0.1.2.jar" md5="b550ed9e1bd358e77523322447aeb185" download="server"
          name="Tinker's Mechworks" type="mods" 
-         version="0.1.1" 
+         version="0.1.2" 
          website="http://www.minecraftforum.net/topic/1659892-15xtinkers-construct/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=56Q7K92KRPW2N&amp;lc=US&amp;item_name=Tinkers%20Construct&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
          description="Dat Torque" />
     <mod url="packs/ResonantRise/files/2.2/Translocator%201.1.0.13.jar" file="Translocator 1.1.0.13.jar" md5="33acf4d7617611afdb46d1d6a7234bdd" download="server"
