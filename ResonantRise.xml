@@ -48,7 +48,7 @@
          name="iChunUtil" type="mods" version="2.4.0" website="http://ichun.us/mods/ichun-util/" donation="http://pitchinbox.com/redirect.php?id=9657538021" description="Library pack for iChun's mods."  />
     <mod url="packs/ResonantRise/files/2.3/immibis-microblocks-57.2.3.jar" file="immibis-microblocks-57.2.3.jar" md5="dffdf05b653a649da7aa68175e31ba58" download="server"
          name="Immibis Microblocks" depends="ImmibisCore" type="mods" optional="yes" group="CrashBlock1"
-         version="57.2.3" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="An early replacement for Redpower2's blocks."
+         version="57.2.3" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="An early replacement for Redpower2's blocks." />
     <mod url="packs/ResonantRise/files/2.3/AdvancedReactors-1.6.2_1.0.5-exp.jar" file="AdvancedReactors-1.6.2_1.0.5-exp.jar" md5="559dee852335b2042ee26601a98bce07" download="server"
         name="Advanced Reactors" type="mods" version="1.0.5-exp"
         website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9212"
