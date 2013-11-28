@@ -439,7 +439,6 @@ ingotAluminum
 logWillow
 gemTanzanite
 nuggetEnderium
-nuggetNaturalAluminum
 oreRuby
 reducedDark Iron
 dustImpureTin
@@ -561,7 +560,6 @@ blockCarmot
 blockCeruclase
 cropPecan
 oreGold
-dirtyGravelAluminum
 clumpGold
 dustIron
 oreMalachite
@@ -662,7 +660,6 @@ nuggetArdite
 crystalCinnabar
 oreAluminium
 dustAlduorite
-ProjRed|Exploration:bag
 cropStrawberry
 ingotMagnesium
 dustImpureArdite
@@ -874,7 +871,6 @@ ingotCobalt
 blockArdite
 crushedUranium
 dustOrichalcum
-cleanGravelAluminum
 cropKeyLime
 oreSanguinite
 dustTinyGold
@@ -927,14 +923,12 @@ gearGold
 blockFzDarkIron
 blockAdamantine
 ingotManyullyn
-crystallineAluminum
 sulfuricAcid
 blockWool
 oreEmerald
 gemTopaz
 oreNetherEmerald
 ingotAlduorite
-blockNaturalAluminum
 dustVyroxeres
 ingotDepletedUranium
 dyeOrange
@@ -965,7 +959,6 @@ crystallineDark Iron
 blockPrometheum
 plateDenseLapis
 blockAstral Silver
-rodIron
 dustAluminum
 cellDeuterium
 blockCarpet
@@ -999,14 +992,13 @@ oreIridium
 dustDirtyIron
 groundNickel
 componentMVCapacitor
-reducedAluminum
 ingotEnderium
 arditeRod
 cleanGravelTin
 cropTangerine
 glassBrown
-oreAmmonium
 glassPaneBlue
+oreAmmonium
 dustSulfur
 blockDeep Iron
 seedWheat
@@ -1017,7 +1009,6 @@ glassGreen
 groundIron
 oreLemurite
 oreKalendrite
-dustNaturalAluminum
 flowerDaffodil
 dustHaderoth
 gemMalachite
@@ -1187,10 +1178,11 @@ hunger
 weakness
 poison
 wither
-radiation
+healthBoost
 absorption
 saturation
 ic2.potion.radiation
+radiation
 fluxtaint
 Water Breathing
 Flight

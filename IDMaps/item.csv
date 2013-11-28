@@ -401,7 +401,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 521,Block,Mariculture,tile.customBlock,mariculture.factory.blocks.BlockCustomBlock
 522,Block,Mariculture,tile.customStairs,mariculture.factory.blocks.BlockCustomStairs
 523,Block,Mariculture,tile.customSlabs,mariculture.factory.blocks.BlockCustomSlab
-524,Block,Mariculture,tile.customSlabs,mariculture.factory.blocks.BlockCustomSlab
+524,Block,Mariculture,tile.customSlabsDouble,mariculture.factory.blocks.BlockCustomSlab
 525,Block,Mariculture,tile.customFence,mariculture.factory.blocks.BlockCustomFence
 526,Block,Mariculture,tile.customGate,mariculture.factory.blocks.BlockCustomGate
 527,Block,Mariculture,tile.customWall,mariculture.factory.blocks.BlockCustomWall
@@ -440,9 +440,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 619,Block,RedLogic,tile.null,mods.immibis.redlogic.RLNormalBlock
 620,Block,RedLogic,tile.null,mods.immibis.redlogic.lamps.BlockLampNonCube
 621,Block,RedLogic,tile.null,mods.immibis.redlogic.interaction.BlockLumarButton
-640,Block,remoteIO,tile.blockIO,com.dmillerw.remoteIO.block.BlockIO
-641,Block,remoteIO,tile.blockHeater,com.dmillerw.remoteIO.block.BlockHeater
-642,Block,remoteIO,tile.blockReservoir,com.dmillerw.remoteIO.block.BlockReservoir
 701,Block,EnderIO,tile.enderIO:blockEnderIo,crazypants.enderio.enderface.BlockEnderIO
 702,Block,EnderIO,tile.enderIO:blockConduitBundle,crazypants.enderio.conduit.BlockConduitBundle
 703,Block,EnderIO,tile.enderIO:blockConduitFacade,crazypants.enderio.conduit.facade.BlockConduitFacade
@@ -798,6 +795,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1730,Block,Metallurgy3Machines,tile.Metallurgy:machines/enchanter/Enchanter,rebelkeithy.mods.metallurgy.machines.enchanter.BlockMetallurgyEnchantmentTable
 1753,Block,MagicBees,tile.effectJar,magicbees.block.BlockEffectJar
 1754,Block,MagicBees,tile.hive,magicbees.block.BlockHive
+1858,Block,witchery,tile.witcheryLeechChest,com.emoniph.witchery.blocks.BlockLeechChest
+1859,Block,witchery,tile.witcheryGlowGlobe,com.emoniph.witchery.blocks.BlockGlowGlobe
 1860,Block,witchery,tile.altar,com.emoniph.witchery.blocks.BlockAltar
 1861,Block,witchery,tile.witchesOvenIdle,com.emoniph.witchery.blocks.BlockWitchesOven
 1862,Block,witchery,tile.witchesOvenBurning,com.emoniph.witchery.blocks.BlockWitchesOven
@@ -1304,6 +1303,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3005,Block,Mekanism,tile.MachineBlock,mekanism.common.block.BlockMachine
 3006,Block,Mekanism,tile.ObsidianTNT,mekanism.common.block.BlockObsidianTNT
 3007,Block,Mekanism,tile.OreBlock,mekanism.common.block.BlockOre
+3008,Block,Mekanism,tile.MachineBlock2,mekanism.common.block.BlockMachine
 3009,Block,Mekanism,tile.Transmitter,mekanism.common.block.BlockTransmitter
 3160,Block,gascraft,tile.chimney,emasher.gas.block.BlockDuct
 3161,Block,gascraft,tile.naturalGas,emasher.gas.block.BlockNaturalGas
@@ -1474,6 +1474,9 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3401,Block,MekanismInduction,tile.Multimeter,mekanism.induction.common.block.BlockMultimeter
 3402,Block,MekanismInduction,tile.ElectromagneticContractor,mekanism.induction.common.block.BlockEMContractor
 3403,Block,MekanismInduction,tile.Battery,mekanism.induction.common.block.BlockBattery
+3500,Block,JABBA,tile.BetterBarrel,mcp.mobius.betterbarrels.common.BlockBarrel
+3501,Block,JABBA,tile.MiniBarrel (WIP),mcp.mobius.betterbarrels.common.BlockMiniBarrel
+3502,Block,JABBA,tile.Barrel Shelf (WIP),mcp.mobius.betterbarrels.common.BlockBarrelShelf
 3540,Block,HexWool,tile.hexwool.block.coloredWool,com.techjar.hexwool.block.BlockColoredWool
 3541,Block,HexWool,tile.hexwool.block.woolColorizer,com.techjar.hexwool.block.BlockWoolColorizer
 3558,Block,SuperCraftingFrame,tile.CraftingFrame,edgarallen.scf.content.BlockCraftingFrame
@@ -1744,6 +1747,12 @@ ID,Block/Item,Mod,Unlocalised name,Class
 7164,Item,LogisticsPipes|Main,item.PipeFluidSupplierMk2,logisticspipes.items.ItemLogisticsPipe
 7426,Item,QuarryPlus,item.null,org.yogpstop.qp.ItemTool
 7493,Item,EnderStorage,item.enderpouch,codechicken.enderstorage.storage.item.ItemEnderPouch
+7500,Item,JABBA,item.Generic capacity upgrade,mcp.mobius.betterbarrels.common.items.ItemCapaUpg
+7501,Item,JABBA,item.ItemBarrelSticker,mcp.mobius.betterbarrels.common.items.ItemBarrelSticker
+7502,Item,JABBA,Dolly,mcp.mobius.betterbarrels.common.items.ItemBarrelMover
+7503,Item,JABBA,item.B-Space Tuning Fork (WIP),mcp.mobius.betterbarrels.common.items.ItemTuningFork
+7504,Item,JABBA,item.B-Space Interface (WIP),mcp.mobius.betterbarrels.common.items.ItemBSpaceInterface
+7505,Item,JABBA,item.Locking planks (WIP),mcp.mobius.betterbarrels.common.items.ItemBarrelLocker
 7756,Item,Railcraft,item.railcraft.armor.goggles,mods.railcraft.common.items.ItemGoggles
 7757,Item,Railcraft,item.railcraft.armor.overalls,mods.railcraft.common.items.ItemOveralls
 7758,Item,Railcraft,item.railcraft.emblem,mods.railcraft.common.emblems.ItemEmblem
@@ -1967,6 +1976,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 10895,Item,witchery,item.witcheryNecromancerRobe,com.emoniph.witchery.item.ItemWitchesClothes
 10896,Item,witchery,item.witcheryIceSlippers,com.emoniph.witchery.item.ItemWitchesClothes
 10897,Item,witchery,item.witcherySeedsSnowbell,com.emoniph.witchery.item.ItemWitchSeeds
+10898,Item,witchery,item.witcheryMysticBranch,com.emoniph.witchery.item.ItemMysticBranch
+10899,Item,witchery,item.witcheryMutator,com.emoniph.witchery.item.ItemMutator
 11204,Item,Mekanism,item.null,mekanism.common.item.ItemDust
 11205,Item,Mekanism,item.null,mekanism.common.item.ItemIngot
 11219,Item,Mekanism,item.null,mekanism.common.item.ItemClump
@@ -2008,7 +2019,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 11421,Item,MFFS,item.mffs:moduleCollection,mffs.item.module.ItemModule
 11422,Item,MFFS,item.mffs:moduleInvert,mffs.item.module.ItemModule
 11423,Item,MFFS,item.mffs:moduleSilence,mffs.item.module.ItemModule
-11424,Item,MFFS,item.mffs:fortron,mffs.base.ItemMFFS
 11425,Item,MFFS,item.mffs:moduleRepulsion,mffs.item.module.projector.ItemModuleRepulsion
 11456,Item,Mekanism,item.ElectricBow,mekanism.common.item.ItemElectricBow
 11462,Item,Mekanism,item.EnergyTablet,mekanism.common.item.ItemEnergized
@@ -2365,6 +2375,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 14033,Item,AtomicScience,item.atomicscience:uranium,atomicscience.fenlie.ItYou
 14036,Item,AtomicScience,item.atomicscience:bucketToxicWaste,net.minecraft.item.ItemBucket
 14037,Item,AtomicScience,item.atomicscience:rodBreederFuel,atomicscience.wujian.ItHuanYuan
+14038,Item,AtomicScience,item.atomicscience:cellWater,atomicscience.wujian.ItCell
 14274,Item,TConstruct,item.tconstruct.manual,tconstruct.items.Manual
 14275,Item,TConstruct,item.tconstruct.Pattern,tconstruct.items.CraftingItem
 14276,Item,TConstruct,item.tconstruct.Materials,tconstruct.items.MaterialItem
@@ -3537,7 +3548,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 29257,Item,Mariculture,item.craftingItems,mariculture.core.items.ItemCrafting
 29258,Item,Mariculture,item.bait,mariculture.fishery.items.ItemBait
 29259,Item,Mariculture,item.fishy,mariculture.fishery.items.ItemFishy
-29260,Item,Mariculture,item.fishy,mariculture.fishery.items.ItemFishyFood
+29260,Item,Mariculture,item.fishyFood,mariculture.fishery.items.ItemFishyFood
 29261,Item,Mariculture,item.rodReed,mariculture.fishery.items.ItemRod
 29262,Item,Mariculture,item.rodWood,mariculture.fishery.items.ItemRod
 29264,Item,Mariculture,item.rodTitanium,mariculture.fishery.items.ItemRod
@@ -3824,10 +3835,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 30483,Item,GraviSuite,item.Advanced NanoChestPlate,gravisuite.ItemAdvancedNanoChestPlate
 30498,Item,aere,item.itemCasingBrass,aere_commons.pokefenn.ItemCasingBrass
 30499,Item,aere,item.plateBrass,aere_commons.pokefenn.ItemPlateBrass
-30756,Item,remoteIO,item.itemComponent,com.dmillerw.remoteIO.item.ItemComponent
-30757,Item,remoteIO,item.itemGoggles,com.dmillerw.remoteIO.item.ItemGoggles
-30758,Item,remoteIO,item.itemTool,com.dmillerw.remoteIO.item.ItemTool
-30759,Item,remoteIO,item.itemUpgrade,com.dmillerw.remoteIO.item.ItemUpgrade
 30786,Item,AdvancedReactors,item.plateDenseLapis,phero.mods.advancedreactors.items.ItemAR
 30787,Item,AdvancedReactors,item.infernalReactorVent,phero.mods.advancedreactors.items.ItemInfernalReactorVent
 30788,Item,AdvancedReactors,item.quartzCondensator,phero.mods.advancedreactors.items.ItemReactorCondensator
@@ -3856,8 +3863,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 31602,Item,CompactWindmills,item.rotorIridium,aroma1997.compactwindmills.ItemRotor
 31603,Item,CompactWindmills,item.rotorAlloy,aroma1997.compactwindmills.ItemRotor
 31604,Item,CompactWindmills,item.rotorCloth,aroma1997.compactwindmills.ItemRotor
-31756,Item,AtomicScience,item.atomicscience:cellWater,atomicscience.wujian.ItCell
-31994,Item,extracells,FluidDisplay,extracells.items.ItemFluidDisplay
+31994,Item,extracells,FluidDisplay - this item is just used to mime fluids!,extracells.items.ItemFluidDisplay
 31995,Item,extracells,item.null,extracells.items.ItemCasing
 31996,Item,Forestry,item.ingotCopper,forestry.core.items.ItemForestry
 31997,Item,Forestry,item.apatite,forestry.core.items.ItemForestry
