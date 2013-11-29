@@ -263,7 +263,7 @@
          website="http://www.industrial-craft.net/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=RHLW3YE3T848Q"
          description="HEYOOOOO!"  />
 	<mod url="packs/ResonantRise/files/2.4/ic2lib.zip" file="ic2lib.zip" md5="b35c3a9adb4e2f1856d543cec73c18f8" download="server"
-         name="IC2 Lib"  type="extract" version="2.0.307"
+         name="IC2 Lib"  type="extract" extractto="root" version="2.0.307"
          website="http://www.industrial-craft.net/"
          description="Oh hey!"  />
     <mod url="packs/ResonantRise/files/2.4/infinitubes-57.0.3.jar" file="infinitubes-57.0.3.jar" md5="52150170ecfb68a4ca2efca6232b7569" download="server"

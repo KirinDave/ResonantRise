@@ -213,6 +213,7 @@ vegetable
 steel.molten
 molten.kalendrite
 molten.midasium
+oxygen
 gascraft_toxicgas
 biomass
 gascraft_hydrogen
@@ -223,6 +224,7 @@ uraniumhexafluoride
 gascraft_corrosivegas
 oil
 immibis.liquidxp
+endergoo
 glowstone
 aluminumbrass.molten
 gascraft_naturalgas
@@ -243,6 +245,7 @@ pigiron.molten
 peat
 xpjuice
 bronze.molten
+hydrogen
 bop.liquidpoison
 molten.manganese
 latex
@@ -273,8 +276,8 @@ poison
 molten.zinc
 molten.sanguinite
 seedoil
-tin.molten
 mobessence
+tin.molten
 moltenmagnesium
 slime.blue
 slickwater
