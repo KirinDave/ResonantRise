@@ -320,6 +320,7 @@ ender
 cropBeechnut
 crushedPurifiedUranium
 cropPear
+blockEmerald
 oreCeruclase
 oreVulcanite
 dustObsidian
@@ -335,6 +336,7 @@ glassPanePink
 blockRubber
 gearWood
 oreFirestone
+blockGlowstone
 gemApatite
 compressedDirt4x
 nuggetPlatinum
@@ -358,7 +360,6 @@ cleanGravelLead
 glassPaneGray
 crystalQuartz
 leavesTree
-crystalNiter
 nuggetAluminium
 dustTinySilver
 cropGrapefruit
@@ -396,6 +397,7 @@ oreCobalt
 blockAlumite
 mushroomBluemilk
 hambone
+dustGlowstone
 itemBacon
 projredBundledCable
 glassPaneMagenta
@@ -512,6 +514,7 @@ dustWheat
 ingotAtlarus
 ingotInfernal
 itemClaw
+blockDiamond
 ingotCeruclase
 crushedLead
 oreAlduorite
@@ -608,8 +611,8 @@ oreCinnabar
 cropClove
 dyeWhite
 cropNectarine
-oreNickel
 nuggetNickel
+oreNickel
 crystallineIron
 dustDesichalkos
 dyeBlue
@@ -651,7 +654,6 @@ ingotRefinedGlowstone
 dustBrass
 cropApricot
 componentGliderWing
-blizzRod
 oreNetherDiamond
 ingotTungsten
 groundSilver
@@ -791,8 +793,8 @@ stoneRod
 cropPlantain
 stone
 cropRaspberry
-glassOrange
 oreLapis
+glassOrange
 compressedCobblestone4x
 nuggetIron
 oreNetherIron
@@ -805,7 +807,6 @@ dustSanguinite
 glassPaneYellow
 cropSourCherry
 oreNetherSilver
-crystalSulfur
 oreNetherGold
 copperCableBlock
 slimeRod
@@ -903,6 +904,7 @@ orePrometheum
 dustImpureNickel
 itemSuperconductor
 ingotLemurite
+dustHydratedCoal
 calclavia:BATTERY
 ingotAngmallen
 oreNetherNickel
@@ -911,8 +913,8 @@ reactorCasing
 blockLead
 glassMagenta
 glassPink
-crushedCopper
 blockMud
+crushedCopper
 glassPaneOrange
 dustKalendrite
 burntquartz
@@ -966,6 +968,7 @@ cropWildCherry
 ingotEximite
 componentWiring
 leavesMagic
+blockRedstone
 dustBlizz
 dustAmordrine
 crushedPurifiedCopper
@@ -981,8 +984,8 @@ gemForce
 blockShadow Steel
 blockMidasium
 cleanGravelCopper
-ingotInvar
 blockAsh
+ingotInvar
 blockRefinedObsidian
 stoneRed
 icestone
@@ -997,8 +1000,8 @@ arditeRod
 cleanGravelTin
 cropTangerine
 glassBrown
-glassPaneBlue
 oreAmmonium
+glassPaneBlue
 dustSulfur
 blockDeep Iron
 seedWheat
@@ -1022,6 +1025,7 @@ rodBlizz
 ingotArdite
 ingotTin
 componentCarbonMyofiber
+sandstone
 cropDuskberry
 dustManganese
 bricksStone
@@ -1038,8 +1042,8 @@ oreNetherTin
 blockInolashite
 oreTungsten
 cropLemon
-thaumiumRod
 oreTopaz
+thaumiumRod
 blockPlastic
 dyeLightGray
 ingotKalendrite
@@ -1090,6 +1094,7 @@ blockHaderoth
 crushedPurifiedTin
 cableRedNet
 cropManderin
+cloth
 cropPumpkin
 crushedPurifiedGold
 blockKalendrite
