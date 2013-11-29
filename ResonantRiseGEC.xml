@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.4-DEV-014</version>
+    <version>2.4-DEV-015</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -21,18 +21,7 @@
 
   <mods>
     <!-- INTERNAL MODS ONLY -->
-	<mod url="packs/ResonantRise/files/GEC-only/Opis_1.0.4_alpha.zip" file="Opis_1.0.4_alpha.zip" md5="aea7e08c0ac8ee2a0f9f1bdce2f63c5c" download="server"
-         name="Opis" type="mods" group="Cartographer" depends="Mobius Core" version="1.0.4"
-         website="http://www.minecraftforum.net/topic/2104497-"
-		 donation="http://profmobius.blogspot.fr/"
-         description="THIS SHOULD NOT BE IN A PUBLICLY RELEASED BUILD."
-         optional="yes" />
-	<mod url="packs/ResonantRise/files/GEC-only/MobiusCore_1.0.2.jar" file="MobiusCore_1.0.2.jar" md5="2a192bcd015d12049d2ab758015db4e7" download="server"
-         name="Mobius Core" type="mods" version="1.0.2"
-         website="http://www.minecraftforum.net/topic/2104497-"
-		 donation="http://profmobius.blogspot.fr/"
-         description="THIS SHOULD NOT BE IN A PUBLICLY RELEASED BUILD."
-         optional="yes" />
+
 	
     <!-- Evaluation Holding pen cuz it's easier here -->
     <mod url="packs/ResonantRise/files/2.3/CompactDisplayHUD[1.0.1].zip" file="CompactDisplayHUD[1.0.1].zip" md5="9fc062202a1af3317628a67ee68393af" download="server"
@@ -90,8 +79,8 @@
          version="1.0.2b"
          website="http://www.minecraftforum.net/topic/2028696-ars-magica-2-162164-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=AX7QDYVEP7E2J&amp;lc=CA&amp;item_name=Qor%20Concept%20Entertainment&amp;item_number=Ars%20Magica&amp;currency_code=CAD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted" 
          description="This one might creep you out. A comprehensive magic system." />
-    <mod url="packs/ResonantRise/files/2.2/backpack-1.18.17-1.6.2.zip" file="backpack-1.18.17-1.6.2.zip" md5="bd0c29fcdfc360638fa9e900856aac0e" download="server"
-         name="Backpacks" version="1.18.17" type="mods" 
+    <mod url="packs/ResonantRise/files/2.4/backpack-1.21.24-1.6.x.zip" file="backpack-1.21.24-1.6.x.zip" md5="cb1dea8b413896c04c257ce665a4c74f" download="server"
+         name="Backpacks" version="1.21.24" type="mods" 
          website="http://www.minecraftforum.net/topic/1492661-15x-16x-backpacks-v-11213/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=CCEHF29WUSQVJ" 
          description="Baggy leather in your inventory." />
     <mod url="packs/ResonantRise/files/2.4/BiblioCraft[v1.5.3].zip" file="BiblioCraft[v1.5.3].zip" md5="b143d4a31229fc610aa7ae3921c786b4" download="server"
@@ -232,8 +221,8 @@
         name="ForgeIRC" optional="yes" type="mods" version="1.6.2-cpwbuild2"
         website="http://www.minecraftforum.net/topic/1475847-"
         description="ForgeIRC returns!" />
-    <mod url="packs/ResonantRise/files/2.4/Factorization-0.8.16.jar" file="Factorization-0.8.16.jar" md5="d7f8bef7be15e55da4b32b9cb4b4c747" download="server"
-        name="Factorization" type="mods" version="0.8.16"
+    <mod url="packs/ResonantRise/files/2.4/Factorization-0.8.18.jar" file="Factorization-0.8.18.jar" md5="0fc5a8843b01e614ede3f113b9c6ea0b" download="server"
+        name="Factorization" type="mods" version="0.8.18"
         website="http://www.minecraftforum.net/topic/1351802-"
         description="Unquantifably Awesome. Power that munches and crunches better than Gurgi ever could." />
 	<mod url="packs/ResonantRise/files/2.3/forestry-A-2.3.0.7.jar" file="forestry-A-2.3.0.7.jar" md5="49cb15fb6abb6e655dc90ace5398603e" download="server"
@@ -269,10 +258,14 @@
     <mod url="packs/ResonantRise/files/2.4/OpenPeripheral-0.2.1-snapshot-100-forge9.11.0.898.jar" file="OpenPeripheral-0.2.1-snapshot-100-forge9.11.0.898.jar" md5="265f1746a450040d21b10954cbf5055e" download="server"
          name="OpenPeripherals" version="0.2.1-snapshot-100"
          website="http://www.openperipheral.info/" description="Open source improved ComputerCraft peripherals. Includes the beloved AR goggles." type="mods" />
-    <mod url="packs/ResonantRise/files/2.4/industrialcraft-2_2.0.306-experimental.jar" file="industrialcraft-2_2.0.306-experimental.jar" md5="20a716338acfe5eb0f524978d73e70fe" download="server"
-         name="IndustrialCraft2"  type="mods" version="2.0.306"
+    <mod url="packs/ResonantRise/files/2.4/industrialcraft-2_2.0.307-experimental.jar" file="industrialcraft-2_2.0.307-experimental.jar" md5="69269885c37137e50e54d3238312f353" download="server"
+         name="IndustrialCraft2"  type="mods" extractto="root" version="?"
          website="http://www.industrial-craft.net/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=RHLW3YE3T848Q"
          description="HEYOOOOO!"  />
+	<mod url="packs/ResonantRise/files/2.4/ic2lib.zip" file="ic2lib.zip" md5="b35c3a9adb4e2f1856d543cec73c18f8" download="server"
+         name="IC2 Lib"  type="extract" version="2.0.307"
+         website="http://www.industrial-craft.net/"
+         description="Oh hey!"  />
     <mod url="packs/ResonantRise/files/2.4/infinitubes-57.0.3.jar" file="infinitubes-57.0.3.jar" md5="52150170ecfb68a4ca2efca6232b7569" download="server"
          name="Infinitubes" depends="ImmibisCore"  type="mods"
          version="57.0.3" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="Immibis's exceptionally powerful IKEA-esque item transport." />
@@ -295,17 +288,17 @@
     <mod url="packs/ResonantRise/files/2.4/mariculture-1.6.X-v1.1.4.zip" file="mariculture-1.6.X-v1.1.4.zip" md5="941baf51514584ad984cc5a1743dbbbf" download="server"
          name="Mariculture" version="1.1.4"
          website="http://www.minecraftforum.net/topic/2049315-" description="If you're looking for me, look under the sea, because that is where you'll find me." type="mods" />
-    <mod url="packs/ResonantRise/files/2.4/Mekanism-v5.6.0.496.jar" file="Mekanism-v5.6.0.496.jar" md5="e7dfa5e6ab76ee9261cdd5bbd7bb4ccd" download="server"
-         name="Mekanism" type="mods" version="5.6.0.496" website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" 
+    <mod url="packs/ResonantRise/files/2.4/Mekanism-v5.6.0.503.jar" file="Mekanism-v5.6.0.503.jar" md5="41f3085b7ad1462b56dda7732fe09f20" download="server"
+         name="Mekanism" type="mods" version="5.6.0.503" website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" 
          description="Osmium also cures light wounds."  />
-  <mod url="packs/ResonantRise/files/2.4/MekanismGenerators-v5.6.0.496.jar" file="MekanismGenerators-v5.6.0.496.jar" md5="d6627c69d89bdf7c7c5d5196be1ce179" download="server"
-       name="Mekanism Generators" type="mods" version="5.6.0.496" 
+  <mod url="packs/ResonantRise/files/2.4/MekanismGenerators-v5.6.0.503.jar" file="MekanismGenerators-v5.6.0.503.jar" md5="d5a4206297c150c6b0b1fbf10c696fc7" download="server"
+       name="Mekanism Generators" type="mods" version="5.6.0.503" 
        website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" description="Infinite water is infinite power!" />
-  <mod url="packs/ResonantRise/files/2.4/MekanismTools-v5.6.0.496.jar" file="MekanismTools-v5.6.0.496.jar" md5="eca4225f95b02334b42b65e9d0098cea" download="server"
-       name="Mekanism Tools" type="mods" version="5.6.0.496"
+  <mod url="packs/ResonantRise/files/2.4/MekanismTools-v5.6.0.503.jar" file="MekanismTools-v5.6.0.503.jar" md5="470e1ae9e6e6ba7f895c502eabcd26d3" download="server"
+       name="Mekanism Tools" type="mods" version="5.6.0.503"
        website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" description="Paxel perfect." />
-  <mod url="packs/ResonantRise/files/2.4/MekanismInduction-v5.6.0.496.jar" file="MekanismInduction-v5.6.0.496.jar" md5="fc85667281b26ae50ebf645222ce0378" download="server"
-       name="Mekanism Induction" type="mods" version="5.6.0.496"
+  <mod url="packs/ResonantRise/files/2.4/MekanismInduction-v5.6.0.503.jar" file="MekanismInduction-v5.6.0.503.jar" md5="cf889fc6fffd77f7793388430b874d46" download="server"
+       name="Mekanism Induction" type="mods" version="5.6.0.503"
        website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" description="Working induction!" />
   <mod url="packs/ResonantRise/files/2.3/Metallurgy-1.6.4-3.3.1.jar" file="Metallurgy-1.6.4-3.3.1.jar" md5="ee4ce03e9c78526d903613429dd40031" download="server"
        name="Metallurgy" type="mods" version="3.3.1"
@@ -363,9 +356,6 @@
          name="Obsidiplates" type="mods"  version="2.0.0.15" 
          website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/" 
          description="Improved pressure plates. Creepers will never open your door again."  />
-    <mod url="packs/ResonantRise/files/2.3/redlogic-57.2.1.jar" file="redlogic-57.2.1.jar" md5="0f271334792363d48f4eff278cf855f8" download="server"
-         name="Red Logic" depends="ImmibisCore"  type="mods" 
-         version="57.2.1" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="A venerable replacement for redpower2's wire."  />
     <mod url="packs/ResonantRise/files/2.4/LogisticsPipes-MC1.6.4-0.7.4.dev.80.jar" file="LogisticsPipes-MC1.6.4-0.7.4.dev.80.jar" md5="ac947789474225d5f5c8c584039c5902" download="server"
          name="Logistics Pipes" type="mods" version="0.7.4.dev.80"
          website="http://www.minecraftforum.net/topic/1831791-152buildcraft-logistics-pipes/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HMEH9HF4Q2RFJ"
@@ -414,19 +404,19 @@
         name="Super Crafting Frame" type="mods" version="1.6.2.7"
         website="http://www.minecraftforum.net/topic/1870830-"
         description="Item frames are slightly less useless." />
-    <mod url="packs/ResonantRise/files/2.4/ThermalExpansion-3.0.0.b7a.jar" file="ThermalExpansion-3.0.0.b7a.jar" md5="93a022d898e5b9ff500cf2cf7ae75856" download="server"
-         name="Thermal Expansion" type="mods" depends="CoFH Core" version="3.0.0b7a"
+    <mod url="packs/ResonantRise/files/2.4/ThermalExpansion-3.0.0.b8.jar" file="ThermalExpansion-3.0.0.b8.jar" md5="4df144451d0aed035f591956dae28723" download="server"
+         name="Thermal Expansion" type="mods" depends="CoFH Core" version="3.0.0b8"
          website="http://teamcofh.com/"
 		 description="The hero returns."
          />
-	<mod url="packs/ResonantRise/files/2.4/CoFHCore-2.0.0.b7a.jar" file="CoFHCore-2.0.0.b7a.jar" md5="7a4d07fe620026f532bfda92449fc6e0" download="server"
-         name="CoFH Core" type="mods" version="2.0.0b7a"
+	<mod url="packs/ResonantRise/files/2.4/CoFHCore-2.0.0.b8a.jar" file="CoFHCore-2.0.0.b8a.jar" md5="ca97fc1f2d7d3cb001bf884f515d1d67" download="server"
+         name="CoFH Core" type="mods" version="2.0.0b8a"
          website="http://teamcofh.com/"
 		 description="The hero's great legacy follows him."
          />
-	<mod url="packs/ResonantRise/files/2.4/ThaumicTinkerer%202.0-34.jar" file="ThaumicTinkerer 2.0-34.jar" md5="5d6dbd0edbe64d33390ff6ef605900c0" download="server"
+	<mod url="packs/ResonantRise/files/2.4/ThaumicTinkerer%202.0-35.jar" file="ThaumicTinkerer 2.0-35.jar" md5="737e4a5c656f930ace6ab6b754fc4554" download="server"
 		 name="Thaumic Tinkerer" type="mods"
-		 version="2.0-34" depends="Thaumcraft 4"
+		 version="2.0-35" depends="Thaumcraft 4"
 		 website="http://www.minecraftforum.net/topic/1813058-" description="Because Thaumcraft has a dearth of content." 
          />
 	<mod url="packs/ResonantRise/files/2.4/TConstruct_1.6.4_1.5.1.jar" file="TConstruct_1.6.4_1.5.1.jar" md5="b34a9274695bc1c5c20b6ff3e352c1ad" download="server"

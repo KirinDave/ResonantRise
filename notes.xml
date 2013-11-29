@@ -19,7 +19,20 @@
          website="http://www.cosc.canterbury.ac.nz/greg.ewing/minecraft/mods/GregsLighting/" description=""  /> -->
 <!--
 
-    <mod url="packs/ResonantRise/files/2.4/ProjectRedLighting-1.6.4-4.1.0.13.jar" file="ProjectRedLighting-1.6.4-4.1.0.13.jar" md5="b3008ef85eee00c6d54a1f9e10b1c037" download="server"
+    <mod url="packs/ResonantRise/files/GEC-only/Opis_1.0.4_alpha.zip" file="Opis_1.0.4_alpha.zip" md5="aea7e08c0ac8ee2a0f9f1bdce2f63c5c" download="server"
+         name="Opis" type="mods" group="Cartographer" depends="Mobius Core" version="1.0.4"
+         website="http://www.minecraftforum.net/topic/2104497-"
+		 donation="http://profmobius.blogspot.fr/"
+         description="THIS SHOULD NOT BE IN A PUBLICLY RELEASED BUILD."
+         optional="yes" />
+	<mod url="packs/ResonantRise/files/GEC-only/MobiusCore_1.0.2.jar" file="MobiusCore_1.0.2.jar" md5="2a192bcd015d12049d2ab758015db4e7" download="server"
+         name="Mobius Core" type="mods" version="1.0.2"
+         website="http://www.minecraftforum.net/topic/2104497-"
+		 donation="http://profmobius.blogspot.fr/"
+         description="THIS SHOULD NOT BE IN A PUBLICLY RELEASED BUILD."
+         optional="yes" />
+	
+	<mod url="packs/ResonantRise/files/2.4/ProjectRedLighting-1.6.4-4.1.0.13.jar" file="ProjectRedLighting-1.6.4-4.1.0.13.jar" md5="b3008ef85eee00c6d54a1f9e10b1c037" download="server"
          name="Project Red: Lighting" type="mods" version="4.1.0.13"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
