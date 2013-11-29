@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.4-DEV-016</version>
+    <version>2.4-DEV-017</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -288,17 +288,17 @@
     <mod url="packs/ResonantRise/files/2.4/mariculture-1.6.X-v1.1.4.zip" file="mariculture-1.6.X-v1.1.4.zip" md5="941baf51514584ad984cc5a1743dbbbf" download="server"
          name="Mariculture" version="1.1.4"
          website="http://www.minecraftforum.net/topic/2049315-" description="If you're looking for me, look under the sea, because that is where you'll find me." type="mods" />
-    <mod url="packs/ResonantRise/files/2.4/Mekanism-v5.6.0.508.jar" file="Mekanism-v5.6.0.508.jar" md5="a8684d885acf4f61c0dadf229291ce61" download="server"
-         name="Mekanism" type="mods" version="5.6.0.508" website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" 
+    <mod url="packs/ResonantRise/files/2.4/Mekanism-v5.6.0.510.jar" file="Mekanism-v5.6.0.510.jar" md5="e67ebcaf5aed0fd31ddf31e5aa7743fd" download="server"
+         name="Mekanism" type="mods" version="5.6.0.510" website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" 
          description="Osmium also cures light wounds."  />
-  <mod url="packs/ResonantRise/files/2.4/MekanismGenerators-v5.6.0.508.jar" file="MekanismGenerators-v5.6.0.508.jar" md5="80c1d8fb97ef05c08d04e67d7a5eed27" download="server"
-       name="Mekanism Generators" type="mods" version="5.6.0.508" 
+  <mod url="packs/ResonantRise/files/2.4/MekanismGenerators-v5.6.0.510.jar" file="MekanismGenerators-v5.6.0.510.jar" md5="5c672c993621d0d2a854f9d68608e790" download="server"
+       name="Mekanism Generators" type="mods" version="5.6.0.510" 
        website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" description="Infinite water is infinite power!" />
-  <mod url="packs/ResonantRise/files/2.4/MekanismTools-v5.6.0.508.jar" file="MekanismTools-v5.6.0.508.jar" md5="2c93d817b7699148383d1805773fcd0a" download="server"
-       name="Mekanism Tools" type="mods" version="5.6.0.508"
+  <mod url="packs/ResonantRise/files/2.4/MekanismTools-v5.6.0.510.jar" file="MekanismTools-v5.6.0.510.jar" md5="c9477aba9a7ed1ae4c8304f3bc0f412f" download="server"
+       name="Mekanism Tools" type="mods" version="5.6.0.510"
        website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" description="Paxel perfect." />
-  <mod url="packs/ResonantRise/files/2.4/MekanismInduction-v5.6.0.508.jar" file="MekanismInduction-v5.6.0.508.jar" md5="6073e33be6bc3845a3ef1f8e09a224c4" download="server"
-       name="Mekanism Induction" type="mods" version="5.6.0.508"
+  <mod url="packs/ResonantRise/files/2.4/MekanismInduction-v5.6.0.510.jar" file="MekanismInduction-v5.6.0.510.jar" md5="b10d34751849d9018844311ca82458b1" download="server"
+       name="Mekanism Induction" type="mods" version="5.6.0.510"
        website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" description="Working induction!" />
   <mod url="packs/ResonantRise/files/2.3/Metallurgy-1.6.4-3.3.1.jar" file="Metallurgy-1.6.4-3.3.1.jar" md5="ee4ce03e9c78526d903613429dd40031" download="server"
        name="Metallurgy" type="mods" version="3.3.1"
@@ -500,9 +500,9 @@
     <!-- Remote Download, all types -->
     
     
-	<mod url="http://calclavia.com/download.php?name=Atomic%20Science&amp;r=http%3A%2F%2Fcalclavia.com%2Fjenkins%2Fjobs%2FAtomic+Science%2Fbuilds%2F155%2Farchive%2Foutput%2FAtomic_Science_v1.0.0.155.jar" 
-         md5="514173D6CF0A5ACA06AAEB60B0D9F1FE"
-		 file="Atomic_Science_v1.0.0.155.jar" download="direct" name="Atomic Science" type="mods" version="1.0.0.155" website="http://universalelectricity.com/" donation="http://universalelectricity.com/" description="Nuclear steam power!" 
+	<mod url="http://api.viglink.com/api/click?format=go&amp;key=9b4efad421c8b103b2c94b796db973b0&amp;loc=http%3A%2F%2Funiversalelectricity.com%2Fatomic-science%2Fdownloads&amp;subId=8240d9b1db1708d334dd983d36458303&amp;v=1&amp;libId=912d4175-b70a-4e6e-909c-d5a396e68241&amp;out=http%3A%2F%2Fcalclavia.com%2Fdownload.php%3Fname%3DAtomic%2520Science%26r%3Dhttp%253A%252F%252Fcalclavia.com%252Fjenkins%252Fjobs%252FAtomic%2BScience%252Fbuilds%252F156%252Farchive%252Foutput%252FAtomic_Science_v1.0.0.156.jar&amp;ref=http%3A%2F%2Funiversalelectricity.com%2Fatomic-science&amp;title=Atomic%20Science%20Downloads%20%7C%20Universal%20Electricity&amp;txt=Atomic_Science_v1.0.0.156&amp;jsonp=vglnk_jsonp_13857506645357" 
+         md5="49B535F734E90295962FE180E4F853C6"
+		 file="Atomic_Science_v1.0.0.156.jar" download="direct" name="Atomic Science" type="mods" version="1.0.0.156" website="http://universalelectricity.com/" donation="http://universalelectricity.com/" description="Nuclear steam power!" 
          optional="yes" />  
 	<mod url="http://addons.curse.cursecdn.com/files/720/249/flatsigns-1.6.2-universal-1.4.0.15.jar" 
          md5="581BF79ECBDA0132101FFCD0BA165FA0"
