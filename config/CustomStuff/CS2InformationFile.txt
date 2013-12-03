@@ -334,8 +334,8 @@ oreSapphire
 cropOlive
 dustTartarite
 dropHoneydew
-dustDamascus Steel
 glassPanePink
+dustDamascus Steel
 blockRubber
 gearWood
 oreFirestone
@@ -343,14 +343,16 @@ blockGlowstone
 gemApatite
 compressedDirt4x
 nuggetPlatinum
-clumpTin
 oreNetherRuby
+clumpTin
 crystallineLead
 cleanGravelCobalt
 ingotPlutonium
 nuggetTin
 beeComb
+itemWrench
 dyeLightBlue
+itemDustSteel
 compressedDirt1x
 ingotObsidian
 dustDirtyTin
@@ -360,8 +362,8 @@ itemBeeswax
 woodStick
 nuggetElectrum
 cleanGravelLead
-glassPaneGray
 crystalQuartz
+glassPaneGray
 leavesTree
 nuggetAluminium
 dustTinySilver
@@ -369,15 +371,15 @@ cropGrapefruit
 compressedDirt2x
 dustDirtyOsmium
 ingotBrass
-dustDirtySilver
 aquaRegia
+dustDirtySilver
 ingotOsmium
+itemIngotBronze
 ingotSilver
 itemCasingBrass
 clumpObsidian
 dustPrometheum
 logWood
-calclavia:BATTERY_BOX
 manyullynRod
 cropPomelo
 itemEnrichedAlloy
@@ -390,6 +392,7 @@ ingotPlatinum
 crushedTin
 ingotIgnatius
 blockLemurite
+itemPlateSteel
 cropCranberry
 nuggetForce
 glassPaneCyan
@@ -436,6 +439,7 @@ blockTyrian
 fz.waterBucketLike
 dustAngmallen
 glassLime
+nuggetUnstable
 cropPeach
 glassRed
 nuggetMeat
@@ -511,6 +515,7 @@ dustSilver
 dustSiliconDioxide
 blockRadioactive
 cropElderberry
+itemIngotSteel
 oreShadow Iron
 dustImpureCobalt
 dustWheat
@@ -523,10 +528,9 @@ crushedLead
 oreAlduorite
 cleanGravelIron
 alumiteRod
-nuggetSilver
 glassPaneRed
+nuggetSilver
 cropHazelnut
-calclavia:WIRE
 blockCoal
 componentFieldEmitter
 coralBrown
@@ -558,17 +562,18 @@ dropUranium
 dustInvar
 dustQuartz
 blockMarble
-ingotDeep Iron
 dustNikolite
+ingotDeep Iron
+itemSilicon
 dyePink
 ingotAluminium
 blockCarmot
 blockCeruclase
 cropPecan
 oreGold
-clumpGold
 dustIron
 oreMalachite
+clumpGold
 gemLapis
 nuggetMagnesium
 cleanGravelDark Iron
@@ -610,6 +615,7 @@ dustCeruclase
 blockOrichalcum
 ingotPrometheum
 batteryBox
+blockUnstable
 oreCinnabar
 cropClove
 dyeWhite
@@ -617,6 +623,7 @@ cropNectarine
 nuggetNickel
 oreNickel
 crystallineIron
+itemIngotCopper
 dustDesichalkos
 dyeBlue
 gearCopper
@@ -627,15 +634,14 @@ cropLime
 dustGold
 dyeMagenta
 plateDenseObsidian
-calclavia:MOTOR
 orePlatinum
 clumpSilver
-calclavia:WRENCH
 ingotAdamantine
 dustPhosphorus
 brSmallMachineCyaniteProcessor
 ingotGraphite
 ingotInfuscolium
+itemPlateBronze
 dirtyGravelSilver
 ingotRefinedIron
 coralPink
@@ -665,6 +671,7 @@ nuggetArdite
 crystalCinnabar
 oreAluminium
 dustAlduorite
+itemDustBronze
 cropStrawberry
 ingotMagnesium
 dustImpureArdite
@@ -700,8 +707,8 @@ crystallineArdite
 dustImpureAluminum
 dustElectrum
 compressedCobblestone2x
-blockDesichalkos
 oreSilicon
+blockDesichalkos
 blockInvar
 projredInsulatedWire
 clumpCopper
@@ -725,6 +732,7 @@ glass
 groundCopper
 dustShadow Steel
 ingotShadow Steel
+itemCircuitAdvanced
 reactorRedNetPort
 dustGraphite
 cropApple
@@ -738,6 +746,7 @@ treeSapling
 slabWood
 ingotInolashite
 oreNetherCoal
+blockOreCopper
 oreBauxite
 compressedCobblestone7x
 blockQuicksilver
@@ -752,9 +761,10 @@ blockPlatinum
 blockSilver
 dustNetherQuartz
 compressedCobblestone8x
+itemIngotTin
 dustDirtyGold
-dyeGreen
 glassPaneGreen
+dyeGreen
 blockOureclase
 cropVine
 crystalCertusQuartz
@@ -790,7 +800,6 @@ componentControlCircuit
 fuelCoke
 oreGalena
 cropRedBanana
-calclavia:ADVANCED_BATTERY
 crushedPurifiedLead
 stoneRod
 cropPlantain
@@ -839,6 +848,7 @@ plateDenseIron
 compressedGravel2x
 netherrackRod
 cropCrabapple
+itemCircuitElite
 cropBlackthorn
 glassYellow
 ingotNickel
@@ -894,11 +904,8 @@ cropSkyberry
 ingotShadow Iron
 nuggetAluminumBrass
 dyeYellow
-calclavia:CIRCUIT_T3
 groundGold
-calclavia:CIRCUIT_T2
 blockTitanium
-calclavia:CIRCUIT_T1
 gemEmery
 dustLemurite
 reducedTin
@@ -908,7 +915,7 @@ dustImpureNickel
 itemSuperconductor
 ingotLemurite
 dustHydratedCoal
-calclavia:BATTERY
+itemMotor
 ingotAngmallen
 oreNetherNickel
 blockEximite
@@ -920,6 +927,7 @@ blockMud
 crushedCopper
 glassPaneOrange
 dustKalendrite
+ingotUnstable
 burntquartz
 stairWood
 oreTitanium
@@ -945,6 +953,7 @@ antimatterMilligram
 woodRubber
 clumpOsmium
 ingotRefinedObsidian
+itemCircuitBasic
 dustLithium
 enderobsidian
 slabCloth
@@ -976,8 +985,8 @@ dustBlizz
 dustAmordrine
 crushedPurifiedCopper
 glassBlue
-componentLaserEmitter
 glassPaneLime
+componentLaserEmitter
 ingotTitanium
 oreNetherRedstone
 motor
@@ -989,8 +998,8 @@ blockMidasium
 cleanGravelCopper
 blockAsh
 ingotInvar
-blockRefinedObsidian
 stoneRed
+blockRefinedObsidian
 icestone
 ingotZinc
 dirtyGravelIron
@@ -1038,8 +1047,8 @@ nuggetTitanium
 dustOsmium
 dirtyGravelArdite
 dustDiamond
-copperWire
 ingotHepatizon
+copperWire
 blockAluminumBrass
 oreNetherTin
 blockInolashite
@@ -1056,11 +1065,11 @@ crystallineCopper
 oreQuartz
 dustTinyLithium
 oreCalcite
+blockOreTin
 orePitchblend
 glassLightGray
 itemBioFuel
 oreMidasium
-blockUnstableingot
 cropBrazilNut
 gearStone
 crystallineGalena
@@ -1108,8 +1117,8 @@ flowerRainbow
 antimatterGram
 dustTitanium
 plantKelp
-circuitAdvanced
 oreZinc
+circuitAdvanced
 dustAsh
 cropDate
 crafterWood
