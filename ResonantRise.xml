@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.4.8a-PRER</version>
+    <version>2.4.8b-PRER</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -105,8 +105,8 @@
          version="1.1" 
          website="http://www.bibliocraftmod.com/?page_id=50#bibliowoods"
          description="More wood colors for furniture."  />
-    <mod url="packs/ResonantRise/files/2.4/BigReactors-0.2.1A.jar" file="BigReactors-0.2.1A.jar" md5="be338625f3839a1cfc6c2e9806ef59b1" download="server"
-         name="Big Reactors" type="mods" version="0.2.1A"
+    <mod url="packs/ResonantRise/files/2.4/BigReactors-0.2.4A.jar" file="BigReactors-0.2.4A.jar" md5="40c2cb22378a5d88572b875f845cdb9c" download="server"
+         name="Big Reactors" type="mods" version="0.2.4A"
          website="http://big-reactors.com/"
 		 description="Just in time for the 1.6.4 pack release! \o/" />
 	<mod url="packs/ResonantRise/files/2.2/binnie-mods-1.8-dev2.jar" file="binnie-mods-1.8-dev2.jar" md5="5be11aedf6538573215ab232f64a23b6" download="server"
