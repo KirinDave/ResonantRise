@@ -324,6 +324,7 @@ cropBeechnut
 crushedPurifiedUranium
 cropPear
 blockEmerald
+oreCeruclase
 oreVulcanite
 dustObsidian
 cropSatsuma
@@ -333,8 +334,8 @@ oreSapphire
 cropOlive
 dustTartarite
 dropHoneydew
-dustDamascus Steel
 glassPanePink
+dustDamascus Steel
 blockRubber
 gearWood
 oreFirestone
@@ -390,6 +391,7 @@ oreSulfur
 ingotPlatinum
 crushedTin
 ingotIgnatius
+blockLemurite
 itemPlateSteel
 cropCranberry
 nuggetForce
@@ -511,7 +513,6 @@ cropSandPear
 oreNetherSapphire
 dustSilver
 dustSiliconDioxide
-ironWire
 blockRadioactive
 cropElderberry
 itemIngotSteel
@@ -522,6 +523,7 @@ ingotAtlarus
 ingotInfernal
 itemClaw
 blockDiamond
+ingotCeruclase
 crushedLead
 oreAlduorite
 cleanGravelIron
@@ -565,6 +567,7 @@ itemSilicon
 dyePink
 ingotAluminium
 blockCarmot
+blockCeruclase
 cropPecan
 oreGold
 dustIron
@@ -820,7 +823,6 @@ oreNetherGold
 copperCableBlock
 slimeRod
 blockBrass
-silverWire
 componentServo
 compressedCobblestone6x
 dustZinc
@@ -848,7 +850,6 @@ compressedGravel2x
 netherrackRod
 cropCrabapple
 itemCircuitElite
-tinWire
 cropBlackthorn
 glassYellow
 ingotNickel
@@ -913,6 +914,7 @@ blockTartarite
 orePrometheum
 dustImpureNickel
 itemSuperconductor
+ingotLemurite
 dustHydratedCoal
 itemMotor
 ingotAngmallen
@@ -984,8 +986,8 @@ dustBlizz
 dustAmordrine
 crushedPurifiedCopper
 glassBlue
-componentLaserEmitter
 glassPaneLime
+componentLaserEmitter
 ingotTitanium
 oreNetherRedstone
 motor
@@ -1021,6 +1023,8 @@ oreEmery
 bronzeRod
 glassGreen
 groundIron
+oreLemurite
+oreKalendrite
 flowerDaffodil
 dustHaderoth
 gemMalachite
@@ -1044,8 +1048,8 @@ nuggetTitanium
 dustOsmium
 dirtyGravelArdite
 dustDiamond
-copperWire
 ingotHepatizon
+copperWire
 blockAluminumBrass
 oreNetherTin
 blockInolashite
@@ -1084,7 +1088,6 @@ gearElectrum
 dustBitumen
 logMagic
 componentMyofiberGel
-aluminumWire
 oreCassiterite
 compressedSand2x
 record
@@ -1107,6 +1110,7 @@ cropManderin
 cloth
 cropPumpkin
 crushedPurifiedGold
+blockKalendrite
 dyeBrown
 plateDenseLead
 ingotNaturalAluminum
@@ -1154,6 +1158,7 @@ dustAstral Silver
 glassPanePurple
 oreSilver
 cobaltRod
+orePhosphorite
 componentHVCapacitor
 cropAlmond
 blockMeutoite
@@ -1163,6 +1168,8 @@ oreNetherCopper
 oreSaltpeter
 crystallineSilver
 dustCopper
+orePotash
+oreBitumen
 dustAdamantine
 pulpWood
 

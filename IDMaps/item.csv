@@ -375,6 +375,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 475,Block,Railcraft,tile.railcraft.brick.nether,mods.railcraft.common.blocks.aesthetics.brick.BlockBrick.BlockNetherBrick
 477,Block,Railcraft,tile.block.firestone.recharge,mods.railcraft.common.items.firestone.BlockFirestoneRecharge
 478,Block,Railcraft,tile.railcraft.block.anvil,mods.railcraft.common.blocks.anvil.BlockRCAnvil
+479,Block,Railcraft,tile.railcraft.stonelamp,mods.railcraft.common.blocks.aesthetics.lamp.BlockStoneLamp
 490,Block,Railcraft,tile.railcraft.block.fluid.creosote,mods.railcraft.common.fluids.BlockRailcraftFluid
 491,Block,Railcraft,tile.railcraft.block.fluid.steam,mods.railcraft.common.fluids.BlockRailcraftFluidFinite
 500,Block,Mariculture,tile.oreBlocks,mariculture.core.blocks.BlockOre
@@ -490,6 +491,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 902,Block,AppliedEnergistics,tile.null,appeng.common.base.AppEngMultiBlock
 903,Block,AppliedEnergistics,tile.null,appeng.common.base.AppEngMultiBlock
 904,Block,AppliedEnergistics,AppEng.Blocks.TinyTNT,appeng.compatabilty.tnt.BlockTinyTNT
+905,Block,extracells,tile.block.fluid.void,extracells.blocks.BlockVoidFluid
 906,Block,extracells,tile.block.fluid.interface,extracells.blocks.BlockInterFaceFluid
 907,Block,extracells,tile.block.fluid.levelemitter,extracells.blocks.BlockLevelEmitterFluid
 909,Block,extracells,tile.block.walrus,extracells.blocks.BlockWalrus
@@ -1077,8 +1079,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 2408,Block,CarpentersBlocks,tile.blockCarpentersPressurePlate,carpentersblocks.block.BlockCarpentersPressurePlate
 2409,Block,CarpentersBlocks,tile.blockCarpentersDaylightSensor,carpentersblocks.block.BlockCarpentersDaylightSensor
 2410,Block,CarpentersBlocks,tile.blockCarpentersHatch,carpentersblocks.block.BlockCarpentersHatch
-2411,Block,CarpentersBlocks,tile.blockCarpentersDoor,carpentersblocks.block.BlockCarpentersDoor
-2412,Block,CarpentersBlocks,tile.blockCarpentersBed,carpentersblocks.block.BlockCarpentersBed
 2413,Block,CarpentersBlocks,tile.blockCarpentersLadder,carpentersblocks.block.BlockCarpentersLadder
 2414,Block,CarpentersBlocks,tile.blockCarpentersCollapsibleBlock,carpentersblocks.block.BlockCarpentersCollapsibleBlock
 2415,Block,CarpentersBlocks,tile.blockCarpentersTorch,carpentersblocks.block.BlockCarpentersTorch
@@ -1213,6 +1213,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 2746,Block,BigReactors,tile.fluid.fuelColumn.still,erogenousbeef.bigreactors.common.block.BlockBRGenericFluid
 2747,Block,BigReactors,tile.blockReactorGlass,erogenousbeef.bigreactors.common.block.BlockReactorGlass
 2748,Block,BigReactors,tile.blockBRSmallMachine,erogenousbeef.bigreactors.common.block.BlockBRSmallMachine
+2749,Block,BigReactors,tile.blockReactorRedstonePort,erogenousbeef.bigreactors.common.block.BlockReactorRedstonePort
 2761,Block,Chisel,tile.marble,info.jbcs.minecraft.chisel.BlockMarble
 2762,Block,Chisel,tile.limestone,info.jbcs.minecraft.chisel.BlockMarble
 2763,Block,Chisel,tile.marbleSlab,info.jbcs.minecraft.chisel.BlockMarbleSlab
@@ -1462,10 +1463,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3355,Block,Natura,tile.fenceGate.fusewood,mods.natura.blocks.NFenceGate
 3391,Block,flatsigns,tile.sign,myrathi.flatsigns.block.BlockFlatSign
 3400,Block,MekanismInduction,tile.Tesla,mekanism.induction.common.block.BlockTesla
-3401,Block,MekanismInduction,tile.Multimeter,mekanism.induction.common.block.BlockMultimeter
 3402,Block,MekanismInduction,tile.ElectromagneticContractor,mekanism.induction.common.block.BlockEMContractor
 3403,Block,MekanismInduction,tile.Battery,mekanism.induction.common.block.BlockBattery
-3404,Block,MekanismInduction,tile.Wire,mekanism.induction.common.block.BlockWire
 3500,Block,JABBA,tile.BetterBarrel,mcp.mobius.betterbarrels.common.BlockBarrel
 3501,Block,JABBA,tile.MiniBarrel (WIP),mcp.mobius.betterbarrels.common.BlockMiniBarrel
 3502,Block,JABBA,tile.Barrel Shelf (WIP),mcp.mobius.betterbarrels.common.BlockBarrelShelf
@@ -1494,7 +1493,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3788,Block,AtomicScience,tile.atomicscience:toxicWaste,atomicscience.BZangShui
 3789,Block,AtomicScience,tile.atomicscience:reactorTap,atomicscience.fenlie.BReactorDrain
 3790,Block,AtomicScience,tile.atomicscience:oreUranium,atomicscience.fenlie.BUraniumOre
-3902,Block,HardcoreEnderExpansion,tile.endermanSpawner,chylex.hee.block.BlockCustomSpawner
+3902,Block,HardcoreEnderExpansion,tile.mobSpawner,chylex.hee.block.BlockCustomSpawner
 3903,Block,HardcoreEnderExpansion,tile.null,chylex.hee.block.BlockLaserBeam
 3904,Block,HardcoreEnderExpansion,tile.endermanHead,chylex.hee.block.BlockEndermanHead
 3905,Block,HardcoreEnderExpansion,tile.flowerPot,chylex.hee.block.BlockEndFlowerPot
@@ -1514,6 +1513,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3920,Block,HardcoreEnderExpansion,tile.obsidianEnd,chylex.hee.block.BlockObsidianEnd
 3926,Block,HardcoreEnderExpansion,tile.dungeonPuzzle,chylex.hee.block.BlockDungeonPuzzle
 3927,Block,HardcoreEnderExpansion,tile.enderGoo,chylex.hee.block.BlockEnderGoo
+3928,Block,HardcoreEnderExpansion,tile.cauldron,chylex.hee.block.BlockInfestationRemedyCauldron
 3941,Block,Translocator,tile.translocator,codechicken.translocator.BlockTranslocator
 3942,Block,Translocator,tile.null,codechicken.translocator.BlockCraftingGrid
 3970,Block,BasicComponents,tile.basiccomponents:oreCopper,basiccomponents.BlockBase
@@ -2026,6 +2026,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 11474,Item,Mekanism,item.TeleportationCore,mekanism.common.item.ItemMekanism
 11477,Item,Mekanism,item.Configurator,mekanism.common.item.ItemConfigurator
 11478,Item,Mekanism,item.NetworkReader,mekanism.common.item.ItemNetworkReader
+11479,Item,Mekanism,item.Jetpack,mekanism.common.item.ItemJetpack
 11490,Item,Mekanism,item.WalkieTalkie,mekanism.common.item.ItemWalkieTalkie
 11556,Item,MekanismGenerators,item.SolarPanel,mekanism.common.item.ItemMekanism
 11557,Item,MekanismGenerators,item.BioFuel,mekanism.common.item.ItemMekanism
@@ -2443,6 +2444,10 @@ ID,Block/Item,Mod,Unlocalised name,Class
 14368,Item,TConstruct,item.tconstruct.storage,tconstruct.items.armor.Knapsack
 14369,Item,TConstruct,item.goldenhead,tconstruct.items.GoldenHead
 14371,Item,TConstruct,item.tconstruct.jerky,tconstruct.items.Jerky
+14372,Item,TConstruct,item.tconstruct.exoGoggles,tconstruct.items.armor.ExoArmor
+14373,Item,TConstruct,item.tconstruct.exoChest,tconstruct.items.armor.ExoArmor
+14374,Item,TConstruct,item.tconstruct.exoPants,tconstruct.items.armor.ExoArmor
+14375,Item,TConstruct,item.tconstruct.exoShoes,tconstruct.items.armor.ExoArmor
 14756,Item,TMechworks,item.lengthwire,tmechworks.items.LengthWire
 14757,Item,TMechworks,item.spoolwire,tmechworks.items.SpoolOfWire
 15231,Item,OpenBlocks,item.null,openblocks.common.item.ItemHangGlider
@@ -2566,6 +2571,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 17312,Item,AWWayofTime,item.demonicSlate,WayofTime.alchemicalWizardry.AWBaseItems
 17313,Item,AWWayofTime,item.sigilOfTheBridge,WayofTime.alchemicalWizardry.SigilOfTheBridge
 17314,Item,AWWayofTime,item.cheatyItem,WayofTime.alchemicalWizardry.CheatyItem
+17315,Item,AWWayofTime,item.ritualDiviner,WayofTime.alchemicalWizardry.ItemRitualDiviner
 17316,Item,AWWayofTime,item.simpleCatalyst,WayofTime.alchemicalWizardry.AlchemyReagent
 17317,Item,AWWayofTime,item.incendium,WayofTime.alchemicalWizardry.AlchemyReagent
 17318,Item,AWWayofTime,item.magicales,WayofTime.alchemicalWizardry.AlchemyReagent
@@ -2580,6 +2586,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 17328,Item,AWWayofTime,item.weakFillingAgent,WayofTime.alchemicalWizardry.WeakFillingAgent
 17329,Item,AWWayofTime,item.standardFillingAgent,WayofTime.alchemicalWizardry.StandardFillingAgent
 17330,Item,AWWayofTime,item.enhancedFillingAgent,WayofTime.alchemicalWizardry.EnhancedFillingAgent
+17331,Item,AWWayofTime,item.sanguineHelmet,WayofTime.alchemicalWizardry.ItemSanguineArmour
 17586,Item,Backpack,item.backpack,backpack.item.ItemBackpack
 17587,Item,Backpack,item.boundLeather,backpack.item.ItemLeather
 17588,Item,Backpack,item.tannedLeather,backpack.item.ItemLeather
@@ -2942,7 +2949,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 22572,Item,BiblioWoodsForestry,item.seatBack,jds.bibliocraft.forestrywood.items.ItemSeatBackF3
 22573,Item,BiblioWoodsForestry,item.seatBack,jds.bibliocraft.forestrywood.items.ItemSeatBackF4
 22574,Item,BiblioWoodsForestry,item.seatBack,jds.bibliocraft.forestrywood.items.ItemSeatBackF5
-23411,Item,MekanismInduction,item.null,mekanism.induction.common.wire.ItemPartWire
 23776,Item,EnhancedPortals3,item.ep3.wrench,uk.co.shadeddimensions.ep3.item.ItemWrench
 23777,Item,EnhancedPortals3,item.ep3.goggles,uk.co.shadeddimensions.ep3.item.ItemGoggles
 23778,Item,EnhancedPortals3,item.ep3.paintbrush,uk.co.shadeddimensions.ep3.item.ItemPaintbrush
@@ -3048,6 +3054,17 @@ ID,Block/Item,Mod,Unlocalised name,Class
 25814,Item,Metallurgy3Base,item.Metallurgy:Nether/AmordrineChest,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgyArmor
 25815,Item,Metallurgy3Base,item.Metallurgy:Nether/AmordrineLegs,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgyArmor
 25816,Item,Metallurgy3Base,item.Metallurgy:Nether/AmordrineBoots,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgyArmor
+25856,Item,Metallurgy3Base,item.CeruclaseDust,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgy
+25857,Item,Metallurgy3Base,item.CeruclaseIngot,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgy
+25858,Item,Metallurgy3Base,item.CeruclasePick,rebelkeithy.mods.keithyutils.items.CustomItemPickaxe
+25859,Item,Metallurgy3Base,item.CeruclaseShovel,rebelkeithy.mods.keithyutils.items.CustomItemSpade
+25860,Item,Metallurgy3Base,item.CeruclaseAxe,rebelkeithy.mods.keithyutils.items.CustomItemAxe
+25861,Item,Metallurgy3Base,item.CeruclaseHoe,rebelkeithy.mods.keithyutils.items.CustomItemHoe
+25862,Item,Metallurgy3Base,item.CeruclaseSword,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgySword
+25863,Item,Metallurgy3Base,item.Metallurgy:Nether/CeruclaseHelmet,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgyArmor
+25864,Item,Metallurgy3Base,item.Metallurgy:Nether/CeruclaseChest,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgyArmor
+25865,Item,Metallurgy3Base,item.Metallurgy:Nether/CeruclaseLegs,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgyArmor
+25866,Item,Metallurgy3Base,item.Metallurgy:Nether/CeruclaseBoots,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgyArmor
 25906,Item,Metallurgy3Base,item.IgnatiusDust,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgy
 25907,Item,Metallurgy3Base,item.IgnatiusIngot,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgy
 25908,Item,Metallurgy3Base,item.IgnatiusPick,rebelkeithy.mods.keithyutils.items.CustomItemPickaxe
@@ -3070,6 +3087,17 @@ ID,Block/Item,Mod,Unlocalised name,Class
 25964,Item,Metallurgy3Base,item.Metallurgy:Nether/InolashiteChest,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgyArmor
 25965,Item,Metallurgy3Base,item.Metallurgy:Nether/InolashiteLegs,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgyArmor
 25966,Item,Metallurgy3Base,item.Metallurgy:Nether/InolashiteBoots,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgyArmor
+26006,Item,Metallurgy3Base,item.KalendriteDust,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgy
+26007,Item,Metallurgy3Base,item.KalendriteIngot,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgy
+26008,Item,Metallurgy3Base,item.KalendritePick,rebelkeithy.mods.keithyutils.items.CustomItemPickaxe
+26009,Item,Metallurgy3Base,item.KalendriteShovel,rebelkeithy.mods.keithyutils.items.CustomItemSpade
+26010,Item,Metallurgy3Base,item.KalendriteAxe,rebelkeithy.mods.keithyutils.items.CustomItemAxe
+26011,Item,Metallurgy3Base,item.KalendriteHoe,rebelkeithy.mods.keithyutils.items.CustomItemHoe
+26012,Item,Metallurgy3Base,item.KalendriteSword,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgySword
+26013,Item,Metallurgy3Base,item.Metallurgy:Nether/KalendriteHelmet,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgyArmor
+26014,Item,Metallurgy3Base,item.Metallurgy:Nether/KalendriteChest,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgyArmor
+26015,Item,Metallurgy3Base,item.Metallurgy:Nether/KalendriteLegs,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgyArmor
+26016,Item,Metallurgy3Base,item.Metallurgy:Nether/KalendriteBoots,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgyArmor
 26090,Item,MagicBees,item.comb,magicbees.item.ItemComb
 26091,Item,MagicBees,item.wax,magicbees.item.ItemWax
 26092,Item,MagicBees,item.propolis,magicbees.item.ItemPropolis
@@ -3362,6 +3390,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 27564,Item,Metallurgy3Base,item.Metallurgy:Fantasy/TartariteChest,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgyArmor
 27565,Item,Metallurgy3Base,item.Metallurgy:Fantasy/TartariteLegs,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgyArmor
 27566,Item,Metallurgy3Base,item.Metallurgy:Fantasy/TartariteBoots,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgyArmor
+27606,Item,Metallurgy3Base,item.LemuriteDust,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgy
+27607,Item,Metallurgy3Base,item.LemuriteIngot,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgy
 27656,Item,Metallurgy3Base,item.MidasiumDust,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgy
 27657,Item,Metallurgy3Base,item.MidasiumIngot,rebelkeithy.mods.metallurgy.core.metalsets.ItemMetallurgy
 27658,Item,Metallurgy3Base,item.MidasiumPick,rebelkeithy.mods.keithyutils.items.CustomItemPickaxe
@@ -3512,6 +3542,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 28040,Item,TwilightForest,item.knightlyAxe,twilightforest.item.ItemTFKnightlyAxe
 28041,Item,TwilightForest,item.phantomHelm,twilightforest.item.ItemTFPhantomArmor
 28042,Item,TwilightForest,item.phantomPlate,twilightforest.item.ItemTFPhantomArmor
+28777,Item,HardcoreEnderExpansion,item.gemFragment,chylex.hee.item.ItemGemFragment
 28781,Item,HardcoreEnderExpansion,item.dragonEssence,chylex.hee.item.ItemEssence
 28782,Item,HardcoreEnderExpansion,item.null,net.minecraft.item.Item
 28783,Item,HardcoreEnderExpansion,item.itemNumber,chylex.hee.item.ItemSpecialEffects
@@ -3520,7 +3551,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 28786,Item,HardcoreEnderExpansion,item.transferenceGem,chylex.hee.item.ItemTransferenceGem
 28787,Item,HardcoreEnderExpansion,item.instabilityOrb,chylex.hee.item.ItemInstabilityOrb
 28788,Item,HardcoreEnderExpansion,item.igneousRock,chylex.hee.item.ItemIgneousRock
-28789,Item,HardcoreEnderExpansion,item.endPowder,chylex.hee.item.ItemEndPowder
+28789,Item,HardcoreEnderExpansion,item.endPowder,net.minecraft.item.Item
 28790,Item,HardcoreEnderExpansion,item.enderPearl,chylex.hee.item.ItemEnhancedEnderPearl
 28791,Item,HardcoreEnderExpansion,item.enhancedBrewingStand,chylex.hee.item.ItemEnhancedBrewingStand
 28792,Item,HardcoreEnderExpansion,item.altarNexus,net.minecraft.item.Item
@@ -3529,6 +3560,10 @@ ID,Block/Item,Mod,Unlocalised name,Class
 28797,Item,HardcoreEnderExpansion,item.endermanRelicRepaired,chylex.hee.item.ItemEndermanRelicRepaired
 28798,Item,HardcoreEnderExpansion,item.endermanRelicShattered,chylex.hee.item.ItemEndermanRelicShattered
 28799,Item,HardcoreEnderExpansion,item.monsterPlacer,chylex.hee.item.ItemSpawnEggs
+28810,Item,HardcoreEnderExpansion,item.infestationRemedy,chylex.hee.item.ItemInfestationRemedy
+28811,Item,HardcoreEnderExpansion,item.drySplinter,chylex.hee.item.ItemInfestationRemedyIngredient
+28812,Item,HardcoreEnderExpansion,item.infestedBatWing,chylex.hee.item.ItemInfestationRemedyIngredient
+28813,Item,HardcoreEnderExpansion,item.silverfishBlood,chylex.hee.item.ItemInfestationRemedyIngredient
 29256,Item,Mariculture,item.materials,mariculture.core.items.ItemMaterial
 29257,Item,Mariculture,item.craftingItems,mariculture.core.items.ItemCrafting
 29258,Item,Mariculture,item.bait,mariculture.fishery.items.ItemBait

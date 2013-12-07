@@ -170,6 +170,10 @@ dimblacklist {
 ####################
 
 equipables {
+    I:Exo-Boots=14119
+    I:Exo-Chestpiece=14117
+    I:Exo-Goggles=14116
+    I:Exo-Legs=14118
     I:Gloves=14111
     I:"Heart Canister"=14105
     I:"Heavy Boots"=14110
