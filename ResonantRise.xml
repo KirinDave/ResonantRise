@@ -346,11 +346,7 @@
         name="Plugins for Forestry" type="mods" version="3.2.30"
         website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=INpureProjects%40gmail%2ecom&amp;lc=US&amp;item_name=denoflions%20mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
         description="UI and content improvements for forestry." />
-	<mod url="packs/ResonantRise/files/2.3/QuarryPlus-1.6.4-1.5.5.3.zip" file="QuarryPlus-1.6.4-1.5.5.3.zip" md5="951b462e0afb400ae6bbd9c24c0b93a2" download="server"
-        name="QuarryPlus" type="mods" version="1.5.5.3"
-        website="http://www.minecraftforum.net/topic/1756982-"
-        description="A bigger, better quarry." />     
-    <mod url="packs/ResonantRise/files/2.2/obsidiplates-1.6.2-universal-2.0.0.15.jar" file="obsidiplates-1.6.2-universal-2.0.0.15.jar" md5="c64ea8742cd60ef359d36bb84d4b10a5" download="server"
+	<mod url="packs/ResonantRise/files/2.2/obsidiplates-1.6.2-universal-2.0.0.15.jar" file="obsidiplates-1.6.2-universal-2.0.0.15.jar" md5="c64ea8742cd60ef359d36bb84d4b10a5" download="server"
          name="Obsidiplates" type="mods"  version="2.0.0.15" 
          website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/" 
          description="Improved pressure plates. Creepers will never open your door again."  />
