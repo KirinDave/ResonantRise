@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.5-DEV-004</version>
+    <version>2.5-DEV-005</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -101,8 +101,8 @@
          version="1.1" 
          website="http://www.bibliocraftmod.com/?page_id=50#bibliowoods"
          description="More wood colors for furniture."  />
-    <mod url="packs/ResonantRise/files/2.4/BigReactors-0.2.5A.jar" file="BigReactors-0.2.5A.jar" md5="8122c098928e930b4ff8608d31d1970c" download="server"
-         name="Big Reactors" type="mods" version="0.2.5A"
+    <mod url="packs/ResonantRise/files/2.4/BigReactors-0.2.5A2.jar" file="BigReactors-0.2.5A2.jar" md5="98311d6345e6c90e3ec513084be8c06f" download="server"
+         name="Big Reactors" type="mods" version="0.2.5A2"
          website="http://big-reactors.com/"
 		 description="Just in time for the 1.6.4 pack release! \o/" />
 	<mod url="packs/ResonantRise/files/2.2/binnie-mods-1.8-dev2.jar" file="binnie-mods-1.8-dev2.jar" md5="5be11aedf6538573215ab232f64a23b6" download="server"
@@ -417,9 +417,9 @@
 		 version="2.0-41" depends="Thaumcraft 4"
 		 website="http://www.minecraftforum.net/topic/1813058-" description="Because Thaumcraft has a dearth of content." 
          />
-	<mod url="packs/ResonantRise/files/2.4/TConstruct_mc1.6.4_1.5.1.1.jar" file="TConstruct_mc1.6.4_1.5.1.1.jar" md5="fea5a07cbc5c6bf1f1b3d614ee03087f" download="server"
+	<mod url="packs/ResonantRise/files/2.4/TConstruct_mc1.6.4_1.5.1.2.jar" file="TConstruct_mc1.6.4_1.5.1.2.jar" md5="4e66c3f08bbb381e623391c7f5b3f713" download="server"
          name="Tinker's Construct"  type="mods" 
-         version="1.5.1.1" 
+         version="1.5.1.2" 
          website="http://www.minecraftforum.net/topic/1659892-15xtinkers-construct/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=56Q7K92KRPW2N&amp;lc=US&amp;item_name=Tinkers%20Construct&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
          description="Dat Glass, Dem Tools" />
 	<mod url="packs/ResonantRise/files/2.4/TMechworks_1.6.4_0.1.2.jar" file="TMechworks_1.6.4_0.1.2.jar" md5="b550ed9e1bd358e77523322447aeb185" download="server"
