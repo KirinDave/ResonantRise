@@ -4,9 +4,14 @@
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
-	<memory>2048</memory>
-	<permgen>256</permgen>
+    <memory>2048</memory>
+    <permgen>256</permgen>
   </pack>
+    <messages>
+      <install><![CDATA[<b>Notice!</b> Mystcraft's host is currently down. <br>Please go to our forums at resonant-rise.com to find a copy. </br><u>Put it in your ATLauncher downloads folder to skip the problem.</u>]]></install>
+
+      <update><![CDATA[<b>Notice!</b> Mystcraft's host is currently down. If you need a copy (you probably don't) go to resonant-rise.com and find the mystcraft thread for more details.]]></update>
+    </messages>
   
     <!-- Dat Core -->
 	<libraries>
