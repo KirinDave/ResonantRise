@@ -2470,6 +2470,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 16296,Item,ProjRed|Illumination,item.projectred.illumination.cagelamp,mrtjp.projectred.illumination.ItemPartCageLamp
 16297,Item,ProjRed|Illumination,item.projectred.illumination.fixture,mrtjp.projectred.illumination.ItemPartFixture
 16298,Item,ProjRed|Illumination,item.projectred.illumination.fixture,mrtjp.projectred.illumination.ItemPartFixture
+16299,Item,ProjRed|Transportation,item.projectred.transportation.pipe,mrtjp.projectred.transportation.ItemPartPipe
 16353,Item,ProjRed|Exploration,item.projectred.exploration.axeruby,mrtjp.projectred.exploration.ItemGemAxe
 16354,Item,ProjRed|Exploration,item.projectred.exploration.axesapphire,mrtjp.projectred.exploration.ItemGemAxe
 16355,Item,ProjRed|Exploration,item.projectred.exploration.axeperidot,mrtjp.projectred.exploration.ItemGemAxe
@@ -2502,6 +2503,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 16991,Item,ProjRed|Core,item.projectred.core.drawplate,mrtjp.projectred.core.ItemDrawPlate
 16992,Item,ProjRed|Core,item.projectred.core.part,mrtjp.projectred.core.ItemPart
 16993,Item,ProjRed|Core,item.projectred.core.screwdriver,mrtjp.projectred.core.ItemScrewdriver
+16995,Item,ProjRed|Transportation,item.projectred.transportation.routingchip,mrtjp.projectred.transportation.ItemRoutingChip
 17256,Item,AWWayofTime,item.weakBloodOrb,WayofTime.alchemicalWizardry.EnergyBattery
 17257,Item,AWWayofTime,item.energyBlast,WayofTime.alchemicalWizardry.EnergyBlast
 17258,Item,AWWayofTime,item.energySword,WayofTime.alchemicalWizardry.EnergySword

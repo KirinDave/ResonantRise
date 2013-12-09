@@ -1,1 +1,40 @@
 Item ID,Item meta,Has NBT,Display Name
+3768,0,false,Radioactive Material
+3769,0,false,Centrifuge
+3770,0,false,Fission Reactor
+3771,0,false,Reactor Turbine
+3772,0,false,Nuclear Boiler
+3774,0,false,Control Rod
+3775,0,false,Thermometer
+3776,0,false,Fusion Reactor
+3777,0,false,Plasma
+3778,0,false,Electromagnet
+3779,0,false,Chemical Extractor
+3780,0,false,Siren
+3781,0,false,Electromagnet Glass
+3782,0,false,Steam Funnel
+3783,0,false,Particle Accelerator
+3784,0,false,Instant Builder
+3785,0,false,Fulmination Generator
+3786,0,false,Atomic Assembler
+3788,0,false,Toxic Waste
+3789,0,false,Reactor Drain
+3790,0,false,Uranium Ore
+14020,0,false,Hazmat Boots
+14021,0,false,Hazmat Leggings
+14022,0,false,Hazmat Body
+14023,0,false,Hazmat Mask
+14024,100,true,Hand-held Thermometer
+14024,0,true,Hand-held Thermometer
+14025,0,false,Empty Cell
+14027,0,false,Fissile Fuel Rod
+14028,0,false,Deuterium Cell
+14029,0,false,Strange Matter
+14030,0,false,Antimatter
+14030,1,false,Antimatter
+14032,0,false,Yellowcake
+14033,0,false,Uranium-235
+14033,1,false,Uranium-238
+14036,0,false,Toxic Waste Bucket
+14037,0,false,Breeder Fuel Rod
+14038,0,false,Water Cell
