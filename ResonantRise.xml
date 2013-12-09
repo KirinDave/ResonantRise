@@ -8,7 +8,7 @@
     <permgen>256</permgen>
   </pack>
     <messages>
-      <install><![CDATA[<b>Notice!</b> Mystcraft's host is currently down. <br>Please go to our forums at resonant-rise.com to find a copy. </br><u>Put it in your ATLauncher downloads folder to skip the problem.</u>]]></install>
+      <install><![CDATA[<b>Notice!</b> Mystcraft's host is currently down.<br>Please go to our forums at resonant-rise.com to find a copy.<br><u>Put it in your ATLauncher downloads folder to skip the problem.</u>]]></install>
 
       <update><![CDATA[<b>Notice!</b> Mystcraft's host is currently down. If you need a copy (you probably don't) go to resonant-rise.com and find the mystcraft thread for more details.]]></update>
     </messages>
