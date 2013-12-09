@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.5-DEV-006</version>
+    <version>2.5-DEV-007</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -21,7 +21,27 @@
 
   <mods>
     <!-- INTERNAL MODS ONLY -->
-
+	<mod url="packs/ResonantRise/files/2.5/mcpc-plus-1.6.4-R2.1-forge953-B162.jar" file="mcpc-plus-1.6.4-R2.1-forge953-B162.jar" md5="74f91296ca0a9d04d3ebc779288a5326" download="server"
+         name="MCPC+" type="mods" version="B162"
+         website="http://ci.md-5.net/job/MCPC-Plus/"
+		 description="Server superweapon!"
+         optional="yes" client="no"/>
+	<mod url="packs/ResonantRise/files/2.5/simple-recycling-57.1.0.jar" file="simple-recycling-57.1.0.jar" md5="1394ae168c158d7d0141c0f949c6fde5" download="server"
+        name="Simple Recycling" type="mods" version="57.1.0"
+        website="http://www.minecraftforum.net/topic/1001131-"
+        description="Greg-free and easy." />
+	<mod url="packs/ResonantRise/files/2.5/Opis_1.1.0_alpha.zip" file="Opis_1.1.0_alpha.zip" md5="795a8bf55f1b8930c4b5b4e56543701e" download="server"
+         name="Opis" type="mods" group="Cartographer" depends="Mobius Core" version="1.0.4"
+         website="http://www.minecraftforum.net/topic/2104497-"
+		 donation="http://profmobius.blogspot.fr/"
+         description="Opal Map Scanner. Server Doctor. Healer."
+         optional="yes" />
+	<mod url="packs/ResonantRise/files/2.5/MobiusCore_1.0.4.jar" file="MobiusCore_1.0.4.jar" md5="506ff1ac7def67bbf9c6b090af4ae5f7" download="server"
+         name="Mobius Core" type="mods" version="1.0.4"
+         website="http://www.minecraftforum.net/topic/2104497-"
+		 donation="http://profmobius.blogspot.fr/"
+         description="The doctor's toolkit."
+         optional="yes" />
 
 	
     <!-- Evaluation Holding pen cuz it's easier here -->
@@ -362,24 +382,28 @@
          name="Magic Bees" type="mods" version="2.1.7"
          website="http://www.minecraftforum.net/topic/1627856-magic-bees-magic-themed-bees-for-forestry-the-successor-to-thaumicbees/"
          description="Bees in the trap." />
-	<mod url="packs/ResonantRise/files/2.4/ProjectRedBase-1.6.4-4.1.0.13.jar" file="ProjectRedBase-1.6.4-4.1.0.13.jar" md5="49b0d467c11112fb033ab7c36a16975b" download="server"
-         name="Project Red: Base" type="mods" version="4.1.0.13"
+	<mod url="packs/ResonantRise/files/2.5/ProjectRedBase-1.6.4-4.2.0.14.jar" file="ProjectRedBase-1.6.4-4.2.0.14.jar" md5="59f7e65640630555010d62fb2b90cf32" download="server"
+         name="Project Red: Base" type="mods" version="4.2.0.14"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
-	<mod url="packs/ResonantRise/files/2.4/ProjectRedCompat-1.6.4-4.1.0.13.jar" file="ProjectRedCompat-1.6.4-4.1.0.13.jar" md5="f3401ec587896fcce966390c9b129a69" download="server"
-         name="Project Red: Compat" type="mods" version="4.1.0.13"
+	<mod url="packs/ResonantRise/files/2.5/ProjectRedCompat-1.6.4-4.2.0.14.jar" file="ProjectRedCompat-1.6.4-4.2.0.14.jar" md5="a819fbbe64813bc0b007fa81fa2d6a64" download="server"
+         name="Project Red: Compat" type="mods" version="4.2.0.14"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
-	<mod url="packs/ResonantRise/files/2.4/ProjectRedIntegration-1.6.4-4.1.0.13.jar" file="ProjectRedIntegration-1.6.4-4.1.0.13.jar" md5="2feb4de470ae1e7d5493e6b209119613" download="server"
-         name="Project Red: Integration" type="mods" version="4.1.0.13"
+	<mod url="packs/ResonantRise/files/2.5/ProjectRedIntegration-1.6.4-4.2.0.14.jar" file="ProjectRedIntegration-1.6.4-4.2.0.14.jar" md5="3134cdb44961a0011f19a72a09a853da" download="server"
+         name="Project Red: Integration" type="mods" version="4.2.0.14"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
-	<mod url="packs/ResonantRise/files/2.4/ProjectRedLighting-1.6.4-4.1.0.13.jar" file="ProjectRedLighting-1.6.4-4.1.0.13.jar" md5="b3008ef85eee00c6d54a1f9e10b1c037" download="server"
-         name="Project Red: Lighting" type="mods" version="4.1.0.13"
+	<mod url="packs/ResonantRise/files/2.5/ProjectRedLighting-1.6.4-4.2.0.14.jar" file="ProjectRedLighting-1.6.4-4.2.0.14.jar" md5="b4d377ea316fe5fb53ee395d1e54a223" download="server"
+         name="Project Red: Lighting" type="mods" version="4.2.0.14"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
-	<mod url="packs/ResonantRise/files/2.4/ProjectRedWorld-1.6.4-4.1.0.13.jar" file="ProjectRedWorld-1.6.4-4.1.0.13.jar" md5="3a233261cb6b2d2a4a89bf2aadfba8b8" download="server"
-         name="Project Red: World" type="mods" version="4.1.0.13"
+	<mod url="packs/ResonantRise/files/2.5/ProjectRedMechanical-1.6.4-4.2.0.14.jar" file="ProjectRedMechanical-1.6.4-4.2.0.14.jar" md5="d92214b0bdacf957a2e5723aa75ab2c3" download="server"
+         name="Project Red: Mechanical" type="mods" version="4.2.0.14"
+         website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
+         description="RedPower2 Clone" />
+	<mod url="packs/ResonantRise/files/2.5/ProjectRedWorld-1.6.4-4.2.0.14.jar" file="ProjectRedWorld-1.6.4-4.2.0.14.jar" md5="edbdeede6d02050ccfcce25c3a8e177f" download="server"
+         name="Project Red: World" type="mods" version="4.2.0.14"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
     <mod url="packs/ResonantRise/files/2.4/RedstonePasteMod1.5.1.zip" file="RedstonePasteMod1.5.1.zip" md5="72ad8b99064c42d488b0e7c0cdb1b82c" download="server"
