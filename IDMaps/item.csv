@@ -720,16 +720,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1531,Block,BuildCraft|Energy,tile.blockFuel,buildcraft.energy.BlockBuildcraftFluid
 1540,Block,LogisticsPipes|Main,tile.logisticsSolidBlock,logisticspipes.blocks.LogisticsSolidBlock
 1555,Block,ObsidiPlates,tile.null,myrathi.obsidiplates.block.BlockMultiPressurePlate
-1560,Block,QuarryPlus,tile.EnchantMover,org.yogpstop.qp.BlockMover
-1561,Block,QuarryPlus,tile.InfMJSrc,org.yogpstop.qp.BlockInfMJSrc
-1562,Block,QuarryPlus,tile.MarkerPlus,org.yogpstop.qp.BlockMarker
-1563,Block,QuarryPlus,tile.MiningWellPlus,org.yogpstop.qp.BlockMiningWell
-1564,Block,QuarryPlus,tile.PumpPlus,org.yogpstop.qp.BlockPump
-1565,Block,QuarryPlus,tile.QuarryPlus,org.yogpstop.qp.BlockQuarry
-1566,Block,QuarryPlus,tile.RefineryPlus,org.yogpstop.qp.BlockRefinery
-1567,Block,QuarryPlus,tile.LaserPlus,org.yogpstop.qp.BlockLaser
-1568,Block,QuarryPlus,tile.BreakerPlus,org.yogpstop.qp.BlockBreaker
-1569,Block,QuarryPlus,tile.PlacerPlus,org.yogpstop.qp.BlockPlacer
 1603,Block,AWWayofTime,tile.blockAltar,WayofTime.alchemicalWizardry.BlockAltar
 1604,Block,AWWayofTime,tile.bloodRune,WayofTime.alchemicalWizardry.BloodRune
 1605,Block,AWWayofTime,tile.speedRune,WayofTime.alchemicalWizardry.SpeedRune
@@ -1741,7 +1731,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 7162,Item,LogisticsPipes|Main,item.PipeFluidExtractor,logisticspipes.items.ItemLogisticsPipe
 7163,Item,LogisticsPipes|Main,item.PipeFluidSatellite,logisticspipes.items.ItemLogisticsPipe
 7164,Item,LogisticsPipes|Main,item.PipeFluidSupplierMk2,logisticspipes.items.ItemLogisticsPipe
-7426,Item,QuarryPlus,item.null,org.yogpstop.qp.ItemTool
 7493,Item,EnderStorage,item.enderpouch,codechicken.enderstorage.storage.item.ItemEnderPouch
 7500,Item,JABBA,item.Generic capacity upgrade,mcp.mobius.betterbarrels.common.items.ItemCapaUpg
 7501,Item,JABBA,item.ItemBarrelSticker,mcp.mobius.betterbarrels.common.items.ItemBarrelSticker
