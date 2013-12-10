@@ -1,0 +1,1241 @@
+-------------------------------------
+--- Biome list
+-------------------------------------
+Ocean
+Plains
+Desert
+Extreme Hills
+Forest
+Taiga
+Swampland
+River
+Hell
+Sky
+FrozenOcean
+FrozenRiver
+Ice Plains
+Ice Mountains
+MushroomIsland
+MushroomIslandShore
+Beach
+DesertHills
+ForestHills
+TaigaHills
+Extreme Hills Edge
+Jungle
+JungleHills
+Storage Cell
+Sublime Shrubland
+Thinned Mystic Grove
+Bloody Heap
+Lavender Fields
+Tropics Mountain
+Autumn Hills
+Overgrown Greens
+ForestHills
+TaigaHills
+JungleHills
+Silkglades
+Savanna Plateau
+Forested Field
+Seasonal Spruce Forest
+Alps Forest
+Alps Mountainside
+Thinned Timber
+Thinned Pasture
+Pasture Meadow
+Thick Ominous Woods
+Thick Shrubland
+Canyon Ravine
+Meadow Forest
+Oceanic Abyss
+Coral Reef
+Kelp Forest
+Gravel Beach
+Overgrown Beach
+Wonderous Woods
+Majestic Meadow
+Blessed Bog
+Nether
+Undergarden
+Corrupted Sands
+Phantasmagoric Inferno
+Boneyard
+Twilight Lake
+Twilight Forest
+Dense Twilight Forest
+Highlands
+Mushrooms
+Twilight Swamp
+Twilight Stream
+Snowy Forest
+Glacier
+Twilight Clearing
+Clearing Border
+Lake Border
+Lots of Mushrooms
+Major Feature
+Minor Feature
+Dark Forest
+Enchanted Forest
+Fire Swamp
+MooMooFarm
+Desert Oil Field
+Ocean Oil Field
+Tainted Land
+Magical Forest
+Eerie
+Alps
+Arctic
+Badlands
+Bamboo Forest
+Bayou
+Birch Forest
+Bog
+Boreal Forest
+Brushland
+Canyon
+Chaparral
+Cherry Blossom Grove
+Coniferous Forest
+Snowy Coniferous Forest
+Crag
+Dead Forest
+Snowy Dead Forest
+Dead Swamp
+Deadlands
+Deciduous Forest
+Dunes
+Fen
+Field
+Frost Forest
+Fungi Forest
+Garden
+Glacier
+Grassland
+Grove
+Heathland
+Highland
+Hot Springs
+Icy Hills
+Jade Cliffs
+Lush Desert
+Lush Swamp
+Mangrove
+Maple Woods
+Marsh
+Meadow
+Mesa
+Moor
+Mountain
+Mystic Grove
+Oasis
+Ominous Woods
+Orchard
+Origin Valley
+Outback
+Pasture
+Polar
+Prairie
+Quagmire
+Rainforest
+Redwood Forest
+Sacred Springs
+Savanna
+Scrubland
+Seasonal Forest
+Shield
+Shore
+Shrubland
+Sludgepit
+Spruce Woods
+Steppe
+Temperate Rainforest
+Thicket
+Timber
+Tropical Rainforest
+Tropics
+Tundra
+Volcano
+Wasteland
+Wetland
+Woodland
+Plains
+Desert
+Forest
+Taiga
+Swampland
+Extreme Hills
+Jungle
+
+-------------------------------------
+--- Fluid list
+-------------------------------------
+plastic
+bop.springwater
+molten.mithril
+moltentitanium
+molten.eximite
+honey
+life essence
+fishoil
+molten.meutoite
+emerald.liquid
+myst.ink.black
+molten.oureclase
+mushroomsoup
+milk
+juice
+molten.desichalkos
+molten.adamantine
+glass.molten
+yellorium
+chocolatemilk
+molten.rubracium
+sewage
+iron.molten
+molten.angmallen
+molten redstone
+naturalgas
+molten.tartarite
+bop.honey
+blood
+cryotheum
+molten.prometheum
+sap
+manyullyn.molten
+platinum.molten
+nickel.molten
+fluxgoo
+uumatter
+gascraft_smoke
+vegetable
+steel.molten
+molten.kalendrite
+molten.midasium
+oxygen
+gascraft_toxicgas
+biomass
+gascraft_hydrogen
+liquidnitrogen
+cobalt.molten
+molten.lemurite
+uraniumhexafluoride
+gascraft_corrosivegas
+oil
+immibis.liquidxp
+endergoo
+glowstone
+aluminumbrass.molten
+gascraft_naturalgas
+fortron
+molten.inolashite
+deuterium
+water
+molten.shadow.steel
+ic2coolant
+stone.seared
+fastwater
+fuelcolumn
+copper.molten
+molten.deep.iron
+turpentine
+molten.hepatizon
+pigiron.molten
+peat
+xpjuice
+bronze.molten
+hydrogen
+bop.liquidpoison
+molten.manganese
+latex
+pyrotheum
+steam
+ardite.molten
+molten.orichalcum
+creosote
+sludge
+molten conductive redmetal
+glue
+silver.molten
+molten.vulcanite
+resin
+molten.carmot
+gold.molten
+molten.damascus.steel
+fishfood
+molten.celenegil
+molten.ignatius
+molten.alduorite
+liquidessence
+lead.molten
+molten.ceruclase
+molten.astral.silver
+bioethanol
+poison
+molten.zinc
+molten.sanguinite
+seedoil
+mobessence
+tin.molten
+moltenmagnesium
+slime.blue
+slickwater
+electrum.molten
+molten.platinum
+cyanite
+constructionfoam
+molten.vyroxeres
+short.mead
+molten.infuscolium
+molten.haderoth
+molten.black.steel
+biofuel
+molten.brass
+molten.quicksilver
+ice
+coal
+meat
+glass
+fuel
+toxicwaste
+liquiddna
+molten.atlarus
+molten.shadow.iron
+invar.molten
+liquidforce
+obsidian.molten
+alumite.molten
+gascraft_neurotoxin
+molten.amordrine
+acid
+lava
+gascraft_propellent
+aluminum.molten
+redstone
+moltenrutile
+pinkslime
+ender
+
+-------------------------------------
+--- Ore dictionary classes
+-------------------------------------
+cropBeechnut
+crushedPurifiedUranium
+cropPear
+blockEmerald
+oreCeruclase
+oreVulcanite
+dustObsidian
+cropSatsuma
+dustBlack Steel
+compressedDirt3x
+oreSapphire
+cropOlive
+dustTartarite
+dropHoneydew
+glassPanePink
+dustDamascus Steel
+blockRubber
+gearWood
+oreFirestone
+blockGlowstone
+gemApatite
+compressedDirt4x
+nuggetPlatinum
+oreNetherRuby
+clumpTin
+crystallineLead
+cleanGravelCobalt
+ingotPlutonium
+nuggetTin
+beeComb
+itemWrench
+dyeLightBlue
+itemDustSteel
+compressedDirt1x
+ingotObsidian
+dustDirtyTin
+dustDeep Iron
+dyePurple
+itemBeeswax
+woodStick
+nuggetElectrum
+cleanGravelLead
+crystalQuartz
+glassPaneGray
+leavesTree
+nuggetAluminium
+dustTinySilver
+cropGrapefruit
+compressedDirt2x
+dustDirtyOsmium
+ingotBrass
+aquaRegia
+dustDirtySilver
+ingotOsmium
+itemIngotBronze
+ingotSilver
+itemCasingBrass
+clumpObsidian
+dustPrometheum
+logWood
+manyullynRod
+cropPomelo
+itemEnrichedAlloy
+dustTin
+dyeRed
+ingotUranium
+oreNetherOsmium
+oreSulfur
+ingotPlatinum
+crushedTin
+ingotIgnatius
+blockLemurite
+itemPlateSteel
+cropCranberry
+nuggetForce
+glassPaneCyan
+oreCertusQuartz
+stickWood
+cleanGravelArdite
+oreCobalt
+blockAlumite
+mushroomBluemilk
+hambone
+dustGlowstone
+itemBacon
+projredBundledCable
+glassPaneMagenta
+mushroomToadstool
+plateLapis
+cropStingberry
+oreAdamantine
+nuggetInvar
+cropKumquat
+ingotCelenegil
+treeLeaves
+cropCoffee
+nuggetObsidian
+reducedIron
+taintedSoil
+ingotAmordrine
+blockAluminum
+blockConcrete
+blockIron
+mb.magnet.level1
+mb.magnet.level2
+mb.magnet.level3
+mb.magnet.level4
+mb.magnet.level5
+mb.magnet.level6
+mb.magnet.level7
+mb.magnet.level8
+dyeCyan
+mb.magnet.level0
+woodRod
+blockUranium
+blockTyrian
+fz.waterBucketLike
+dustAngmallen
+glassLime
+nuggetUnstable
+cropPeach
+glassRed
+nuggetMeat
+dustRefinedObsidian
+ingotAluminum
+logWillow
+gemTanzanite
+nuggetEnderium
+oreRuby
+reducedDark Iron
+dustImpureTin
+obsidianRod
+dustInfuscolium
+groundArdite
+blockInfuscolium
+flintRod
+brickPeat
+oreYellorite
+dustCoal
+ingotCyanite
+dustBronze
+blockSteel
+MonazitOre
+coralLightBlue
+oreAmber
+dustShadow Iron
+dirtyGravelLead
+ingotSteel
+oreApatite
+dustVulcanite
+ingotDamascus Steel
+circuitElite
+cropBlackberry
+nuggetAluminiumBrass
+cropPotato
+sludge
+craftingToolWireCutter
+glassLightBlue
+ingotIron
+blockManganese
+plateObsidian
+blockCelenegil
+glassPaneLightGray
+crushedSilver
+glassWhite
+blockLavastone
+oreIgnatius
+cropButternut
+ingotElectrum
+nuggetMeatRaw
+dustMeutoite
+gemSapphire
+orePeridot
+cleanGravelGalena
+cropPlum
+plantAlgae
+blockAlduorite
+ingotDesichalkos
+ingotQuicksilver
+dustPureArdite
+componentArtificialMuscle
+ingotForce
+itemTear
+crushedPurifiedSilver
+gearTin
+ingotPigIron
+cellEmpty
+gemRuby
+oreMithril
+cropSandPear
+oreNetherSapphire
+dustSilver
+dustSiliconDioxide
+blockRadioactive
+cropElderberry
+itemIngotSteel
+oreShadow Iron
+dustImpureCobalt
+dustWheat
+ingotAtlarus
+ingotInfernal
+itemClaw
+blockDiamond
+ingotCeruclase
+crushedLead
+oreAlduorite
+cleanGravelIron
+alumiteRod
+glassPaneRed
+nuggetSilver
+cropHazelnut
+componentFieldEmitter
+coralBrown
+blockHepatizon
+itemFertilizer
+blockLimestone
+componentLVCapacitor
+nuggetCobalt
+craftingTableWood
+ingotVyroxeres
+dustLapisLazuli
+oreOureclase
+oreNikolite
+dustEnderPearl
+dyeGray
+craftingToolForgeHammer
+ingotManganese
+oreNetherUranium
+ingotRubracium
+oreDiamond
+ingotMithril
+dustCelenegil
+gearBronze
+blueslimeRod
+ingotLead
+dustNickel
+ingotBronze
+plankWood
+dropUranium
+dustInvar
+dustQuartz
+blockMarble
+dustNikolite
+ingotDeep Iron
+itemSilicon
+dyePink
+ingotAluminium
+blockCarmot
+blockCeruclase
+cropPecan
+oreGold
+dustIron
+oreMalachite
+clumpGold
+gemLapis
+nuggetMagnesium
+cleanGravelDark Iron
+blockCopper
+coralPurple
+dustPlastic
+dustImpureLead
+blockNickel
+blockRubracium
+oreLead
+oreArdite
+dyeBlack
+oreGreenSapphire
+dustDirtyCopper
+blockHolystone
+oreAluminum
+nuggetGold
+oreDeep Iron
+oreTin
+crushedGold
+blockMagnesium
+oreFzDarkIron
+dustQuicklime
+componentPlatingAdvanced
+dustUranium
+boneRod
+blockManyullyn
+groundAluminum
+dustPureCobalt
+reducedGold
+clumpIron
+oreCarmot
+oreTanzanite
+shardApatite
+crystallineGold
+projredWire
+groundTin
+dustCeruclase
+blockOrichalcum
+ingotPrometheum
+batteryBox
+blockUnstable
+oreCinnabar
+cropClove
+dyeWhite
+cropNectarine
+nuggetNickel
+oreNickel
+crystallineIron
+itemIngotCopper
+dustDesichalkos
+dyeBlue
+gearCopper
+dustInolashite
+glassPaneLightBlue
+reducedGalena
+cropLime
+dustGold
+dyeMagenta
+plateDenseObsidian
+orePlatinum
+clumpSilver
+ingotAdamantine
+dustPhosphorus
+brSmallMachineCyaniteProcessor
+ingotGraphite
+ingotInfuscolium
+itemPlateBronze
+dirtyGravelSilver
+ingotRefinedIron
+coralPink
+oreForce
+cropFig
+gearDiamond
+blockVyroxeres
+blockTin
+projredIllumar
+oreVyroxeres
+reactorController
+dyeLime
+ingotBlack Steel
+blockSanguinite
+torchStone
+cropCitron
+universalCable
+ingotRefinedGlowstone
+dustBrass
+cropApricot
+componentGliderWing
+oreNetherDiamond
+ingotTungsten
+groundSilver
+waxMagical
+nuggetArdite
+crystalCinnabar
+oreAluminium
+dustAlduorite
+ProjRed|Exploration:bag
+itemDustBronze
+cropStrawberry
+ingotMagnesium
+dustImpureArdite
+blockBronze
+circuitBasic
+sheetPlastic
+gearIron
+cropAcorn
+cleanGravelSilver
+plateDenseTin
+dirtyGravelCobalt
+glassPurple
+plateTin
+cleanGravelGold
+blockCloud
+reducedSilver
+dustCertusQuartz
+ingotAluminumBrass
+glassPaneWhite
+ingotMidasium
+copperRod
+oreNetherIridium
+blockZinc
+compressedCobblestone1x
+advancedBattery
+ingotCarmot
+glassPaneBlack
+oreNetherSteel
+cobblestone
+plateCopper
+dustRubracium
+crystallineArdite
+dustImpureAluminum
+dustElectrum
+compressedCobblestone2x
+oreSilicon
+blockDesichalkos
+blockInvar
+projredInsulatedWire
+clumpCopper
+blockCrystal
+oreCadmium
+itemDropUranium
+dustClay
+oreCopper
+nuggetPigIron
+ingotGold
+dustLapis
+oreNetherLead
+oreOrichalcum
+oreIron
+oreAstral Silver
+dustIgnatius
+diamondNugget
+coralRed
+flowerDeathbloom
+glass
+groundCopper
+dustShadow Steel
+ingotShadow Steel
+itemCircuitAdvanced
+reactorRedNetPort
+dustGraphite
+cropApple
+blockRefinedGlowstone
+itemCompressedCarbon
+componentPlatingBasic
+ingotMeatRaw
+cropFingerLime
+nuggetLead
+treeSapling
+slabWood
+ingotInolashite
+oreNetherCoal
+blockOreCopper
+oreBauxite
+compressedCobblestone7x
+blockQuicksilver
+coralOrange
+dirtyGravelDark Iron
+oreSteel
+slimeball
+dustTinyLead
+shardDiamond
+cropOsangeOrange
+blockPlatinum
+blockSilver
+dustNetherQuartz
+compressedCobblestone8x
+itemIngotTin
+dustDirtyGold
+glassPaneGreen
+dyeGreen
+blockOureclase
+cropVine
+crystalCertusQuartz
+coralYellow
+groundLead
+cropCherryPlum
+itemCharcoalSugar
+dustAtlarus
+blockElectrum
+gemPeridot
+componentSolenoid
+blockFft
+blockGold
+oreManganese
+battery
+dustHepatizon
+oreEximite
+plateGold
+blockBlack Steel
+dustMagnesium
+shardEmerald
+cropWalnut
+dustPotash
+dustQuicksilver
+cropBlueberry
+blockMithril
+blockIgnatius
+ingotAstral Silver
+stoneBricks
+plateRefinedIron
+dustEnderium
+componentControlCircuit
+fuelCoke
+oreGalena
+cropRedBanana
+crushedPurifiedLead
+stoneRod
+cropPlantain
+stone
+cropRaspberry
+oreLapis
+glassOrange
+compressedCobblestone4x
+nuggetIron
+oreNetherIron
+plateLead
+oreNetherLapis
+wrench
+dustSaltpeter
+compressedCobblestone3x
+dustSanguinite
+glassPaneYellow
+cropSourCherry
+oreNetherSilver
+oreNetherGold
+copperCableBlock
+slimeRod
+blockBrass
+componentServo
+compressedCobblestone6x
+dustZinc
+plateDenseCopper
+dustImpureSilver
+ingotAlumite
+compressedGravel1x
+oreNaturalAluminum
+oreCoal
+reducedArdite
+compressedCobblestone5x
+dirtDried
+dustCharcoal
+plateBronze
+dustRedstone
+nuggetSteel
+dustPlutonium
+stoneBowl
+dustTungsten
+cropCherry
+cropMaloberry
+plateDenseIron
+blockCharcoal
+compressedGravel2x
+netherrackRod
+cropCrabapple
+itemCircuitElite
+cropBlackthorn
+glassYellow
+ingotNickel
+oreInfuscolium
+cropBuddhaHand
+paperRod
+groundCobalt
+nuggetBronze
+oreFluorite
+dirtyGravelTin
+oreMagnesium
+componentParachute
+blockVulcanite
+glassPaneBrown
+componentIonThruster
+slimeBall
+itemRubber
+ingotTartarite
+dustDirtyObsidian
+crushedPurifiedIron
+ingotSanguinite
+oreAtlarus
+gemEmerald
+crushedIron
+mushroomGlowshroom
+projredPart
+xychoriditeMetal
+ingotHaderoth
+blockAngmallen
+cropBlightberry
+cactusRod
+cropCarrot
+ingotCobalt
+blockArdite
+crushedUranium
+dustOrichalcum
+cropKeyLime
+oreSanguinite
+dustTinyGold
+dustImpureIron
+ingotCopper
+glassBlack
+crystallineTin
+reactorPowerTap
+oreNetherPlatinum
+dustImpureCopper
+gemGreenSapphire
+ingotFzDarkIron
+blockEnderium
+plateDenseGold
+nuggetCopper
+cropSkyberry
+ingotShadow Iron
+nuggetAluminumBrass
+dyeYellow
+groundGold
+blockTitanium
+gemEmery
+dustLemurite
+reducedTin
+blockTartarite
+orePrometheum
+dustImpureNickel
+itemSuperconductor
+ingotLemurite
+dustHydratedCoal
+itemMotor
+ingotAngmallen
+oreNetherNickel
+blockEximite
+reactorCasing
+blockLead
+glassMagenta
+glassPink
+blockMud
+crushedCopper
+glassPaneOrange
+dustKalendrite
+ingotUnstable
+burntquartz
+stairWood
+oreTitanium
+cropGingkoNut
+gearGold
+blockFzDarkIron
+blockAdamantine
+ingotManyullyn
+sulfuricAcid
+blockWool
+oreEmerald
+gemTopaz
+oreNetherEmerald
+ingotAlduorite
+dustVyroxeres
+ingotDepletedUranium
+dyeOrange
+reducedLead
+cropOrange
+nuggetAluminum
+dirtyGravelGold
+antimatterMilligram
+woodRubber
+clumpOsmium
+ingotRefinedObsidian
+itemCircuitBasic
+dustLithium
+enderobsidian
+slabCloth
+glassGray
+coralMagenta
+dustMithril
+ingotAluminiumBrass
+dustTinyIron
+reducedCobalt
+grassSmoldering
+dustCyanite
+cropBlackCherry
+plateIron
+crystallineCobalt
+itemTar
+crystallineDark Iron
+blockPrometheum
+plateDenseLapis
+blockAstral Silver
+dustAluminum
+cellDeuterium
+blockCarpet
+cropWildCherry
+ingotEximite
+componentWiring
+leavesMagic
+blockRedstone
+dustBlizz
+dustAmordrine
+crushedPurifiedCopper
+glassBlue
+glassPaneLime
+componentLaserEmitter
+ingotTitanium
+oreNetherRedstone
+motor
+dirtyGravelGalena
+oreRubracium
+gemForce
+blockShadow Steel
+blockMidasium
+cleanGravelCopper
+blockAsh
+ingotInvar
+stoneRed
+blockRefinedObsidian
+icestone
+ingotZinc
+dirtyGravelIron
+oreIridium
+dustDirtyIron
+groundNickel
+componentMVCapacitor
+ingotEnderium
+arditeRod
+cleanGravelTin
+cropTangerine
+glassBrown
+oreAmmonium
+glassPaneBlue
+dustSulfur
+blockDeep Iron
+seedWheat
+blockCobalt
+oreEmery
+bronzeRod
+glassGreen
+groundIron
+oreLemurite
+oreKalendrite
+flowerDaffodil
+dustHaderoth
+gemMalachite
+ingotMeutoite
+dustSteel
+cropMelon
+strangeMatter
+plateSteel
+breederUranium
+rodBlizz
+ingotArdite
+ingotTin
+componentCarbonMyofiber
+sandstone
+cropDuskberry
+dustManganese
+bricksStone
+dustCarmot
+plantSprout
+nuggetTitanium
+dustOsmium
+dirtyGravelArdite
+dustDiamond
+ingotHepatizon
+copperWire
+blockAluminumBrass
+oreNetherTin
+blockInolashite
+oreTungsten
+cropLemon
+oreTopaz
+thaumiumRod
+blockPlastic
+dyeLightGray
+ingotKalendrite
+steelRod
+projredInsFramedWire
+crystallineCopper
+oreQuartz
+dustTinyLithium
+oreCalcite
+blockOreTin
+orePitchblend
+glassLightGray
+itemBioFuel
+oreMidasium
+cropBrazilNut
+gearStone
+crystallineGalena
+dustEximite
+blockAluminiumBrass
+ingotOrichalcum
+dropHoney
+oreBronze
+compressedSand1x
+itemRawRubber
+dustTinyCopper
+dustMidasium
+oreIndium
+gearElectrum
+dustBitumen
+logMagic
+componentMyofiberGel
+oreCassiterite
+compressedSand2x
+record
+ingotVulcanite
+cropChestnut
+oreTetrahedrite
+cellWater
+dustTinySulfur
+cellUranium
+gearInvar
+nuggetManyullyn
+saplingTree
+ironRod
+blockAmordrine
+dustTinyTin
+blockHaderoth
+crushedPurifiedTin
+cableRedNet
+cropManderin
+cloth
+cropPumpkin
+crushedPurifiedGold
+blockKalendrite
+dyeBrown
+plateDenseLead
+ingotNaturalAluminum
+flowerRainbow
+antimatterGram
+dustTitanium
+plantKelp
+oreZinc
+circuitAdvanced
+dustAsh
+cropDate
+crafterWood
+ingotMeat
+dirtyGravelCopper
+ingotRedstone
+nuggetThaumium
+plateDenseBronze
+plateBrass
+dustImpureGold
+blockAtlarus
+cropPapaya
+ingotOureclase
+dustOureclase
+itemPollen
+glassCyan
+bricksGravel
+stoneMossy
+blockAluminium
+blockOsmium
+oreMeutoite
+blockDamascus Steel
+nuggetAlumite
+blockShadow Iron
+oreNetherPeridot
+dustLead
+oreUranium
+dropRoyalJelly
+oreRedstone
+oreOsmium
+dustPlatinum
+blockDirt
+cropBanana
+reducedCopper
+dustAstral Silver
+glassPanePurple
+oreSilver
+cobaltRod
+orePhosphorite
+componentHVCapacitor
+cropAlmond
+blockMeutoite
+gemDiamond
+cropHops
+oreNetherCopper
+oreSaltpeter
+crystallineSilver
+dustCopper
+orePotash
+oreBitumen
+dustAdamantine
+pulpWood
+
+-------------------------------------
+--- Potion list
+-------------------------------------
+moveSpeed
+moveSlowdown
+digSpeed
+digSlowDown
+damageBoost
+heal
+harm
+jump
+confusion
+regeneration
+resistance
+fireResistance
+waterBreathing
+invisibility
+blindness
+nightVision
+hunger
+weakness
+poison
+wither
+healthBoost
+absorption
+saturation
+ic2.potion.radiation
+radiation
+fluxtaint
+Water Breathing
+Flight
+Feather Fall
+Haste
+True Sight
+Regeneration
+Magic Shield
+Charmed
+Frost Slow
+Chrono Anchor
+Mana Regen
+Draining Poison
+Entangled
+Watery Grave
+Protecting Winds
+Parasitic Seed
+Spell Reflect
+Desert Curse
+Kiss of Death
+Silence
+Swift Swim
+Agility
+Leap
+Mana Boost
+Astral Distortion
+Illuminated
+Greater Mana Restoration
+Epic Mana Restoration
+Legendary Mana Restoration
+Gravity Well
+Levitation
+Clarity
+Drowning
+Boost
+Whirlwind
+Inhibit

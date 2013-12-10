@@ -150,20 +150,20 @@ tile.mfr.cable.redstone.name = \u7d05\u77f3\u7dda\u7e9c
 tile.mfr.rednet.logic.name = \u53ef\u7de8\u7a0b\u7d05\u77f3\u63a7\u5236\u5668
 tile.mfr.rednet.panel.historian.name = \u6ce2\u5f62\u8a18\u9304\u5668
 
-tile.mfr.liquid.milk.flowing.name = \u725b\u5976
-tile.mfr.liquid.milk.still.name = \u725b\u5976
-tile.mfr.liquid.sludge.flowing.name = \u6c61\u6ce5
-tile.mfr.liquid.sludge.still.name = \u6c61\u6ce5
-tile.mfr.liquid.sewage.flowing.name = \u6c61\u6c34
-tile.mfr.liquid.sewage.still.name = \u6c61\u6c34
-tile.mfr.liquid.essence.flowing.name = \u7cbe\u83ef\u6db2
-tile.mfr.liquid.essence.still.name = \u7cbe\u83ef\u6db2
-tile.mfr.liquid.biofuel.flowing.name = \u751f\u7269\u71c3\u6cb9
-tile.mfr.liquid.biofuel.still.name = \u751f\u7269\u71c3\u6cb9
-tile.mfr.liquid.meat.still.name = \u8089\u6e6f
-tile.mfr.liquid.pinkslime.still.name = \u7c89\u8272\u7c98\u6db2
-tile.mfr.liquid.chocolatemilk.still.name = \u5de7\u514b\u529b\u725b\u5976
-tile.mfr.liquid.mushroomsoup.still.name = \u8611\u83c7\u6e6f
+fluid.mfr.liquid.milk.flowing.name = \u725b\u5976
+fluid.mfr.liquid.milk.still.name = \u725b\u5976
+fluid.mfr.liquid.sludge.flowing.name = \u6c61\u6ce5
+fluid.mfr.liquid.sludge.still.name = \u6c61\u6ce5
+fluid.mfr.liquid.sewage.flowing.name = \u6c61\u6c34
+fluid.mfr.liquid.sewage.still.name = \u6c61\u6c34
+fluid.mfr.liquid.mobessence.flowing.name = \u7cbe\u83ef\u6db2
+fluid.mfr.liquid.mobessence.still.name = \u7cbe\u83ef\u6db2
+fluid.mfr.liquid.biofuel.flowing.name = \u751f\u7269\u71c3\u6cb9
+fluid.mfr.liquid.biofuel.still.name = \u751f\u7269\u71c3\u6cb9
+fluid.mfr.liquid.meat.still.name = \u8089\u6e6f
+fluid.mfr.liquid.pinkslime.still.name = \u7c89\u8272\u7c98\u6db2
+fluid.mfr.liquid.chocolatemilk.still.name = \u5de7\u514b\u529b\u725b\u5976
+fluid.mfr.liquid.mushroomsoup.still.name = \u8611\u83c7\u6e6f
 
 entity.MineFactoryReloaded.mfrEntityPinkSlime.name = \u7c89\u8272\u53f2\u840a\u59c6
 

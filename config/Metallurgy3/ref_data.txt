@@ -1,0 +1,49 @@
+Wood/Leather
+Dur: 	60
+S-Dmg:	+4
+Enc: 	15
+Def:	7
+1
+3
+2
+1
+
+Stone
+Dur: 	132
+S-Dmg:	+4
+Enc: 	12
+Def:	0
+0
+0
+0
+0
+
+Gold
+Dur: 	33
+S-Dmg:	+5
+Enc: 	25
+Def:	11
+2
+5
+3
+1
+
+Iron
+Dur: 	251
+S-Dmg:	+6
+Enc:	9
+Def:	15
+2
+6
+5
+2
+
+Diamond
+Dur: 	1562
+S-Dmg:	+7
+Enc:	10
+Def:	20
+3
+8
+6
+3

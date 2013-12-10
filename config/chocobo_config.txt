@@ -15,7 +15,7 @@ renderNameHeight = 0.0
 // 'Kweh'. The number set with this key will reduce the frequency to this number in 100.
 // Thus if it is set to 50 only every second 'Kweh' will be heared. If set to 1 only 
 // every 100th etc...
-livingSoundProbability = 50
+livingSoundProbability = 100
 
 // Mutation rates of planted and grown gysahl greens. There is a gysahlGreenMutationRate permille chance
 // the gysahl plant will mutate into a breeding gysahl. If the plant has mutated into
@@ -54,19 +54,20 @@ chocopediaInDungeons = true
 // the spawnBiomeskey, to have Chocobos spawn in the
 // designated biomes. Add the token 'all' to have Chocobos spawn in 
 // all biomes.
-
-spawnBiomes = Plains,Forest,Taiga,Swampland,River,MushroomIsland,MushroomIslandShore,Beach,DesertHills,ForestHills,Jungle,JungleHills,Savanna Plateau,Forested Field,Seasonal Spruce Forest,Alps Forest,Thinned Timber,Thinned Pasture,Pasture Meadow,Thick Shrubland,Canyon Ravine,Meadow Forest,Kelp Forest,Gravel Beach,Overgrown Beach,Wonderous Woods,Majestic Meadow,Blessed Bog,Desert Oil Field,Ocean Oil Field,Alps,Arctic,Badlands,Bamboo Forest,Bayou,Birch Forest,Bog,Boreal Forest,Brushland,Chaparral,Cherry Blossom Grove,Coniferous Forest,Snowy Coniferous Forest,Deciduous Forest,Dunes,Fen,Field,Fungi Forest,Garden,Grassland,Grove,Heathland,Highland,Hot Springs,Jade Cliffs,Lush Desert,Lush Swamp,Mangrove,Maple Woods,Marsh,Meadow,Mesa,Moor,Mystic Grove,Oasis,Orchard,Origin Valley,Outback,Pasture,Polar,Prairie,Quagmire,Rainforest,Redwood Forest,Sacred Springs,Savanna,Scrubland,Seasonal Forest,Shore,Shrubland,Sludgepit,Spruce Woods,Temperate Rainforest,Thicket,Timber,Tropical Rainforest,Tropics,Wetland,Woodland
+// Possible biome names:
+// Ocean, Plains, Desert, Extreme Hills, Forest, Taiga, Swampland, River, Hell, Sky, FrozenOcean, FrozenRiver, Ice Plains, Ice Mountains, MushroomIsland, MushroomIslandShore, Beach, DesertHills, ForestHills, TaigaHills, Extreme Hills Edge, Jungle, JungleHills, Lavender Fields, Tropics Mountain, Autumn Hills, Overgrown Greens, ForestHills, TaigaHills, JungleHills, Silkglades, Savanna Plateau, Forested Field, Seasonal Spruce Forest, Alps Forest, Alps Mountainside, Thinned Timber, Thinned Pasture, Pasture Meadow, Thick Ominous Woods, Thick Shrubland, Canyon Ravine, Meadow Forest, Oceanic Abyss, Coral Reef, Kelp Forest, Gravel Beach, Overgrown Beach, Wonderous Woods, Majestic Meadow, Blessed Bog, Nether, Undergarden, Corrupted Sands, Phantasmagoric Inferno, Boneyard, Desert Oil Field, Ocean Oil Field, Alps, Arctic, Badlands, Bamboo Forest, Bayou, Birch Forest, Bog, Boreal Forest, Brushland, Canyon, Chaparral, Cherry Blossom Grove, Coniferous Forest, Snowy Coniferous Forest, Crag, Dead Forest, Snowy Dead Forest, Dead Swamp, Deadlands, Deciduous Forest, Dunes, Fen, Field, Frost Forest, Fungi Forest, Garden, Glacier, Grassland, Grove, Heathland, Highland, Hot Springs, Icy Hills, Jade Cliffs, Lush Desert, Lush Swamp, Mangrove, Maple Woods, Marsh, Meadow, Mesa, Moor, Mountain, Mystic Grove, Oasis, Ominous Woods, Orchard, Origin Valley, Outback, Pasture, Polar, Prairie, Quagmire, Rainforest, Redwood Forest, Sacred Springs, Savanna, Scrubland, Seasonal Forest, Shield, Shore, Shrubland, Sludgepit, Spruce Woods, Steppe, Temperate Rainforest, Thicket, Timber, Tropical Rainforest, Tropics, Tundra, Volcano, Wasteland, Wetland, Woodland, Plains, Desert, Forest, Taiga, Swampland, Extreme Hills, Jungle
+spawnBiomes = Ocean,Plains,Desert,Extreme Hills,Forest,Taiga,Swampland,River,Hell,Sky,FrozenOcean,FrozenRiver,Ice Plains,Ice Mountains,Beach,ForestHills,TaigaHills,Hills Edge,Jungle,JungleHills,Lavender Fields,Mountain,Autumn Hills,Overgrown Greens,ForestHills,Silkglades,Savanna Plateau,Forested Field,Seasonal Spruce Forest,Alps Forest,Thinned Timber,Thinned Pasture,Pasture Meadow,Thick Ominous Woods,Thick Shrubland,Canyon Ravine,Meadow Forest,Gravel Beach,Overgrown Beach,Wonderous Woods,Majestic Meadow,Blessed Bog,Nether,Undergarden,Corrupted Sands,Phantasmagoric Inferno,Boneyard,Desert Oil Field,Alps,Arctic,Badlands,Bamboo Forest,Bayou,Birch Forest,Boreal Forest,Brushland,Canyon,Chaparral,Cherry Blossom Grove,Coniferous Forest,Snowy Coniferous Forest,Crag,Dead Forest,Snowy Dead Forest,Dead Swamp,Deadlands,Deciduous Forest,Dunes,Fen,Field,Frost Forest,Fungi Forest,Garden,Glacier,Grassland,Grove,Heathland,Highland,Hot Springs,Icy Hills,Jade Cliffs,Lush Swamp,Mangrove,Maple Woods,Marsh,Meadow,Mesa,Moor,Mountain,Mystic Grove,Oasis,Ominous Woods,Orchard,Origin Valley,Outback,Pasture,Prairie,Quagmire,Rainforest,Redwood Forest,Sacred Springs,Savanna,Scrubland,Seasonal Forest,Shield,Shore,Shrubland,Sludgepit,Spruce Woods,Steppe,Temperate Rainforest,Thicket,Timber,Tropical Rainforest,Tropics,Tundra,Volcano,Wasteland,Wetland,Woodland,Plains,Desert,Forest,Taiga,Swampland,Extreme Hills,Jungle
 
 // A group of spawnGroupMin to spawnGroupMax Yellow Chocobos will spawn with the
 // probability of spawnProbability around every player. There will be no additional
 // spawning if spawnTotalMax wild Chocobos are active in an area with the radius of spawnLimitChunkRadius chunks.
 spawnTimeDelay = 200
-spawnProbability = 3
+spawnProbability = 2
 spawnGroupMin = 2
 spawnGroupMax = 4
-spawnTotalMax = 4
-spawnLimitChunkRadius = 150
-distanceNextWild = 500
+spawnTotalMax = 3
+spawnLimitChunkRadius = 100
+distanceNextWild = 300
 
 // tamed chocobos have a chance of featherDropChance in 100 to drop a feather every
 // featherDelayRandom/20 to featherDelayRandom/20 plus featherDelayStatic/20 seconds
