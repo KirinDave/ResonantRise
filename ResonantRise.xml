@@ -459,7 +459,12 @@
 
 
     <!-- Client Only -->
-   	<mod url="packs/ResonantRise/files/2.2/[1.6.4]ReiMinimap_v3.4_01.zip" file="[1.6.4]ReiMinimap_v3.4_01.zip" md5="d263cc04f492cee0e7b17ea1ef628bc9" download="server"
+   	<mod url="packs/ResonantRise/files/2.4/mapwriter-2.0.13.zip" file="mapwriter-2.0.13.zip" md5="25b816809047bbf31127dbb02e827991" download="server"
+        name="Map Writer"  type="mods" server="no" optional="yes" group="Cartographer"
+        version="2.0.13" 
+        website="http://www.minecraftforum.net/topic/1570989-152-forge-mapwriter-an-open-source-mini-map/" 
+        description="A nice, open source map writer." />
+	<mod url="packs/ResonantRise/files/2.2/[1.6.4]ReiMinimap_v3.4_01.zip" file="[1.6.4]ReiMinimap_v3.4_01.zip" md5="d263cc04f492cee0e7b17ea1ef628bc9" download="server"
         name="Rei's Minimap"  type="mods" server="no" optional="yes" group="Minimap"
         version="3.4_01" 
         website="http://www.minecraftforum.net/topic/482147-" 
