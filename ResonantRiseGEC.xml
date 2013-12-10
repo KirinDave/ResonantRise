@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.5-DEV-009</version>
+    <version>2.5-DEV-010</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -121,8 +121,8 @@
          version="1.1" 
          website="http://www.bibliocraftmod.com/?page_id=50#bibliowoods"
          description="More wood colors for furniture."  />
-    <mod url="packs/ResonantRise/files/2.4/BigReactors-0.2.5A2.jar" file="BigReactors-0.2.5A2.jar" md5="98311d6345e6c90e3ec513084be8c06f" download="server"
-         name="Big Reactors" type="mods" version="0.2.5A2"
+    <mod url="packs/ResonantRise/files/2.5/BigReactors-0.2.6A.jar" file="BigReactors-0.2.6A.jar" md5="81b49432896071cfd6498cb1f58a6689" download="server"
+         name="Big Reactors" type="mods" version="0.2.6A"
          website="http://big-reactors.com/"
 		 description="Just in time for the 1.6.4 pack release! \o/" />
 	<mod url="packs/ResonantRise/files/2.2/binnie-mods-1.8-dev2.jar" file="binnie-mods-1.8-dev2.jar" md5="5be11aedf6538573215ab232f64a23b6" download="server"
@@ -243,8 +243,8 @@
         name="ForgeIRC" optional="yes" type="mods" version="1.6.2-cpwbuild2"
         website="http://www.minecraftforum.net/topic/1475847-"
         description="ForgeIRC returns!" />
-    <mod url="packs/ResonantRise/files/2.4/Factorization-0.8.18.jar" file="Factorization-0.8.18.jar" md5="0fc5a8843b01e614ede3f113b9c6ea0b" download="server"
-        name="Factorization" type="mods" version="0.8.18"
+    <mod url="packs/ResonantRise/files/2.5/Factorization-0.8.22.jar" file="Factorization-0.8.22.jar" md5="572be821245c643c1f09b8e9892fdce3" download="server"
+        name="Factorization" type="mods" version="0.8.22"
         website="http://www.minecraftforum.net/topic/1351802-"
         description="Unquantifably Awesome. Power that munches and crunches better than Gurgi ever could." />
 	<mod url="packs/ResonantRise/files/2.5/forestry-A-2.3.1.0.jar" file="forestry-A-2.3.1.0.jar" md5="2399212f03f59a53787ad43bb98f9060" download="server"
