@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.5-DEV-008</version>
+    <version>2.5-DEV-009</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -280,8 +280,8 @@
     <mod url="packs/ResonantRise/files/2.4/OpenPeripheral-0.2.1-snapshot-103-forge9.11.0.898.jar" file="OpenPeripheral-0.2.1-snapshot-103-forge9.11.0.898.jar" md5="894eb51c711057e14e0d2631260fb5d5" download="server"
          name="OpenPeripherals" version="0.2.1-snapshot-103"
          website="http://www.openperipheral.info/" description="Open source improved ComputerCraft peripherals. Includes the beloved AR goggles." type="mods" />
-    <mod url="packs/ResonantRise/files/2.4/industrialcraft-2_2.0.316-experimental.jar" file="industrialcraft-2_2.0.316-experimental.jar" md5="6e1e9c57c818731e2d4bc887fa429604" download="server"
-         name="IndustrialCraft2"  type="mods" version="2.0.316"
+    <mod url="packs/ResonantRise/files/2.5/industrialcraft-2_2.0.324-experimental.jar" file="industrialcraft-2_2.0.324-experimental.jar" md5="153240404085dec3820e2dc3a13ce0b0" download="server"
+         name="IndustrialCraft2"  type="mods" version="2.0.324"
          website="http://www.industrial-craft.net/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=RHLW3YE3T848Q"
          description="HEYOOOOO!"  />
 	<mod url="packs/ResonantRise/files/2.4/ic2lib.zip" file="ic2lib.zip" md5="b35c3a9adb4e2f1856d543cec73c18f8" download="server"
