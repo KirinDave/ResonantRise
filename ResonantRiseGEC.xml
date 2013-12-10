@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.5-DEV-007</version>
+    <version>2.5-DEV-008</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -247,8 +247,8 @@
         name="Factorization" type="mods" version="0.8.18"
         website="http://www.minecraftforum.net/topic/1351802-"
         description="Unquantifably Awesome. Power that munches and crunches better than Gurgi ever could." />
-	<mod url="packs/ResonantRise/files/2.3/forestry-A-2.3.0.7.jar" file="forestry-A-2.3.0.7.jar" md5="49cb15fb6abb6e655dc90ace5398603e" download="server"
-         name="Forestry" type="mods"  version="2.3.0.7" 
+	<mod url="packs/ResonantRise/files/2.5/forestry-A-2.3.1.0.jar" file="forestry-A-2.3.1.0.jar" md5="2399212f03f59a53787ad43bb98f9060" download="server"
+         name="Forestry" type="mods"  version="2.3.1.0" 
          website="http://forestry.sengir.net/wiki.new/" donation="http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads#donations" 
          description="Bees, Trees, and Automate-ables."  />
     <mod url="packs/ResonantRise/files/2.3/GasCraft-2.0.3.1.zip" file="GasCraft-2.0.3.1.zip" md5="dd859dcdf7beb5d920d2c847672bcb7f" download="server"
