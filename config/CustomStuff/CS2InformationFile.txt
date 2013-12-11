@@ -507,6 +507,7 @@ crushedPurifiedSilver
 gearTin
 ingotPigIron
 cellEmpty
+blockGlass
 gemRuby
 oreMithril
 cropSandPear
@@ -571,8 +572,8 @@ blockCarmot
 blockCeruclase
 cropPecan
 oreGold
-dustIron
 oreMalachite
+dustIron
 clumpGold
 gemLapis
 nuggetMagnesium
@@ -633,6 +634,7 @@ reducedGalena
 cropLime
 dustGold
 dyeMagenta
+reactorRedstonePort
 plateDenseObsidian
 orePlatinum
 clumpSilver
@@ -703,6 +705,7 @@ glassPaneBlack
 oreNetherSteel
 cobblestone
 plateCopper
+chestWood
 dustRubracium
 crystallineArdite
 dustImpureAluminum
@@ -834,6 +837,7 @@ compressedGravel1x
 oreNaturalAluminum
 oreCoal
 reducedArdite
+glassSoul
 compressedCobblestone5x
 dirtDried
 dustCharcoal
@@ -866,7 +870,6 @@ componentParachute
 blockVulcanite
 glassPaneBrown
 componentIonThruster
-slimeBall
 itemRubber
 ingotTartarite
 dustDirtyObsidian
@@ -925,9 +928,9 @@ reactorCasing
 blockLead
 glassMagenta
 glassPink
+glassPaneOrange
 blockMud
 crushedCopper
-glassPaneOrange
 dustKalendrite
 ingotUnstable
 burntquartz
@@ -1079,6 +1082,7 @@ dustEximite
 blockAluminiumBrass
 ingotOrichalcum
 dropHoney
+reactorComputerPort
 oreBronze
 compressedSand1x
 itemRawRubber
