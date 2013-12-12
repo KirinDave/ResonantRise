@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.5-DEV-012</version>
+    <version>2.5-DEV-013</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -208,8 +208,8 @@
          name="EmasherResource" type="mods" version="1.2.1.7"
          website="http://emashersmods.wikispaces.com"
          description="Build big or build tiny." />
-    <mod url="packs/ResonantRise/files/2.3/EngineersToolbox-1.1.6.4.zip" file="EngineersToolbox-1.1.6.4.zip" md5="2acacb19aada15470d3e5880d9bc7d70" download="server"
-         name="Engineer's Toolbox" type="mods" version="1.1.6.4"
+    <mod url="packs/ResonantRise/files/2.5/EngineersToolbox-1.1.6.5.zip" file="EngineersToolbox-1.1.6.5.zip" md5="dd59dc125af7da4f2567d5b164b83739" download="server"
+         name="Engineer's Toolbox" type="mods" version="1.1.6.5"
          depends="EmasherResource"
          website="http://emashersmods.wikispaces.com"
          description="Build big or build tiny." />
@@ -228,8 +228,8 @@
 	 name="EnhancedPortals 3" type="mods" version="3.0.0 Beta 2c"
 	 website="http://www.minecraftforum.net/topic/2143651-"
 	 description="Custom teleportation that looks fancier!" />
-    <mod url="packs/ResonantRise/files/2.4/ExtraCells-1.5.9b.jar" file="ExtraCells-1.5.9b.jar" md5="bb63244788ab869578bf156f91d97063" download="server"
-         name="Extra Cells" depends="Applied Energistics"  type="mods" version="1.5.9b" 
+    <mod url="packs/ResonantRise/files/2.5/ExtraCells-1.5.9c.jar" file="ExtraCells-1.5.9c.jar" md5="386ec0064b4960d4b3a2bf3a397e2af6" download="server"
+         name="Extra Cells" depends="Applied Energistics"  type="mods" version="1.5.9c" 
          website="http://www.minecraftforum.net/topic/1801643-m3gas-extracells-appliedenergistics-add-on/" 
          description="A massive expansion to Applied Energistics. Store fluids and more."  />
     <mod url="packs/ResonantRise/files/2.3/ExtraTiC-1.6.4-0.7.1.jar" file="ExtraTiC-1.6.4-0.7.1.jar" md5="e9d9354b3e67199c3a069d307e99ddb3" download="server"
@@ -360,8 +360,8 @@
        name="PowerCrystals Core [Skyboy Fork]" type="mods" version="1.1.8-9"
        website="http://www.minecraftforum.net/topic/2016680-162164-"
        description="Originally by PowerCrystals" />
-  <mod url="packs/ResonantRise/files/2.2/IC2NuclearControl-1.6.2c-ic2-experimental.zip" file="IC2NuclearControl-1.6.2c-ic2-experimental.zip" md5="7f0f1dd8c7840e3d0f2e6a8b93e3342d" download="server"
-        name="Nuclear Control" type="mods" version="1.6.2c-exp"
+  <mod url="packs/ResonantRise/files/2.5/IC2NuclearControl-1.6.2e-ic2-experimental.zip" file="IC2NuclearControl-1.6.2e-ic2-experimental.zip" md5="e70955cad99fa6b4cd0f66de357bacb3" download="server"
+        name="Nuclear Control" type="mods" version="1.6.2e-exp"
         website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=5915"
         description="Thermal controls for IC2 nukes" />
 	<mod url="packs/ResonantRise/files/2.4/OpenBlocks-1.2.2.jar" file="OpenBlocks-1.2.2.jar" md5="9c4068d3bb6e9b5ea00beb774db472a8" download="server"
@@ -482,8 +482,8 @@
         name="WRCBE" type="mods" version="1.4.0.6" depends=""
         website="http://www.chickenbones.craftsaddle.org/wr.html" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php"
         description="Thing!" />
-	<mod url="packs/ResonantRise/files/2.4/Witchery_0-11-2_164.zip" file="Witchery_0-11-2_164.zip" md5="712cde494f9b12616f11ce815e7d72ef" download="server"
-		name="Witchery" type="mods" version="0.11.2"
+	<mod url="packs/ResonantRise/files/2.5/Witchery_0-11-3_164.zip" file="Witchery_0-11-3_164.zip" md5="bf6023887d6a9e4a7f970ab6282390c2" download="server"
+		name="Witchery" type="mods" version="0.11.3"
 		website="https://sites.google.com/site/witcherymod/home" description="More magic with a witch's bent!" 
          />
 
