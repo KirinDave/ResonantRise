@@ -533,9 +533,9 @@
          md5="581BF79ECBDA0132101FFCD0BA165FA0"
 		 file="flatsigns-1.6.2-universal-1.4.0.15.jar" download="direct" name="Flat Signs" type="mods" version="1.4.0.15" website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/" description="Sighs on every surface." 
          />
-	<mod url="http://adf.ly/aPB4y"
-         md5="DCF18464590269FBDC3BB949436E0B01"
-		 file="Railcraft_1.6.4-8.3.0.0.jar" download="browser" name="Railcraft" type="mods" version="8.3.0.0" website="http://www.railcraft.info/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HCQMGHQ4D5GQ4" description="Choo Choo Buckaroo and also boilers." 
+	<mod url="http://adf.ly/acyrl"
+         md5="17BC0161DACD7E10168A26067D9CABF1"
+		 file="Railcraft_1.6.4-8.3.1.0.jar" download="browser" name="Railcraft" type="mods" version="8.3.0.0" website="http://www.railcraft.info/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HCQMGHQ4D5GQ4" description="Choo Choo Buckaroo and also boilers." 
          depends="Buildcraft"/>
     <mod url="http://adf.ly/Zvi5J"
 		 md5="F36991512E147B9A1CABE1A0E8FF9049"
