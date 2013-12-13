@@ -1,0 +1,113 @@
+music:0.5
+sound:0.5
+invertYMouse:false
+mouseSensitivity:0.5
+fov:0.0
+gamma:1.0
+viewDistance:1
+guiScale:2
+particles:1
+bobView:true
+anaglyph3d:false
+advancedOpengl:false
+fpsLimit:0
+difficulty:2
+fancyGraphics:false
+ao:0
+clouds:false
+skin:Default
+lang:en_US
+chatVisibility:0
+chatColors:true
+chatLinks:true
+chatLinksPrompt:true
+chatOpacity:1.0
+serverTextures:true
+snooperEnabled:true
+fullscreen:false
+enableVsync:true
+hideServerAddress:false
+advancedItemTooltips:false
+pauseOnLostFocus:true
+showCape:true
+touchscreen:false
+overrideWidth:0
+overrideHeight:0
+heldItemTooltips:false
+chatHeightFocused:1.0
+chatHeightUnfocused:0.44366196
+chatScale:1.0
+chatWidth:1.0
+key_key.attack:-100
+key_key.use:-99
+key_key.forward:17
+key_key.left:30
+key_key.back:31
+key_key.right:32
+key_key.jump:57
+key_key.sneak:42
+key_key.drop:16
+key_key.inventory:18
+key_key.chat:20
+key_key.playerlist:15
+key_key.pickItem:-98
+key_key.command:53
+key_key.tarmor:24
+key_key.tcapes.reload:88
+key_key.minimap.voxelmapmenu:13
+key_IC2 ALT Key:56
+key_IC2 Boost Key:43
+key_IC2 Mode Switch Key:43
+key_IC2 Side Inventory Key:43
+key_IC2 Hub Expand Key:43
+key_Gravi Fly Key:43
+key_FZ Bag of Holding:41
+key_FZ Pocket Crafting Table:46
+key_Clipboard:46
+key_Ender Pack:45
+key_Force Belt:44
+key_Force Key:33
+key_Force Belt Slot 1:79
+key_Force Belt Slot 2:80
+key_Force Belt Slot 3:81
+key_Force Belt Slot 4:75
+key_Force Belt Slot 5:76
+key_Force Belt Slot 6:77
+key_Force Belt Slot 7:71
+key_Force Belt Slot 8:72
+key_key.CastingMode:12
+key_key.SpellBookNext:27
+key_key.SpellBookPrev:26
+key_key.BetaParticles:48
+key_key.ToggleManaDisplay:24
+key_Change Wand Focus:33
+key_Mekanism Mode Switch:50
+key_Mekanism Voice:22
+key_waila.keybind.wailaconfig:82
+key_waila.keybind.wailadisplay:39
+key_waila.keybind.liquid:40
+key_waila.keybind.recipe:51
+key_waila.keybind.usage:52
+key_JourneyMap:36
+key_Open MPS Keybind GUI:37
+key_Go Down (MPS Flight Control):44
+key_Cycle Tool Backward (MPS):-1
+key_Cycle Tool Forward (MPS):-1
+key_Zoom (MPS):21
+key_Cosmetic (MPS):38
+key_key.craftStack:29
+key_key.craftingGrid:55
+key_key.backpack.openBackpack:48
+key_Show force-loaded chunks:67
+key_SB Follow Cursor:29
+key_SB Chest #1:49
+key_SB Chest #2:50
+key_keybind.loco.faster:43
+key_keybind.loco.slower:43
+key_keybind.loco.mode:43
+key_keybind.loco.whistle:43
+key_key.control:29
+key_FZ vanilla sprint:0
+key_Activate Enchants:29
+key_Toggle Enchants:21
+key_Activate F.L.U.D.D.:47
