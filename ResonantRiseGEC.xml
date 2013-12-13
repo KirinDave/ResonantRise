@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.5-DEV-019</version>
+    <version>2.5-DEV-020</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -30,8 +30,8 @@
         name="Simple Recycling" type="mods" version="57.1.0"
         website="http://www.minecraftforum.net/topic/1001131-"
         description="Greg-free and easy." />
-	<mod url="packs/ResonantRise/files/2.5/Opis_1.1.0_alpha.zip" file="Opis_1.1.0_alpha.zip" md5="795a8bf55f1b8930c4b5b4e56543701e" download="server"
-         name="Opis" type="mods" group="Cartographer" depends="Mobius Core" version="1.0.4"
+	<mod url="packs/ResonantRise/files/2.5/Opis_1.1.1_alpha.zip" file="Opis_1.1.1_alpha.zip" md5="ea74b98bd7b22ef5fd6881ff279d8c3c" download="server"
+         name="Opis" type="mods" group="Cartographer" depends="Mobius Core" version="1.1.1"
          website="http://www.minecraftforum.net/topic/2104497-"
 		 donation="http://profmobius.blogspot.fr/"
          description="Opal Map Scanner. Server Doctor. Healer."
@@ -186,8 +186,8 @@
          name="Damage Indicators [by rich1051414]" type="mods" optional="yes" selected="yes" server="no" version="2.9.1.6" 
          website="http://www.minecraftforum.net/topic/1536685-" 
          description="UI to put health bars and numeric life indicators for minecraft."  />
-	<mod url="packs/ResonantRise/files/2.2/dimensional-anchor-57.0.0.jar" file="dimensional-anchor-57.0.0.jar" md5="8679b7e0d5e7e4a4493e14eec4d79fb4" download="server"
-         name="Dimensional Anchor" type="mods" version="57.0.0" 
+	<mod url="packs/ResonantRise/files/2.5/dimensional-anchor-57.1.0.jar" file="dimensional-anchor-57.1.0.jar" md5="2f0353a16a822c367ff143e0e194ea2e" download="server"
+         name="Dimensional Anchors" type="mods" version="57.1.0" 
          website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" 
          description="Immibis's chunk loaders. Preferred."  />
     <mod url="packs/ResonantRise/files/2.3/denLib-1.6.4-3.1.35.jar" file="denLib-1.6.4-3.1.35.jar" md5="7b414345b971a82117da2ae3872991a7" download="server"
@@ -278,8 +278,8 @@
          version="57.0.0" 
          website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/"
          description="Cool sensor modes for ComputerCraft."  />
-    <mod url="packs/ResonantRise/files/2.4/OpenPeripheral-0.2.1-snapshot-103-forge9.11.0.898.jar" file="OpenPeripheral-0.2.1-snapshot-103-forge9.11.0.898.jar" md5="894eb51c711057e14e0d2631260fb5d5" download="server"
-         name="OpenPeripherals" version="0.2.1-snapshot-103"
+    <mod url="packs/ResonantRise/files/2.5/OpenPeripheral-0.2.1-snapshot-107-forge9.11.0.898.jar" file="OpenPeripheral-0.2.1-snapshot-107-forge9.11.0.898.jar" md5="001fc6b3d5faa60bbfbb9f5340ec8cd3" download="server"
+         name="OpenPeripherals" version="0.2.1-snapshot-107"
          website="http://www.openperipheral.info/" description="Open source improved ComputerCraft peripherals. Includes the beloved AR goggles." type="mods" />
     <mod url="packs/ResonantRise/files/2.5/industrialcraft-2_2.0.307-experimental.jar" file="industrialcraft-2_2.0.307-experimental.jar" md5="69269885c37137e50e54d3238312f353" download="server"
          name="IndustrialCraft2"  type="mods" version="2.0.307"
