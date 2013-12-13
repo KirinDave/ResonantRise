@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.5-DEV-014</version>
+    <version>2.5-DEV-019</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -51,7 +51,7 @@
     <!-- Mods -->
     <mod url="packs/ResonantRise/files/2.3/forge-1.6.4-9.11.1.953-universal.jar" file="forge-1.6.4-9.11.1.953-universal.jar" md5="0bf5250f9ff4b7b0f3bcc41893010781" download="server"
           name="Forge" type="forge" version="9.11.1.953" website="http://www.minecraftforge.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" description="The Core." />
-    <mod url="packs/ResonantRise/files/forgelibs/ForgeMultipartDebug_1.0.0.219.zip" file="ForgeMultipartDebug_1.0.0.219.zip" md5="98dca1a0ee11bd4e78b2a3f32c514a1f" download="server"
+    <mod url="packs/ResonantRise/files/forgelibs/ForgeMultipartDebug_1.0.0.219.1.zip" file="ForgeMultipartDebug_1.0.0.219.1.zip" md5="6a08ab7d54f440e285220a6f110e5816" download="server"
          name="Forge Multipart [+Libs]" type="extract" extractto="root" version="1.0.0.219" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Forge Multipart done right."  />
 	<mod url="packs/ResonantRise/files/2.4/iChunUtil2.4.0.zip" file="iChunUtil2.4.0.zip" md5="6d6decd8d8c36c82743e552f4f1e1d37" download="server"
          name="iChunUtil" type="mods" version="2.4.0" website="http://ichun.us/mods/ichun-util/" donation="http://pitchinbox.com/redirect.php?id=9657538021" description="Library pack for iChun's mods."  />
@@ -66,12 +66,12 @@
     <mod url="packs/ResonantRise/files/2.2/advanced-machines-57.0.0.jar" file="advanced-machines-57.0.0.jar" md5="2f1c43560a26e53c4734d5d1492f45c0" download="server"
          name="Immibis' Advanced Machines"  type="mods"
          version="57.0.0" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="Classic extension to IC2, now without bugs." />
-	<mod url="packs/ResonantRise/files/2.2/CodeChickenCore%200.9.0.6.jar" file="CodeChickenCore 0.9.0.6.jar" md5="a32c204823038b49057d16a13ad8ab41" download="server"
+	<mod url="packs/ResonantRise/files/2.5/CodeChickenCore%200.9.0.7.jar" file="CodeChickenCore 0.9.0.7.jar" md5="f81ca854f4455259d066708fa729d18c" download="server"
          name="CodeChickenCore" type="mods" 
-         version="0.9.0.6" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Core of Chickenbones mods" />
-	<mod url="packs/ResonantRise/files/2.2/NotEnoughItems%201.6.1.5.jar" file="NotEnoughItems 1.6.1.5.jar" md5="e0cd36018af35adfc2bf2b686dcce7b8" download="server"
+         version="0.9.0.7" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Core of Chickenbones mods" />
+	<mod url="packs/ResonantRise/files/2.5/NotEnoughItems%201.6.1.8.jar" file="NotEnoughItems 1.6.1.8.jar" md5="5a1d03896cc9490705de7fdf983582ff" download="server"
          name="Not Enough Items" type="mods" 
-         version="1.6.1.5" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Critical UI improvements."  />
+         version="1.6.1.8" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Critical UI improvements."  />
     <mod url="packs/ResonantRise/files/2.3/neiaddons-1.6.2-1.9.3.r47.jar" file="neiaddons-1.6.2-1.9.3.r47.jar" md5="9e992ca3a408a7eafdb1665da69b2ad1" download="server"
         name="NEI Addons" type="mods" version="1.9.3.r47"
         website="http://www.minecraftforum.net/topic/1803460-nei-addons-v181-with-forestry-2280-support/"
@@ -164,8 +164,8 @@
          name="ChocoCraft" type="mods" version="3.0.3"
          website="http://www.minecraftforum.net/topic/1119809-"
          description="Wark?" />
-	<mod url="packs/ResonantRise/files/2.2/ComputerCraft1.57.zip" file="ComputerCraft1.57.zip" md5="8e92487f465de7731a319a253c38d78a" download="server"
-         name="ComputerCraft" type="mods"  version="1.57" website="http://computercraft.info/" donation="http://www.computercraft.info/donate/" 
+	<mod url="packs/ResonantRise/files/2.5/ComputerCraft1.58.zip" file="ComputerCraft1.58.zip" md5="e2bed275489ffa7741ee247a11dbf142" download="server"
+         name="ComputerCraft" type="mods"  version="1.58" website="http://computercraft.info/" donation="http://www.computercraft.info/donate/" 
          description="Lua interpreters in a block." />
 	<mod url="packs/ResonantRise/files/2.3/CCTransport-1.0.1.jar" file="CCTransport-1.0.1.jar" md5="afd7267ba8d5c275fe3b586c886894d6" download="server"
          name="CCTransport" type="mods"  version="1.0.1" website="http://www.computercraft.info/forums2/index.php?/topic/15384-cctransport-v101-inventory-management-add-on-for-openperipherals/" 
@@ -216,8 +216,8 @@
     <mod url="packs/ResonantRise/files/2.3/EnderStorage%201.4.3.5.jar" file="EnderStorage 1.4.3.5.jar" md5="2dd5d9024752e894500bfe901b08221b" download="server"
          name="Ender Storage" depends="CodeChickenCore"  type="mods"  
          version="1.4.3.5" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Bigger, Better EnderChests and Tanks."  />
-    <mod url="packs/ResonantRise/files/2.4/EnderIO-1.6.4-0.5.1a.106.jar" file="EnderIO-1.6.4-0.5.1a.106.jar" md5="39ce7629dd1852f005da7896f57ff2b7" download="server"
-	 name="EnderIO" type="mods" version="0.5.1a.106"
+    <mod url="packs/ResonantRise/files/2.5/EnderIO-1.6.4-0.5.2.125.jar" file="EnderIO-1.6.4-0.5.2.125.jar" md5="71fe4381893e1fc20c47a2a7ec67c221" download="server"
+	 name="EnderIO" type="mods" version="0.5.2.125"
 	 website="http://www.minecraftforum.net/topic/1937619-"
 	 description="An alternative, awesome, universal, concealable pipes for everything." />
     <mod url="packs/ResonantRise/files/2.2/EnhancedCore_1.1.3.jar" file="EnhancedCore_1.1.3.jar" md5="fa87514cd28a2c323c2872412fce1f15" download="server"
@@ -438,9 +438,9 @@
          website="http://teamcofh.com/"
 		 description="The hero's great legacy follows him."
          />
-	<mod url="packs/ResonantRise/files/2.5/ThaumicTinkerer%202.0-44.jar" file="ThaumicTinkerer 2.0-44.jar" md5="96ce2bb11055c35754900df13bab3294" download="server"
+	<mod url="packs/ResonantRise/files/2.5/ThaumicTinkerer%202.0-46.jar" file="ThaumicTinkerer 2.0-46.jar" md5="372b75018604b52e69f9b68b87513ab6" download="server"
 		 name="Thaumic Tinkerer" type="mods"
-		 version="2.0-44" depends="Thaumcraft 4"
+		 version="2.0-46" depends="Thaumcraft 4"
 		 website="http://www.minecraftforum.net/topic/1813058-" description="Because Thaumcraft has a dearth of content." 
          />
 	<mod url="packs/ResonantRise/files/2.5/TConstruct_mc1.6.4_1.5.2.1.jar" file="TConstruct_mc1.6.4_1.5.2.1.jar" md5="69ecd3637056b03f2a1586dc94ea430b" download="server"
@@ -456,10 +456,6 @@
     <mod url="packs/ResonantRise/files/2.2/Translocator%201.1.0.13.jar" file="Translocator 1.1.0.13.jar" md5="33acf4d7617611afdb46d1d6a7234bdd" download="server"
          name="Translocator"  type="mods" 
          version="1.1.0.13" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Pew pew pew lazors."  />
-    <mod url="packs/ResonantRise/files/2.3/Tubes-1.1.2.jar" file="Tubes-1.1.2.jar" md5="4036514bb62465e98f0f60eb5f613164" download="server"
-         name="Tubes" type="mods" version="1.1.2" 
-         website="http://www.minecraftforum.net/topic/2071224-" 
-         description="Item transport made from paneer."  />
 	<mod url="packs/ResonantRise/files/2.4/tubestuff-57.1.0.jar" file="tubestuff-57.1.0.jar" md5="dbf99c3cc8ca319e21a67fcb308b4809" download="server"
         name="TubeStuff" type="mods" version="57.1.0"
         website="http://www.minecraftforum.net/topic/1001131-"
@@ -563,15 +559,6 @@
 			 md5="0E39866035FC7D85373AAFB9915E0191"
              website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9205"
              description="Like solar power except with wind." />
-	<mod url="http://adf.ly/WJhI0"
-             file="Aroma1997Core MC.1.6.4 v.1.0.1.0.jar"
-             download="browser"
-             name="Aroma1997Core"
-             type="mods"
-             version="1.0.1.0"
-			 md5="69D0E2BDB6B5020ABCA61273A2FAE190"
-             website="http://www.minecraftforum.net/topic/1679684-"
-             description="CW CoreMod" />
 
 
   </mods>
