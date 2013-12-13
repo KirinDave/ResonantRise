@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.5-DEV-017</version>
+    <version>2.5-DEV-018</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -456,10 +456,6 @@
     <mod url="packs/ResonantRise/files/2.2/Translocator%201.1.0.13.jar" file="Translocator 1.1.0.13.jar" md5="33acf4d7617611afdb46d1d6a7234bdd" download="server"
          name="Translocator"  type="mods" 
          version="1.1.0.13" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Pew pew pew lazors."  />
-    <mod url="packs/ResonantRise/files/2.3/Tubes-1.1.2.jar" file="Tubes-1.1.2.jar" md5="4036514bb62465e98f0f60eb5f613164" download="server"
-         name="Tubes" type="mods" version="1.1.2" 
-         website="http://www.minecraftforum.net/topic/2071224-" 
-         description="Item transport made from paneer."  />
 	<mod url="packs/ResonantRise/files/2.4/tubestuff-57.1.0.jar" file="tubestuff-57.1.0.jar" md5="dbf99c3cc8ca319e21a67fcb308b4809" download="server"
         name="TubeStuff" type="mods" version="57.1.0"
         website="http://www.minecraftforum.net/topic/1001131-"
