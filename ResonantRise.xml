@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.4.10-PRER</version>
+    <version>2.4.10a-PRER</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -525,25 +525,6 @@
 			 md5="AF42012A6782CBF7AFAC5EC42D17D05E"
              website="http://binarymage.com/"
              description="You know it, you love it." />
-	<mod url="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9205"
-             file="CompactWindmills+MC.1.6.4+v.1.0.2.2.jar"
-             download="browser"
-             name="CompactWindmills"
-             type="mods"
-             depends="Aroma1997Core"
-             version="1.0.2.2"
-			 md5="0E39866035FC7D85373AAFB9915E0191"
-             website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9205"
-             description="Like solar power except with wind." />
-	<mod url="http://adf.ly/WJhI0"
-             file="Aroma1997Core MC.1.6.4 v.1.0.1.0.jar"
-             download="browser"
-             name="Aroma1997Core"
-             type="mods"
-             version="1.0.1.0"
-			 md5="69D0E2BDB6B5020ABCA61273A2FAE190"
-             website="http://www.minecraftforum.net/topic/1679684-"
-             description="CW CoreMod" />
 
 
   </mods>
