@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.5-DEV-018</version>
+    <version>2.5-DEV-019</version>
     <minecraft>1.6.4</minecraft>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
@@ -438,9 +438,9 @@
          website="http://teamcofh.com/"
 		 description="The hero's great legacy follows him."
          />
-	<mod url="packs/ResonantRise/files/2.5/ThaumicTinkerer%202.0-44.jar" file="ThaumicTinkerer 2.0-44.jar" md5="96ce2bb11055c35754900df13bab3294" download="server"
+	<mod url="packs/ResonantRise/files/2.5/ThaumicTinkerer%202.0-46.jar" file="ThaumicTinkerer 2.0-46.jar" md5="372b75018604b52e69f9b68b87513ab6" download="server"
 		 name="Thaumic Tinkerer" type="mods"
-		 version="2.0-44" depends="Thaumcraft 4"
+		 version="2.0-46" depends="Thaumcraft 4"
 		 website="http://www.minecraftforum.net/topic/1813058-" description="Because Thaumcraft has a dearth of content." 
          />
 	<mod url="packs/ResonantRise/files/2.5/TConstruct_mc1.6.4_1.5.2.1.jar" file="TConstruct_mc1.6.4_1.5.2.1.jar" md5="69ecd3637056b03f2a1586dc94ea430b" download="server"
