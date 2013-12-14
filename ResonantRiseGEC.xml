@@ -2,10 +2,11 @@
   <pack>
     <version>2.5-DEV-021</version>
     <minecraft>1.6.4</minecraft>
+    <memory>2048</memory>
+    <permgen>256</permgen>
+    <caseallfiles>upper</caseallfiles>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
-	<memory>2048</memory>
-	<permgen>256</permgen>
   </pack>
   
     <!-- Dat Core -->
@@ -558,7 +559,6 @@
              download="browser"
              name="CompactWindmills"
              type="mods"
-             depends="Aroma1997Core"
              version="1.0.2.2"
 			 md5="0E39866035FC7D85373AAFB9915E0191"
              website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9205"
