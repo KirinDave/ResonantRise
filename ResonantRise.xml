@@ -1,29 +1,27 @@
 <version>
   <pack>
-    <version>2.4.10a-PRER</version>
+    <version>2.4.11-PRER</version>
     <minecraft>1.6.4</minecraft>
+    <memory>2048</memory>
+    <permgen>256</permgen>
+    <caseallfiles>upper</caseallfiles>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
-	<memory>2048</memory>
-	<permgen>256</permgen>
   </pack>
   
-    <!-- Dat Core -->
-	<libraries>
-		<library url="packs/ResonantRise/files/forgelibs/launchwrapper-1.8.jar" file="launchwrapper-1.8.jar" md5="460ffeedae268dc70c8210ce179fa44a" server="net/minecraft/launchwrapper/1.8/launchwrapper-1.8.jar" download="server" />
-		<library url="packs/ResonantRise/files/forgelibs/asm-all-4.1.jar" file="asm-all-4.1.jar" md5="d21c2a06a4e6b175aa01e328f38a1182" server="org/ow2/asm/asm-all/4.1/asm-all-4.1.jar" download="server" />
-		<library url="packs/ResonantRise/files/forgelibs/scala-compiler-2.10.2.jar" file="scala-compiler-2.10.2.jar"  md5="44f4d11085423ebffbfb177c1fe4cc69" server="org/scala-lang/scala-compiler/2.10.2/scala-compiler-2.10.2.jar" download="server" />
-		<library url="packs/ResonantRise/files/forgelibs/scala-library-2.10.2.jar" file="scala-library-2.10.2.jar"  md5="8800aafcc03e346dbbde171bef0b2bfe" server="org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.jar" download="server" />
-		<library url="packs/ResonantRise/files/forgelibs/lzma-0.0.1.jar" file="lzma-0.0.1.jar" md5="a3e3c3186e41c4a1a3027ba2bb23cdc6" server="lzma/lzma/0.0.1/lzma-0.0.1.jar" download="server" />
-		<library url="packs/ResonantRise/files/forgelibs/jopt-simple-4.5.jar" file="jopt-simple-4.5.jar" md5="1372bd4823bb1ef61e7db6724f601150" server="net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar" download="server" />
-		<library url="packs/ResonantRise/files/forgelibs/liteloader-1.6.4.jar" file="liteloader-1.6.4.jar" md5="531c116f71ae2b11033f9a11a0f8e668" download="server" />
-	</libraries>
+  <!-- Dat Core -->
+  <libraries>
+    <library url="packs/ResonantRise/files/forgelibs/launchwrapper-1.8.jar" file="launchwrapper-1.8.jar" md5="460ffeedae268dc70c8210ce179fa44a" server="net/minecraft/launchwrapper/1.8/launchwrapper-1.8.jar" download="server" />
+    <library url="packs/ResonantRise/files/forgelibs/asm-all-4.1.jar" file="asm-all-4.1.jar" md5="d21c2a06a4e6b175aa01e328f38a1182" server="org/ow2/asm/asm-all/4.1/asm-all-4.1.jar" download="server" />
+    <library url="packs/ResonantRise/files/forgelibs/scala-compiler-2.10.2.jar" file="scala-compiler-2.10.2.jar"  md5="44f4d11085423ebffbfb177c1fe4cc69" server="org/scala-lang/scala-compiler/2.10.2/scala-compiler-2.10.2.jar" download="server" />
+    <library url="packs/ResonantRise/files/forgelibs/scala-library-2.10.2.jar" file="scala-library-2.10.2.jar"  md5="8800aafcc03e346dbbde171bef0b2bfe" server="org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.jar" download="server" />
+    <library url="packs/ResonantRise/files/forgelibs/lzma-0.0.1.jar" file="lzma-0.0.1.jar" md5="a3e3c3186e41c4a1a3027ba2bb23cdc6" server="lzma/lzma/0.0.1/lzma-0.0.1.jar" download="server" />
+    <library url="packs/ResonantRise/files/forgelibs/jopt-simple-4.5.jar" file="jopt-simple-4.5.jar" md5="1372bd4823bb1ef61e7db6724f601150" server="net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar" download="server" />
+    <library url="packs/ResonantRise/files/forgelibs/liteloader-1.6.4.jar" file="liteloader-1.6.4.jar" md5="531c116f71ae2b11033f9a11a0f8e668" download="server" />
+  </libraries>
 
   <mods>
     <!-- Evaluation Holding pen cuz it's easier here -->
-    
-	
-    
     <!-- Mods -->
     <mod url="packs/ResonantRise/files/2.3/forge-1.6.4-9.11.1.953-universal.jar" file="forge-1.6.4-9.11.1.953-universal.jar" md5="0bf5250f9ff4b7b0f3bcc41893010781" download="server"
           name="Forge" type="forge" version="9.11.1.953" website="http://www.minecraftforge.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" description="The Core." />
