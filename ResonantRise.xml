@@ -165,8 +165,8 @@
 	<mod url="packs/ResonantRise/files/2.4/compactsolars-universal-1.6.4-4.4.19.224.zip" file="compactsolars-universal-1.6.4-4.4.19.224.zip" md5="d54c56c4a0647a5d6b3c4bd831b91cf6" download="server"
          name="Compact Solars" type="mods" version="4.4.19.224" website="http://files.minecraftforge.net/CompactSolars/" donation="http://www.computercraft.info/donate/" 
          description="The dreaded easy power is now in!" />
-    <mod url="packs/ResonantRise/files/2.5/DartCraft%20Beta%200.2.13.jar" file="DartCraft Beta 0.2.13.jar" md5="94465ce48240de67eb72243391c4ffe3" download="server"
-         name="DartCraft" type="mods"  version="0.2.13"
+    <mod url="packs/ResonantRise/files/2.5/DartCraft%20Beta%200.2.14.jar" file="DartCraft Beta 0.2.14.jar" md5="49248e4b2822724c11361559008c8ebe" download="server"
+         name="DartCraft" type="mods"  version="0.2.14"
          website="http://www.minecraftforum.net/topic/1686840-151-152-dartcraft-beta-0118/" 
          description="Convenience is king."
 		 fileprefix="00001_" />
