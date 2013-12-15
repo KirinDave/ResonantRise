@@ -6,9 +6,6 @@
     <permgen>256</permgen>
     <caseallfiles>upper</caseallfiles>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
-    <caseallfiles>upper</caseallfiles>
-    <memory>2048</memory>
-    <permgen>256</permgen>
     <extraarguments>--tweakClass=cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker</extraarguments>
   </pack>
   

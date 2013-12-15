@@ -1176,7 +1176,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 2662,Block,ThaumicTinkerer,tile.ttinkerer:dislocator,vazkii.tinkerer.common.block.transvector.BlockTransvectorDislocator
 2663,Block,ThaumicTinkerer,tile.ttinkerer:repairer,vazkii.tinkerer.common.block.BlockRepairer
 2664,Block,ThaumicTinkerer,tile.ttinkerer:aspectAnalyzer,vazkii.tinkerer.common.block.BlockAspectAnalyzer
-2699,Block,ThermalExpansion,tile.thermalexpansion.conduit,thermalexpansion.block.conduit.BlockConduit
 2701,Block,ThermalExpansion,tile.thermalexpansion.ore,thermalexpansion.block.simple.BlockOre
 2702,Block,ThermalExpansion,tile.thermalexpansion.machine,thermalexpansion.block.machine.BlockMachine
 2703,Block,ThermalExpansion,tile.thermalexpansion.device,thermalexpansion.block.device.BlockDevice
@@ -1184,6 +1183,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 2705,Block,ThermalExpansion,tile.thermalexpansion.energycell,thermalexpansion.block.energycell.BlockEnergyCell
 2706,Block,ThermalExpansion,tile.thermalexpansion.tank,thermalexpansion.block.tank.BlockTank
 2707,Block,ThermalExpansion,tile.thermalexpansion.strongbox,thermalexpansion.block.strongbox.BlockStrongbox
+2708,Block,ThermalExpansion,tile.thermalexpansion.conduit,thermalexpansion.block.conduit.BlockConduit
 2709,Block,ThermalExpansion,tile.thermalexpansion.tesseract,thermalexpansion.block.tesseract.BlockTesseract
 2711,Block,ThermalExpansion,tile.thermalexpansion.lamp,thermalexpansion.block.lamp.BlockLamp
 2712,Block,ThermalExpansion,tile.thermalexpansion.storage,thermalexpansion.block.simple.BlockStorage
@@ -3590,6 +3590,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 28327,Item,xreliquary,item.destructionCatalyst,xreliquary.items.ItemDestructionCatalyst
 28328,Item,xreliquary,item.wraithEye,xreliquary.items.ItemWraithEye
 28330,Item,xreliquary,item.voidSatchel,xreliquary.items.ItemVoidSatchel
+28336,Item,xreliquary,item.emptyVoidTear,xreliquary.items.ItemEmptyVoidTear
 28777,Item,HardcoreEnderExpansion,item.gemFragment,chylex.hee.item.ItemGemFragment
 28781,Item,HardcoreEnderExpansion,item.dragonEssence,chylex.hee.item.ItemEssence
 28782,Item,HardcoreEnderExpansion,item.null,net.minecraft.item.Item
