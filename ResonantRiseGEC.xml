@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.5-DEV-025</version>
+    <version>2.5-DEV-026</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -28,7 +28,7 @@
 
     <!-- Evaluation Holding pen cuz it's easier here -->
 	<mod url="packs/ResonantRise/files/2.5/mcpc-plus-1.6.4-R2.1-forge953-B176.jar" file="mcpc-plus-1.6.4-R2.1-forge953-B176.jar" md5="929949c476c0ed6fc7eaa5ef9a50beea" download="server"
-         name="MCPC+" type="mods" version="B176"
+         name="MCPC+" type="extract" extractto="root" version="B176"
          website="http://ci.md-5.net/job/MCPC-Plus/"
 		 description="Server superweapon!"
          optional="yes" client="no"/>
@@ -121,8 +121,8 @@
          version="1.1" 
          website="http://www.bibliocraftmod.com/?page_id=50#bibliowoods"
          description="More wood colors for furniture."  />
-    <mod url="packs/ResonantRise/files/2.5/BigReactors-0.2.6A.jar" file="BigReactors-0.2.6A.jar" md5="81b49432896071cfd6498cb1f58a6689" download="server"
-         name="Big Reactors" type="mods" version="0.2.6A"
+    <mod url="packs/ResonantRise/files/2.5/BigReactors-0.2.7A.jar" file="BigReactors-0.2.7A.jar" md5="51908c08a3070059b9b8bc2cdb4bb1ae" download="server"
+         name="Big Reactors" type="mods" version="0.2.7A"
          website="http://big-reactors.com/"
 		 description="Just in time for the 1.6.4 pack release! \o/" />
 	<mod url="packs/ResonantRise/files/2.2/binnie-mods-1.8-dev2.jar" file="binnie-mods-1.8-dev2.jar" md5="5be11aedf6538573215ab232f64a23b6" download="server"
