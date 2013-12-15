@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.5-DEV-022</version>
+    <version>2.5-DEV-025</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -25,8 +25,10 @@
 
   <mods>
     <!-- INTERNAL MODS ONLY -->
-	<mod url="packs/ResonantRise/files/2.5/mcpc-plus-1.6.4-R2.1-forge953-B168.jar" file="mcpc-plus-1.6.4-R2.1-forge953-B168.jar" md5="750eec1f2783917a7f3885ac1e8ea533" download="server"
-         name="MCPC+" type="mods" version="B168"
+
+    <!-- Evaluation Holding pen cuz it's easier here -->
+	<mod url="packs/ResonantRise/files/2.5/mcpc-plus-1.6.4-R2.1-forge953-B176.jar" file="mcpc-plus-1.6.4-R2.1-forge953-B176.jar" md5="929949c476c0ed6fc7eaa5ef9a50beea" download="server"
+         name="MCPC+" type="mods" version="B176"
          website="http://ci.md-5.net/job/MCPC-Plus/"
 		 description="Server superweapon!"
          optional="yes" client="no"/>
@@ -45,11 +47,7 @@
          website="http://www.minecraftforum.net/topic/2104497-"
 		 donation="http://profmobius.blogspot.fr/"
          description="The doctor's toolkit."
-         optional="yes" />
-
-	
-    <!-- Evaluation Holding pen cuz it's easier here -->
-    
+         optional="yes" />    
 	
     
     <!-- Mods -->
@@ -57,9 +55,7 @@
           name="Forge" type="forge" version="9.11.1.953" website="http://www.minecraftforge.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" description="The Core." />
     <mod url="packs/ResonantRise/files/forgelibs/ForgeMultipartDebug_1.0.0.219.1.zip" file="ForgeMultipartDebug_1.0.0.219.1.zip" md5="6a08ab7d54f440e285220a6f110e5816" download="server"
          name="Forge Multipart [+Libs]" type="extract" extractto="root" version="1.0.0.219" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Forge Multipart done right."  />
-	<mod url="packs/ResonantRise/files/2.4/iChunUtil2.4.0.zip" file="iChunUtil2.4.0.zip" md5="6d6decd8d8c36c82743e552f4f1e1d37" download="server"
-         name="iChunUtil" type="mods" version="2.4.0" website="http://ichun.us/mods/ichun-util/" donation="http://pitchinbox.com/redirect.php?id=9657538021" description="Library pack for iChun's mods."  />
-    <mod url="packs/ResonantRise/files/2.3/AdvancedReactors-1.6.2_1.0.5-exp.jar" file="AdvancedReactors-1.6.2_1.0.5-exp.jar" md5="559dee852335b2042ee26601a98bce07" download="server"
+	<mod url="packs/ResonantRise/files/2.3/AdvancedReactors-1.6.2_1.0.5-exp.jar" file="AdvancedReactors-1.6.2_1.0.5-exp.jar" md5="559dee852335b2042ee26601a98bce07" download="server"
         name="Advanced Reactors" type="mods" version="1.0.5-exp"
         website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9212"
         description="Extends IC2 nukes" />
@@ -148,10 +144,6 @@
         name="Carpenter's Blocks" type="mods" version="1.9.6"
         website="http://www.minecraftforum.net/topic/1790919-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=YGAB8YNHMQPLQ&amp;lc=US&amp;item_name=Minecraft%20Modding&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"
         description="Angles!" />
-	<mod url="packs/ResonantRise/files/2.2/customStuff2-0.10.6b-universal.zip" file="customStuff2-0.10.6b-universal.zip" md5="21b76105d5b1b14e742896180b41e71e" download="server"
-        name="CustomStuff 2" type="mods" version="0.10.6b"
-        website="http://www.minecraftforum.net/topic/506109-162-cubex2s-mods-everything-updated/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=KBTNEXPE3336N"
-        description="Direct patching!" />
 	<mod url="packs/ResonantRise/files/2.2/chargepads-1.6.2-universal-3.0.0.94-experimental.jar" file="chargepads-1.6.2-universal-3.0.0.94-experimental.jar" md5="43a76c4fe40c29bb0743d9c0f2f715fe" download="server"
         name="Charge Pads" type="mods" version="3.0.0.94-exp"
         website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=7892"
@@ -224,10 +216,6 @@
 	 name="EnderIO" type="mods" version="0.5.2.125"
 	 website="http://www.minecraftforum.net/topic/1937619-"
 	 description="An alternative, awesome, universal, concealable pipes for everything." />
-    <mod url="packs/ResonantRise/files/2.2/EnhancedCore_1.1.3.jar" file="EnhancedCore_1.1.3.jar" md5="fa87514cd28a2c323c2872412fce1f15" download="server"
-	 name="EnhancedCore" type="mods" version="1.1.3"
-	 website="http://www.minecraftforum.net/topic/1301217-162-enhancedportals-2/"
-	 description="Woo more APIs!" />
     <mod url="packs/ResonantRise/files/2.4/EnhancedPortals_3.0.0_Beta-2c.jar" file="EnhancedPortals_3.0.0_Beta-2c.jar" md5="ba64897a84d90b6f8954eec7b5d6b81c" download="server"
 	 name="EnhancedPortals 3" type="mods" version="3.0.0 Beta 2c"
 	 website="http://www.minecraftforum.net/topic/2143651-"
@@ -417,6 +405,10 @@
          version="1.5.1"
          website="http://minecraft.curseforge.com/mc-mods/redstone-paste/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=XD2DPUTDZEW6U" 
          description="Pastey." />
+	<mod url="packs/ResonantRise/files/2.5/Reliquary-1.6.4-1.1.1.jar" file="Reliquary-1.6.4-1.1.1.jar" md5="43b1629c43a06fdf8b2438a62c8170a0" download="server"
+         name="Reliquary"  type="mods" version="1.1.1"
+         website="https://github.com/TrainerGuy22/Reliquary"
+         description="Xenophobic legacies in a compelling collection."  /> 
 	<mod url="packs/ResonantRise/files/2.4/RRUtility-1.0.2.jar" file="RRUtility-1.0.2.jar" md5="6370e4ad1bebe58128f2aa08f49afd7b" download="server"
          name="RRUtility" type="mods" version="1.0.2" website="http://www.resonant-rise.com" description="Our recipe manipulator mod. Use with care."  />
 	<mod url="packs/ResonantRise/files/2.3/smallboats.0.10.6.jar" file="smallboats.0.10.6.jar" md5="328d1537981272445a1d7409a67125b7" download="server"
@@ -432,15 +424,20 @@
         name="Super Crafting Frame" type="mods" version="1.6.2.7"
         website="http://www.minecraftforum.net/topic/1870830-"
         description="Item frames are slightly less useless." />
-    <mod url="packs/ResonantRise/files/2.4/ThermalExpansion-3.0.0.b8.jar" file="ThermalExpansion-3.0.0.b8.jar" md5="4df144451d0aed035f591956dae28723" download="server"
-         name="Thermal Expansion" type="mods" depends="CoFH Core" version="3.0.0b8"
+    <mod url="packs/ResonantRise/files/2.5/ThermalExpansion-3.0.0.b9a.jar" file="ThermalExpansion-3.0.0.b9a.jar" md5="2754889963bf1f894415016581429ad0" download="server"
+         name="Thermal Expansion" type="mods" depends="CoFH Core" version="3.0.0.b9a"
          website="http://teamcofh.com/"
 		 description="The hero returns."
          />
-	<mod url="packs/ResonantRise/files/2.4/CoFHCore-2.0.0.b8a.jar" file="CoFHCore-2.0.0.b8a.jar" md5="ca97fc1f2d7d3cb001bf884f515d1d67" download="server"
-         name="CoFH Core" type="mods" version="2.0.0b8a"
+	<mod url="packs/ResonantRise/files/2.5/CoFHCore-2.0.0.b9a.jar" file="CoFHCore-2.0.0.b9a.jar" md5="8127ad5e4c7532db4fe307ac2cb3ab6f" download="server"
+         name="CoFH Core" type="mods" version="2.0.0.b9a"
          website="http://teamcofh.com/"
 		 description="The hero's great legacy follows him."
+         />
+	<mod url="packs/ResonantRise/files/2.5/RedstoneArsenal-1.0.0.b0a.jar" file="RedstoneArsenal-1.0.0.b0a.jar" md5="3a0903075d1354fe3b6eece8e031e4d2" download="server"
+         name="Redstone Arsenal" type="mods" depends="CoFH Core" version="1.0.0.b0a"
+         website="http://teamcofh.com/"
+		 description="His apprentice swings true."
          />
 	<mod url="packs/ResonantRise/files/2.5/ThaumicTinkerer%202.0-46.jar" file="ThaumicTinkerer 2.0-46.jar" md5="372b75018604b52e69f9b68b87513ab6" download="server"
 		 name="Thaumic Tinkerer" type="mods"
