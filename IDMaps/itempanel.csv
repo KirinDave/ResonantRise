@@ -1,1 +1,300 @@
 Item ID,Item meta,Has NBT,Display Name
+2701,0,false,Copper Ore
+2701,1,false,Tin Ore
+2701,2,false,Silver Ore
+2701,3,false,Lead Ore
+2701,4,false,Ferrous Ore
+2702,0,false,Redstone Furnace
+2702,1,false,Pulverizer
+2702,2,false,Sawmill
+2702,3,false,Induction Smelter
+2702,4,false,Magma Crucible
+2702,5,false,Fluid Transposer
+2702,6,false,Glacial Precipitator
+2702,7,false,Igneous Extruder
+2702,8,false,Aqueous Accumulator
+2702,9,false,Cyclic Assembler
+2702,10,false,Energetic Infuser
+2703,0,false,Machinist's Workbench
+2703,2,false,Autonomous Activator
+2703,3,false,Terrain Smasher
+2703,4,false,Nullifier
+2704,0,false,Steam Dynamo
+2704,1,false,Magmatic Dynamo
+2704,2,false,Compression Dynamo
+2705,0,true,Creative Energy Cell
+2705,1,true,Leadstone Energy Cell
+2705,1,true,Leadstone Energy Cell
+2705,2,true,Hardened Energy Cell
+2705,2,true,Hardened Energy Cell
+2705,3,true,Redstone Energy Cell
+2705,3,true,Redstone Energy Cell
+2705,4,true,Resonant Energy Cell
+2705,4,true,Resonant Energy Cell
+2706,0,false,Creative Portable Tank
+2706,1,false,Portable Tank
+2706,2,false,Hardened Portable Tank
+2706,3,false,Reinforced Portable Tank
+2706,4,false,Resonant Portable Tank
+2707,0,false,Creative Strongbox
+2707,1,false,Strongbox
+2707,2,false,Hardened Strongbox
+2707,3,false,Reinforced Strongbox
+2707,4,false,Resonant Strongbox
+2709,0,false,Tesseract
+2711,0,false,Glowstone Illuminator
+2712,0,false,Copper Block
+2712,1,false,Tin Block
+2712,2,false,Silver Block
+2712,3,false,Lead Block
+2712,4,false,Ferrous Block
+2712,5,false,Shiny Block
+2712,6,false,Electrum Block
+2712,7,false,Invar Block
+2712,10,false,Enderium Block
+2713,0,false,Hardened Glass
+2714,0,false,White Rockwool
+2714,1,false,Orange Rockwool
+2714,2,false,Magenta Rockwool
+2714,3,false,Light Blue Rockwool
+2714,4,false,Yellow Rockwool
+2714,5,false,Lime Rockwool
+2714,6,false,Pink Rockwool
+2714,7,false,Gray Rockwool
+2714,8,false,Light Gray Rockwool
+2714,9,false,Cyan Rockwool
+2714,10,false,Purple Rockwool
+2714,11,false,Blue Rockwool
+2714,12,false,Brown Rockwool
+2714,13,false,Green Rockwool
+2714,14,false,Red Rockwool
+2714,15,false,Black Rockwool
+2716,0,false,Destabilized Redstone
+2717,0,false,Energized Glowstone
+2718,0,false,Resonant Ender
+2719,0,false,Blazing Pyrotheum
+2720,0,false,Gelid Cryotheum
+2722,0,false,Liquifacted Coal
+8457,0,false,Crescent Hammer
+8458,0,false,Multimeter
+8458,1,false,Debugger
+8459,0,false,Destabilized Redstone Bucket
+8459,1,false,Energized Glowstone Bucket
+8459,2,false,Resonant Ender Bucket
+8459,3,false,Blazing Pyrotheum Bucket
+8459,4,false,Gelid Cryotheum Bucket
+8459,6,false,Liquifacted Coal Bucket
+8460,0,true,Florb (Spring Water)
+8460,0,true,Florb (Molten Mithril)
+8460,0,true,Florb (Molten Titanium)
+8460,0,true,Florb (Molten Eximite)
+8460,0,true,Florb (fluid.lifeEssence)
+8460,0,true,Florb (Fish Oil)
+8460,0,true,Florb (Molten Meutoite)
+8460,1,true,Magmatic Florb (Liquified Emerald)
+8460,0,true,Florb (Black Ink)
+8460,0,true,Florb (Molten Oureclase)
+8460,0,true,Florb (fluid.mfr.liquid.mushroomsoup.still)
+8460,0,true,Florb (fluid.mfr.liquid.milk.still)
+8460,0,true,Florb (Molten Desichalkos)
+8460,0,true,Florb (Molten Adamantine)
+8460,1,true,Magmatic Florb (Molten Glass)
+8460,0,true,Florb (fluid.bigreactors.yellorium.still)
+8460,0,true,Florb (fluid.mfr.liquid.chocolatemilk.still)
+8460,0,true,Florb (Molten Rubracium)
+8460,0,true,Florb (fluid.mfr.liquid.sewage.still)
+8460,1,true,Magmatic Florb (Molten Iron)
+8460,0,true,Florb (Molten Angmallen)
+8460,0,true,Florb (fluid.Molten Redstone)
+8460,0,true,Florb (Natural Gas)
+8460,0,true,Florb (Molten Tartarite)
+8460,0,true,Florb (fluid.bop.honey)
+8460,1,true,Magmatic Florb (Blood)
+8460,0,true,Florb (Gelid Cryotheum)
+8460,0,true,Florb (Molten Prometheum)
+8460,1,true,Magmatic Florb (Molten Manyullyn)
+8460,1,true,Magmatic Florb (fluid.platinum.molten)
+8460,1,true,Magmatic Florb (Molten Nickel)
+8460,0,true,Florb (Flux Goo)
+8460,0,true,Florb (fluid.ic2.blockfluidUuMatter)
+8460,0,true,Florb (fluid.gasCraft_smoke)
+8460,1,true,Magmatic Florb (Molten Steel)
+8460,0,true,Florb (Molten Kalendrite)
+8460,0,true,Florb (Molten Midasium)
+8460,0,true,Florb (fluid.gasCraft_toxicGas)
+8460,0,true,Florb (fluid.gasCraft_hydrogen)
+8460,1,true,Magmatic Florb (Molten Cobalt)
+8460,0,true,Florb (Molten Lemurite)
+8460,0,true,Florb (fluid.gasCraft_corrosiveGas)
+8460,0,true,Florb (Oil)
+8460,0,true,Florb (fluid.enderGoo)
+8460,0,true,Florb (Energized Glowstone)
+8460,1,true,Magmatic Florb (Molten Aluminum Brass)
+8460,0,true,Florb (fluid.gasCraft_naturalGas)
+8460,0,true,Florb (Molten Inolashite)
+8460,0,true,Florb (Water)
+8460,0,true,Florb (Molten Shadow Steel)
+8460,0,true,Florb (fluid.ic2.blockFluidcoolant)
+8460,1,true,Magmatic Florb (Seared Stone)
+8460,0,true,Florb (Pressurised Water)
+8460,0,true,Florb (fluid.bigreactors.fuelColumn.still)
+8460,1,true,Magmatic Florb (Molten Copper)
+8460,0,true,Florb (Molten Deep Iron)
+8460,0,true,Florb (Molten Hepatizon)
+8460,1,true,Magmatic Florb (Molten Bronze)
+8460,0,true,Florb (Liquid Poison)
+8460,0,true,Florb (Molten Manganese)
+8460,1,true,Magmatic Florb (Blazing Pyrotheum)
+8460,0,true,Florb (Steam)
+8460,1,true,Magmatic Florb (Molten Ardite)
+8460,0,true,Florb (Creosote Oil)
+8460,0,true,Florb (Molten Orichalcum)
+8460,0,true,Florb (fluid.mfr.liquid.sludge.still)
+8460,0,true,Florb (fluid.Molten Conductive Redmetal)
+8460,0,true,Florb (Glue)
+8460,1,true,Magmatic Florb (Molten Silver)
+8460,0,true,Florb (Molten Vulcanite)
+8460,0,true,Florb (Molten Carmot)
+8460,1,true,Magmatic Florb (Molten Gold)
+8460,0,true,Florb (Molten Damascus Steel)
+8460,0,true,Florb (Fish Food)
+8460,0,true,Florb (Molten Celenegil)
+8460,0,true,Florb (Molten Ignatius)
+8460,0,true,Florb (Molten Alduorite)
+8460,0,true,Florb (fluid.liquidEssence)
+8460,1,true,Magmatic Florb (Molten Lead)
+8460,0,true,Florb (Molten Ceruclase)
+8460,0,true,Florb (Molten Astral Silver)
+8460,0,true,Florb (Molten Zinc)
+8460,0,true,Florb (Molten Sanguinite)
+8460,1,true,Magmatic Florb (Molten Tin)
+8460,0,true,Florb (fluid.mfr.liquid.mobessence.still)
+8460,0,true,Florb (Molten Magnesium)
+8460,0,true,Florb (Liquid Blueslime)
+8460,0,true,Florb (fluid.slickwater)
+8460,1,true,Magmatic Florb (Molten Electrum)
+8460,0,true,Florb (Molten Platinum)
+8460,0,true,Florb (fluid.bigreactors.cyanite.still)
+8460,0,true,Florb (fluid.ic2.blockfluidCf)
+8460,0,true,Florb (Molten Vyroxeres)
+8460,0,true,Florb (Molten Haderoth)
+8460,0,true,Florb (Molten Infuscolium)
+8460,0,true,Florb (Molten Black Steel)
+8460,0,true,Florb (fluid.mfr.liquid.biofuel.still)
+8460,0,true,Florb (Molten Brass)
+8460,0,true,Florb (Molten Quicksilver)
+8460,0,true,Florb (Liquifacted Coal)
+8460,0,true,Florb (fluid.mfr.liquid.meat.still)
+8460,0,true,Florb (Fuel)
+8460,0,true,Florb (Toxic Waste)
+8460,0,true,Florb (Molten Atlarus)
+8460,0,true,Florb (Molten Shadow Iron)
+8460,1,true,Magmatic Florb (fluid.invar.molten)
+8460,0,true,Florb (fluid.liquidForce)
+8460,1,true,Magmatic Florb (Molten Obsidian)
+8460,1,true,Magmatic Florb (Molten Alumite)
+8460,0,true,Florb (fluid.gasCraft_neurotoxin)
+8460,0,true,Florb (Molten Amordrine)
+8460,1,true,Magmatic Florb (Lava)
+8460,0,true,Florb (fluid.gasCraft_propellent)
+8460,1,true,Magmatic Florb (Molten Aluminum)
+8460,0,true,Florb (Destabilized Redstone)
+8460,0,true,Florb (Impure Molten Titanium)
+8460,0,true,Florb (fluid.mfr.liquid.pinkslime.still)
+8460,0,true,Florb (Resonant Ender)
+8460,0,false,Florb (Empty)
+8460,1,false,Magmatic Florb (Empty)
+8461,0,true,Creative Flux Capacitor
+8461,1,true,Tuberous Flux Capacitor
+8461,2,true,Leadstone Flux Capacitor
+8461,2,true,Leadstone Flux Capacitor
+8461,3,true,Hardened Flux Capacitor
+8461,3,true,Hardened Flux Capacitor
+8461,4,true,Redstone Flux Capacitor
+8461,4,true,Redstone Flux Capacitor
+8461,5,true,Resonant Flux Capacitor
+8461,5,true,Resonant Flux Capacitor
+8462,0,false,Schematic
+8463,0,false,Machine Frame
+8463,64,false,Leadstone Energy Cell Frame
+8463,72,false,Redstone Energy Cell Frame (Empty)
+8463,73,false,Redstone Energy Cell Frame (Full)
+8463,96,false,Redstone Energy Conduit (Empty)
+8463,128,false,Tesseract Frame (Empty)
+8463,129,false,Tesseract Frame (Full)
+8463,160,false,Illuminator Frame
+8464,0,false,Pulverized Iron
+8464,1,false,Pulverized Gold
+8464,2,false,Pulverized Coal
+8464,3,false,Pulverized Obsidian
+8464,16,false,Bronze Blend
+8464,17,false,Brass Blend
+8464,32,false,Pulverized Copper
+8464,33,false,Pulverized Tin
+8464,34,false,Pulverized Silver
+8464,35,false,Pulverized Lead
+8464,36,false,Pulverized Ferrous Metal
+8464,37,false,Pulverized Shiny Metal
+8464,38,false,Electrum Blend
+8464,39,false,Invar Blend
+8464,42,false,Enderium Blend
+8464,64,false,Copper Ingot
+8464,65,false,Tin Ingot
+8464,66,false,Silver Ingot
+8464,67,false,Lead Ingot
+8464,68,false,Ferrous Ingot
+8464,69,false,Shiny Ingot
+8464,70,false,Electrum Ingot
+8464,71,false,Invar Ingot
+8464,74,false,Enderium Ingot
+8464,96,false,Copper Nugget
+8464,97,false,Tin Nugget
+8464,98,false,Silver Nugget
+8464,99,false,Lead Nugget
+8464,100,false,Ferrous Nugget
+8464,101,false,Shiny Nugget
+8464,102,false,Electrum Nugget
+8464,103,false,Invar Nugget
+8464,106,false,Enderium Nugget
+8464,128,false,Sulfur
+8464,129,false,Niter
+8464,130,false,Cinnabar
+8464,160,false,Wood Chips
+8464,161,false,Sawdust
+8464,162,false,Compressed Sawdust
+8464,163,false,Slag
+8464,164,false,Rich Slag
+8464,165,false,Pyrotheum Dust
+8464,166,false,Cryotheum Dust
+8464,192,false,Pneumatic Servo
+8464,193,false,Redstone Reception Coil
+8464,194,false,Redstone Transmission Coil
+8464,195,false,Redstone Conductance Coil
+8464,224,false,Copper Gear
+8464,225,false,Tin Gear
+8464,226,false,Electrum Gear
+8464,227,false,Invar Gear
+8464,1024,false,Blizz Rod
+8464,1025,false,Blizz Powder
+8465,0,false,Invar Helmet
+8466,0,false,Invar Armor
+8467,0,false,Invar Leggings
+8468,0,false,Invar Boots
+8469,0,false,Invar Sword
+8470,0,false,Invar Shovel
+8471,0,false,Invar Pickaxe
+8472,0,false,Invar Axe
+8473,0,false,Invar Hoe
+8474,0,false,Invar Shears
+8475,0,false,Invar Fishing Rod
+8476,0,false,Invar Sickle
+8477,0,false,Invar BattleWrench
+8556,0,false,Leadstone Energy Conduit
+8556,1,false,Hardened Energy Conduit
+8556,2,false,Redstone Energy Conduit
+8556,2048,false,Fluiduct
+8556,2049,false,Fluiduct (Opaque)
+8556,4096,false,Itemduct
+8556,4097,false,Itemduct (Opaque)
+8556,4098,false,Impulse Itemduct
+8556,4099,false,Impulse Itemduct (Opaque)

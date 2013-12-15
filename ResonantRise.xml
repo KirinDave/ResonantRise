@@ -424,15 +424,20 @@
         name="Super Crafting Frame" type="mods" version="1.6.2.7"
         website="http://www.minecraftforum.net/topic/1870830-"
         description="Item frames are slightly less useless." />
-    <mod url="packs/ResonantRise/files/2.4/ThermalExpansion-3.0.0.b8.jar" file="ThermalExpansion-3.0.0.b8.jar" md5="4df144451d0aed035f591956dae28723" download="server"
-         name="Thermal Expansion" type="mods" depends="CoFH Core" version="3.0.0b8"
+    <mod url="packs/ResonantRise/files/2.5/ThermalExpansion-3.0.0.b9a.jar" file="ThermalExpansion-3.0.0.b9a.jar" md5="21cd7f001949f320b8e13dcdce43317c" download="server"
+         name="Thermal Expansion" type="mods" depends="CoFH Core" version="3.0.0.b9a"
          website="http://teamcofh.com/"
 		 description="The hero returns."
          />
-	<mod url="packs/ResonantRise/files/2.4/CoFHCore-2.0.0.b8a.jar" file="CoFHCore-2.0.0.b8a.jar" md5="ca97fc1f2d7d3cb001bf884f515d1d67" download="server"
-         name="CoFH Core" type="mods" version="2.0.0b8a"
+	<mod url="packs/ResonantRise/files/2.5/CoFHCore-2.0.0.b9a.jar" file="CoFHCore-2.0.0.b9a.jar" md5="8127ad5e4c7532db4fe307ac2cb3ab6f" download="server"
+         name="CoFH Core" type="mods" version="2.0.0.b9a"
          website="http://teamcofh.com/"
 		 description="The hero's great legacy follows him."
+         />
+	<mod url="packs/ResonantRise/files/2.5/RedstoneArsenal-1.0.0.b0a.jar" file="RedstoneArsenal-1.0.0.b0a.jar" md5="3a0903075d1354fe3b6eece8e031e4d2" download="server"
+         name="Redstone Arsenal" type="mods" depends="CoFH Core" version="1.0.0.b0a"
+         website="http://teamcofh.com/"
+		 description="His apprentice swings true."
          />
 	<mod url="packs/ResonantRise/files/2.5/ThaumicTinkerer%202.0-46.jar" file="ThaumicTinkerer 2.0-46.jar" md5="372b75018604b52e69f9b68b87513ab6" download="server"
 		 name="Thaumic Tinkerer" type="mods"

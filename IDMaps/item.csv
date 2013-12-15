@@ -1195,6 +1195,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 2719,Block,ThermalExpansion,tile.thermalexpansion.fluid.pyrotheum,thermalexpansion.fluid.BlockFluidPyrotheum
 2720,Block,ThermalExpansion,tile.thermalexpansion.fluid.cryotheum,thermalexpansion.fluid.BlockFluidCryotheum
 2722,Block,ThermalExpansion,tile.thermalexpansion.fluid.coal,thermalexpansion.fluid.BlockFluidCoal
+2730,Block,Redstone Arsenal,tile.redstonearsenal.storage,redstonearsenal.block.BlockStorage
 2740,Block,BigReactors,tile.brOre,erogenousbeef.bigreactors.common.block.BlockBROre
 2741,Block,BigReactors,tile.yelloriumFuelRod,erogenousbeef.bigreactors.common.block.BlockFuelRod
 2742,Block,BigReactors,tile.blockReactorPart,erogenousbeef.bigreactors.common.block.BlockReactorPart
@@ -1332,6 +1333,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3215,Block,TConstruct,tile.molten.stone,tconstruct.blocks.TConstructFluid
 3216,Block,TConstruct,tile.molten.emerald,tconstruct.blocks.TConstructFluid
 3217,Block,TConstruct,tile.liquid.blood,tconstruct.blocks.BloodBlock
+3218,Block,TConstruct,tile.fluid.ender,tconstruct.blocks.TConstructFluid
 3219,Block,TConstruct,tile.GlueBlock,tconstruct.blocks.GlueBlock
 3220,Block,TConstruct,tile.liquid.glue,tconstruct.blocks.GlueFluid
 3223,Block,TConstruct,tile.GlassBlock,tconstruct.blocks.GlassBlockConnected
@@ -1845,9 +1847,18 @@ ID,Block/Item,Mod,Unlocalised name,Class
 8475,Item,ThermalExpansion,item.thermalexpansion.tool.invarFishingRod,cofh.item.ItemFishingRodAdv
 8476,Item,ThermalExpansion,item.thermalexpansion.tool.invarSickle,cofh.item.ItemSickleAdv
 8477,Item,ThermalExpansion,item.thermalexpansion.tool.invarBattleWrench,thermalexpansion.item.tool.ItemWrenchBattle
+8556,Item,ThermalExpansion,item.thermalexpansion.conduit,thermalexpansion.part.conduit.ItemConduitPart
 8612,Item,BigReactors,item.ingot,erogenousbeef.bigreactors.common.item.ItemIngot
 8613,Item,BigReactors,item.bucket.yellorium,erogenousbeef.bigreactors.common.item.ItemBRBucket
 8614,Item,BigReactors,item.bucket.cyanite,erogenousbeef.bigreactors.common.item.ItemBRBucket
+8756,Item,Redstone Arsenal,item.redstonearsenal.material,redstonearsenal.item.ItemRABase
+8757,Item,Redstone Arsenal,item.redstonearsenal.tool.wrench,redstonearsenal.item.tool.ItemWrenchRF
+8758,Item,Redstone Arsenal,item.redstonearsenal.tool.battleWrench,redstonearsenal.item.tool.ItemWrenchBattleRF
+8759,Item,Redstone Arsenal,item.redstonearsenal.tool.sword,redstonearsenal.item.tool.ItemSwordRF
+8760,Item,Redstone Arsenal,item.redstonearsenal.tool.shovel,redstonearsenal.item.tool.ItemShovelRF
+8761,Item,Redstone Arsenal,item.redstonearsenal.tool.pickaxe,redstonearsenal.item.tool.ItemPickaxeRF
+8762,Item,Redstone Arsenal,item.redstonearsenal.tool.axe,redstonearsenal.item.tool.ItemAxeRF
+8763,Item,Redstone Arsenal,item.redstonearsenal.tool.sickle,redstonearsenal.item.tool.ItemSickleRF
 8781,Item,EnderIO,item.enderIO:itemEnderface,crazypants.enderio.enderface.ItemEnderface
 8782,Item,EnderIO,item.enderIO:itemConduitFacade,crazypants.enderio.conduit.facade.ItemConduitFacade
 8783,Item,EnderIO,item.enderIO:itemRedstoneConduit,crazypants.enderio.conduit.redstone.ItemRedstoneConduit
