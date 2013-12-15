@@ -25,7 +25,7 @@
 
     <!-- Evaluation Holding pen cuz it's easier here -->
 	<mod url="packs/ResonantRise/files/2.5/mcpc-plus-1.6.4-R2.1-forge953-B176.jar" file="mcpc-plus-1.6.4-R2.1-forge953-B176.jar" md5="929949c476c0ed6fc7eaa5ef9a50beea" download="server"
-         name="MCPC+" type="extract" extractto="root" version="B176"
+         name="MCPC+" type="mcpc" version="B176"
          website="http://ci.md-5.net/job/MCPC-Plus/"
 		 description="Server superweapon!"
          optional="yes" client="no"/>
