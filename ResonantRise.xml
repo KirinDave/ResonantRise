@@ -424,7 +424,7 @@
         name="Super Crafting Frame" type="mods" version="1.6.2.7"
         website="http://www.minecraftforum.net/topic/1870830-"
         description="Item frames are slightly less useless." />
-    <mod url="packs/ResonantRise/files/2.5/ThermalExpansion-3.0.0.b9a.jar" file="ThermalExpansion-3.0.0.b9a.jar" md5="21cd7f001949f320b8e13dcdce43317c" download="server"
+    <mod url="packs/ResonantRise/files/2.5/ThermalExpansion-3.0.0.b9a.jar" file="ThermalExpansion-3.0.0.b9a.jar" md5="2754889963bf1f894415016581429ad0" download="server"
          name="Thermal Expansion" type="mods" depends="CoFH Core" version="3.0.0.b9a"
          website="http://teamcofh.com/"
 		 description="The hero returns."
