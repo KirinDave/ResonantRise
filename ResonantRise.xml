@@ -405,6 +405,10 @@
          version="1.5.1"
          website="http://minecraft.curseforge.com/mc-mods/redstone-paste/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=XD2DPUTDZEW6U" 
          description="Pastey." />
+	<mod url="packs/ResonantRise/files/2.5/Reliquary-1.6.4-1.1.1.jar" file="Reliquary-1.6.4-1.1.1.jar" md5="43b1629c43a06fdf8b2438a62c8170a0" download="server"
+         name="Reliquary"  type="mods" version="1.1.1"
+         website="https://github.com/TrainerGuy22/Reliquary"
+         description="Xenophobic legacies in a compelling collection."  /> 
 	<mod url="packs/ResonantRise/files/2.4/RRUtility-1.0.2.jar" file="RRUtility-1.0.2.jar" md5="6370e4ad1bebe58128f2aa08f49afd7b" download="server"
          name="RRUtility" type="mods" version="1.0.2" website="http://www.resonant-rise.com" description="Our recipe manipulator mod. Use with care."  />
 	<mod url="packs/ResonantRise/files/2.3/smallboats.0.10.6.jar" file="smallboats.0.10.6.jar" md5="328d1537981272445a1d7409a67125b7" download="server"
