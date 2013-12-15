@@ -1,7 +1,10 @@
 <version>
   <pack>
-    <version>2.5-DEV-020</version>
+    <version>2.5-DEV-022</version>
     <minecraft>1.6.4</minecraft>
+    <memory>2048</memory>
+    <permgen>256</permgen>
+    <caseallfiles>upper</caseallfiles>
     <mainclass>net.minecraft.launchwrapper.Launch</mainclass>
     <caseallfiles>upper</caseallfiles>
     <memory>2048</memory>
@@ -174,8 +177,8 @@
 	<mod url="packs/ResonantRise/files/2.4/compactsolars-universal-1.6.4-4.4.19.224.zip" file="compactsolars-universal-1.6.4-4.4.19.224.zip" md5="d54c56c4a0647a5d6b3c4bd831b91cf6" download="server"
          name="Compact Solars" type="mods" version="4.4.19.224" website="http://files.minecraftforge.net/CompactSolars/" donation="http://www.computercraft.info/donate/" 
          description="The dreaded easy power is now in!" />
-    <mod url="packs/ResonantRise/files/2.5/DartCraft%20Beta%200.2.13.jar" file="DartCraft Beta 0.2.13.jar" md5="94465ce48240de67eb72243391c4ffe3" download="server"
-         name="DartCraft" type="mods"  version="0.2.13"
+    <mod url="packs/ResonantRise/files/2.5/DartCraft%20Beta%200.2.14.jar" file="DartCraft Beta 0.2.14.jar" md5="49248e4b2822724c11361559008c8ebe" download="server"
+         name="DartCraft" type="mods"  version="0.2.14"
          website="http://www.minecraftforum.net/topic/1686840-151-152-dartcraft-beta-0118/" 
          description="Convenience is king."
 		 fileprefix="00001_" />
@@ -457,6 +460,10 @@
     <mod url="packs/ResonantRise/files/2.2/Translocator%201.1.0.13.jar" file="Translocator 1.1.0.13.jar" md5="33acf4d7617611afdb46d1d6a7234bdd" download="server"
          name="Translocator"  type="mods" 
          version="1.1.0.13" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Pew pew pew lazors."  />
+	<mod url="packs/ResonantRise/files/2.3/Tubes-1.1.2.jar" file="Tubes-1.1.2.jar" md5="4036514bb62465e98f0f60eb5f613164" download="server"
+         name="Tubes" type="mods" version="1.1.2" 
+         website="http://www.minecraftforum.net/topic/2071224-" 
+         description="Item transport made from paneer."  />
 	<mod url="packs/ResonantRise/files/2.4/tubestuff-57.1.0.jar" file="tubestuff-57.1.0.jar" md5="dbf99c3cc8ca319e21a67fcb308b4809" download="server"
         name="TubeStuff" type="mods" version="57.1.0"
         website="http://www.minecraftforum.net/topic/1001131-"
@@ -486,9 +493,9 @@
 
 
     <!-- Client Only -->
-   	<mod url="packs/ResonantRise/files/2.4/mapwriter-2.0.13.zip" file="mapwriter-2.0.13.zip" md5="25b816809047bbf31127dbb02e827991" download="server"
+   	<mod url="packs/ResonantRise/files/2.5/mapwriter-2.0.14.zip" file="mapwriter-2.0.14.zip" md5="7b51c31e76bab89aee3e1f8eb7cdbe8c" download="server"
         name="Map Writer"  type="mods" server="no" optional="yes" recommended="no" group="Cartographer"
-        version="2.0.13" 
+        version="2.0.14" 
         website="http://www.minecraftforum.net/topic/1570989-152-forge-mapwriter-an-open-source-mini-map/" 
         description="A nice, open source map writer." />
 	<mod url="packs/ResonantRise/files/2.2/[1.6.4]ReiMinimap_v3.4_01.zip" file="[1.6.4]ReiMinimap_v3.4_01.zip" md5="d263cc04f492cee0e7b17ea1ef628bc9" download="server"
@@ -555,7 +562,6 @@
              download="browser"
              name="CompactWindmills"
              type="mods"
-             depends="Aroma1997Core"
              version="1.0.2.2"
 			 md5="0E39866035FC7D85373AAFB9915E0191"
              website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9205"
