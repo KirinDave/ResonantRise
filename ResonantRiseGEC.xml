@@ -237,6 +237,11 @@
         name="Factorization" type="mods" version="0.8.23"
         website="http://www.minecraftforum.net/topic/1351802-"
         description="Unquantifably Awesome. Power that munches and crunches better than Gurgi ever could." />
+	<mod url="packs/ResonantRise/files/2.5/flatsigns-1.6.2-universal-1.4.0.15.jar" file="flatsigns-1.6.2-universal-1.4.0.15.jar" md5="581bf79ecbda0132101ffcd0ba165fa0" download="server"
+		 name="Flat Signs" type="mods" version="1.4.0.15"
+		 website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/"
+		 description="Signs on every surface." 
+         />
 	<mod url="packs/ResonantRise/files/2.5/forestry-A-2.3.1.0.jar" file="forestry-A-2.3.1.0.jar" md5="2399212f03f59a53787ad43bb98f9060" download="server"
          name="Forestry" type="mods"  version="2.3.1.0" 
          website="http://forestry.sengir.net/wiki.new/" donation="http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads#donations" 
@@ -373,6 +378,10 @@
          name="Magic Bees" type="mods" version="2.1.7"
          website="http://www.minecraftforum.net/topic/1627856-magic-bees-magic-themed-bees-for-forestry-the-successor-to-thaumicbees/"
          description="Bees in the trap." />
+	<mod url="packs/ResonantRise/files/2.5/mystcraft-uni-1.6.4-0.10.11.00.zip" file="mystcraft-uni-1.6.4-0.10.11.00.zip" md5="af42012a6782cbf7afac5ec42d17d05e" download="server"
+             name="MystCraft" type="mods" optional="yes" selected="yes" version="0.10.11.00"
+			 website="http://binarymage.com/"
+             description="You know it, you love it." />
 	<mod url="packs/ResonantRise/files/2.5/ProjectRedBase-1.6.4-4.2.0.14.jar" file="ProjectRedBase-1.6.4-4.2.0.14.jar" md5="59f7e65640630555010d62fb2b90cf32" download="server"
          name="Project Red: Base" type="mods" version="4.2.0.14"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
@@ -527,10 +536,6 @@
     <!-- Remote Download, all types -->
     
     
-	<mod url="http://addons.curse.cursecdn.com/files/720/249/flatsigns-1.6.2-universal-1.4.0.15.jar" 
-         md5="581BF79ECBDA0132101FFCD0BA165FA0"
-		 file="flatsigns-1.6.2-universal-1.4.0.15.jar" download="direct" name="Flat Signs" type="mods" version="1.4.0.15" website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/" description="Sighs on every surface." 
-         />
 	<mod url="http://adf.ly/acyrl"
          md5="17BC0161DACD7E10168A26067D9CABF1"
 		 file="Railcraft_1.6.4-8.3.1.0.jar" download="browser" name="Railcraft" type="mods" version="8.3.0.0" website="http://www.railcraft.info/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HCQMGHQ4D5GQ4" description="Choo Choo Buckaroo and also boilers." 
@@ -541,16 +546,6 @@
     <mod url="http://adf.ly/1311628/thaumcraft-4" 
 		 file="Thaumcraft4.0.5b.zip" download="browser" name="Thaumcraft 4" type="mods" version="4.0.5b" website="http://www.minecraftforum.net/topic/2011841-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=88PFJA73AEFFW&amp;lc=ZA&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted" description="This one won't creep you out, kids."
          />
-	<mod url="http://binarymage.com/mystcraft/publish/mystcraft-uni-1.6.4-0.10.11.00.zip"
-             file="mystcraft-uni-1.6.4-0.10.11.00.zip"
-             download="direct"
-             name="MystCraft"
-             type="mods"
-             optional="yes" selected="yes"
-             version="0.10.11.00"
-			 md5="AF42012A6782CBF7AFAC5EC42D17D05E"
-             website="http://binarymage.com/"
-             description="You know it, you love it." />
 	<mod url="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9205"
              file="CompactWindmills+MC.1.6.4+v.1.0.2.2.jar"
              download="browser"
