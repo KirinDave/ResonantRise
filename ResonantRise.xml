@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.4.12-RRC2</version>
+    <version>2.4.13-RRC3</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -10,15 +10,15 @@
   </pack>
   
     <!-- Dat Core -->
-	<libraries>
-		<library url="packs/ResonantRise/files/forgelibs/launchwrapper-1.8.jar" file="launchwrapper-1.8.jar" md5="460ffeedae268dc70c8210ce179fa44a" server="net/minecraft/launchwrapper/1.8/launchwrapper-1.8.jar" download="server" />
-		<library url="packs/ResonantRise/files/forgelibs/asm-all-4.1.jar" file="asm-all-4.1.jar" md5="d21c2a06a4e6b175aa01e328f38a1182" server="org/ow2/asm/asm-all/4.1/asm-all-4.1.jar" download="server" />
-		<library url="packs/ResonantRise/files/forgelibs/scala-compiler-2.10.2.jar" file="scala-compiler-2.10.2.jar"  md5="44f4d11085423ebffbfb177c1fe4cc69" server="org/scala-lang/scala-compiler/2.10.2/scala-compiler-2.10.2.jar" download="server" />
-		<library url="packs/ResonantRise/files/forgelibs/scala-library-2.10.2.jar" file="scala-library-2.10.2.jar"  md5="8800aafcc03e346dbbde171bef0b2bfe" server="org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.jar" download="server" />
-		<library url="packs/ResonantRise/files/forgelibs/lzma-0.0.1.jar" file="lzma-0.0.1.jar" md5="a3e3c3186e41c4a1a3027ba2bb23cdc6" server="lzma/lzma/0.0.1/lzma-0.0.1.jar" download="server" />
-		<library url="packs/ResonantRise/files/forgelibs/jopt-simple-4.5.jar" file="jopt-simple-4.5.jar" md5="1372bd4823bb1ef61e7db6724f601150" server="net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar" download="server" />
-		<library url="packs/ResonantRise/files/forgelibs/liteloader-1.6.4.jar" file="liteloader-1.6.4.jar" md5="531c116f71ae2b11033f9a11a0f8e668" download="server" />
-	</libraries>
+    <libraries>
+      <library url="packs/ResonantRise/files/forgelibs/launchwrapper-1.8.jar" file="launchwrapper-1.8.jar" md5="460ffeedae268dc70c8210ce179fa44a" server="net/minecraft/launchwrapper/1.8/launchwrapper-1.8.jar" download="server" />
+      <library url="packs/ResonantRise/files/forgelibs/asm-all-4.1.jar" file="asm-all-4.1.jar" md5="d21c2a06a4e6b175aa01e328f38a1182" server="org/ow2/asm/asm-all/4.1/asm-all-4.1.jar" download="server" />
+      <library url="packs/ResonantRise/files/forgelibs/scala-compiler-2.10.2.jar" file="scala-compiler-2.10.2.jar"  md5="44f4d11085423ebffbfb177c1fe4cc69" server="org/scala-lang/scala-compiler/2.10.2/scala-compiler-2.10.2.jar" download="server" />
+      <library url="packs/ResonantRise/files/forgelibs/scala-library-2.10.2.jar" file="scala-library-2.10.2.jar"  md5="8800aafcc03e346dbbde171bef0b2bfe" server="org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.jar" download="server" />
+      <library url="packs/ResonantRise/files/forgelibs/lzma-0.0.1.jar" file="lzma-0.0.1.jar" md5="a3e3c3186e41c4a1a3027ba2bb23cdc6" server="lzma/lzma/0.0.1/lzma-0.0.1.jar" download="server" />
+      <library url="packs/ResonantRise/files/forgelibs/jopt-simple-4.5.jar" file="jopt-simple-4.5.jar" md5="1372bd4823bb1ef61e7db6724f601150" server="net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar" download="server" />
+      <library url="packs/ResonantRise/files/forgelibs/liteloader-1.6.4.jar" file="liteloader-1.6.4.jar" md5="531c116f71ae2b11033f9a11a0f8e668" download="server" />
+    </libraries>
 
   <mods>
     <!-- INTERNAL MODS ONLY -->
@@ -44,8 +44,7 @@
          website="http://www.minecraftforum.net/topic/2104497-"
 		 donation="http://profmobius.blogspot.fr/"
          description="The doctor's toolkit."
-         optional="yes" /> 
-    
+         optional="yes" />    
 	
     
     <!-- Mods -->
@@ -181,7 +180,7 @@
          website="http://www.minecraftforum.net/topic/1536685-" 
          description="UI to put health bars and numeric life indicators for minecraft."  />
 	<mod url="packs/ResonantRise/files/2.5/dimensional-anchor-57.1.4.jar" file="dimensional-anchor-57.1.4.jar" md5="d2e2415e1bb5d18c876bb5e1a72b8e9b" download="server"
-         name="Dimensional Anchors" type="mods" version="57.1.4" 
+         name="Dimensional Anchors" type="mods" version="57.1.4"
          website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" 
          description="Immibis's chunk loaders. Preferred."  />
     <mod url="packs/ResonantRise/files/2.3/denLib-1.6.4-3.1.35.jar" file="denLib-1.6.4-3.1.35.jar" md5="7b414345b971a82117da2ae3872991a7" download="server"
@@ -198,12 +197,12 @@
         name="DenPipes-Forestry" type="mods" version="1.1.8"
         website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=INpureProjects%40gmail%2ecom&amp;lc=US&amp;item_name=denoflions%20mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
         description="Improvements to buildcraft pipes with bees and trees in mind." />
-	<mod url="packs/ResonantRise/files/2.3/EmasherResource-1.2.1.7.zip" file="EmasherResource-1.2.1.7.zip" md5="3f958b8129719c4971dda40c48df612b" download="server"
-         name="EmasherResource" type="mods" version="1.2.1.7"
+	<mod url="packs/ResonantRise/files/2.5/EmasherResource-1.2.1.8.zip" file="EmasherResource-1.2.1.8.zip" md5="e05e3b144ba56e20c08d3de75288c72a" download="server"
+         name="EmasherResource" type="mods" version="1.2.1.8"
          website="http://emashersmods.wikispaces.com"
          description="Build big or build tiny." />
-    <mod url="packs/ResonantRise/files/2.5/EngineersToolbox-1.1.6.5.zip" file="EngineersToolbox-1.1.6.5.zip" md5="dd59dc125af7da4f2567d5b164b83739" download="server"
-         name="Engineer's Toolbox" type="mods" version="1.1.6.5"
+    <mod url="packs/ResonantRise/files/2.5/EngineersToolbox-1.1.6.6.zip" file="EngineersToolbox-1.1.6.6.zip" md5="382c4e180ae3410c6c4639d3ee11edb6" download="server"
+         name="Engineer's Toolbox" type="mods" version="1.1.6.6"
          depends="EmasherResource"
          website="http://emashersmods.wikispaces.com"
          description="Build big or build tiny." />
@@ -214,8 +213,8 @@
 	 name="EnderIO" type="mods" version="0.5.2.125"
 	 website="http://www.minecraftforum.net/topic/1937619-"
 	 description="An alternative, awesome, universal, concealable pipes for everything." />
-    <mod url="packs/ResonantRise/files/2.4/EnhancedPortals_3.0.0_Beta-2c.jar" file="EnhancedPortals_3.0.0_Beta-2c.jar" md5="ba64897a84d90b6f8954eec7b5d6b81c" download="server"
-	 name="EnhancedPortals 3" type="mods" version="3.0.0 Beta 2c"
+    <mod url="packs/ResonantRise/files/2.5/EnhancedPortals_3.0.0_Beta-2d.jar" file="EnhancedPortals_3.0.0_Beta-2d.jar" md5="f09434bcdd388327b0c99f24235ed434" download="server"
+	 name="EnhancedPortals 3" type="mods" version="3.0.0 Beta 2d"
 	 website="http://www.minecraftforum.net/topic/2143651-"
 	 description="Custom teleportation that looks fancier!" />
     <mod url="packs/ResonantRise/files/2.5/ExtraCells-1.5.9c.jar" file="ExtraCells-1.5.9c.jar" md5="386ec0064b4960d4b3a2bf3a397e2af6" download="server"
@@ -242,8 +241,8 @@
          name="Forestry" type="mods"  version="2.3.1.0" 
          website="http://forestry.sengir.net/wiki.new/" donation="http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads#donations" 
          description="Bees, Trees, and Automate-ables."  />
-    <mod url="packs/ResonantRise/files/2.3/GasCraft-2.0.3.1.zip" file="GasCraft-2.0.3.1.zip" md5="dd859dcdf7beb5d920d2c847672bcb7f" download="server"
-        name="GasCraft" type="mods" version="2.0.3.1"
+    <mod url="packs/ResonantRise/files/2.5/GasCraft-2.0.3.2.zip" file="GasCraft-2.0.3.2.zip" md5="9212960d64890050f7900c5608e15471" download="server"
+        name="GasCraft" type="mods" version="2.0.3.2"
         website="http://emashersmods.wikispaces.com/Downloads"
         description="Flutey Toot." />
     <mod url="packs/ResonantRise/files/2.2/mod_zGraviSuite_1_9_8_MC_1_6_4_IC_EXP.zip" file="mod_zGraviSuite_1_9_8_MC_1_6_4_IC_EXP.zip" md5="a74da90012db6f06303e3c1428f99066" download="server"
@@ -422,21 +421,21 @@
         name="Super Crafting Frame" type="mods" version="1.6.2.7"
         website="http://www.minecraftforum.net/topic/1870830-"
         description="Item frames are slightly less useless." />
-    <mod url="packs/ResonantRise/files/2.5/ThermalExpansion-3.0.0.b9a.jar" file="ThermalExpansion-3.0.0.b9a.jar" md5="2754889963bf1f894415016581429ad0" download="server"
-         name="Thermal Expansion" type="mods" depends="CoFH Core" version="3.0.0.b9a"
+    <mod url="packs/ResonantRise/files/2.5/ThermalExpansion-3.0.0.b9c.jar" file="ThermalExpansion-3.0.0.b9c.jar" md5="d033f520029c3a906b32538faefbfbf7" download="server"
+         name="Thermal Expansion" type="mods" depends="CoFH Core" version="3.0.0.b9c"
          website="http://teamcofh.com/"
 		 description="The hero returns."
-         />
-	<mod url="packs/ResonantRise/files/2.5/CoFHCore-2.0.0.b9a.jar" file="CoFHCore-2.0.0.b9a.jar" md5="8127ad5e4c7532db4fe307ac2cb3ab6f" download="server"
-         name="CoFH Core" type="mods" version="2.0.0.b9a"
+         fileprefix="ZZZZY_" />
+	<mod url="packs/ResonantRise/files/2.5/CoFHCore-2.0.0.b9c.jar" file="CoFHCore-2.0.0.b9c.jar" md5="bef144a0039dba1c0d7581392d914a2c" download="server"
+         name="CoFH Core" type="mods" version="2.0.0.b9c"
          website="http://teamcofh.com/"
 		 description="The hero's great legacy follows him."
-         />
-	<mod url="packs/ResonantRise/files/2.5/RedstoneArsenal-1.0.0.b0a.jar" file="RedstoneArsenal-1.0.0.b0a.jar" md5="3a0903075d1354fe3b6eece8e031e4d2" download="server"
-         name="Redstone Arsenal" type="mods" depends="CoFH Core" version="1.0.0.b0a"
+         fileprefix="00002_" />
+	<mod url="packs/ResonantRise/files/2.5/RedstoneArsenal-1.0.0.b0c.jar" file="RedstoneArsenal-1.0.0.b0c.jar" md5="1a9c6d3fa61c5a78e88e16bb920ce97e" download="server"
+         name="Redstone Arsenal" type="mods" depends="CoFH Core" version="1.0.0.b0c"
          website="http://teamcofh.com/"
 		 description="His apprentice swings true."
-         />
+         fileprefix="ZZZZZ_" />
 	<mod url="packs/ResonantRise/files/2.5/ThaumicTinkerer%202.0-46.jar" file="ThaumicTinkerer 2.0-46.jar" md5="372b75018604b52e69f9b68b87513ab6" download="server"
 		 name="Thaumic Tinkerer" type="mods"
 		 version="2.0-46" depends="Thaumcraft 4"

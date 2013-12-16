@@ -1187,7 +1187,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 2709,Block,ThermalExpansion,tile.thermalexpansion.tesseract,thermalexpansion.block.tesseract.BlockTesseract
 2711,Block,ThermalExpansion,tile.thermalexpansion.lamp,thermalexpansion.block.lamp.BlockLamp
 2712,Block,ThermalExpansion,tile.thermalexpansion.storage,thermalexpansion.block.simple.BlockStorage
-2713,Block,ThermalExpansion,tile.thermalexpansion.glass,thermalexpansion.block.simple.BlockHardenedGlass
+2713,Block,ThermalExpansion,tile.thermalexpansion.glass,thermalexpansion.block.simple.BlockGlass
 2714,Block,ThermalExpansion,tile.thermalexpansion.rockwool,thermalexpansion.block.simple.BlockRockwool
 2716,Block,ThermalExpansion,tile.thermalexpansion.fluid.redstone,thermalexpansion.fluid.BlockFluidRedstone
 2717,Block,ThermalExpansion,tile.thermalexpansion.fluid.glowstone,thermalexpansion.fluid.BlockFluidGlowstone
