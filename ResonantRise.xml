@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.4.13-RRC3</version>
+    <version>2.4.14-RRC4</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -98,9 +98,9 @@
 		 website="http://universalelectricity.com/" donation="http://universalelectricity.com/"
 		 description="Base for all UE crafting." 
          />
-	<mod url="packs/ResonantRise/files/2.4/BiblioCraft[v1.5.3].zip" file="BiblioCraft[v1.5.3].zip" md5="b143d4a31229fc610aa7ae3921c786b4" download="server"
+	<mod url="packs/ResonantRise/files/2.5/BiblioCraft[v1.5.4].zip" file="BiblioCraft[v1.5.4].zip" md5="cb2b8a33d7bb27e22111a7915d2a121a" download="server"
          name="BiblioCraft"  type="mods" 
-         version="1.5.3" 
+         version="1.5.4" 
          website="http://www.minecraftforum.net/topic/1680480-16215xforgesmp-bibliocraft-v134-bookcases-armor-stands-shelves-printing-presses-lamps-tables-and-more-updated-07022013/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=NLK9SWM3U77XS"
          description="Furniture and more"  />
 	<mod url="packs/ResonantRise/files/2.2/BiblioWoods[BiomesOPlenty][v1.3].zip" file="BiblioWoods[BiomesOPlenty][v1.3].zip" md5="b4171a695cbbdda3aca2f8617b88468a" download="server"
@@ -179,8 +179,8 @@
          name="Damage Indicators [by rich1051414]" type="mods" optional="yes" selected="yes" server="no" version="2.9.1.6" 
          website="http://www.minecraftforum.net/topic/1536685-" 
          description="UI to put health bars and numeric life indicators for minecraft."  />
-	<mod url="packs/ResonantRise/files/2.5/dimensional-anchor-57.1.4.jar" file="dimensional-anchor-57.1.4.jar" md5="d2e2415e1bb5d18c876bb5e1a72b8e9b" download="server"
-         name="Dimensional Anchors" type="mods" version="57.1.4"
+	<mod url="packs/ResonantRise/files/2.5/dimensional-anchor-57.1.5.jar" file="dimensional-anchor-57.1.5.jar" md5="d3290a0544971e142274cf6c1ba939ba" download="server"
+         name="Dimensional Anchors" type="mods" version="57.1.5"
          website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" 
          description="Immibis's chunk loaders. Preferred."  />
     <mod url="packs/ResonantRise/files/2.3/denLib-1.6.4-3.1.35.jar" file="denLib-1.6.4-3.1.35.jar" md5="7b414345b971a82117da2ae3872991a7" download="server"
@@ -209,8 +209,8 @@
     <mod url="packs/ResonantRise/files/2.3/EnderStorage%201.4.3.5.jar" file="EnderStorage 1.4.3.5.jar" md5="2dd5d9024752e894500bfe901b08221b" download="server"
          name="Ender Storage" depends="CodeChickenCore"  type="mods"  
          version="1.4.3.5" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Bigger, Better EnderChests and Tanks."  />
-    <mod url="packs/ResonantRise/files/2.5/EnderIO-1.6.4-0.5.2.125.jar" file="EnderIO-1.6.4-0.5.2.125.jar" md5="71fe4381893e1fc20c47a2a7ec67c221" download="server"
-	 name="EnderIO" type="mods" version="0.5.2.125"
+    <mod url="packs/ResonantRise/files/2.5/EnderIO-1.6.4-0.5.3.128.jar" file="EnderIO-1.6.4-0.5.3.128.jar" md5="967e0157a4f75a019ddcac59fc7e9a18" download="server"
+	 name="EnderIO" type="mods" version="0.5.3.128"
 	 website="http://www.minecraftforum.net/topic/1937619-"
 	 description="An alternative, awesome, universal, concealable pipes for everything." />
     <mod url="packs/ResonantRise/files/2.5/EnhancedPortals_3.0.0_Beta-2d.jar" file="EnhancedPortals_3.0.0_Beta-2d.jar" md5="f09434bcdd388327b0c99f24235ed434" download="server"
@@ -421,18 +421,18 @@
         name="Super Crafting Frame" type="mods" version="1.6.2.7"
         website="http://www.minecraftforum.net/topic/1870830-"
         description="Item frames are slightly less useless." />
-    <mod url="packs/ResonantRise/files/2.5/ThermalExpansion-3.0.0.b9c.jar" file="ThermalExpansion-3.0.0.b9c.jar" md5="d033f520029c3a906b32538faefbfbf7" download="server"
-         name="Thermal Expansion" type="mods" depends="CoFH Core" version="3.0.0.b9c"
+    <mod url="packs/ResonantRise/files/2.5/ThermalExpansion-3.0.0.b9d.jar" file="ThermalExpansion-3.0.0.b9d.jar" md5="2e01f909055901a5dd95e438a874e0fd" download="server"
+         name="Thermal Expansion" type="mods" depends="CoFH Core" version="3.0.0.b9d"
          website="http://teamcofh.com/"
 		 description="The hero returns."
          fileprefix="ZZZZY_" />
-	<mod url="packs/ResonantRise/files/2.5/CoFHCore-2.0.0.b9c.jar" file="CoFHCore-2.0.0.b9c.jar" md5="bef144a0039dba1c0d7581392d914a2c" download="server"
-         name="CoFH Core" type="mods" version="2.0.0.b9c"
+	<mod url="packs/ResonantRise/files/2.5/CoFHCore-2.0.0.b9d.jar" file="CoFHCore-2.0.0.b9d.jar" md5="94571f9472abae822f9eba0dcb4a8122" download="server"
+         name="CoFH Core" type="mods" version="2.0.0.b9d"
          website="http://teamcofh.com/"
 		 description="The hero's great legacy follows him."
          fileprefix="00002_" />
-	<mod url="packs/ResonantRise/files/2.5/RedstoneArsenal-1.0.0.b0c.jar" file="RedstoneArsenal-1.0.0.b0c.jar" md5="1a9c6d3fa61c5a78e88e16bb920ce97e" download="server"
-         name="Redstone Arsenal" type="mods" depends="CoFH Core" version="1.0.0.b0c"
+	<mod url="packs/ResonantRise/files/2.5/RedstoneArsenal-1.0.0.b0d.jar" file="RedstoneArsenal-1.0.0.b0d.jar" md5="b3ff48ceb5eb45c70c970f664f64f286" download="server"
+         name="Redstone Arsenal" type="mods" depends="CoFH Core" version="1.0.0.b0d"
          website="http://teamcofh.com/"
 		 description="His apprentice swings true."
          fileprefix="ZZZZZ_" />
