@@ -26,8 +26,8 @@
           name="Forge" type="forge" version="9.11.1.953" website="http://www.minecraftforge.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" description="The Core." />
     <mod url="packs/ResonantRise/files/forgelibs/ForgeMultipartDebug_1.0.0.219.1.zip" file="ForgeMultipartDebug_1.0.0.219.1.zip" md5="6a08ab7d54f440e285220a6f110e5816" download="server"
          name="Forge Multipart [+Libs]" type="extract" extractto="root" version="1.0.0.219" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Forge Multipart done right."  />	 
-    <mod url="packs/ResonantRise/files/forgelibs/mcpc-plus-1.6.4-R2.1-forge953-B176.jar" file="mcpc-plus-1.6.4-R2.1-forge953-B176.jar" md5="929949c476c0ed6fc7eaa5ef9a50beea" download="server"
-         name="MCPC+" type="mcpc" version="B176"
+    <mod url="packs/ResonantRise/files/forgelibs/mcpc-plus-1.6.4-R2.1-forge953-B179.jar" file="mcpc-plus-1.6.4-R2.1-forge953-B179.jar" md5="f04439a4003ef74a0b749fdd44f22b7e" download="server"
+         name="MCPC+" type="mcpc" version="B179"
          website="http://ci.md-5.net/job/MCPC-Plus/"
 		 description="Server superweapon!"
          optional="yes" client="no"/>
