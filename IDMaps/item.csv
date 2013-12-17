@@ -1929,6 +1929,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 9805,Item,ImmibisCore,item.immibis_peripherals.mc,mods.immibis.ccperiphs.rfid.ItemCardBase
 9806,Item,ImmibisCore,item.immibis_peripherals.rf,mods.immibis.ccperiphs.rfid.ItemCardBase
 9808,Item,ImmibisCore,item.tubestuff.jammer,net.minecraft.item.Item
+9812,Item,AdvancedMachines,item.advmachine.sharpplate,mods.immibis.am2.ItemSharpPlate
 10256,Item,ExtraUtilities,item.extrautils:golden_lasso,extrautils.item.ItemGoldenLasso
 10257,Item,ExtraUtilities,item.extrautils:paintbrush_base,extrautils.item.ItemPaintbrush
 10258,Item,ExtraUtilities,item.extrautils:unstableingot,extrautils.item.ItemUnstableIngot

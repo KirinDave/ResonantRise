@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.4.14-RRC4</version>
+    <version>2.4.15-RRC5</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -60,7 +60,7 @@
         name="Additional BuildCraft Objects" type="mods" version="1.0.6.182"
         website="http://www.minecraftforum.net/topic/682821-"
         description="More pipes, more tools." />
-    <mod url="packs/ResonantRise/files/2.2/advanced-machines-57.0.0.jar" file="advanced-machines-57.0.0.jar" md5="2f1c43560a26e53c4734d5d1492f45c0" download="server"
+    <mod url="packs/ResonantRise/files/2.5/advanced-machines-57.1.0.jar" file="advanced-machines-57.1.0.jar" md5="a334340be6f0617488916afb5d314b41" download="server"
          name="Immibis' Advanced Machines"  type="mods"
          version="57.0.0" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="Classic extension to IC2, now without bugs." />
 	<mod url="packs/ResonantRise/files/2.5/CodeChickenCore%200.9.0.7.jar" file="CodeChickenCore 0.9.0.7.jar" md5="f81ca854f4455259d066708fa729d18c" download="server"
@@ -264,12 +264,12 @@
         name="HexWool" type="mods" version="0.2.2"
         website="https://github.com/Techjar/HexWool"
         description="Glorious CYMK wool!" />
-	<mod url="packs/ResonantRise/files/2.4/immibis-core-57.1.6.jar" file="immibis-core-57.1.6.jar" md5="e3be2d51ad04ed9e388368f114e4aa86" download="server"
+	<mod url="packs/ResonantRise/files/2.5/immibis-core-57.1.7.jar" file="immibis-core-57.1.7.jar" md5="9615f441eddb5eed7c89e4011c115042" download="server"
          name="ImmibisCore"  type="mods"
-         version="57.1.6" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="Core mod for Immibis's suite." />
-    <mod url="packs/ResonantRise/files/2.2/immibis-peripherals-57.0.0.jar" file="immibis-peripherals-57.0.0.jar" md5="01514a70e8ced0a6ac7f55ead9ffeaf1" download="server"
+         version="57.1.7" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="Core mod for Immibis's suite." />
+    <mod url="packs/ResonantRise/files/2.5/immibis-peripherals-57.0.1.jar" file="immibis-peripherals-57.0.1.jar" md5="c1a415f2fd83845b9bbc4d56afec0d36" download="server"
          name="Immibis Peripherals" depends="ImmibisCore,ComputerCraft"  type="mods" 
-         version="57.0.0" 
+         version="57.0.1" 
          website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/"
          description="Cool sensor modes for ComputerCraft."  />
     <mod url="packs/ResonantRise/files/2.5/OpenPeripheral-0.2.1-snapshot-107-forge9.11.0.898.jar" file="OpenPeripheral-0.2.1-snapshot-107-forge9.11.0.898.jar" md5="001fc6b3d5faa60bbfbb9f5340ec8cd3" download="server"
@@ -430,18 +430,18 @@
         name="Super Crafting Frame" type="mods" version="1.6.2.7"
         website="http://www.minecraftforum.net/topic/1870830-"
         description="Item frames are slightly less useless." />
-    <mod url="packs/ResonantRise/files/2.5/ThermalExpansion-3.0.0.b9d.jar" file="ThermalExpansion-3.0.0.b9d.jar" md5="2e01f909055901a5dd95e438a874e0fd" download="server"
-         name="Thermal Expansion" type="mods" depends="CoFH Core" version="3.0.0.b9d"
+    <mod url="packs/ResonantRise/files/2.5/ThermalExpansion-3.0.0.b9e.jar" file="ThermalExpansion-3.0.0.b9e.jar" md5="d41ab4fc63a03d72ec5b8a186394e118" download="server"
+         name="Thermal Expansion" type="mods" depends="CoFH Core" version="3.0.0.b9e"
          website="http://teamcofh.com/"
 		 description="The hero returns."
          fileprefix="ZZZZY_" />
-	<mod url="packs/ResonantRise/files/2.5/CoFHCore-2.0.0.b9d.jar" file="CoFHCore-2.0.0.b9d.jar" md5="94571f9472abae822f9eba0dcb4a8122" download="server"
-         name="CoFH Core" type="mods" version="2.0.0.b9d"
+	<mod url="packs/ResonantRise/files/2.5/CoFHCore-2.0.0.b9e.jar" file="CoFHCore-2.0.0.b9e.jar" md5="8eb425500a26c0b4332451a5a538e61e" download="server"
+         name="CoFH Core" type="mods" version="2.0.0.b9e"
          website="http://teamcofh.com/"
 		 description="The hero's great legacy follows him."
          fileprefix="00002_" />
-	<mod url="packs/ResonantRise/files/2.5/RedstoneArsenal-1.0.0.b0d.jar" file="RedstoneArsenal-1.0.0.b0d.jar" md5="b3ff48ceb5eb45c70c970f664f64f286" download="server"
-         name="Redstone Arsenal" type="mods" depends="CoFH Core" version="1.0.0.b0d"
+	<mod url="packs/ResonantRise/files/2.5/RedstoneArsenal-1.0.0.b0e.jar" file="RedstoneArsenal-1.0.0.b0e.jar" md5="85874c0d71b5fd89d0c1c80cd68a5a93" download="server"
+         name="Redstone Arsenal" type="mods" depends="CoFH Core" version="1.0.0.b0e"
          website="http://teamcofh.com/"
 		 description="His apprentice swings true."
          fileprefix="ZZZZZ_" />
@@ -467,8 +467,8 @@
          name="Tubes" type="mods" version="1.1.2" 
          website="http://www.minecraftforum.net/topic/2071224-" 
          description="Item transport made from paneer."  />
-	<mod url="packs/ResonantRise/files/2.4/tubestuff-57.1.0.jar" file="tubestuff-57.1.0.jar" md5="dbf99c3cc8ca319e21a67fcb308b4809" download="server"
-        name="TubeStuff" type="mods" version="57.1.0"
+	<mod url="packs/ResonantRise/files/2.5/tubestuff-57.1.1.jar" file="tubestuff-57.1.1.jar" md5="a11646d82f6dd77b16e38de93dad5a3c" download="server"
+        name="TubeStuff" type="mods" version="57.1.1"
         website="http://www.minecraftforum.net/topic/1001131-"
         description="Honestly no one is even sure anymore." />
 	<mod url="packs/ResonantRise/files/2.3/UndergroundBiomes%201.6.x%20-%200.4.2c.zip" file="UndergroundBiomes 1.6.x - 0.4.2c.zip" md5="35a3048ba53b34cf5300d9e008fc7f03" download="server"
