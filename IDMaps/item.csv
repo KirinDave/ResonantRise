@@ -515,6 +515,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 927,Block,StevesCarts,tile.SC2:BlockDetector,vswe.stevescarts.Blocks.BlockDetector
 928,Block,StevesCarts,tile.SC2:upgrade,vswe.stevescarts.Blocks.BlockUpgrade
 929,Block,StevesCarts,tile.SC2:BlockLiquidManager,vswe.stevescarts.Blocks.BlockLiquidManager
+930,Block,extracells,tile.block.fluid.crafter,extracells.blocks.BlockFluidCrafter
 975,Block,IronChest,tile.IronChest,cpw.mods.ironchest.BlockIronChest
 1000,Block,factorization,tile.null,factorization.common.BlockFactorization
 1001,Block,factorization,tile.lightair,factorization.common.BlockLightAir
