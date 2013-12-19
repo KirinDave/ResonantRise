@@ -515,6 +515,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 927,Block,StevesCarts,tile.SC2:BlockDetector,vswe.stevescarts.Blocks.BlockDetector
 928,Block,StevesCarts,tile.SC2:upgrade,vswe.stevescarts.Blocks.BlockUpgrade
 929,Block,StevesCarts,tile.SC2:BlockLiquidManager,vswe.stevescarts.Blocks.BlockLiquidManager
+930,Block,extracells,tile.block.fluid.crafter,extracells.blocks.BlockFluidCrafter
 975,Block,IronChest,tile.IronChest,cpw.mods.ironchest.BlockIronChest
 1000,Block,factorization,tile.null,factorization.common.BlockFactorization
 1001,Block,factorization,tile.lightair,factorization.common.BlockLightAir
@@ -1929,6 +1930,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 9805,Item,ImmibisCore,item.immibis_peripherals.mc,mods.immibis.ccperiphs.rfid.ItemCardBase
 9806,Item,ImmibisCore,item.immibis_peripherals.rf,mods.immibis.ccperiphs.rfid.ItemCardBase
 9808,Item,ImmibisCore,item.tubestuff.jammer,net.minecraft.item.Item
+9812,Item,AdvancedMachines,item.advmachine.sharpplate,mods.immibis.am2.ItemSharpPlate
 10256,Item,ExtraUtilities,item.extrautils:golden_lasso,extrautils.item.ItemGoldenLasso
 10257,Item,ExtraUtilities,item.extrautils:paintbrush_base,extrautils.item.ItemPaintbrush
 10258,Item,ExtraUtilities,item.extrautils:unstableingot,extrautils.item.ItemUnstableIngot
