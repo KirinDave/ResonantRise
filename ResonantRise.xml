@@ -532,10 +532,9 @@
 
 
     <!-- Remote Download, all types -->
-    
-   	<mod url="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9205"
+    	<mod url="https://github.com/Aroma1997/CompactWindmillsDist/raw/master/1.6.4/1.0.2.2/CompactWindmills%20MC.1.6.4%20v.1.0.2.2.jar"
          file="CompactWindmills+MC.1.6.4+v.1.0.2.2.jar"
-         download="browser"
+         download="direct"
          name="CompactWindmills"
          type="mods"
          version="1.0.2.2"
