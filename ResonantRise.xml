@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.5.1-RR</version>
+    <version>2.5.2-RR</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -90,8 +90,8 @@
          version="1.1" 
          website="http://www.bibliocraftmod.com/?page_id=50#bibliowoods"
          description="More wood colors for furniture."  />
-    <mod url="packs/ResonantRise/files/2-STABLE/BigReactors-0.2.8A.jar" file="BigReactors-0.2.8A.jar" md5="87058ae8f266c2e7be31928a73385980" download="server"
-         name="Big Reactors" type="mods" version="0.2.8A"
+    <mod url="packs/ResonantRise/files/2-STABLE/BigReactors-0.2.9A3.jar" file="BigReactors-0.2.9A3.jar" md5="e6e69670520370f2bc7fb93412e04d41" download="server"
+         name="Big Reactors" type="mods" version="0.2.9A3"
          website="http://big-reactors.com/"
 		 description="Just in time for the 1.6.4 pack release! \o/" />
 	<mod url="packs/ResonantRise/files/2-STABLE/binnie-mods-1.8-dev2.jar" file="binnie-mods-1.8-dev2.jar" md5="5be11aedf6538573215ab232f64a23b6" download="server"
@@ -193,9 +193,9 @@
 		name="EnhancedPortals 3" type="mods" version="3.0.0 Beta 2d"
 		website="http://www.minecraftforum.net/topic/2143651-"
 		description="Custom teleportation that looks fancier!" />
-    <mod url="packs/ResonantRise/files/2-STABLE/ExtraCells-1.6.1.jar" file="ExtraCells-1.6.1.jar" md5="dba718c543d73dd09222847186b7bfe3" download="server"
-         name="Extra Cells" depends="Applied Energistics"  type="mods" version="1.6.1" 
-         website="http://www.minecraftforum.net/topic/1801643-m3gas-extracells-appliedenergistics-add-on/" 
+    <mod url="packs/ResonantRise/files/2-STABLE/ExtraCells-1.6.1b.jar" file="ExtraCells-1.6.1b.jar" md5="017ac9189174ab27ae976d486ce5757d" download="server"
+         name="Extra Cells" depends="Applied Energistics"  type="mods" version="1.6.1b"
+         website="http://www.minecraftforum.net/topic/1801643-m3gas-extracells-appliedenergistics-add-on/"
          description="A massive expansion to Applied Energistics. Store fluids and more."  />
     <mod url="packs/ResonantRise/files/2-STABLE/ExtraTiC-1.6.4-0.7.1.jar" file="ExtraTiC-1.6.4-0.7.1.jar" md5="e9d9354b3e67199c3a069d307e99ddb3" download="server"
          name="ExtraTiC" depends="Tinker's Construct"  type="mods" version="0.7.1" 
