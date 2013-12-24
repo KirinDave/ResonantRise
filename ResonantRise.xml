@@ -226,8 +226,8 @@
          version="1.9.8-EXP" 
          website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=6915" 
          description="Gravity Suit in flight. Afternoon delight."  />
-	<mod url="packs/ResonantRise/files/2-STABLE/HardcoreEnderExpansion-1.2.1.zip" file="HardcoreEnderExpansion-1.2.1.zip" md5="4e2b05c78dd57de1f28e6dd32ce9a2ae" download="server"
-         name="Hardcore Ender Expansion" type="mods" version="1.2.1"
+	<mod url="packs/ResonantRise/files/2-STABLE/HEE_1.6.4_release-1.2.2.zip" file="HEE_1.6.4_release-1.2.2.zip" md5="785719db08f14bbe5f579bee6e43c865" download="server"
+         name="Hardcore Ender Expansion" type="mods" version="1.2.2"
          website="http://hardcore-enderdragon.wikia.com/wiki/Home"
          description="The Ender Dragon Is Not Happy With You."
          />
