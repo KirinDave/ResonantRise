@@ -534,8 +534,8 @@
          name="CompactWindmills"
          type="mods"
          version="1.0.2.3"
-		 md5="0E39866035FC7D85373AAFB9915E0191"
          website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9205"
+         md5="77D5E98B3653843C7E1C1DD7E2086E0E"
          description="Like solar power except with wind." />
 	<mod url="http://adf.ly/acyrl"
          md5="17BC0161DACD7E10168A26067D9CABF1"
