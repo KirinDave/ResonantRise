@@ -93,9 +93,9 @@
          name="Binnie's Mods" type="mods" version="1.8-dev2"
          website="http://www.minecraftforum.net/topic/1324321-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=KQWXKT6KK7SH4"
          description="Extensions for Forestry" />
-	<mod url="packs/ResonantRise/files/2-STABLE/BiomesOPlenty-universal-1.6.4-1.1.3.308.jar" file="BiomesOPlenty-universal-1.6.4-1.1.3.308.jar" md5="dd326c1f2d60dc966b660f1a609a066a" download="server"
+	<mod url="packs/ResonantRise/files/2.6/BiomesOPlenty-universal-1.6.4-1.2.0.364.jar" file="BiomesOPlenty-universal-1.6.4-1.2.0.364.jar" md5="b3fd523d47105ac96fb2242c56f05e9d" download="server"
          name="BiomesOPlenty" type="mods"
-         version="1.1.3.308"
+         version="1.2.0.364"
          website="https://github.com/BiomesOPlenty/BiomesOPlenty/releases" donation="https://www.paypal.com/cgi-bin7webscr?cmd=_donations&amp;business=U58BHXTK8LLRQ&amp;lc=US&amp;item_name=Biomes%20O%27%20Plenty&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="More Everything." />
     <mod url="packs/ResonantRise/files/2-STABLE/Blood Magic v0.7.0a.zip" file="Blood Magic v0.7.0a.zip" md5="f7aeeace950c19f9c68c16273cba22a0" download="server"
@@ -226,7 +226,7 @@
          version="1.9.8-EXP" 
          website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=6915" 
          description="Gravity Suit in flight. Afternoon delight."  />
-	<mod url="packs/ResonantRise/files/2-STABLE/HEE_1.6.4_release-1.2.2.zip" file="HEE_1.6.4_release-1.2.2.zip" md5="785719db08f14bbe5f579bee6e43c865" download="server"
+	<mod url="packs/ResonantRise/files/2-STABLE/HardcoreEnderExpansion-1.2.2.zip" file="HardcoreEnderExpansion-1.2.2.zip" md5="096efc49a12336f521975e202ccc969e" download="server"
          name="Hardcore Ender Expansion" type="mods" version="1.2.2"
          website="http://hardcore-enderdragon.wikia.com/wiki/Home"
          description="The Ender Dragon Is Not Happy With You."
@@ -528,12 +528,12 @@
 
 
     <!-- Remote Download, all types -->
-    	<mod url="https://github.com/Aroma1997/CompactWindmillsDist/raw/master/1.6.4/1.0.2.2/CompactWindmills%20MC.1.6.4%20v.1.0.2.2.jar"
-         file="CompactWindmills+MC.1.6.4+v.1.0.2.2.jar"
+    	<mod  url="https://github.com/Aroma1997/CompactWindmillsDist/raw/master/1.6.4/1.0.2.3/CompactWindmills%20MC.1.6.4%20v.1.0.2.3.jar"
+         file="CompactWindmills+MC.1.6.4+v.1.0.2.3.jar"
          download="direct"
          name="CompactWindmills"
          type="mods"
-         version="1.0.2.2"
+         version="1.0.2.3"
 		 md5="0E39866035FC7D85373AAFB9915E0191"
          website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9205"
          description="Like solar power except with wind." />
