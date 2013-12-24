@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.5.2-RR</version>
+    <version>2.5.3-RR</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -70,7 +70,7 @@
 		 website="http://universalelectricity.com/" donation="http://universalelectricity.com/"
 		 description="Base for all UE crafting." 
          />
-	<mod url="packs/ResonantRise/files/2-STABLE/BiblioCraft[v1.5.4].zip" file="BiblioCraft[v1.5.4].zip" md5="cb2b8a33d7bb27e22111a7915d2a121a" download="server"
+    <mod url="packs/ResonantRise/files/2-STABLE/BiblioCraft[v1.5.4].zip" file="BiblioCraft[v1.5.4].zip" md5="cb2b8a33d7bb27e22111a7915d2a121a" download="server"
          name="BiblioCraft"  type="mods" 
          version="1.5.4" 
          website="http://www.minecraftforum.net/topic/1680480-16215xforgesmp-bibliocraft-v134-bookcases-armor-stands-shelves-printing-presses-lamps-tables-and-more-updated-07022013/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=NLK9SWM3U77XS"
@@ -90,8 +90,8 @@
          version="1.1" 
          website="http://www.bibliocraftmod.com/?page_id=50#bibliowoods"
          description="More wood colors for furniture."  />
-    <mod url="packs/ResonantRise/files/2-STABLE/BigReactors-0.2.9A3.jar" file="BigReactors-0.2.9A3.jar" md5="e6e69670520370f2bc7fb93412e04d41" download="server"
-         name="Big Reactors" type="mods" version="0.2.9A3"
+    <mod url="packs/ResonantRise/files/2-STABLE/BigReactors-0.2.10X1.jar" file="BigReactors-0.2.10X1.jar" md5="3acbb78663b757b136990470bc59f9c1" download="server"
+         name="Big Reactors" type="mods" version="0.2.10X1"
          website="http://big-reactors.com/"
 		 description="Just in time for the 1.6.4 pack release! \o/" />
 	<mod url="packs/ResonantRise/files/2-STABLE/binnie-mods-1.8-dev2.jar" file="binnie-mods-1.8-dev2.jar" md5="5be11aedf6538573215ab232f64a23b6" download="server"
@@ -246,7 +246,7 @@
          description="Oh hey!"  />
 	<mod url="packs/ResonantRise/files/2-STABLE/advanced-machines-57.1.1.jar" file="advanced-machines-57.1.1.jar" md5="84e0988e7562d896e3598a5a301ee212" download="server"
          name="Immibis' Advanced Machines"  type="mods"
-A         version="57.1.1" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="Classic extension to IC2, now without bugs." />
+         version="57.1.1" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="Classic extension to IC2, now without bugs." />
 	<mod url="packs/ResonantRise/files/2-STABLE/immibis-core-57.1.7.jar" file="immibis-core-57.1.7.jar" md5="9615f441eddb5eed7c89e4011c115042" download="server"
          name="Immibis Core"  type="mods"
          version="57.1.7" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="Core mod for Immibis's suite." />
@@ -299,7 +299,7 @@ A         version="57.1.1" website="http://www.minecraftforum.net/topic/1001131-
 	<mod url="packs/ResonantRise/files/2-STABLE/MekanismInduction-v5.6.0.666.jar" file="MekanismInduction-v5.6.0.666.jar" md5="6acacfaa4642a543d3690e44d30a43d7" download="server"
 		name="Mekanism Induction" type="mods" version="5.6.0.666"
 		website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" description="Working induction!" />
-	<mod url="packs/ResonantRise/files/2-STABLE/MekanismTools-v5.6.0.666.jar" file="MekanismTools-v5.6.0.666.jar" md5="8085df0271d1bf41a456b96ac7c74551" download="server"XF
+	<mod url="packs/ResonantRise/files/2-STABLE/MekanismTools-v5.6.0.666.jar" file="MekanismTools-v5.6.0.666.jar" md5="8085df0271d1bf41a456b96ac7c74551" download="server"
 		name="Mekanism Tools" type="mods" version="5.6.0.640"
 		website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" description="Paxel perfect." />
 	<mod url="packs/ResonantRise/files/2-STABLE/Metallurgy-1.6.4-3.3.1.jar" file="Metallurgy-1.6.4-3.3.1.jar" md5="ee4ce03e9c78526d903613429dd40031" download="server"
