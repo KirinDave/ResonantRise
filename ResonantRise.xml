@@ -519,8 +519,8 @@
         version="3.4_01" 
         website="http://www.minecraftforum.net/topic/482147-" 
         description="Multiple minimap options ahoy!" />
-	<mod url="packs/ResonantRise/files/2-STABLE/1.6.4_TabbyChat_1.9.02.litemod" file="1.6.4_TabbyChat_1.9.02.litemod" md5="bc85357fc386928b94314375c69343f2" download="server"
-        name="TabbyChat" type="mods" server="no" version="1.9.02"
+	<mod url="packs/ResonantRise/files/2-STABLE/1.6.4_TabbyChat_1.10.00.litemod" file="1.6.4_TabbyChat_1.10.00.litemod" md5="3f0fcb6f395045f1510140489658fddf" download="server"
+        name="TabbyChat" type="mods" server="no" version="1.10.00"
         website="http://www.minecraftforum.net/topic/1540451-" donation="http://www.minecraftforum.net/topic/1540451-"
         description="Minecraft chat customisation at long last!" />
 	<mod url="packs/ResonantRise/files/2-STABLE/ZansMinimap1.6.4.zip" file="ZansMinimap1.6.4.zip" md5="97a9934f12a01986bcdc6ec8eba97336" download="server"
