@@ -50,6 +50,7 @@ ID,Unlocalised name,Class
 54,Leap,am2.buffs.ArsMagicaPotion
 55,Mana Boost,am2.buffs.ArsMagicaPotion
 56,Astral Distortion,am2.buffs.ArsMagicaPotion
+57,Mana Shield,am2.buffs.ArsMagicaPotion
 63,Illuminated,am2.buffs.ArsMagicaPotion
 64,Greater Mana Restoration,am2.buffs.ManaPotion
 65,Epic Mana Restoration,am2.buffs.ManaPotion

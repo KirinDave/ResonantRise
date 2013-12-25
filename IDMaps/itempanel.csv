@@ -1,1 +1,5 @@
 Item ID,Item meta,Has NBT,Display Name
+1999,0,false,Ender Chat Box
+2000,0,false,Ender Modem
+2001,0,false,Ender Receiver
+2002,0,false,Ender Transmitter

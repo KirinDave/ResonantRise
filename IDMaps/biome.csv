@@ -78,6 +78,7 @@ ID,Name,Temperature,Rainfall,Spawn Chance,Min Height,Max Height,Types,Class
 86,Enchanted Forest,0.5,0.5,0.12,0.1,0.3,"FOREST, MAGICAL",twilightforest.biomes.TFBiomeEnchantedForest
 87,Fire Swamp,1.0,0.4,0.12,-0.25,0.0,"FOREST, SWAMP, WASTELAND",twilightforest.biomes.TFBiomeFireSwamp
 99,MooMooFarm,0.5,0.5,0.1,0.1,0.3,PLAINS,am2.worldgen.SCLBiome
+100,WitchwoodForest,0.5,0.5,0.1,0.1,0.3,"FOREST, MAGICAL",am2.worldgen.BiomeWitchwoodForest
 160,Desert Oil Field,2.0,0.0,0.1,0.1,0.2,DESERT,buildcraft.energy.worldgen.BiomeGenOilDesert
 161,Ocean Oil Field,0.5,0.5,0.1,-1.0,0.4,WATER,buildcraft.energy.worldgen.BiomeGenOilOcean
 162,Tainted Land,0.5,0.5,0.1,0.1,0.3,"WASTELAND, MAGICAL",thaumcraft.common.lib.world.biomes.BiomeGenTaint
