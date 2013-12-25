@@ -93,7 +93,7 @@
          name="Binnie's Mods" type="mods" version="1.8-dev2"
          website="http://www.minecraftforum.net/topic/1324321-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=KQWXKT6KK7SH4"
          description="Extensions for Forestry" />
-	<mod url="packs/ResonantRise/files/2.6/BiomesOPlenty-universal-1.6.4-1.2.0.364.jar" file="BiomesOPlenty-universal-1.6.4-1.2.0.364.jar" md5="b3fd523d47105ac96fb2242c56f05e9d" download="server"
+	<mod url="packs/ResonantRise/files/2-STABLE/BiomesOPlenty-universal-1.6.4-1.2.0.364.jar" file="BiomesOPlenty-universal-1.6.4-1.2.0.364.jar" md5="b3fd523d47105ac96fb2242c56f05e9d" download="server"
          name="BiomesOPlenty" type="mods"
          version="1.2.0.364"
          website="https://github.com/BiomesOPlenty/BiomesOPlenty/releases" donation="https://www.paypal.com/cgi-bin7webscr?cmd=_donations&amp;business=U58BHXTK8LLRQ&amp;lc=US&amp;item_name=Biomes%20O%27%20Plenty&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
