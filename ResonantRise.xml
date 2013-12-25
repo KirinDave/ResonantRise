@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.5.3-RR</version>
+    <version>2.5.4-RR</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -85,8 +85,8 @@
          version="1.1" 
          website="http://www.bibliocraftmod.com/?page_id=50#bibliowoods"
          description="More wood colors for furniture."  />
-    <mod url="packs/ResonantRise/files/2-STABLE/BigReactors-0.2.10X1.jar" file="BigReactors-0.2.10X1.jar" md5="3acbb78663b757b136990470bc59f9c1" download="server"
-         name="Big Reactors" type="mods" version="0.2.10X1"
+    <mod url="packs/ResonantRise/files/2-STABLE/BigReactors-0.2.9A3.jar" file="BigReactors-0.2.9A3.jar" md5="e6e69670520370f2bc7fb93412e04d41" download="server"
+         name="Big Reactors" type="mods" version="0.2.9A3"
          website="http://big-reactors.com/"
 		 description="Just in time for the 1.6.4 pack release! \o/" />
 	<mod url="packs/ResonantRise/files/2-STABLE/binnie-mods-1.8-dev2.jar" file="binnie-mods-1.8-dev2.jar" md5="5be11aedf6538573215ab232f64a23b6" download="server"
@@ -306,7 +306,7 @@
 		name="Metallurgy" type="mods" version="3.3.1"
 		website="http://www.minecraftforum.net/topic/744918-15x162forgesmp-metallurgy-putting-the-mine-back-in-minecraft/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Shadowclaimer2%40gmail%2ecom&amp;lc=US&amp;item_name=Metallurgy%20Software%EF%BF%BDcy_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
 		description="A bit of this, a bit of that." />
-	<mod url="packs/ResonantRise/files/2-STABLE/MFFS_v3.6.0.277.jar" file="MFFS_v3.6.0.277.jar" md5="ccc526b5bfe7420aaa02d15d8fa06776" download="server"
+	<mod url="packs/ResonantRise/files/2-STABLE/MFFS_v3.5.0.255.jar" file="MFFS_v3.5.0.255.jar" md5="edc98005558693fc6c1727d8866eb21d" download="server"
         name="MFFS" type="mods" version="3.6.0.277"
         website="http://www.minecraftforum.net/topic/1703498-" donation="http://universalelectricity.com/mffs/"
         description="Calclavia's Forcefield System." />
