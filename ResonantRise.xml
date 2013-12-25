@@ -172,11 +172,16 @@
          name="EmasherResource" type="mods" version="1.2.1.8"
          website="http://emashersmods.wikispaces.com"
          description="Build big or build tiny." />
-	<mod url="packs/ResonantRise/files/2-STABLE/EnderIO-1.6.4-0.5.5.136.jar" file="EnderIO-1.6.4-0.5.5.136.jar" md5="f36d95586f63e2331d2be60a3f4b95b0" download="server"
-	     name="EnderIO" type="mods" version="0.5.3.136"
-	     website="http://www.minecraftforum.net/topic/1937619-"
-	     description="An alternative, awesome, universal, concealable pipes for everything." />
-	<mod url="packs/ResonantRise/files/2-STABLE/EnderStorage%201.4.3.5.jar" file="EnderStorage 1.4.3.5.jar" md5="2dd5d9024752e894500bfe901b08221b" download="server"
+    <mod url="packs/ResonantRise/files/2-STABLE/EnderIO-1.6.4-0.5.5.136.jar" file="EnderIO-1.6.4-0.5.5.136.jar" md5="f36d95586f63e2331d2be60a3f4b95b0" download="server"
+	 name="EnderIO" type="mods" version="0.5.3.136"
+	 website="http://www.minecraftforum.net/topic/1937619-"
+	 description="An alternative, awesome, universal, concealable pipes for everything." />
+    <mod url="packs/ResonantRise/files/2-STABLE/EnderNet-beta7.jar" file="EnderNet-beta7.jar" md5="5b17614f2edffbd7bfb73d272515a8cb" download="server"
+         name="EnderNet" type="mods" version="beta7"
+         optional="yes"
+         website="http://asie.pl/mods/endernet.html"
+         description="Like ForgeIRC for stuff." />
+    <mod url="packs/ResonantRise/files/2-STABLE/EnderStorage%201.4.3.5.jar" file="EnderStorage 1.4.3.5.jar" md5="2dd5d9024752e894500bfe901b08221b" download="server"
          name="Ender Storage" depends="CodeChickenCore"  type="mods"  
          version="1.4.3.5" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Bigger, Better EnderChests and Tanks."  />
 	<mod url="packs/ResonantRise/files/2-STABLE/EngineersToolbox-1.1.6.6.zip" file="EngineersToolbox-1.1.6.6.zip" md5="382c4e180ae3410c6c4639d3ee11edb6" download="server"
