@@ -519,7 +519,7 @@
         version="3.4_01" 
         website="http://www.minecraftforum.net/topic/482147-" 
         description="Multiple minimap options ahoy!" />
-	<mod url="packs/ResonantRise/files/2-STABLE/1.6.4_TabbyChat_1.10.00.litemod" file="1.6.4_TabbyChat_1.10.00.litemod" md5="3f0fcb6f395045f1510140489658fddf" download="server"
+		<mod url="packs/ResonantRise/files/2-STABLE/1.6.4_TabbyChat_1.10.00.litemod" file="1.6.4_TabbyChat_1.10.00.litemod" md5="3f0fcb6f395045f1510140489658fddf" download="server"
         name="TabbyChat" type="mods" server="no" version="1.10.00"
         website="http://www.minecraftforum.net/topic/1540451-" donation="http://www.minecraftforum.net/topic/1540451-"
         description="Minecraft chat customisation at long last!" />
@@ -555,4 +555,3 @@
 
   </mods>
 </version>
-
