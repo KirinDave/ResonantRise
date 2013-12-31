@@ -1,5 +1,19 @@
 Item ID,Item meta,Has NBT,Display Name
-1999,0,false,Ender Chat Box
-2000,0,false,Ender Modem
-2001,0,false,Ender Receiver
-2002,0,false,Ender Transmitter
+603,0,false,Transport conduit
+702,0,false,Conduit Bundle
+1122,0,false,Essence Conduit
+8463,96,false,Redstone Energy Conduit (Empty)
+8556,0,false,Leadstone Energy Conduit
+8556,1,false,Hardened Energy Conduit
+8556,2,false,Redstone Energy Conduit
+8782,0,false,Conduit Facade
+8783,0,false,Redstone Conduit
+8783,1,false,Conduit Switch
+8783,2,false,Insulated Redstone Conduit
+8784,0,false,Energy Conduit
+8784,1,false,Enhanced Energy Conduit
+8784,2,false,Ender Energy Conduit
+8785,0,false,Fluid Conduit
+8794,0,false,Item Conduit
+8794,1,false,Empowered Item Conduit
+8795,1,false,Conduit Binder
