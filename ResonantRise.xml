@@ -61,8 +61,8 @@
          name="AutoUtils [Chisel Libs]" type="mods" version="1.0.1"
          website="http://www.minecraftforum.net/topic/1749374-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=NS64FL5ZXYG3N&amp;lc=RU&amp;item_name=I%20write%20mods%20for%20minecraft&amp;item_number=minecraft&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="Chisel Util Mod" />
-    <mod url="packs/ResonantRise/files/2-STABLE/backpack-1.22.25-1.6.x.zip" file="backpack-1.22.25-1.6.x.zip" md5="c65c793185dd1721c153af120e37d7d1" download="server"
-         name="Backpacks" version="1.22.25" type="mods"
+    <mod url="packs/ResonantRise/files/2-STABLE/backpack-1.26.29-1.6.x.jar" file="backpack-1.26.29-1.6.x.jar" md5="72f64a21506a64b09cdf8e1ee2409997" download="server"
+         name="Backpacks" version="1.26.29" type="mods"
          website="http://www.minecraftforum.net/topic/1492661-15x-16x-backpacks-v-11213/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=CCEHF29WUSQVJ"
          description="Baggy leather in your inventory." />
     <mod url="packs/ResonantRise/files/2-STABLE/Basic_Components_v1.0.0.19.jar" file="Basic_Components_v1.0.0.19.jar" md5="fbcbd5ee2b6a22c2cf4b267e4ab35e23" download="server"
@@ -558,6 +558,16 @@
          donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HCQMGHQ4D5GQ4"
          description="Choo Choo Buckaroo and also boilers."
          depends="Buildcraft"/>
+    <mod url="http://adf.ly/auOu0"
+         file="Sync2.0.0.zip"
+         download="browser"
+         name="Sync"
+         md5="9bf424124484c8e5a7c2a48c8e111ea0"
+         type="mods"
+         version="2.0.0"
+         website="http://ichun.us/mods/sync/"
+         description="iChun's Modjam3 submission, clone yourself and jump between clones!"
+         optional="yes"/>
     <mod url="http://adf.ly/1311628/thaumcraft-4"
          file="Thaumcraft4.0.5b.zip"
          download="browser"
