@@ -624,6 +624,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1302,Block,chococraft,tile.item.strawBlock,chococraft.common.items.BlockStraw
 1311,Block,StevesFactoryManager,tile.BlockMachineManagerName,vswe.stevesfactory.blocks.BlockManager
 1312,Block,StevesFactoryManager,tile.BlockCableName,vswe.stevesfactory.blocks.BlockCable
+1345,Block,Sync,tile.Sync_ShellConstructor,sync.common.block.BlockDualVertical
 1352,Block,EnhancedPortals3,tile.ep3.decoration,uk.co.shadeddimensions.ep3.block.BlockDecoration
 1353,Block,EnhancedPortals3,tile.ep3.stabilizer,uk.co.shadeddimensions.ep3.block.BlockStabilizer
 1354,Block,EnhancedPortals3,tile.ep3.portalFrame,uk.co.shadeddimensions.ep3.block.BlockFrame
@@ -1567,7 +1568,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 4079,Block,eng_toolbox,tile.emasher_EU_adapter,emasher.sockets.pipes.BlockEUAdapter
 4080,Block,TrussMod,tile.TrussMod:BlockMotor,rainwarrior.trussmod.BlockMotor
 4081,Block,TrussMod,tile.TrussMod:BlockFrame,rainwarrior.trussmod.BlockFrame
-4085,Block,Tubes,tile.Tubes:blockPlastic,net.minecraft.block.Block
 4088,Block,RedstonePasteMod,tile.redstonePaste,fyber.redstonepastemod.BlockRedstonePaste
 4089,Block,ExtraUtilities,tile.extrautils:dark_portal,extrautils.block.BlockPortal
 4090,Block,OpenBlocks,tile.openblocks.fan,openblocks.common.block.BlockFan
@@ -2345,6 +2345,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 13390,Item,Forestry,item.beeLarvaeGE,forestry.apiculture.items.ItemBeeGE
 13391,Item,Forestry,item.caterpillarGE,forestry.lepidopterology.items.ItemButterflyGE
 13392,Item,Forestry,item.naturalistHelmet,forestry.core.items.ItemArmorNaturalist
+13586,Item,Sync,item.Sync_BlockPlacer,sync.common.item.ItemSyncBlockPlacer
+13587,Item,Sync,item.Sync_SyncCore,sync.common.item.ItemPlaceholder
 13756,Item,Forestry,item.cratedWood,forestry.core.items.ItemCrated
 13757,Item,Forestry,item.cratedCobblestone,forestry.core.items.ItemCrated
 13758,Item,Forestry,item.cratedDirt,forestry.core.items.ItemCrated
@@ -3714,13 +3716,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 29382,Item,Mariculture,item.titanium.tool.rod,mariculture.plugins.PluginTinkersConstruct.TitaniumPart
 29383,Item,Mariculture,item.titanium.tough.binding,mariculture.plugins.PluginTinkersConstruct.TitaniumPart
 29384,Item,Mariculture,item.titanium.tough.rod,mariculture.plugins.PluginTinkersConstruct.TitaniumPart
-29756,Item,Tubes,item.redstoneCircuit,schmoller.tubes.items.BasicItem
-29757,Item,Tubes,item.bucketOfPlastic,schmoller.tubes.items.BasicItem
-29758,Item,Tubes,item.milkCurd,schmoller.tubes.items.BasicItem
-29759,Item,Tubes,item.sheetPlastic,schmoller.tubes.items.BasicItem
-29760,Item,Tubes,item.dustPlastic,schmoller.tubes.items.BasicItem
-29761,Item,Tubes,item.null,schmoller.tubes.items.ItemTubeBase
-29762,Item,Tubes,item.tubeCap,schmoller.tubes.items.ItemTubeCap
 29997,Item,StevesCarts,item.SC2:unknownmodule,vswe.stevescarts.Items.ItemCartModule
 29998,Item,StevesCarts,item.SC2:unknowncomponent,vswe.stevescarts.Items.ItemCartComponent
 29999,Item,StevesCarts,item.SC2:ModularCart,vswe.stevescarts.Items.ItemCarts
