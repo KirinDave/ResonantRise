@@ -1,0 +1,22 @@
+{
+	"ID": "POTIONS_POSITIVE",
+	"Items": [
+		{ "ID": 373, "Metadata": 8193, "Rarity": 1.0 },
+		{ "ID": 373, "Metadata": 8257, "Rarity": 1.0 },
+		{ "ID": 373, "Metadata": 8225, "Rarity": 1.0 },
+		{ "ID": 373, "Metadata": 8194, "Rarity": 1.0 },
+		{ "ID": 373, "Metadata": 8258, "Rarity": 1.0 },
+		{ "ID": 373, "Metadata": 8226, "Rarity": 1.0 },
+		{ "ID": 373, "Metadata": 8195, "Rarity": 1.0 },
+		{ "ID": 373, "Metadata": 8259, "Rarity": 1.0 },
+		{ "ID": 373, "Metadata": 8197, "Rarity": 1.0 },
+		{ "ID": 373, "Metadata": 8229, "Rarity": 1.0 },
+		{ "ID": 373, "Metadata": 8198, "Rarity": 1.0 },
+		{ "ID": 373, "Metadata": 8262, "Rarity": 1.0 },
+		{ "ID": 373, "Metadata": 8201, "Rarity": 1.0 },
+		{ "ID": 373, "Metadata": 8265, "Rarity": 1.0 },
+		{ "ID": 373, "Metadata": 8233, "Rarity": 1.0 },
+		{ "ID": 373, "Metadata": 8206, "Rarity": 1.0 },
+		{ "ID": 373, "Metadata": 8270, "Rarity": 1.0 }
+	]
+}

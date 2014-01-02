@@ -1,0 +1,15 @@
+{
+	"ID": "DEVICES_3",
+	"Items": [
+		{ "ID": 23, "Rarity": 1.0 },
+		{ "ID": 25, "Rarity": 1.0 },
+		{ "ID": 29, "Rarity": 1.0 },
+		{ "ID": 33, "Rarity": 1.0 },
+		{ "ID": 76, "Rarity": 1.0 },
+		{ "ID": 123, "Rarity": 1.0 },
+		{ "ID": 147, "Rarity": 1.0 },
+		{ "ID": 151, "Rarity": 1.0 },
+		{ "ID": 158, "Rarity": 1.0 },
+		{ "ID": 379, "Rarity": 1.0 }
+	]
+}

@@ -1,0 +1,7 @@
+{
+	"ID": "POTION_INGREDIENTS_2",
+	"Items": [
+		{ "ID": 382, "Rarity": 1.0 },
+		{ "ID": 396, "Rarity": 1.0 }
+	]
+}

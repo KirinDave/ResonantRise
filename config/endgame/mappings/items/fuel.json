@@ -1,0 +1,7 @@
+{
+	"ID": "FUEL",
+	"Items": [
+		{ "ID": 263, "Metadata": 0, "Rarity": 1.0 },
+		{ "ID": 263, "Metadata": 1, "Rarity": 2.0 }
+	]
+}

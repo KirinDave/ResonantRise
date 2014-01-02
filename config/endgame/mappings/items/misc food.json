@@ -1,0 +1,14 @@
+{
+	"ID": "FOOD_MISC",
+	"Items": [
+		{ "ID": 39, "Rarity": 1.0 },
+		{ "ID": 40, "Rarity": 1.0 },
+		{ "ID": 86, "Rarity": 1.0 },
+		{ "ID": 103, "Rarity": 1.0 },
+		{ "ID": 296, "Rarity": 1.0 },
+		{ "ID": 335, "Rarity": 1.0 },
+		{ "ID": 344, "Rarity": 1.0 },
+		{ "ID": 353, "Rarity": 1.0 },
+		{ "ID": 382, "Rarity": 1.0 }
+	]
+}

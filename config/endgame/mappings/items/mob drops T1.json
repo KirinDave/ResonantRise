@@ -1,0 +1,25 @@
+{
+	"ID": "MOB_DROPS_1",
+	"Items": [
+		{ "ID": 35, "Rarity": 1.0 },
+		{ "ID": 38, "Rarity": 1.0 },
+		{ "ID": 262, "Rarity": 1.0 },
+		{ "ID": 263, "Rarity": 1.0 },
+		{ "ID": 280, "Rarity": 1.0 },
+		{ "ID": 287, "Rarity": 1.0 },
+		{ "ID": 288, "Rarity": 1.0 },
+		{ "ID": 319, "Rarity": 1.0 },
+		{ "ID": 332, "Rarity": 1.0 },
+		{ "ID": 334, "Rarity": 1.0 },
+		{ "ID": 351, "Rarity": 1.0 },
+		{ "ID": 352, "Rarity": 1.0 },
+		{ "ID": 353, "Rarity": 1.0 },
+		{ "ID": 363, "Rarity": 1.0 },
+		{ "ID": 365, "Rarity": 1.0 },
+		{ "ID": 367, "Rarity": 1.0 },
+		{ "ID": 374, "Rarity": 1.0 },
+		{ "ID": 375, "Rarity": 1.0 },
+		{ "ID": 391, "Rarity": 1.0 },
+		{ "ID": 392, "Rarity": 1.0 }
+	]
+}

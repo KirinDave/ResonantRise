@@ -1,0 +1,11 @@
+{
+	"ID": "POTION_INGREDIENTS_1",
+	"Items": [
+		{ "ID": 353, "Rarity": 1.0 },
+		{ "ID": 373, "Rarity": 1.0 },
+		{ "ID": 373, "Metadata": 8192, "Rarity": 1.0 },
+		{ "ID": 374, "Rarity": 1.0 },
+		{ "ID": 375, "Rarity": 1.0 },
+		{ "ID": 376, "Rarity": 1.0 }
+	]
+}

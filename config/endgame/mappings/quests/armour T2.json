@@ -1,0 +1,6 @@
+{
+	"ID": "ARMOUR_2",
+	"MinimumDifficulty": 10,
+	"MaximumDifficulty": 24,
+	"ItemTypes": [ "ARMOUR_1", "ARMOUR_2" ]
+}

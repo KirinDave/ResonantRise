@@ -1,0 +1,17 @@
+{
+	"ID": "DEVICES_1",
+	"Items": [
+		{ "ID": 54, "Rarity": 1.0 },
+		{ "ID": 58, "Rarity": 1.0 },
+		{ "ID": 61, "Rarity": 1.0 },
+		{ "ID": 69, "Rarity": 1.0 },
+		{ "ID": 70, "Rarity": 1.0 },
+		{ "ID": 72, "Rarity": 1.0 },
+		{ "ID": 77, "Rarity": 1.0 },
+		{ "ID": 96, "Rarity": 1.0 },
+		{ "ID": 107, "Rarity": 1.0 },
+		{ "ID": 143, "Rarity": 1.0 },
+		{ "ID": 287, "Rarity": 1.0 },
+		{ "ID": 324, "Rarity": 1.0 }
+	]
+}

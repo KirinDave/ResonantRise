@@ -1,0 +1,21 @@
+{
+	"ID": "DYES",
+	"Items": [
+		{ "ID": 351, "Rarity": 1.0 },
+		{ "ID": 351, "Metadata": 1, "Rarity": 1.0 },
+		{ "ID": 351, "Metadata": 2, "Rarity": 1.0 },
+		{ "ID": 351, "Metadata": 3, "Rarity": 1.0 },
+		{ "ID": 351, "Metadata": 4, "Rarity": 1.0 },
+		{ "ID": 351, "Metadata": 5, "Rarity": 1.0 },
+		{ "ID": 351, "Metadata": 6, "Rarity": 1.0 },
+		{ "ID": 351, "Metadata": 7, "Rarity": 1.0 },
+		{ "ID": 351, "Metadata": 8, "Rarity": 1.0 },
+		{ "ID": 351, "Metadata": 9, "Rarity": 1.0 },
+		{ "ID": 351, "Metadata": 10, "Rarity": 1.0 },
+		{ "ID": 351, "Metadata": 11, "Rarity": 1.0 },
+		{ "ID": 351, "Metadata": 12, "Rarity": 1.0 },
+		{ "ID": 351, "Metadata": 13, "Rarity": 1.0 },
+		{ "ID": 351, "Metadata": 14, "Rarity": 1.0 },
+		{ "ID": 351, "Metadata": 15, "Rarity": 1.0 }
+	]
+}

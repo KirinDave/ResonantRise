@@ -1,0 +1,14 @@
+{
+	"ID": "mySecondQuest",
+	"Name": "My second quest",
+	"Description": "And this is another example quest.",
+	"ListObjectives": true,
+	"ListExperience": true,
+	"Experience": 500,
+	"ItemObjectives": [
+		{ "Item": { "ID": 1 }, "Total": 32 }
+	],
+	"OreDictionaryObjectives": [
+		{ "Total": 100, "OreDictionary": "plankWood" }
+	]
+}

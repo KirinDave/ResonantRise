@@ -1,0 +1,13 @@
+{
+	"ID": "TOOLS_2",
+	"Items": [
+		{ "ID": 256, "Rarity": 1.0 },
+		{ "ID": 257, "Rarity": 1.0 },
+		{ "ID": 258, "Rarity": 1.0 },
+		{ "ID": 259, "Rarity": 1.0 },
+		{ "ID": 292, "Rarity": 1.0 },
+		{ "ID": 325, "Rarity": 1.0 },
+		{ "ID": 345, "Rarity": 1.0 },
+		{ "ID": 359, "Rarity": 1.0 }
+	]
+}

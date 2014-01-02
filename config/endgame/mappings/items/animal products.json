@@ -1,0 +1,14 @@
+{
+	"ID": "ANIMAL_PRODUCTS",
+	"Items": [
+		{ "ID": 35, "Rarity": 1.0 },
+		{ "ID": 288, "Rarity": 1.0 },
+		{ "ID": 319, "Rarity": 1.0 },
+		{ "ID": 334, "Rarity": 1.0 },
+		{ "ID": 335, "Rarity": 1.0 },
+		{ "ID": 344, "Rarity": 1.0 },
+		{ "ID": 351, "Rarity": 1.0 },
+		{ "ID": 363, "Rarity": 1.0 },
+		{ "ID": 365, "Rarity": 1.0 }
+	]
+}

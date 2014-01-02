@@ -1,0 +1,9 @@
+{
+	"ID": "myFirstQuest",
+	"Name": "My first quest",
+	"Description": "And this is another example quest.",
+	"ListObjectives": true,
+	"ItemObjectives": [
+		{ "Item": { "ID": 1 }, "Total": 32 }
+	]
+}

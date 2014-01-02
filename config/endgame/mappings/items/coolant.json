@@ -1,0 +1,8 @@
+{
+	"ID": "COOLANT",
+	"Items": [
+		{ "ID": 78, "Rarity": 1.0 },
+		{ "ID": 80, "Rarity": 1.0 },
+		{ "ID": 332, "Rarity": 1.0 }
+	]
+}

@@ -126,6 +126,7 @@ block {
 ####################
 
 "difficulty changes" {
+    B:"Allow creation of endstone"=true
     B:"Craft Stencil Tables"=true
     B:"Craft metals with Wood Patterns"=false
     B:"Craft vanilla metal blocks"=true
@@ -211,6 +212,15 @@ experimental {
 
 general {
     I:"Sea level"=64
+}
+
+
+####################
+# logging
+####################
+
+logging {
+    B:"Disable tool build messages"=false
 }
 
 

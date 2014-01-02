@@ -1,0 +1,9 @@
+{
+	"ID": "ARMOUR_1",
+	"Items": [
+		{ "ID": 298, "Rarity": 1.0 },
+		{ "ID": 299, "Rarity": 1.0 },
+		{ "ID": 300, "Rarity": 1.0 },
+		{ "ID": 301, "Rarity": 1.0 }
+	]
+}

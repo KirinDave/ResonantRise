@@ -1,0 +1,6 @@
+{
+	"ID": "TRANSPORT_2",
+	"MinimumDifficulty": 10,
+	"MaximumDifficulty": 24,
+	"ItemTypes": [ "TRANSPORTATION_1", "TRANSPORTATION_2" ]
+}

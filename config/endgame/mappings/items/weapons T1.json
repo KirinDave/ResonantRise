@@ -1,0 +1,11 @@
+{
+	"ID": "WEAPONS_1",
+	"Items": [
+		{ "ID": 261, "Rarity": 1.0 },
+		{ "ID": 262, "Rarity": 1.0 },
+		{ "ID": 268, "Rarity": 1.0 },
+		{ "ID": 272, "Rarity": 1.0 },
+		{ "ID": 332, "Rarity": 1.0 },
+		{ "ID": 344, "Rarity": 1.0 }
+	]
+}
