@@ -1,0 +1,6 @@
+{
+	"ID": "FUEL",
+	"Fluids": [
+		{ "ID": "lava", "Rarity": 1.0 }
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"ID": "CONSTRUCTION_MATERIALS_3",
+	"Items": [
+		{ "ID": 48, "Rarity": 1.0 },
+		{ "ID": 49, "Rarity": 1.0 },
+		{ "ID": 87, "Rarity": 1.0 },
+		{ "ID": 89, "Rarity": 1.0 },
+		{ "ID": 112, "Rarity": 1.0 },
+		{ "ID": 113, "Rarity": 1.0 },
+		{ "ID": 114, "Rarity": 1.0 },
+		{ "ID": 139, "Metadata": 1, "Rarity": 1.0 },
+		{ "ID": 155, "Rarity": 1.0 },
+		{ "ID": 155, "Metadata": 1, "Rarity": 1.0 },
+		{ "ID": 156, "Rarity": 1.0 }
+	]
+}

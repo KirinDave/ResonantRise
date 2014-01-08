@@ -1,0 +1,4 @@
+{
+	"ID": "POTIONS",
+	"ItemTypes": [ "POTIONS_POSITIVE", "POTIONS_NEGATIVE" ]
+}

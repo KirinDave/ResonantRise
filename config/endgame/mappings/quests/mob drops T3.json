@@ -1,0 +1,6 @@
+{
+	"ID": "MOB_DROPS_3",
+	"MinimumDifficulty": 25,
+	"MaximumDifficulty": 49,
+	"ItemTypes": [ "MOB_DROPS_1", "MOB_DROPS_2", "MOB_DROPS_3" ]
+}

@@ -1,0 +1,6 @@
+{
+	"ID": "POTION_INGREDIENTS_3",
+	"MinimumDifficulty": 25,
+	"MaximumDifficulty": 49,
+	"ItemTypes": [ "POTION_INGREDIENTS_1", "POTION_INGREDIENTS_2", "POTION_INGREDIENTS_3" ]
+}

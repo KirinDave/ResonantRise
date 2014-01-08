@@ -1,0 +1,12 @@
+{
+	"ID": "TRANSPORTATION_2",
+	"Items": [
+		{ "ID": 28, "Rarity": 1.0 },
+		{ "ID": 66, "Rarity": 1.0 },
+		{ "ID": 328, "Rarity": 1.0 },
+		{ "ID": 342, "Rarity": 1.0 },
+		{ "ID": 343, "Rarity": 1.0 },
+		{ "ID": 407, "Rarity": 1.0 },
+		{ "ID": 408, "Rarity": 1.0 }
+	]
+}

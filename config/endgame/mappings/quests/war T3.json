@@ -1,0 +1,6 @@
+{
+	"ID": "WAR_3",
+	"MinimumDifficulty": 25,
+	"MaximumDifficulty": 49,
+	"ItemTypes": [ "ARMOUR_1", "WEAPONS_1", "ARMOUR_2", "WEAPONS_2", "ARMOUR_3", "WEAPONS_3" ]
+}

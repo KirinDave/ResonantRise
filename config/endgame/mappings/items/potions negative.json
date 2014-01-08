@@ -1,0 +1,14 @@
+{
+	"ID": "POTIONS_NEGATIVE",
+	"Items": [
+		{ "ID": 373, "Metadata": 8196, "Rarity": 1.0 },
+		{ "ID": 373, "Metadata": 8260, "Rarity": 1.0 },
+		{ "ID": 373, "Metadata": 8228, "Rarity": 1.0 },
+		{ "ID": 373, "Metadata": 8200, "Rarity": 1.0 },
+		{ "ID": 373, "Metadata": 8264, "Rarity": 1.0 },
+		{ "ID": 373, "Metadata": 8202, "Rarity": 1.0 },
+		{ "ID": 373, "Metadata": 8266, "Rarity": 1.0 },
+		{ "ID": 373, "Metadata": 8204, "Rarity": 1.0 },
+		{ "ID": 373, "Metadata": 8236, "Rarity": 1.0 }
+	]
+}

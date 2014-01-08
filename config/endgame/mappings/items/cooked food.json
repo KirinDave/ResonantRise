@@ -1,0 +1,19 @@
+{
+	"ID": "FOOD_COOKED",
+	"Items": [
+		{ "ID": 260, "Rarity": 1.0 },
+		{ "ID": 282, "Rarity": 1.0 },
+		{ "ID": 297, "Rarity": 1.0 },
+		{ "ID": 320, "Rarity": 1.0 },
+		{ "ID": 335, "Rarity": 1.0 },
+		{ "ID": 322, "Rarity": 1.0 },
+		{ "ID": 349, "Metadata": 1, "Rarity": 1.0 },
+		{ "ID": 354, "Rarity": 1.0 },
+		{ "ID": 357, "Rarity": 1.0 },
+		{ "ID": 360, "Rarity": 1.0 },
+		{ "ID": 364, "Rarity": 1.0 },
+		{ "ID": 366, "Rarity": 1.0 },
+		{ "ID": 393, "Rarity": 1.0 },
+		{ "ID": 400, "Rarity": 1.0 }
+	]
+}

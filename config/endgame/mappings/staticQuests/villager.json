@@ -1,0 +1,19 @@
+{
+	"ID": "villagerFirstQuest",
+	"Name": "First Villager Quest!",
+	"Description": "You there! Bring me these things.",
+	"TimeLimit": 1200,
+	"Experience": 5,
+	"ListObjectives": true,
+	"ListRewards": true,
+	"ListExperience": true,
+	"ItemObjectives": [
+		{ "Item": { "ID": 1 }, "Total": 32 }
+	],
+	"FluidObjectives": [
+		{ "ID": "lava", "Total": 3000 }
+	],
+	"Rewards": [
+		{ "StackSize": 1, "ID": 392, "TagCompound": "{ ench: [ { id: 19s, lvl: 1s } ] }" }
+	]
+}

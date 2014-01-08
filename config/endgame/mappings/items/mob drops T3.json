@@ -1,0 +1,11 @@
+{
+	"ID": "MOB_DROPS_3",
+	"Items": [
+		{ "ID": 331, "Rarity": 1.0 },
+		{ "ID": 348, "Rarity": 1.0 },
+		{ "ID": 368, "Rarity": 1.0 },
+		{ "ID": 369, "Rarity": 1.0 },
+		{ "ID": 370, "Rarity": 1.0 },
+		{ "ID": 378, "Rarity": 1.0 }
+	]
+}

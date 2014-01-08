@@ -1,0 +1,12 @@
+{
+	"ID": "RAW_RESOURCES",
+	"Items": [
+		{ "ID": 14, "Rarity": 1.0 },
+		{ "ID": 15, "Rarity": 1.0 },
+		{ "ID": 16, "Rarity": 1.0 },
+		{ "ID": 21, "Rarity": 1.0 },
+		{ "ID": 56, "Rarity": 1.0 },
+		{ "ID": 73, "Rarity": 1.0 },
+		{ "ID": 129, "Rarity": 1.0 }
+	]
+}

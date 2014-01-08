@@ -1,0 +1,5 @@
+{
+	"ID": "FUEL_PROJECT",
+	"ItemTypes": [ "FUEL", "COOLANT" ],
+	"FluidTypes": [ "FUEL", "COOLANT" ]
+}

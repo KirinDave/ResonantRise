@@ -1,0 +1,15 @@
+{
+	"ID": "FOOD_RAW",
+	"Items": [
+		{ "ID": 319, "Rarity": 1.0 },
+		{ "ID": 335, "Rarity": 1.0 },
+		{ "ID": 349, "Rarity": 1.0 },
+		{ "ID": 363, "Rarity": 1.0 },
+		{ "ID": 365, "Rarity": 1.0 },
+		{ "ID": 367, "Rarity": 1.0 },
+		{ "ID": 375, "Rarity": 1.0 },
+		{ "ID": 391, "Rarity": 1.0 },
+		{ "ID": 392, "Rarity": 1.0 },
+		{ "ID": 394, "Rarity": 1.0 }
+	]
+}

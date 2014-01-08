@@ -1,0 +1,28 @@
+{
+	"ID": "NATURE",
+	"Items": [
+		{ "ID": 6, "Rarity": 1.0 },
+		{ "ID": 6, "Metadata": 1, "Rarity": 1.0 },
+		{ "ID": 6, "Metadata": 2, "Rarity": 1.0 },
+		{ "ID": 6, "Metadata": 3, "Rarity": 1.0 },
+		{ "ID": 18, "Rarity": 1.0 },
+		{ "ID": 18, "Metadata": 1, "Rarity": 1.0 },
+		{ "ID": 18, "Metadata": 2, "Rarity": 1.0 },
+		{ "ID": 18, "Metadata": 3, "Rarity": 1.0 },
+		{ "ID": 30, "Rarity": 1.0 },
+		{ "ID": 31, "Metadata": 1, "Rarity": 1.0 },
+		{ "ID": 31, "Metadata": 2, "Rarity": 1.0 },
+		{ "ID": 32, "Rarity": 1.0 },
+		{ "ID": 37, "Rarity": 1.0 },
+		{ "ID": 38, "Rarity": 1.0 },
+		{ "ID": 39, "Rarity": 1.0 },
+		{ "ID": 40, "Rarity": 1.0 },
+		{ "ID": 81, "Rarity": 1.0 },
+		{ "ID": 86, "Rarity": 1.0 },
+		{ "ID": 103, "Rarity": 1.0 },
+		{ "ID": 106, "Rarity": 1.0 },
+		{ "ID": 111, "Rarity": 1.0 },
+		{ "ID": 338, "Rarity": 1.0 },
+		{ "ID": 372, "Rarity": 1.0 }
+	]
+}

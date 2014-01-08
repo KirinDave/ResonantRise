@@ -1,0 +1,12 @@
+{
+	"ID": "RESOURCES_3",
+	"Items": [
+		{ "ID": 266, "Rarity": 1.0 },
+		{ "ID": 331, "Rarity": 1.0 },
+		{ "ID": 348, "Rarity": 1.0 },
+		{ "ID": 351, "Metadata": 4, "Rarity": 1.0, "MatchExactly": true },
+		{ "ID": 369, "Rarity": 1.0 },
+		{ "ID": 377, "Rarity": 1.0 },
+		{ "ID": 406, "Rarity": 1.0 }
+	]
+}
