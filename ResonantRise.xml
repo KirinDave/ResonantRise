@@ -61,12 +61,16 @@
          name="Backpacks" version="1.26.29" type="mods"
          website="http://www.minecraftforum.net/topic/1492661-15x-16x-backpacks-v-11213/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=CCEHF29WUSQVJ"
          description="Baggy leather in your inventory." />
+    <mod url="packs/ResonantRise/files/2.6/bdlib-mc164-0.9.5.13.jar" file="bdlib-mc164-0.9.5.13.jar" md5="b25fe7da2d005912984fec36edf413c3" download="server"
+         name="BDLib" type="mods" version="0.9.5.13"
+         website="http://bdew.net/gendustry"
+         description="Library for Gendustry." />
     <mod url="packs/ResonantRise/files/2-STABLE/Basic_Components_v1.0.0.19.jar" file="Basic_Components_v1.0.0.19.jar" md5="fbcbd5ee2b6a22c2cf4b267e4ab35e23" download="server"
          name="Basic Components" type="mods" version="1.0.0.19"
          website="http://universalelectricity.com/" donation="http://universalelectricity.com/"
          description="Base for all UE crafting."
          />
-	<mod url="packs/ResonantRise/files/2-STABLE/BiblioCraft[v1.5.4].zip" file="BiblioCraft[v1.5.4].zip" md5="cb2b8a33d7bb27e22111a7915d2a121a" download="server"
+        <mod url="packs/ResonantRise/files/2-STABLE/BiblioCraft[v1.5.4].zip" file="BiblioCraft[v1.5.4].zip" md5="cb2b8a33d7bb27e22111a7915d2a121a" download="server"
          name="BiblioCraft"  type="mods"
          version="1.5.4"
          website="http://www.minecraftforum.net/topic/1680480-16215xforgesmp-bibliocraft-v134-bookcases-armor-stands-shelves-printing-presses-lamps-tables-and-more-updated-07022013/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=NLK9SWM3U77XS"
@@ -101,7 +105,7 @@
          description="More Everything." />
     <mod url="packs/ResonantRise/files/2-STABLE/Blood Magic v0.7.0a.zip" file="Blood Magic v0.7.0a.zip" md5="f7aeeace950c19f9c68c16273cba22a0" download="server"
          name="Blood Magic" type="mods" website="http://www.minecraftforum.net/topic/1899223-" version="0.7.0a" description="Alphonse, not nose piercing."/>
-	<mod url="packs/ResonantRise/files/2-STABLE/buildcraft-A-1.6.4-4.2.1.jar" file="buildcraft-A-1.6.4-4.2.1.jar" md5="c6f1ba4ebc8b38ef962a727ef051e2e8" download="server"
+        <mod url="packs/ResonantRise/files/2-STABLE/buildcraft-A-1.6.4-4.2.1.jar" file="buildcraft-A-1.6.4-4.2.1.jar" md5="c6f1ba4ebc8b38ef962a727ef051e2e8" download="server"
          name="Buildcraft" type="mods"  version="4.2.1"
          website="http://www.mod-buildcraft.com/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=KQWXKT6KK7SH4"
          description="Burning oil forever." />
@@ -116,7 +120,7 @@
          name="Charge Pads" type="mods" version="3.0.0.94-exp"
          website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=7892"
          description="Your skin's galvanic response is pretty good I guess." />
-	<mod url="packs/ResonantRise/files/2-STABLE/chisel-1.6.4-1.5.0fix.jar" file="chisel-1.6.4-1.5.0fix.jar" md5="643a4cce13eab1af9a378977febc609b" download="server"
+        <mod url="packs/ResonantRise/files/2-STABLE/chisel-1.6.4-1.5.0fix.jar" file="chisel-1.6.4-1.5.0fix.jar" md5="643a4cce13eab1af9a378977febc609b" download="server"
          name="Chisel" type="mods" version="1.5.0fix"
          website="http://www.minecraftforum.net/topic/1749374-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=NS64FL5ZXYG3N&amp;lc=RU&amp;item_name=I%20write%20mods%20for%20minecraft&amp;item_number=minecraft&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="Basically the best decorative mod ever." />
@@ -185,7 +189,7 @@
     <mod url="packs/ResonantRise/files/2-STABLE/EnderStorage%201.4.3.5.jar" file="EnderStorage 1.4.3.5.jar" md5="2dd5d9024752e894500bfe901b08221b" download="server"
          name="Ender Storage" depends="CodeChickenCore"  type="mods"
          version="1.4.3.5" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Bigger, Better EnderChests and Tanks."  />
-	<mod url="packs/ResonantRise/files/2-STABLE/EngineersToolbox-1.1.6.6.zip" file="EngineersToolbox-1.1.6.6.zip" md5="382c4e180ae3410c6c4639d3ee11edb6" download="server"
+        <mod url="packs/ResonantRise/files/2-STABLE/EngineersToolbox-1.1.6.6.zip" file="EngineersToolbox-1.1.6.6.zip" md5="382c4e180ae3410c6c4639d3ee11edb6" download="server"
          name="Engineer's Toolbox" type="mods" version="1.1.6.6"
          depends="EmasherResource"
          website="http://emashersmods.wikispaces.com"
@@ -232,11 +236,15 @@
          version="1.9.8-EXP"
          website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=6915"
          description="Gravity Suit in flight. Afternoon delight."  />
+    <mod url="packs/ResonantRise/files/2.6/gendustry-mc164-0.9.8.33.jar" file="gendustry-mc164-0.9.8.33.jar" md5="bdb733cb283660568125a874f4f68fab" download="server"
+         name="Gendustry" type="mods" version="0.9.8.33"
+         website="http://bdew.net/gendustry"
+         description="The new darling of the Buildcraft fan scene." />
     <mod url="packs/ResonantRise/files/2.6/GravityGun2.0.0.zip" file="GravityGun2.0.0.zip" md5="befe475831348a070dc5dd45de4dd94f" download="server"
-		 name="GraviGun" version="2.0.0"  type="mods" optional="yes"
-		 website="http://ichun.us/mods/gravity-gun/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun"
-		 description="Adds the HL2 Gravity Gun to Minecraft" />
-	<mod url="packs/ResonantRise/files/2-STABLE/HardcoreEnderExpansion_1.3.zip" file="HardcoreEnderExpansion_1.3.zip" md5="4ebb882d06d9d7da8f27188b97c9fa2a" download="server"
+         name="GraviGun" version="2.0.0"  type="mods" optional="yes"
+         website="http://ichun.us/mods/gravity-gun/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun"
+         description="Adds the HL2 Gravity Gun to Minecraft" />
+        <mod url="packs/ResonantRise/files/2-STABLE/HardcoreEnderExpansion_1.3.zip" file="HardcoreEnderExpansion_1.3.zip" md5="4ebb882d06d9d7da8f27188b97c9fa2a" download="server"
          name="Hardcore Ender Expansion" type="mods" version="1.3"
          website="http://hardcore-enderdragon.wikia.com/wiki/Home"
          description="The Ender Dragon Is Not Happy With You."
@@ -249,11 +257,11 @@
          name="IC2 Lib"  type="extract" extractto="root" version="2.0.307"
          website="http://www.industrial-craft.net/"
          description="Oh hey!"  />
-	<mod url="packs/ResonantRise/files/2.6/iChunUtil2.4.0.zip" file="iChunUtil2.4.0.zip" md5="6d6decd8d8c36c82743e552f4f1e1d37" download="server"
-		 name="iChunUtil" version="2.4.0"  type="mods"
-		 website="http://www.ichun.us/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun"
-		 description="Shared library mod required by several of iChun&apos;s Mods." />
-	<mod url="packs/ResonantRise/files/2.6/advanced-machines-57.1.2.jar" file="advanced-machines-57.1.2.jar" md5="214b11f57043b896bcd70c52eb1e67ef" download="server"
+        <mod url="packs/ResonantRise/files/2.6/iChunUtil2.4.0.zip" file="iChunUtil2.4.0.zip" md5="6d6decd8d8c36c82743e552f4f1e1d37" download="server"
+                 name="iChunUtil" version="2.4.0"  type="mods"
+                 website="http://www.ichun.us/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun"
+                 description="Shared library mod required by several of iChun&apos;s Mods." />
+        <mod url="packs/ResonantRise/files/2.6/advanced-machines-57.1.2.jar" file="advanced-machines-57.1.2.jar" md5="214b11f57043b896bcd70c52eb1e67ef" download="server"
          name="Immibis' Advanced Machines"  type="mods"
          version="57.1.2" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="Classic extension to IC2, now without bugs." />
     <mod url="packs/ResonantRise/files/2.6/immibis-core-57.1.91.jar" file="immibis-core-57.1.91.jar" md5="fb3cff6b590da3aa257d23275f7fdec3" download="server"
@@ -352,7 +360,7 @@
     <mod url="packs/ResonantRise/files/2.6/NotEnoughKeys-1.6.4-0.0.4.jar" file="NotEnoughKeys-1.6.4-0.0.4.jar" md5="1b9f6f8785e38d50bbfff129dbf90ec2" download="server"
          name="Not Enough Keys" type="mods"
          version="0.0.4" website="http://www.minecraftforum.net/topic/2189371-" description="Critical keybinding configuration improvements."  />
-	<mod url="packs/ResonantRise/files/2-STABLE/IC2NuclearControl-1.6.2e-ic2-experimental.zip" file="IC2NuclearControl-1.6.2e-ic2-experimental.zip" md5="e70955cad99fa6b4cd0f66de357bacb3" download="server"
+        <mod url="packs/ResonantRise/files/2-STABLE/IC2NuclearControl-1.6.2e-ic2-experimental.zip" file="IC2NuclearControl-1.6.2e-ic2-experimental.zip" md5="e70955cad99fa6b4cd0f66de357bacb3" download="server"
          name="Nuclear Control" type="mods" version="1.6.2e-exp"
          website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=5915"
          description="Thermal controls for IC2 nukes" />
@@ -382,10 +390,10 @@
          website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=INpureProjects%40gmail%2ecom&amp;lc=US&amp;item_name=denoflions%20mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="UI and content improvements for forestry." />
     <mod url="packs/ResonantRise/files/2.6/PortalGun2.0.2.zip" file="PortalGun2.0.2.zip" md5="076162ae7debc0dae697534e439ff499" download="server"
-		 name="PortalGun" version="2.0.2" type="mods" optional="yes"
-		 website="http://www.minecraftforum.net/topic/199391-/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun"
-		 description="Add the portal gun and many other portal elements into Minecraft." />
-	<mod url="packs/ResonantRise/files/2-STABLE/PowerCrystalsCore-1.1.8-9.jar" file="PowerCrystalsCore-1.1.8-9.jar" md5="11ce6aeaa3a73761580f9a541345ef4b" download="server"
+                 name="PortalGun" version="2.0.2" type="mods" optional="yes"
+                 website="http://www.minecraftforum.net/topic/199391-/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun"
+                 description="Add the portal gun and many other portal elements into Minecraft." />
+        <mod url="packs/ResonantRise/files/2-STABLE/PowerCrystalsCore-1.1.8-9.jar" file="PowerCrystalsCore-1.1.8-9.jar" md5="11ce6aeaa3a73761580f9a541345ef4b" download="server"
          name="PowerCrystals Core [Skyboy Fork]" type="mods" version="1.1.8-9"
          website="http://www.minecraftforum.net/topic/2016680-162164-"
          description="Originally by PowerCrystals" />
@@ -427,11 +435,11 @@
          name="Reliquary"  type="mods" version="1.1.1"
          website="https://github.com/TrainerGuy22/Reliquary"
          description="Xenophobic legacies in a compelling collection."  />
-    <mod url="packs/ResonantRise/files/2.6/RemoteIO-universal-1.6.4-1.9.1-b16.jar" file="RemoteIO-universal-1.6.4-1.9.1-b16.jar" md5="a1b181b6e52572ba26b9db7b196746b6" download="server"
-		 name="Remote IO" version="1.9.1-b16" type="mods"
-		 website="http://www.minecraftforum.net/topic/2038242-"
-		 donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=K78KZ37HLU4X2&amp;lc=US&amp;item_name=dmillerw%27s%20Mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted" authors="dmillerw"
-		 description="The Remote IO&apos;s can be linked to any block with an inventory... imagine this: four separate quarries all outputting into a unique Remote IO linked to a single chest. Gone are the days of pipes! You are also able to link the Remote IO to machines and even use them with fluids! " />
+    <mod url="packs/ResonantRise/files/2-STABLE/RemoteIO-universal-1.6.4-1.9.2.jar" file="RemoteIO-universal-1.6.4-1.9.2.jar" md5="b905610b8955d1596034980199d26aaa" download="server"
+         name="Remote IO" version="1.9.2" type="mods"
+         website="http://www.minecraftforum.net/topic/2038242-"
+         donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=K78KZ37HLU4X2&amp;lc=US&amp;item_name=dmillerw%27s%20Mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted" authors="dmillerw"
+                 description="The Remote IO&apos;s can be linked to any block with an inventory... imagine this: four separate quarries all outputting into a unique Remote IO linked to a single chest. Gone are the days of pipes! You are also able to link the Remote IO to machines and even use them with fluids! " />
     <mod url="packs/ResonantRise/files/2-STABLE/RRUtility-1.0.3.jar" file="RRUtility-1.0.3.jar" md5="befb49cdfaeb40a2dacc9f4a2b830f66" download="server"
          name="RRUtility" type="mods" version="1.0.3" website="http://www.resonant-rise.com" description="Our recipe manipulator mod. Use with care."  />
     <mod url="packs/ResonantRise/files/2-STABLE/simple-recycling-57.1.0.jar" file="simple-recycling-57.1.0.jar" md5="1394ae168c158d7d0141c0f949c6fde5" download="server"
@@ -461,7 +469,11 @@
          version="2.1-58" depends="Thaumcraft 4"
          website="http://www.minecraftforum.net/topic/1813058-" description="Because Thaumcraft has a dearth of content."
          />
-	<mod url="packs/ResonantRise/files/2.6/ThaumicTinkererKAMI_j6.jar" file="ThaumicTinkererKAMI_j6.jar" md5="03bea04d5b4db84e77c027c3c5c21466" download="server"
+    <mod url="packs/ResonantRise/files/2-STABLE/Sync2.1.1.zip" file="Sync2.1.1.zip" md5="1d3ec17d87859740ca270d75a7642ef1" download="server"
+         name="Sync" version="2.1.1" optional="yes"
+         type="mods"
+         website="http://ichun.us/mods/sync/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun" description="This mod provides clones, or as we like to call it, 'shells'. These shells are basically a new individual, with their own inventory, experience level, and even gamemode." />
+        <mod url="packs/ResonantRise/files/2.6/ThaumicTinkererKAMI_j6.jar" file="ThaumicTinkererKAMI_j6.jar" md5="03bea04d5b4db84e77c027c3c5c21466" download="server"
          name="Thaumic Tinkerer KAMI" type="mods"
          version="n/a" depends="Thaumic Tinkerer" optional="yes"
          website="http://www.minecraftforum.net/topic/1813058-" description="PHENOMENAL COSMIC POWER. Strictly optional."
@@ -575,16 +587,6 @@
          donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HCQMGHQ4D5GQ4"
          description="Choo Choo Buckaroo and also boilers."
          depends="Buildcraft"/>
-    <mod url="http://adf.ly/bexwT"
-         file="Sync2.1.0.zip"
-         download="browser"
-         name="Sync"
-         md5="1BCDC7803E96D70DFA23648FC7EAA7DF"
-         type="mods"
-         version="2.1.0"
-         website="http://ichun.us/mods/sync/"
-         description="iChun's Modjam3 submission, clone yourself and jump between clones!"
-         optional="yes"/>
     <mod url="http://adf.ly/1311628/thaumcraft-4"
          file="Thaumcraft4.0.5b.zip"
          download="browser"
