@@ -272,8 +272,8 @@
          version="57.0.1"
          website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/"
          description="Cool sensor modes for ComputerCraft."  />
-    <mod url="packs/ResonantRise/files/2.6/industrialcraft-2_2.0.354-experimental.jar" file="industrialcraft-2_2.0.354-experimental.jar" md5="19839beba5962d32e54179500a88b183" download="server"
-         name="IndustrialCraft2"  type="mods" version="2.0.354"
+    <mod url="packs/ResonantRise/files/2.6/industrialcraft-2_2.0.357-experimental.jar" file="industrialcraft-2_2.0.357-experimental.jar" md5="312372028b7de32737edc93999b9bdeb" download="server"
+         name="IndustrialCraft2"  type="mods" version="2.0.357"
          website="http://www.industrial-craft.net/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=RHLW3YE3T848Q"
          description="HEYOOOOO!"  />
     <mod url="packs/ResonantRise/files/2-STABLE/infinitubes-57.0.5.jar" file="infinitubes-57.0.5.jar" md5="0bbd903117ed9142e687f4e4de462520" download="server"
