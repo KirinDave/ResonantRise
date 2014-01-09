@@ -750,6 +750,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1621,Block,AWWayofTime,tile.bloodPedestal,WayofTime.alchemicalWizardry.BlockPedestal
 1622,Block,AWWayofTime,tile.bloodTeleposer,WayofTime.alchemicalWizardry.BlockTeleposer
 1623,Block,AWWayofTime,tile.spectralBlock,WayofTime.alchemicalWizardry.SpectralBlock
+1624,Block,AWWayofTime,tile.blockBloodLightSource,WayofTime.alchemicalWizardry.BlockBloodLightSource
 1681,Block,MFFS,tile.mffs:forceField,mffs.block.BlockForceField
 1682,Block,MFFS,tile.mffs:coercionDeriver,mffs.block.BlockCoercionDeriver
 1683,Block,MFFS,tile.mffs:fortronCapacitor,mffs.block.BlockFortronCapacitor
@@ -2692,6 +2693,9 @@ ID,Block/Item,Mod,Unlocalised name,Class
 17330,Item,AWWayofTime,item.enhancedFillingAgent,WayofTime.alchemicalWizardry.EnhancedFillingAgent
 17331,Item,AWWayofTime,item.sanguineHelmet,WayofTime.alchemicalWizardry.ItemSanguineArmour
 17336,Item,AWWayofTime,item.sigilOfMagnetism,WayofTime.alchemicalWizardry.SigilOfMagnetism
+17337,Item,AWWayofTime,item.itemDiabloKey,WayofTime.alchemicalWizardry.ItemDiabloKey
+17338,Item,AWWayofTime,item.energyBazooka,WayofTime.alchemicalWizardry.EnergyBazooka
+17339,Item,AWWayofTime,item.bloodLightSigil,WayofTime.alchemicalWizardry.ItemBloodLightSigil
 17586,Item,Backpack,item.backpack,backpack.item.ItemBackpack
 17587,Item,Backpack,item.boundLeather,backpack.item.ItemLeather
 17588,Item,Backpack,item.tannedLeather,backpack.item.ItemLeather
