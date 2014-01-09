@@ -62,3 +62,5 @@ ID,Unlocalised name,Class
 101,Boost,WayofTime.alchemicalWizardry.PotionBoost
 102,Whirlwind,WayofTime.alchemicalWizardry.PotionProjectileProtect
 103,Inhibit,WayofTime.alchemicalWizardry.PotionInhibit
+104,Flight,WayofTime.alchemicalWizardry.PotionFlight
+105,Reciprocation,WayofTime.alchemicalWizardry.PotionReciprocation
