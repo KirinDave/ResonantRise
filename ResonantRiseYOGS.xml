@@ -26,11 +26,6 @@
          name="Forge" type="forge" version="9.11.1.965" website="http://www.minecraftforge.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" description="The Core." />
     <mod url="packs/ChaosVille/files/forgelibs/ForgeMultipartDebug_1.0.0.227.zip" file="ForgeMultipartDebug_1.0.0.227.zip" md5="7c4433c436966e930d57d739af908a75" download="server"
          name="Forge Multipart [+Libs]" type="extract" extractto="root" version="1.0.0.227" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Forge Multipart done right."  />
-    <mod url="packs/ChaosVille/files/forgelibs/mcpc-plus-1.6.4-R2.1-forge965-B199.jar" file="mcpc-plus-1.6.4-R2.1-forge965-B199.jar" md5="dda8318d71ef1c89b4530aae10e21b1a" download="server"
-         name="MCPC+" type="mcpc" version="B199"
-         website="http://ci.md-5.net/job/MCPC-Plus/"
-         description="Server superweapon!"
-         optional="yes" client="no"/>
 
     <!-- Mods (Alphabetized) -->
     <mod url="packs/ChaosVille/files/stable/buildcraft-Z-additional-buildcraft-objects-1.0.7.557.jar" file="buildcraft-Z-additional-buildcraft-objects-1.0.7.557.jar" md5="ecc79b533d6c60e4843789c946254ba5" download="server"
@@ -223,10 +218,6 @@
          name="Forestry" type="mods"  version="2.3.1.0"
          website="http://forestry.sengir.net/wiki.new/" donation="http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads#donations"
          description="Bees, Trees, and Automate-ables."  />
-    <mod url="packs/ChaosVille/files/stable/forgeirc-1.6.2-cpwbuild2.jar" file="forgeirc-1.6.2-cpwbuild2.jar" md5="1ec01792f4c40ada5b1761262ea25fdd" download="server"
-         name="ForgeIRC" optional="yes" type="mods" version="1.6.2-cpwbuild2"
-         website="http://www.minecraftforum.net/topic/1475847-"
-         description="ForgeIRC returns!" />
     <mod url="packs/ChaosVille/files/stable/GasCraft-2.0.3.2.zip" file="GasCraft-2.0.3.2.zip" md5="9212960d64890050f7900c5608e15471" download="server"
          name="GasCraft" type="mods" version="2.0.3.2"
          website="http://emashersmods.wikispaces.com/Downloads"
