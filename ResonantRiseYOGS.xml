@@ -563,7 +563,6 @@
           type="mods"
           version="1.0.2.3"
           website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9205"
-          md5="77D5E98B3653843C7E1C1DD7E2086E0E"
           description="Like solar power except with wind." />
     <mod url="packs/ChaosVille/files/stable/Railcraft_1.6.4-8.3.2.0.jar" file="Railcraft_1.6.4-8.3.2.0.jar" md5="16a8a7720b8041bd97d3c723da5fa21a" download="server"
          name="Railcraft"
