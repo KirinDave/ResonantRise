@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.5.6.0-RRYOGS</version>
+    <version>2.5.6.0-RR-YOGS</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -103,8 +103,8 @@
          version="1.2.1.416"
          website="https://github.com/BiomesOPlenty/BiomesOPlenty/releases" donation="https://www.paypal.com/cgi-bin7webscr?cmd=_donations&amp;business=U58BHXTK8LLRQ&amp;lc=US&amp;item_name=Biomes%20O%27%20Plenty&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="More Everything." />
-    <mod url="packs/ResonantRise/files/2-STABLE/Blood Magic v0.7.0a.zip" file="Blood Magic v0.7.0a.zip" md5="f7aeeace950c19f9c68c16273cba22a0" download="server"
-         name="Blood Magic" type="mods" website="http://www.minecraftforum.net/topic/1899223-" version="0.7.0a" description="Alphonse, not nose piercing."/>
+    <mod url="packs/ResonantRise/files/2.6/Blood Magic v0.7.2.zip" file="Blood Magic v0.7.2.zip" md5="f5c1f315e083eb9167e56dd5b35eb326" download="server"
+         name="Blood Magic" type="mods" website="http://www.minecraftforum.net/topic/1899223-" version="0.7.2" description="Alphonse, not nose piercing."/>
         <mod url="packs/ResonantRise/files/2-STABLE/buildcraft-A-1.6.4-4.2.1.jar" file="buildcraft-A-1.6.4-4.2.1.jar" md5="c6f1ba4ebc8b38ef962a727ef051e2e8" download="server"
          name="Buildcraft" type="mods"  version="4.2.1"
          website="http://www.mod-buildcraft.com/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=KQWXKT6KK7SH4"
@@ -198,8 +198,8 @@
          name="EnhancedPortals 3" type="mods" version="3.0.0 Beta 2d"
          website="http://www.minecraftforum.net/topic/2143651-"
          description="Custom teleportation that looks fancier!" />
-    <mod url="packs/ResonantRise/files/2.6/ExtraCells-1.6.3b.jar" file="ExtraCells-1.6.3b.jar" md5="c3979d8ad3a7820472cab9b7b5f7b46d" download="server"
-         name="Extra Cells" depends="Applied Energistics"  type="mods" version="1.6.3b"
+    <mod url="packs/ResonantRise/files/2.6/ExtraCells-1.6.4.jar" file="ExtraCells-1.6.4.jar" md5="7155edf98fc872f216d973d089f91c61" download="server"
+         name="Extra Cells" depends="Applied Energistics"  type="mods" version="1.6.4"
          website="http://www.minecraftforum.net/topic/1801643-m3gas-extracells-appliedenergistics-add-on/"
          description="A massive expansion to Applied Energistics. Store fluids and more."  />
     <mod url="packs/ResonantRise/files/2-STABLE/ExtraTiC-1.6.4-0.7.1.jar" file="ExtraTiC-1.6.4-0.7.1.jar" md5="e9d9354b3e67199c3a069d307e99ddb3" download="server"
@@ -236,8 +236,8 @@
          version="1.9.8-EXP"
          website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=6915"
          description="Gravity Suit in flight. Afternoon delight."  />
-    <mod url="packs/ResonantRise/files/2.6/gendustry-mc164-0.9.8.33.jar" file="gendustry-mc164-0.9.8.33.jar" md5="bdb733cb283660568125a874f4f68fab" download="server"
-         name="Gendustry" type="mods" version="0.9.8.33"
+    <mod url="packs/ResonantRise/files/2.6/gendustry-mc164-0.9.9.34.jar" file="gendustry-mc164-0.9.9.34.jar" md5="5da0a10818d69531fc126863a3ebdcd1" download="server"
+         name="Gendustry" type="mods" version="0.9.9.34"
          website="http://bdew.net/gendustry"
          description="The new darling of the Buildcraft fan scene." />
     <mod url="packs/ResonantRise/files/2.6/GravityGun2.0.0.zip" file="GravityGun2.0.0.zip" md5="befe475831348a070dc5dd45de4dd94f" download="server"
@@ -272,8 +272,8 @@
          version="57.0.1"
          website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/"
          description="Cool sensor modes for ComputerCraft."  />
-    <mod url="packs/ResonantRise/files/2.6/industrialcraft-2_2.0.354-experimental.jar" file="industrialcraft-2_2.0.354-experimental.jar" md5="19839beba5962d32e54179500a88b183" download="server"
-         name="IndustrialCraft2"  type="mods" version="2.0.354"
+    <mod url="packs/ResonantRise/files/2.6/industrialcraft-2_2.0.357-experimental.jar" file="industrialcraft-2_2.0.357-experimental.jar" md5="312372028b7de32737edc93999b9bdeb" download="server"
+         name="IndustrialCraft2"  type="mods" version="2.0.357"
          website="http://www.industrial-craft.net/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=RHLW3YE3T848Q"
          description="HEYOOOOO!"  />
     <mod url="packs/ResonantRise/files/2-STABLE/infinitubes-57.0.5.jar" file="infinitubes-57.0.5.jar" md5="0bbd903117ed9142e687f4e4de462520" download="server"
