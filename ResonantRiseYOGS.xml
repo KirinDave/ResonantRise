@@ -531,7 +531,7 @@
          website="http://journeymap.techbrew.net/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D5KK9FRAQG6DE"
          description="Pair this with Rei's or Zan's Minimap for best results!" />
     <mod url="packs/ChaosVille/files/stable/mapwriter-2.0.16.zip" file="mapwriter-2.0.16.zip" md5="9e65cee5aaa90c0e8eabe38628f724aa" download="server"
-         name="Map Writer"  type="mods" server="no" optional="yes" recommended="no" group="Cartographer"
+         name="Map Writer"  type="mods" server="no" optional="yes" recommended="yes" selected="yes" group="Cartographer"
          version="2.0.16"
          website="http://www.minecraftforum.net/topic/1570989-152-forge-mapwriter-an-open-source-mini-map/"
          description="A nice, open source map writer." />
@@ -549,12 +549,10 @@
          website="http://www.minecraftforum.net/topic/1540451-" donation="http://www.minecraftforum.net/topic/1540451-"
          description="Minecraft chat customisation at long last!" />
     <mod url="packs/ChaosVille/files/stable/ZansMinimap1.6.4.zip" file="ZansMinimap1.6.4.zip" md5="97a9934f12a01986bcdc6ec8eba97336" download="server"
-         name="VoxelMap (aka Zan's Minimap)"  type="mods" server="no" optional="yes" selected="yes" recommended="yes" group="Minimap"
+         name="VoxelMap (aka Zan's Minimap)"  type="mods" server="no" optional="yes" selected="no" recommended="no" group="Minimap"
          version="1.6.4"
          website="http://www.minecraftforum.net/topic/1116564-"
          description="Velo's minimap of choice! Some consider it cheaty." />
-
-
 
 
     <!-- Remote Download, all types -->
@@ -587,12 +585,31 @@
          website="http://www.minecraftforum.net/topic/561673-152-the-twilight-forest-v1182-lost-halls-of-the-knights/"
          description="A whole new world."  />
 
-	<!-- Yogscast Extras-->
-	<mod name="Redstone In Motion" version="2.3.0.0"
-		 url="packs/ChaosVille/files/yogs-specials/RedstoneInMotion_2.3.0.0_mc1.6.zip" file="RedstoneInMotion_2.3.0.0_mc1.6.zip" md5="e89a540ab981fbd3823ba77d7fe96f77" download="server"
-		 type="mods" website="http://forums.technicpack.net/threads/47048/"
-		 authors="John Anthony Kazos Jr."
-		 description="A reimplementation of Redpower frames, except with more flexibility and functionality, including three new types of frames." />
-		 
+    <!-- Yogscast Extras-->
+    <mod name="Redstone In Motion" version="2.3.0.0"
+         url="packs/ChaosVille/files/yogs-specials/RedstoneInMotion_2.3.0.0_mc1.6.zip" file="RedstoneInMotion_2.3.0.0_mc1.6.zip" md5="e89a540ab981fbd3823ba77d7fe96f77" download="server"
+         type="mods" website="http://forums.technicpack.net/threads/47048/"
+         authors="John Anthony Kazos Jr."
+         description="A reimplementation of Redpower frames, except with more flexibility and functionality, including three new types of frames." />
+    <mod name="Sphax Core" version="v1"
+         url="packs/ChaosVille/files/yogs-specials/sphax-default.zip"
+         file="sphax-default.zip" md5="f860f00aac63309ede76d84556d8e032"
+         download="server" type="extract"
+         extractto="root" optional="yes" selected="yes" server="no"
+         website="http://bdcraft.net/" description="Sphax Textures, mostly core"/>
+    <mod name="Sphax Texture Patches" version="v1"
+         depends="Sphax Core" extractto="root"
+         url="packs/ChaosVille/files/yogs-specials/sphax-patches.zip"
+         file="sphax-patches.zip" md5="f4f4c25654df0ef230b0bcb0dbe0ed28"
+         download="server" type="extract"
+         optional="yes" selected="yes" server="no"
+         description="Sphax Patches" website="http://bdcraft.net/"/>
+    <mod name="Yogscast Default Configs And Hosts" version="n/a"
+         url="packs/ChaosVille/files/yogs-specials/private-configs.zip"
+         file="private-configs.zip"
+         md5="676aa900ee7567fb18fd5164945fc6eb"
+         download="server"
+         type="extract" extractto="root" server="no"
+         website="http://yogscast.com" description="Default Options &amp; Hosts" />
   </mods>
 </version>
