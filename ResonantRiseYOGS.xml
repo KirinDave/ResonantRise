@@ -598,5 +598,12 @@
          website="http://www.minecraftforum.net/topic/561673-152-the-twilight-forest-v1182-lost-halls-of-the-knights/"
          description="A whole new world."  />
 
+	<!-- Yogscast Extras-->
+	<mod name="Redstone In Motion" version="2.3.0.0"
+		 url="packs/ChaosVille/files/yogs-specials/RedstoneInMotion_2.3.0.0_mc1.6.zip" file="RedstoneInMotion_2.3.0.0_mc1.6.zip" md5="e89a540ab981fbd3823ba77d7fe96f77" download="server"
+		 type="mods" website="http://forums.technicpack.net/threads/47048/"
+		 authors="John Anthony Kazos Jr."
+		 description="A reimplementation of Redpower frames, except with more flexibility and functionality, including three new types of frames." />
+		 
   </mods>
 </version>
