@@ -558,19 +558,14 @@
 
 
     <!-- Remote Download, all types -->
-    <mod  url="https://github.com/Aroma1997/CompactWindmillsDist/raw/master/1.6.4/1.0.2.3/CompactWindmills%20MC.1.6.4%20v.1.0.2.3.jar"
-          file="CompactWindmills+MC.1.6.4+v.1.0.2.3.jar"
-          download="direct"
+    <mod  url="packs/ChaosVille/files/stable/CompactWindmillsMC.1.6.4v.1.0.2.3.jar" file="CompactWindmillsMC.1.6.4v.1.0.2.3.jar" md5="77d5e98b3653843c7e1c1dd7e2086e0e" download="server"
           name="CompactWindmills"
           type="mods"
           version="1.0.2.3"
           website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=9205"
           md5="77D5E98B3653843C7E1C1DD7E2086E0E"
           description="Like solar power except with wind." />
-    <mod url="http://adf.ly/ayIcO"
-         md5="16A8A7720B8041BD97D3C723DA5FA21A"
-         file="Railcraft_1.6.4-8.3.2.0.jar"
-         download="browser"
+    <mod url="packs/ChaosVille/files/stable/Railcraft_1.6.4-8.3.2.0.jar" file="Railcraft_1.6.4-8.3.2.0.jar" md5="16a8a7720b8041bd97d3c723da5fa21a" download="server"
          name="Railcraft"
          type="mods"
          version="8.3.2.0"
@@ -578,9 +573,7 @@
          donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HCQMGHQ4D5GQ4"
          description="Choo Choo Buckaroo and also boilers."
          depends="Buildcraft"/>
-    <mod url="http://adf.ly/1311628/thaumcraft-4"
-         file="Thaumcraft4.0.5b.zip"
-         download="browser"
+    <mod url="packs/ChaosVille/files/stable/Thaumcraft4.0.5b.zip" file="Thaumcraft4.0.5b.zip" md5="c83fdf939e5f229260e7d0a785b86b12" download="server"
          name="Thaumcraft 4"
          type="mods"
          version="4.0.5b"
@@ -588,10 +581,7 @@
          donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=88PFJA73AEFFW&amp;lc=ZA&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
          description="This one won't creep you out, kids."
          />
-    <mod url="http://adf.ly/Zvi5J"
-         md5="F36991512E147B9A1CABE1A0E8FF9049"
-         file="twilightforest-1.20.3.jar"
-         download="browser"
+    <mod url="packs/ChaosVille/files/stable/twilightforest-1.20.3.jar" file="twilightforest-1.20.3.jar" md5="f36991512e147b9a1cabe1a0e8ff9049" download="server"
          name="Twilight Forest"
          type="mods"
          version="1.20.3"
