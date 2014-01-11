@@ -124,10 +124,6 @@
          name="Chisel" type="mods" version="1.5.0fix"
          website="http://www.minecraftforum.net/topic/1749374-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=NS64FL5ZXYG3N&amp;lc=RU&amp;item_name=I%20write%20mods%20for%20minecraft&amp;item_number=minecraft&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="Basically the best decorative mod ever." />
-    <mod url="packs/ResonantRise/files/2-STABLE/Chococraft_3.0.3.zip" file="Chococraft_3.0.3.zip" md5="6b2c71d4e72a60b5356cc8b5c814cfa2" download="server"
-         name="ChocoCraft" type="mods" version="3.0.3"
-         website="http://www.minecraftforum.net/topic/1119809-"
-         description="Wark?" />
     <mod url="packs/ResonantRise/files/2-STABLE/CodeChickenCore%200.9.0.7.jar" file="CodeChickenCore 0.9.0.7.jar" md5="f81ca854f4455259d066708fa729d18c" download="server"
          name="CodeChickenCore" type="mods"
          version="0.9.0.7" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Core of Chickenbones mods" />
@@ -534,11 +530,6 @@
          version="1.5.7-dev-b85"
          website="http://www.minecraftforum.net/topic/1720872-"
          description="The mod Velo can't live without." />
-    <mod url="packs/ResonantRise/files/2-STABLE/JourneyMap3.0.0_MC1.6.4.zip" file="JourneyMap3.0.0_MC1.6.4.zip" md5="286ebe99cf42c27e0b8582111bcae05a" download="server"
-         name="JourneyMap"  type="mods" server="no" optional="yes" selected="yes" recommended="yes" group="Cartographer"
-         version="3.0.0"
-         website="http://journeymap.techbrew.net/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D5KK9FRAQG6DE"
-         description="Pair this with Rei's or Zan's Minimap for best results!" />
     <mod url="packs/ResonantRise/files/2-STABLE/mapwriter-2.0.16.zip" file="mapwriter-2.0.16.zip" md5="9e65cee5aaa90c0e8eabe38628f724aa" download="server"
          name="Map Writer"  type="mods" server="no" optional="yes" recommended="no" group="Cartographer"
          version="2.0.16"
@@ -607,5 +598,15 @@
          website="http://www.minecraftforum.net/topic/561673-152-the-twilight-forest-v1182-lost-halls-of-the-knights/"
          description="A whole new world."  />
 
+	<!-- Remote Downloads (Emergency Licence Change Section -->
+	<mod url="http://www.arno-saxena.de/minecraft/Chococraft_3.0.3.zip" file="Chococraft_3.0.3.zip" md5="6b2c71d4e72a60b5356cc8b5c814cfa2" download="direct"
+         name="ChocoCraft" type="mods" version="3.0.3"
+         website="http://www.minecraftforum.net/topic/1119809-"
+         description="Wark?" />
+	<mod url="http://adf.ly/1329790/journeymap300-mc164zip" file="JourneyMap3.0.0_MC1.6.4.zip" md5="286ebe99cf42c27e0b8582111bcae05a" download="browser"
+         name="JourneyMap"  type="mods" server="no" optional="yes" selected="yes" recommended="yes" group="Cartographer"
+         version="3.0.0"
+         website="http://journeymap.techbrew.net/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D5KK9FRAQG6DE"
+         description="Pair this with Rei's or Zan's Minimap for best results!" />
   </mods>
 </version>
