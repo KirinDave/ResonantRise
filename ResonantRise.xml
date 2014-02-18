@@ -120,11 +120,15 @@
          name="Charge Pads" type="mods" version="3.0.0.94-exp"
          website="http://forum.industrial-craft.net/index.php?page=Thread&amp;threadID=7892"
          description="Your skin's galvanic response is pretty good I guess." />
-        <mod url="packs/ResonantRise/files/2-STABLE/chisel-1.6.4-1.5.0fix.jar" file="chisel-1.6.4-1.5.0fix.jar" md5="643a4cce13eab1af9a378977febc609b" download="server"
+    <mod url="packs/ResonantRise/files/2-STABLE/chisel-1.6.4-1.5.0fix.jar" file="chisel-1.6.4-1.5.0fix.jar" md5="643a4cce13eab1af9a378977febc609b" download="server"
          name="Chisel" type="mods" version="1.5.0fix"
          website="http://www.minecraftforum.net/topic/1749374-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=NS64FL5ZXYG3N&amp;lc=RU&amp;item_name=I%20write%20mods%20for%20minecraft&amp;item_number=minecraft&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="Basically the best decorative mod ever." />
-    <mod url="packs/ResonantRise/files/2-STABLE/CodeChickenCore%200.9.0.7.jar" file="CodeChickenCore 0.9.0.7.jar" md5="f81ca854f4455259d066708fa729d18c" download="server"
+    <mod url="packs/ResonantRise/files/2-STABLE/Chococraft_3.0.3.zip" file="Chococraft_3.0.3.zip" md5="6b2c71d4e72a60b5356cc8b5c814cfa2" download="server"
+         name="ChocoCraft" type="mods" version="3.0.3"
+         website="http://www.minecraftforum.net/topic/1119809-"
+         description="Wark?" />
+	<mod url="packs/ResonantRise/files/2-STABLE/CodeChickenCore%200.9.0.7.jar" file="CodeChickenCore 0.9.0.7.jar" md5="f81ca854f4455259d066708fa729d18c" download="server"
          name="CodeChickenCore" type="mods"
          version="0.9.0.7" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Core of Chickenbones mods" />
     <mod url="packs/ResonantRise/files/2.6/CoFHCore-2.0.0.2.jar" file="CoFHCore-2.0.0.2.jar" md5="ade9ade85b385827f56de0432d290665" download="server"
@@ -460,16 +464,25 @@
          name="Super Crafting Frame" type="mods" version="1.6.2.7"
          website="http://www.minecraftforum.net/topic/1870830-"
          description="Item frames are slightly less useless." />
-    <mod url="packs/ResonantRise/files/2.6/ThaumicTinkerer 2.1-58.jar" file="ThaumicTinkerer 2.1-58.jar" md5="240b71aa3fd357bd5a2fc25b80c28c8d" download="server"
-         name="Thaumic Tinkerer" type="mods"
-         version="2.1-58" depends="Thaumcraft 4"
-         website="http://www.minecraftforum.net/topic/1813058-" description="Because Thaumcraft has a dearth of content."
-         />
     <mod url="packs/ResonantRise/files/2-STABLE/Sync2.1.1.zip" file="Sync2.1.1.zip" md5="1d3ec17d87859740ca270d75a7642ef1" download="server"
          name="Sync" version="2.1.1" optional="yes"
          type="mods"
          website="http://ichun.us/mods/sync/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun" description="This mod provides clones, or as we like to call it, 'shells'. These shells are basically a new individual, with their own inventory, experience level, and even gamemode." />
-        <mod url="packs/ResonantRise/files/2.6/ThaumicTinkererKAMI_j6.jar" file="ThaumicTinkererKAMI_j6.jar" md5="03bea04d5b4db84e77c027c3c5c21466" download="server"
+    <mod url="packs/ResonantRise/files/2-STABLE/Thaumcraft4.0.5b.zip" file="Thaumcraft4.0.5b.zip" md5="c83fdf939e5f229260e7d0a785b86b12" download="server" 
+         name="Thaumcraft 4"
+         type="mods"
+         version="4.0.5b"
+		 authors="Azanor"
+         website="http://www.minecraftforum.net/topic/2011841-"
+         donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=88PFJA73AEFFW&amp;lc=ZA&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
+         description="This one won't creep you out, kids."
+         />
+	<mod url="packs/ResonantRise/files/2.6/ThaumicTinkerer 2.1-58.jar" file="ThaumicTinkerer 2.1-58.jar" md5="240b71aa3fd357bd5a2fc25b80c28c8d" download="server"
+         name="Thaumic Tinkerer" type="mods"
+         version="2.1-58" depends="Thaumcraft 4"
+         website="http://www.minecraftforum.net/topic/1813058-" description="Because Thaumcraft has a dearth of content."
+         />
+    <mod url="packs/ResonantRise/files/2.6/ThaumicTinkererKAMI_j6.jar" file="ThaumicTinkererKAMI_j6.jar" md5="03bea04d5b4db84e77c027c3c5c21466" download="server"
          name="Thaumic Tinkerer KAMI" type="mods"
          version="n/a" depends="Thaumic Tinkerer" optional="yes"
          website="http://www.minecraftforum.net/topic/1813058-" description="PHENOMENAL COSMIC POWER. Strictly optional."
@@ -557,7 +570,7 @@
 
 
 
-    <!-- Remote Download, all types -->
+    <!-- Remote Download (General) -->
     <mod  url="https://github.com/Aroma1997/CompactWindmillsDist/raw/master/1.6.4/1.0.2.3/CompactWindmills%20MC.1.6.4%20v.1.0.2.3.jar"
           file="CompactWindmills+MC.1.6.4+v.1.0.2.3.jar"
           download="direct"
@@ -578,16 +591,6 @@
          donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HCQMGHQ4D5GQ4"
          description="Choo Choo Buckaroo and also boilers."
          depends="Buildcraft"/>
-    <mod url="http://adf.ly/1311628/thaumcraft-4"
-         file="Thaumcraft4.0.5b.zip"
-         download="browser"
-         name="Thaumcraft 4"
-         type="mods"
-         version="4.0.5b"
-         website="http://www.minecraftforum.net/topic/2011841-"
-         donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=88PFJA73AEFFW&amp;lc=ZA&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
-         description="This one won't creep you out, kids."
-         />
     <mod url="http://adf.ly/Zvi5J"
          md5="F36991512E147B9A1CABE1A0E8FF9049"
          file="twilightforest-1.20.3.jar"
@@ -598,13 +601,9 @@
          website="http://www.minecraftforum.net/topic/561673-152-the-twilight-forest-v1182-lost-halls-of-the-knights/"
          description="A whole new world."  />
 
-	<!-- Remote Downloads (Emergency Licence Change Section -->
-	<mod url="http://www.arno-saxena.de/minecraft/Chococraft_3.0.3.zip" file="Chococraft_3.0.3.zip" md5="6b2c71d4e72a60b5356cc8b5c814cfa2" download="direct"
-         name="ChocoCraft" type="mods" version="3.0.3"
-         website="http://www.minecraftforum.net/topic/1119809-"
-         description="Wark?" />
-	<mod url="http://adf.ly/1329790/journeymap300-mc164zip" file="JourneyMap3.0.0_MC1.6.4.zip" md5="286ebe99cf42c27e0b8582111bcae05a" download="browser"
-         name="JourneyMap"  type="mods" server="no" optional="yes" selected="yes" recommended="yes" group="Cartographer"
+	<!-- Remote Downloads (Client Mods) -->
+	<mod url="http://journeymap.techbrew.net/download/archived-releases/" file="JourneyMap3.0.0_MC1.6.4.zip" md5="286ebe99cf42c27e0b8582111bcae05a" download="browser"
+         name="JourneyMap"  type="mods" server="no" optional="yes" selected="yes" recommended="yes" group="Cartographer" authors="techbrew [Mark Woodman]"
          version="3.0.0"
          website="http://journeymap.techbrew.net/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D5KK9FRAQG6DE"
          description="Pair this with Rei's or Zan's Minimap for best results!" />
