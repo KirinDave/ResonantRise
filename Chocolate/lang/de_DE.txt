@@ -1,0 +1,132 @@
+﻿#Translated by Vexatos
+#Blocks
+tile.BannerHolder.name = Bannerstand
+tile.bdTable.name = Tisch
+tile.bdArmorStand.name = Rüstungsstand
+#Items
+item.spikedGloves.name = Stachelige Handschuhe
+item.ironHeavyBoots.name = Schwere Eisenstiefel
+item.ironHeavyPants.name = Schwere Eisenhose
+item.ironHeavyPlate.name = Schwere Eisenbrustplatte
+item.ironHeavyHelmet.name = Schwerer Eisenhelm
+item.diamondHeavyBoots.name = Schwere Diamantstiefel
+item.diamondHeavyPants.name = Schwere Diamanthose
+item.diamondHeavyPlate.name = Schwere Diamantbrustplatte
+item.diamondHeavyHelmet.name = Schwerer Diamanthelm
+item.translocator.name = Ender-Translokator
+item.PathMarker.name = Pfadmarkierer
+item.golemController.name = Mecha-Golem-Kontrolle
+item.controller.name = Söldner-Kontrolle
+
+item.mechaGolem.name = Mecha-Golem
+item.spearGun.name = Pistolspeer
+item.dragonHelmet.name = Drachenhelm
+item.swordWind.name = Windschwert
+item.grenade.name = Handbombe
+item.grenadeSmall.name = Granate
+item.grenadeSticky.name = Klebrige Granate
+item.healingPotion.name = Heiltrank
+item.bullHelmet.name = Eisbullenhelm
+item.lichRobe.name = Lich-Robe
+item.mageRobe.name = Magierrobe
+item.kingArmor.name = Königsrüstung
+item.bubbleGun.name = Blasengewehr
+item.quiver.name = Köcher
+item.longBow.name = Langbogen
+item.revolver.name = Revolver
+item.bullet.name = Kugel
+item.staffLife.name = Heilstab
+item.staffPoison.name = Giftstab
+item.staffFire.name = Feuerstab
+item.staffDark.name = Vampirstab
+item.staffWind.name = Windstab
+item.ninjaDagger.name = Ninjadolch
+item.walkerSword.name = Walkerschwert
+item.swordMonking.name = Afeenkönigsschwert
+item.goldenFeather.name = Goldene Feder
+item.cursedBone.name = Verfluchter Knochen
+item.hookshoot.name = Fanghaken
+item.longshoot.name = Enterhaken
+item.manualshoot.name = Manueller Haken
+item.spiderhook.name = Spinnenhaken
+item.ScrollOfEscape.name = Schriftrolle der Flucht
+item.cloudBoots.name = Wolkenstiefel
+item.turtleHelmet.name = Schildkrötenhelm
+item.turtlePlate.name = Schildkrötenplatte
+item.turtlePants.name = Schildkrötenhose
+item.turtleBoots.name = Schildkrötenstiefel
+item.shied.name = Schild
+item.banner.name = Banner
+item.dwarfSpear.name = Feuerspeer
+item.daggerIron.name = Eisendolch
+item.daggerDiamond.name = Diamantdolch
+item.spearIron.name = Eisenspeer
+item.spearDiamond.name = Diamantspeer
+item.bigswordIron.name = Eisenbreitschwert
+item.bigswordDiamond.name = Diamantbreitschwert
+item.staff.name = Stab
+item.turtleScale.name = Schildkrötenschuppe
+item.handle.name = Griff
+item.earthSword.name = Erdbrecher
+item.defenseSword.name = Morgenschein
+item.moonSword.name = Mondlicht
+item.pirateDagger.name = Schwindlerdolch
+item.arrowPoison.name = Giftpfeil
+item.banner.name = Banner
+item.shied.name = Schild
+
+#Bosses
+entity.BetterDungeons.SpiderBoss.name = Shelob
+entity.BetterDungeons.Monking.name = Affenkönig
+entity.BetterDungeons.SlimeBoss.name = Riesenschleim
+entity.BetterDungeons.TurtleBoss.name = Riesenschildkröte
+entity.BetterDungeons.IceBull.name = Eisbulle
+entity.BetterDungeons.GolemBoss.name = Automatischer Terminator-Prototyp
+entity.BetterDungeons.Necromancer.name = Nekromant
+entity.BetterDungeons.Liche.name = Lich
+entity.BetterDungeons.PigMage.name = Magierschwein
+entity.BetterDungeons.PirateBoss.name = Piratenkapitän
+entity.BetterDungeons.WalkerBoss.name = Walker-König
+entity.BetterDungeons.dwarfBoss.name = Zwergeningenieur
+entity.BetterDungeons.dragonChinese.name = Netherdrache
+entity.BetterDungeons.greenDragon.name = Götterfunken
+
+#Entities
+entity.BetterDungeons.SummonedUndead.name = Beschworener Untoter
+entity.BetterDungeons.ArmoredSkeleton.name = Skelett
+entity.BetterDungeons.ArmoredZombie.name = Zombie
+entity.BetterDungeons.Dwarf.name = Zwerg
+entity.BetterDungeons.Pirate.name = Pirat
+entity.BetterDungeons.ArmoredPigZombie.name = Zombie Pigman
+entity.BetterDungeons.Walker.name = Walker
+entity.BetterDungeons.Specter.name = Phantom
+entity.BetterDungeons.Goblin.name = Goblin
+entity.BetterDungeons.SnowGoblin.name = Schneegoblin
+entity.BetterDungeons.Triton.name = Triton
+entity.BetterDungeons.Monkey.name = Affe
+entity.BetterDungeons.Gremlin.name = Gremlin
+entity.BetterDungeons.GolemSmall.name = Golem
+entity.BetterDungeons.OgreArmored.name = Oger
+entity.BetterDungeons.MinotaurArmored.name = Minotaurus
+entity.BetterDungeons.ArmoredEnderman.name = Enderman
+entity.BetterDungeons.SpecterBoss.name = Phantomlord
+entity.BetterDungeons.GremlinBoss.name = Gremlin-Schamane
+entity.BetterDungeons.MinotaurBoss.name = Baddass-Minotaurus
+entity.BetterDungeons.orcArmored.name = Ork
+entity.BetterDungeons.mecha.name = Terminator-Prototyp
+
+#Classes
+bd.defender = Verteidiger
+bd.grenadier = Grenadier
+bd.healer = Heiler
+bd.archer = Bogenschütze
+bd.gunner = Artillerist
+bd.bannerman = Flaggmann
+bd.berseker.name = Berseker
+bd.assasin =  Ninja
+bd.spearman = Lanzenträger
+bd.hooker = Hakler
+
+#Creative tabs
+itemGroup.dungeonGenerators = Dungeon-Generatoren
+itemGroup.adventureItems = Abenteuer-Items

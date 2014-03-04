@@ -7,20 +7,62 @@ ID,Unlocalised name,Type,Min Level,Max Level,Class
 5,enchantment.oxygen,armor_head,1,3,net.minecraft.enchantment.EnchantmentOxygen
 6,enchantment.waterWorker,armor_head,1,1,net.minecraft.enchantment.EnchantmentWaterWorker
 7,enchantment.thorns,armor_torso,1,3,net.minecraft.enchantment.EnchantmentThorns
+8,enchantment.Water Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+9,enchantment.Potassium Cyanide Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+10,enchantment.Methamphetamine Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+11,enchantment.Psilocybin Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+12,enchantment.Alanine (amino acid) Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+13,enchantment.Glycine (amino acid) Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+14,enchantment.Serine  (amino acid) Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+15,enchantment.Mescaline Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
 16,enchantment.damage.all,weapon,1,5,net.minecraft.enchantment.EnchantmentDamage
 17,enchantment.damage.undead,weapon,1,5,net.minecraft.enchantment.EnchantmentDamage
 18,enchantment.damage.arthropods,weapon,1,5,net.minecraft.enchantment.EnchantmentDamage
 19,enchantment.knockback,weapon,1,2,net.minecraft.enchantment.EnchantmentKnockback
 20,enchantment.fire,weapon,1,2,net.minecraft.enchantment.EnchantmentFireAspect
 21,enchantment.lootBonus,weapon,1,3,net.minecraft.enchantment.EnchantmentLootBonus
+22,enchantment.Ethyl Alcohol Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+23,enchantment.Amphetamine Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+24,enchantment.Theobromine Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+25,enchantment.Starch Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+26,enchantment.Sucrose Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+27,enchantment.Penicillin Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+28,enchantment.Testosterone Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+29,enchantment.Fingolimod Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+30,enchantment.Arginine (amino acid) Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+31,enchantment.Shikimic Acid Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
 32,enchantment.digging,digger,1,5,net.minecraft.enchantment.EnchantmentDigging
 33,enchantment.untouching,digger,1,1,net.minecraft.enchantment.EnchantmentUntouching
 34,enchantment.durability,digger,1,3,net.minecraft.enchantment.EnchantmentDurability
 35,enchantment.lootBonusDigger,digger,1,3,net.minecraft.enchantment.EnchantmentLootBonus
+36,enchantment.Aspirin Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+37,enchantment.T-2 Mycotoxin Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+38,enchantment.Nodularin Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+39,enchantment.TTX (Tetrodotoxin) Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+40,enchantment.THC Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+41,enchantment.Phosgene Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+42,enchantment.Diphenhydramine Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+43,enchantment.Batrachotoxin Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+44,enchantment.Retinol Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+45,enchantment.Xylitol Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+46,enchantment.Alprazolam Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+47,enchantment.Cocaine Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
 48,enchantment.arrowDamage,bow,1,5,net.minecraft.enchantment.EnchantmentArrowDamage
 49,enchantment.arrowKnockback,bow,1,2,net.minecraft.enchantment.EnchantmentArrowKnockback
 50,enchantment.arrowFire,bow,1,1,net.minecraft.enchantment.EnchantmentArrowFire
 51,enchantment.arrowInfinite,bow,1,1,net.minecraft.enchantment.EnchantmentArrowInfinite
+52,enchantment.Cocaine Hydrochloride Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+53,enchantment.Methylene Blue Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+54,enchantment.Methyl Alcohol Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+55,enchantment.Radium Chloride Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+56,enchantment.Caulerpenyne Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+57,enchantment.L-hyoscyamine Coated,weapon,1,10,pixlepix.minechem.common.coating.EnchantmentCoated
+66,enchantment.cluster,digger,1,4,com.spiteful.forbidden.enchantments.EnchantmentCluster
+67,enchantment.pigbane,weapon,1,5,com.spiteful.forbidden.enchantments.EnchantmentPigBane
+68,enchantment.greedy,weapon,1,1,com.spiteful.forbidden.enchantments.EnchantmentGreedy
+69,enchantment.consuming,digger,1,1,com.spiteful.forbidden.enchantments.EnchantmentConsuming
+70,enchantment.educational,weapon,1,5,com.spiteful.forbidden.enchantments.EnchantmentEducational
+71,enchantment.corrupting,digger,1,1,com.spiteful.forbidden.enchantments.EnchantmentCorrupting
 100,enchantment.magicresist,armor,1,5,am2.enchantments.EnchantMagicResist
 104,enchantment.soulbound,all,1,1,am2.enchantments.EnchantmentSoulbound
 136,enchantment.tfFireReact,armor,1,1,twilightforest.EnchantmentTFFireReact
@@ -30,6 +72,7 @@ ID,Unlocalised name,Type,Min Level,Max Level,Class
 153,enchantment.haste,armor,1,3,thaumcraft.common.lib.enchantment.EnchantmentHaste
 154,enchantment.repair,all,1,2,thaumcraft.common.lib.enchantment.EnchantmentRepair
 188,Reading,armor_head,1,1,jds.bibliocraft.EnchantmentReading
+190,enchantment.openblocks.explosive,armor,1,3,openblocks.common.EnchantmentExplosive
 200,enchantment.blink,all,1,3,mariculture.magic.enchantments.EnchantmentBlink
 201,enchantment.clock,all,1,1,mariculture.magic.enchantments.EnchantmentClock
 202,enchantment.fall,all,1,4,mariculture.magic.enchantments.EnchantmentFallDamage
@@ -46,6 +89,8 @@ ID,Unlocalised name,Type,Min Level,Max Level,Class
 213,enchantment.resurrection,all,1,3,mariculture.magic.enchantments.EnchantmentResurrection
 214,enchantment.speed,all,1,5,mariculture.magic.enchantments.EnchantmentSpeed
 215,enchantment.spiderman,all,1,1,mariculture.magic.enchantments.EnchantmentSpider
+216,enchantment.luck,all,1,5,mariculture.magic.enchantments.EnchantmentLuck
+217,enchantment.stepUp,all,1,3,mariculture.magic.enchantments.EnchantmentStepUp
 220,enchantment.ttinkerer:ascentBoost,armor_legs,1,4,vazkii.tinkerer.common.enchantment.EnchantmentAscentBoost
 221,enchantment.ttinkerer:slowFall,armor_feet,1,3,vazkii.tinkerer.common.enchantment.EnchantmentSlowFall
 222,enchantment.ttinkerer:autoSmelt,digger,1,1,vazkii.tinkerer.common.enchantment.EnchantmentAutoSmelt

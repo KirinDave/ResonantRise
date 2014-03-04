@@ -1,0 +1,18 @@
+#name = id, num_items, item_damage, item_weight
+#name: any name, just don't repeat them
+#id: item id
+#num_items: the amount of items per stack
+#item_damage: items metadata, by default 0
+#item_weight: the chance for the item to spawn (by default 1= uncommon, 100= common)
+
+saddle = 329,1,0,10
+iron = 265,3,0,10
+gold = 266,3,0,5
+wheat = 296,9,0,30
+clock= 347,1,0,10
+gunpowder = 289,3,0,80
+leather= 334,5,0,80
+torch = 50,10,0,100
+arrow= 262,16,0,80
+cocoa= 351,2,3,10
+cookie= 357,3,0,20

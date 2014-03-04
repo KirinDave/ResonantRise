@@ -1,0 +1,27 @@
+#name = id, num_items, item_damage, item_weight
+#name: any name, just don't repeat them
+#id: item id
+#num_items: the amount of items per stack
+#item_damage: items metadata, by default 0
+#item_weight: the chance for the item to spawn (by default 1= uncommon, 100= common)
+
+diamondBlock = 57,2,0,25
+goldenApple = 322,16,0,90
+enchanting = 384,64,0,100
+transceiver = 720,1,0,10
+chandelier = 2502,4,0,10
+64kDisk = 4361,1,2,10
+64kFluid = 4402,1,3,10
+antimatter = 14030,1,1,10
+heart_cani = 14361,1,2,100
+tc4_boots = 18326,1,0,15
+tc4_sword = 18327,1,0,15
+tc4_shovel = 18328,1,0,15
+tc4_pick = 18329,1,0,15
+tc4_axe = 18330,1,0,15
+tc4_hoe = 18331,1,0,15
+ichor = 18456,1,0,3
+staff = 22262,1,4,10
+fullCell = 2705,1,4,2
+divSigil = 10266,1,0,40
+mBloodOrb = 17294,1,0,40

@@ -1,0 +1,133 @@
+﻿#Translated by crafteverywhere
+#zh_CN
+#Blocks
+tile.BannerHolder.name = 旗杆
+tile.bdTable.name = 桌子
+tile.bdArmorStand.name = 装备架
+
+#Items物品
+item.spikedGloves.name = 蜘蛛手套
+item.ironHeavyBoots.name = 重型铁靴子
+item.ironHeavyPants.name = 重型铁护腿
+item.ironHeavyPlate.name = 重型铁胸甲
+item.ironHeavyHelmet.name = 重型铁头盔
+item.diamondHeavyBoots.name = 重型钻石靴子
+item.diamondHeavyPants.name = 重型钻石护腿
+item.diamondHeavyPlate.name = 重型钻石胸甲
+item.diamondHeavyHelmet.name = 重型钻石头盔
+item.translocator.name = 末影传送器
+item.PathMarker.name = 路径标记器
+item.golemController.name = 机械傀儡控制器
+item.controller.name = 雇佣兵控制器
+
+item.mechaGolem.name = 傀儡机甲
+item.spearGun.name = 火药标枪
+item.dragonHelmet.name = 龙头盔
+item.swordWind.name = 风之剑
+item.grenade.name = 投掷炸药
+item.grenadeSmall.name = 手雷
+item.grenadeSticky.name = 粘性手雷
+item.healingPotion.name = 治愈药水
+item.bullHelmet.name = 冰牛头盔
+item.lichRobe.name = 巫妖袍
+item.mageRobe.name = 法师袍
+item.kingArmor.name = 王之铠
+item.bubbleGun.name = 泡泡枪
+item.quiver.name = 箭筒
+item.longBow.name = 长弓
+item.revolver.name = 左轮手枪
+item.bullet.name = 子弹
+item.staffLife.name = 治愈法杖
+item.staffPoison.name = 剧毒法杖
+item.staffFire.name = 火之法杖
+item.staffDark.name = 暗之法杖
+item.staffWind.name = 风之法杖
+item.ninjaDagger.name = 忍者匕首
+item.walkerSword.name = 漫步者之剑
+item.swordMonking.name = 头陀之剑
+item.goldenFeather.name = 黄金羽毛
+item.cursedBone.name = 诅咒之骨
+item.hookshoot.name = 钩枪
+item.longshoot.name = 远射钩枪
+item.manualshoot.name = 手动钩枪
+item.spiderhook.name = 蛛网钩枪
+item.ScrollOfEscape.name = 逃逸卷轴
+item.cloudBoots.name = 云中靴
+item.turtleHelmet.name = 龟公帽
+item.turtlePlate.name = 龟公甲
+item.turtlePants.name = 龟公裤
+item.turtleBoots.name = 龟公靴
+item.shied.name = 护盾
+item.banner.name = 旗帜
+item.dwarfSpear.name = 火之标枪
+item.daggerIron.name = 铁匕首
+item.daggerDiamond.name = 钻石匕首
+item.spearIron.name = 铁标枪
+item.spearDiamond.name = 钻石标枪
+item.bigswordIron.name = 铁质大剑
+item.bigswordDiamond.name = 钻石大剑
+item.staff.name = 手杖
+item.turtleScale.name = 龟鳞
+item.handle.name = 手柄
+item.earthSword.name = 碎岩剑
+item.defenseSword.name = 晨曦之剑
+item.moonSword.name = 月牙之刃
+item.pirateDagger.name = 欺诈匕首
+item.banner.name = 旗帜
+item.shied.name = 盾牌
+ 
+#Bosses
+entity.BetterDungeons.SpiderBoss.name = 巨蛛尸罗
+entity.BetterDungeons.Monking.name = 头陀狒狒
+entity.BetterDungeons.SlimeBoss.name = 史莱姆王
+entity.BetterDungeons.TurtleBoss.name = 巨龟
+entity.BetterDungeons.IceBull.name = 冰牛
+entity.BetterDungeons.GolemBoss.name = 自动型毁灭者初号机
+entity.BetterDungeons.Necromancer.name = 巫术师
+entity.BetterDungeons.Liche.name = 巫妖
+entity.BetterDungeons.PigMage.name = 猪人法师
+entity.BetterDungeons.PirateBoss.name = 海贼王
+entity.BetterDungeons.WalkerBoss.name = 漫步者之王
+entity.BetterDungeons.dwarfBoss.name = 地精工程师
+entity.BetterDungeons.dragonChinese.name = 下界龙
+entity.BetterDungeons.greenDragon.name = 绿龙
+ 
+#Entities实体
+entity.BetterDungeons.SummonedUndead.name = 被感召的亡灵
+entity.BetterDungeons.ArmoredSkeleton.name = 骷髅
+entity.BetterDungeons.ArmoredZombie.name = 僵尸
+entity.BetterDungeons.Dwarf.name = 矮人
+entity.BetterDungeons.Pirate.name = 海贼
+entity.BetterDungeons.ArmoredPigZombie.name = 僵尸猪人
+entity.BetterDungeons.Walker.name = 漫步者
+entity.BetterDungeons.Specter.name = 幽魂
+entity.BetterDungeons.Goblin.name = 哥布林
+entity.BetterDungeons.SnowGoblin.name = 雪精灵
+entity.BetterDungeons.Triton.name = 鱼人
+entity.BetterDungeons.Monkey.name = 狒狒
+entity.BetterDungeons.Gremlin.name = 小妖精
+entity.BetterDungeons.GolemSmall.name = 傀儡
+entity.BetterDungeons.OgreArmored.name = 巨魔
+entity.BetterDungeons.MinotaurArmored.name = 牛头人
+entity.BetterDungeons.ArmoredEnderman.name = 末影人
+entity.BetterDungeons.SpecterBoss.name = 幽魂领主
+entity.BetterDungeons.GremlinBoss.name = 小妖精萨满
+entity.BetterDungeons.MinotaurBoss.name = 深渊牛头人
+entity.BetterDungeons.orcArmored.name = 兽人
+entity.BetterDungeons.mecha.name = 毁灭者初号机
+ 
+#Classes职业
+bd.defender= 盾战士
+bd.grenadier = 投弹手
+bd.healer = 治愈师
+bd.archer = 弓箭手
+bd.gunner = 火枪手
+bd.bannerman = 旗手
+bd.berseker = 狂战士
+bd.assasin = 忍者
+bd.spearman = 枪兵
+bd.hooker = 飞侠
+ 
+#Creative tabs创造模式物品栏标签
+itemGroup.dungeonGenerators = 地牢生成
+itemGroup.adventureItems = 冒险物品

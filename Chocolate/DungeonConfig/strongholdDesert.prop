@@ -1,0 +1,26 @@
+#Biomes, put biome names separated by comma, example:
+#biomes = Taiga
+#Will spawn in the highest position
+
+biomes = Desert, Canyon, Dunes, LushDesert, Mesa
+
+#chance define the ratio at wich the dungeon spawn, if set to 0 the dungeon will be disabled.
+#The formula goes like that: every 5 chunks there is 1 between the number set to chance probabilities to spawn a dungeon.
+
+chance = 2
+
+#mob: defines the mob spawned in that dungeon
+mob = default
+
+#icon: used as the item icon intex in the dungeon spawner item. (look at textures/items/bd/ d1, d2..., only the number is required)
+icon = 2
+
+#Builder allows you to choose what builder does the dungeon use
+builder = linearDungeon
+
+
+#Special data for linearDungeon
+#rooms: number of rooms, 25 its the max, last room its allways a boss rom.
+
+rooms = 25
+folder = desertStronghold

@@ -1,0 +1,49 @@
+#name = id, num_items, item_damage, item_weight
+#name: any name, just don't repeat them
+#id: item id
+#num_items: the amount of items per stack
+#item_damage: items metadata, by default 0
+#item_weight: the chance for the item to spawn (by default 1= uncommon, 100= common)
+
+dispenser = 23,1,0,5
+hopper = 154,1,0,5
+dropper = 158,1,0,5
+enderChest = 252,1,0,5
+saddle = 329,1,0,10
+leather= 334,5,0,80
+oreDict = 501,1,10,10
+deployer = 615,1,11,5
+alloySmelter = 707,1,0,5
+capacitorBank = 716,1,0,5
+sagMill = 719,1,0,5
+MEController = 900,1,2,5
+MEDrive = 900,1,3,5
+MEPattern = 900,1,4,5
+METerminal = 900,1,5,5
+MECable = 900,1,14,5
+planter = 1020,1,0,5
+fisher = 1020,1,1,5
+harvester = 1020,1,2,5
+rancher = 1020,1,3,5
+dsu = 1031,1,3,5
+biogen = 1031,1,11,10
+laser = 1046,1,0,1
+inlayGold = 1127,16,0,40
+inlayIron = 1128,16,0,40
+inlayRedstone = 1129,16,0,40
+toolForge = 1468,1,0,10
+bloodAltar = 1603,1,0,5
+altar = 1860,1,0,5
+wOven = 1861,1,0,5
+tinker = 2477,1,0,5
+angelBlock = 2500,1,0,5
+crucible = 2617,1,0,5
+arcaneEar = 2623,1,1,5
+fluidTrans = 2702,1,5,5
+windTurbine = 3004,1,6,5
+MekEChamber = 3005,1,0,5
+MekCrusher = 3005,1,3,5
+MekInfuser = 3005,1,8,5
+MekPurifier = 3005,1,9,5
+MekSmelter = 3005,1,10,5
+floodlight = 4085,1,0,5

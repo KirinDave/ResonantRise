@@ -1,0 +1,35 @@
+#Biomes, put biome names separated by comma, example:
+#biomes = Plains, Forest, Hell, Desert
+#Will try to find the highest position to spawn, better avoid any biome with hills
+#Needs at least 20 blocks underground, so it not recommended to use in biomes with height lower than 25
+
+#biomes = Plains, Ice Plains, Forest, Desert
+biomes = Forest, AutumnHills, BambooForest, BirchForest, BorealForest, Chaparral, CherryBlossomGrove, ConiferousForest, DeadForest, DeciduousForest, FungiForest, MapleWoods, SeasonalForest, Shield, SpruceWoods, Timber, Woodland, WitchwoodForest
+
+#chance: define the ratio at wich the dungeon spawns, if set to 0 the dungeon will be disabled.
+#The formula goes like that: every 5 chunks there is 1 between the number set to chance probabilities to spawn a dungeon.
+
+chance = 2
+
+#mob: defines the mob spawned in that dungeon
+mob = default
+
+#icon: used as the item icon intex in the dungeon spawner item. (look at textures/items/bd/ d1, d2..., only the number is required)
+icon = 5
+
+#Builder allows you to choose what builder does the dungeon use
+builder = castle
+
+#Options
+
+doorWidth = 2
+doorHeight = 3
+maxSize = 40
+floorHeight = 6
+baseFloors = 2
+maxFloors = 7
+keepBaseFloors = 2
+keepFloors = 7
+roomSize = 10
+
+#wallBlock

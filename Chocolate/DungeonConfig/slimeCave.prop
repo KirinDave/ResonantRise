@@ -1,0 +1,30 @@
+#Biomes, put biome names separated by comma:
+biomes = *
+
+#chance define the ratio at wich the dungeon spawn, if set to 0 the dungeon will be disabled.
+#The formula goes like that: every 5 chunks there is 1 between the number set to chance probabilities to spawn a dungeon.
+chance = 5
+
+#mob: defines the mob spawned in that dungeon (this dungeon ignores this line)
+mob = ogre
+
+#icon: used as the item icon intex in the dungeon spawner item. (look at textures/items/bd/ d1, d2..., only the number is required)
+icon = 9
+
+#Builder allows you to choose what builder does the dungeon use
+builder = emptyCave
+
+
+#Special data for dungeon
+#caveHeight: the height of the cave containing the buildings
+#caveBlock: the block used to fill the cave(9 = water for a submerged city)
+#posY: the height to spawn the building, (Swamp caver water layer 65 - 30 cave height)
+#spawnBoss: if true a boss will be spawned in the cave
+#boss: the boss to spawn: 0=Spider; 1=slime; 2=Monking; 3=Turtle; 4=ice Bull
+
+size = 48
+height = 15
+caveBlock = 0
+posY = 9
+spawnBoss = true
+boss = 1

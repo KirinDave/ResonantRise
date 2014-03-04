@@ -1,0 +1,27 @@
+#name = id, num_items, item_damage, item_weight
+#name: any name, just don't repeat them
+#id: item id
+#num_items: the amount of items per stack
+#item_damage: items metadata, by default 0
+#item_weight: the chance for the item to spawn (by default 1= uncommon, 100= common)
+
+dHelmet = 310,1,0,20
+dChestPlate = 311,1,0,10
+dLeggins = 312,1,0,10
+dBoots = 313,1,0,20
+gHelmet = 314,1,0,50
+gChestPlate = 315,1,0,50
+gLeggins = 316,1,0,50
+gBoots = 317,1,0,50
+iHelmet = 306,1,0,80
+iChestPlate = 307,1,0,80
+iLeggins = 308,1,0,80
+iBoots = 309,1,0,80
+cHelmet = 302,1,0,100
+cChestPlate = 303,1,0,100
+cLeggins = 304,1,0,100
+cBoots = 305,1,0,100
+dSword = 276,1,0,30
+gSword = 283,1,0,50
+iSword = 267,1,0,70
+sSword = 272,1,0,80

@@ -1,0 +1,12 @@
+#name = id, num_items, item_damage, item_weight
+#name: any name, just don't repeat them
+#id: item id
+#num_items: the amount of items per stack
+#item_damage: items metadata, by default 0
+#item_weight: the chance for the item to spawn (by default 1= uncommon, 100= common)
+
+goldBlock = 41,1,0,80
+goldenApple = 322,5,0,10
+enderPearl = 368,5,0,60
+diamond = 264,6,0,50
+emerald = 388,4,0,30

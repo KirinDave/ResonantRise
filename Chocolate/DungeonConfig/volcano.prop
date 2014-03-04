@@ -1,0 +1,35 @@
+#Biomes, put biome names separated by comma, example:
+#biomes = Extreme Hills
+#Will spawn at y = 5
+
+biomes = Extreme Hills, Alps, Canyon, Crag, JadeCliffs, Moor, Mountain, SacredSprings
+
+#chance define the ratio at wich the dungeon spawn, if set to 0 the dungeon will be disabled.
+#The formula goes like that: every 5 chunks there is 1 between the number set to chance probabilities to spawn a dungeon.
+
+chance = 2
+
+#mob: defines the mob spawned in that dungeon
+mob = dwarf
+
+#icon: used as the item icon intex in the dungeon spawner item. (look at textures/items/bd/ d1, d2..., only the number is required)
+icon = 0
+
+#Builder allows you to choose what builder does the dungeon use
+builder = volcano
+
+
+#Special data for dungeon
+#oreChance: how many chance for each block in the walls to become an ore, a bigger chance less ores
+#blockWalls: block id used in the volcano walls
+#blockPath: block id used in the path to core of the volcano
+#generatePath:if true the volcano will have a path to the core
+#generateDungeon: if true there will be a linear dungeon in the core
+#dungeonRooms: how many dungeons will contain the dungeon
+
+oreChance = 14
+blockWalls = 1
+generatePath = true
+blockPath = 87
+generateDungeon = true
+dungeonRooms = 25

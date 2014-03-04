@@ -1,0 +1,34 @@
+#name = id, num_items, item_damage, item_weight
+#name: any name, just don't repeat them
+#id: item id
+#num_items: the amount of items per stack
+#item_damage: items metadata, by default 0
+#item_weight: the chance for the item to spawn (by default 1= uncommon, 100= common)
+
+iron = 265,32,0,90
+gold = 266,5,0,50
+diamond = 264,3,0,20
+emerald = 388,1,0,30
+enderPearl = 368,1,0,15
+force = 6257,2,0,5
+platinum = 25607,4,0,10
+silver = 25657,16,0,50
+copper = 26357,24,0,70
+steel = 26557,8,0,30
+tin = 26607,12,0,70
+adamantine = 26807,1,0,5
+atlarus = 26907,2,0,5
+mithril = 27257,10,0,40
+orichalcum = 27307,4,0,40
+vulcanite = 27857,8,0,25
+rubberWood = 1022,64,0,80
+grout = 1476,64,1,80
+forceGem = 6526,4,0,30
+darkIron = 9264,8,0,15
+thaumium = 18356,8,2,15
+shardAir = 18363,4,0,20
+shardFire = 18363,4,1,20
+shardWater = 18363,4,2,20
+shardEarth = 18363,4,3,20
+shardOrder = 18363,4,4,20
+shardEntropy = 18363,4,5,20

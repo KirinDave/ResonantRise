@@ -1,0 +1,33 @@
+biomes = Ocean, Coral Reef, CoralReef
+chance = 3
+mob = triton
+icon = 10
+builder = skyscraperGrid
+
+#Skycrapers config
+
+#flats:number of flats
+flats = 5
+
+#roomSize: how many blocks have each room
+roomSize = 9
+
+#rooms: how many rooms have the building
+ rooms = 3
+
+#flatHeight: height of each flat
+flatHeight = 5
+
+#windows: if true the building will have windows
+windows = true
+
+#Cave config
+
+#caveHeight: the height of the cave containing the buildings
+caveHeight = 32
+#caveBlock: the block used to fill the cave(9 = water for a submerged city)
+caveBlock = 9
+#posY: the height to spawn the building, (Ocean layer 63 - 32 cave height) 
+posY = 31
+
+gridSize = 2

@@ -1,0 +1,36 @@
+#Biomes, put biome names separated by comma, example:
+#biomes = FrozenOcean, Ice Plains, Ice Mountains, FrozenRiver
+
+biomes = FrozenOcean, IcePlains, IceMountains, FrozenRiver, Alps, Arctic, Glacier, IcyHills
+
+#chance define the ratio at wich the dungeon spawn, if set to 0 the dungeon will be disabled.
+#The formula goes like that: every 5 chunks there is 1 between the number set to chance probabilities to spawn a dungeon.
+
+chance = 1
+
+#mob: defines the mob spawned in that dungeon
+mob = goblin
+
+#icon: used as the item icon intex in the dungeon spawner item. (look at textures/items/bd/ d1, d2..., only the number is required)
+icon = 6
+
+#Builder allows you to choose what builder does the dungeon use
+builder = iceCave
+
+
+#Special data for iceCave
+#size: cave width
+#caveSpread: the % of air in the cave
+#floorBlock: block used as floor
+#spawnBoss: if set to true, the iceBull will be spawned at the center.
+#posY: the height to spawn the dungeon (+ a random between 0 and heightVariation)
+#heightVariation: max random height added to posY 
+
+size = 100
+caveSpread= 45
+#79=ice
+floorBlock= 79
+spawnBoss= true
+posY = 30
+heightVariation = 50
+

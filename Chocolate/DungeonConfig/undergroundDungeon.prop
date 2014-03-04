@@ -1,0 +1,34 @@
+#Biomes, put biome names separated by comma, example:
+#biomes = *
+# "*" means it will spawn in all the biomes
+#Will spawn between 20 - 50 height
+
+biomes = *
+
+#chance define the ratio at wich the dungeon spawn, if set to 0 the dungeon will be disabled.
+#The formula goes like that: every 5 chunks there is 1 between the number set to chance probabilities to spawn a dungeon.
+
+chance = 0
+
+#mob: defines the mob spawned in that dungeon
+mob = default
+
+#icon: used as the item icon intex in the dungeon spawner item. (look at textures/items/bd/ d1, d2..., only the number is required)
+icon = 4
+
+#Builder allows you to choose what builder does the dungeon use
+builder = dungeon
+
+
+#Special data for dungeon
+#size: dungeon width
+#roomSize: max room size
+#posY: the height to spawn the dungeon (+ a random between 0 and heightVariation)
+#heightVariation: max random height added to posY 
+#wallBlock: block used in walls
+
+size = 120
+roomSize = 12
+posY = 10
+heightVariation = 40
+wallBlock = 98

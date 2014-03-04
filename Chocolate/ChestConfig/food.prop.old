@@ -1,0 +1,17 @@
+#name = id, num_items, item_damage, item_weight
+#name: any name, just don't repeat them
+#id: item id
+#num_items: the amount of items per stack
+#item_damage: items metadata, by default 0
+#item_weight: the chance for the item to spawn (by default 1= uncommon, 100= common)
+
+apple = 260,5,0,100
+bread = 297,5,0,80
+pork = 319,5,0,70
+cookie = 357,8,0,20
+melon = 360,6,0,50
+steak = 363,8,0,70
+chicken = 365,6,0,40
+carrot = 391,3,0,30
+potato = 392,3,0,30
+potatoPoisoned = 394,1,0,10

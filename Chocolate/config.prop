@@ -1,0 +1,41 @@
+# For more configurations about dungeons look at dungeonConfig folder
+
+#Minimum separation between dungeons (sepration defined in chunks)
+dungeonSeparation = 28
+# Chunk caves, are caves/structures generated on each chunk(if the chunk is viable)set 0 to disable, 1 to enable
+
+# Jungle caves, located around layer 40 in jugle biomes
+jungleChunck = 0
+# Swamp caves, located around layer 40 in swamp biomes
+swampCaves = 0
+# Nether mountains, located on the nether surface
+netherMountains = 0
+# Tunnels spawn around all the world in a infinite line the chance is the aproximate distance between tunnels in chunks
+# Abandoned mineshafts go around layer 40
+mineshafts = 0
+#IDs
+#First item ID
+itemID = 7844
+#First block ID
+blockID = 590
+
+#Dungeons exporter.
+#Set to 1 to enable dungeons exporter.
+exporterEnabled = 0
+#Exporter block starting id, uses 5 IDs(Only required if the exporter is enabled)
+exporterBlockID = 210
+
+#Misc.
+#Number of mobs spawned on one use spawners, if set to less than 0 will spawn only vanilla monsters.
+numMobsPerSpawner = 1
+defaultMobSeparation = 1000
+
+#Generate dungeons on flat maps(basically mineshafts and floating dungeons)
+dungeonsInFlat = 0
+#disableItemsToSpawnDungeons: set to "true" to disable the items used to spawn dungeons
+disableItemsToSpawnDungeons = false
+#enableCapsulesInSurvival: if true the capsule station blick will be craftable or sold by villagers
+enableCapsulesInSurvival = true
+#registerModItemsToChests, if set to false items from this mod will won't be automatically added to chest lists
+registerModItemsToChests = false
+overridePlayerModel = false

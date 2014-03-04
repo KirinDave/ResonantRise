@@ -1,80 +1,400 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <fluids>
-    <register>
-        <identifier>molten.dirt</identifier>
-        <name>Molten Dirt</name>
-        <blockTextureID>3</blockTextureID>
-        <blockTextureMeta>0</blockTextureMeta>
-    </register>
-    <melting type="other">
-        <fluid>molten.dirt</fluid>
-        <temp>1</temp>
-        <volume>333</volume>
-        <id>3</id>
-        <meta>0</meta>
-    </melting>
-     <melting type="metal">
-        <fluid>ardite.molten</fluid>
-        <temp>2000</temp>
-        <metal>Ardite</metal>
-        <bonusID>87</bonusID>
-        <bonusMeta>0</bonusMeta>
-        <bonusChance>2</bonusChance>
-    </melting>
-    <melting type="metal">
-        <fluid>cobalt.molten</fluid>
-        <temp>1495</temp>
-        <metal>Cobalt</metal>
-        <bonusID>87</bonusID>
-        <bonusMeta>0</bonusMeta>
-        <bonusChance>2</bonusChance>
-    </melting>
-    <melting type="metal">
-        <fluid>manyullyn.molten</fluid>
-        <temp>2000</temp>
-        <metal>Manyullyn</metal>
-        <bonusID>87</bonusID>
-        <bonusMeta>0</bonusMeta>
-        <bonusChance>2</bonusChance>
-    </melting>
-    <melting type="metal">
-        <fluid>aluminumbrass.molten</fluid>
-        <temp>940</temp>
-        <metal>AluminumBrass</metal>
-        <bonusID>1</bonusID>
-        <bonusMeta>0</bonusMeta>
-        <bonusChance>2</bonusChance>
-    </melting>
-    <melting type="metal">
-        <fluid>alumite.molten</fluid>
-        <temp>1800</temp>
-        <metal>Alumite</metal>
-        <bonusID>1</bonusID>
-        <bonusMeta>0</bonusMeta>
-        <bonusChance>2</bonusChance>
-    </melting>
-    <melting type="metal">
-        <fluid>platinum.molten</fluid>
-        <temp>1768</temp>
-        <metal>Platinum</metal>
-        <bonusID>1</bonusID>
-        <bonusMeta>0</bonusMeta>
-        <bonusChance>2</bonusChance>
-    </melting>
-    <melting type="metal">
-        <fluid>invar.molten</fluid>
-        <temp>921</temp>
-        <metal>Invar</metal>
-        <bonusID>1</bonusID>
-        <bonusMeta>0</bonusMeta>
-        <bonusChance>2</bonusChance>
-    </melting>
-    <melting type="metal">
-        <fluid>electrum.molten</fluid>
-        <temp>1000</temp>
-        <metal>Electrum</metal>
-        <bonusID>1</bonusID>
-        <bonusMeta>0</bonusMeta>
-        <bonusChance>2</bonusChance>
-    </melting>
+  <register>
+    <identifier>molten.dirt</identifier>
+    <name>Molten Dirt</name>
+    <blockTextureID>3</blockTextureID>
+    <blockTextureMeta>0</blockTextureMeta>
+  </register>
+  <melting type="other">
+    <fluid>molten.dirt</fluid>
+    <temp>1</temp>
+    <volume>333</volume>
+    <id>3</id>
+    <meta>0</meta>
+  </melting>
+  <melting type="metal">
+    <fluid>ardite.molten</fluid>
+    <temp>2000</temp>
+    <metal>Ardite</metal>
+    <bonusID>87</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>2</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>cobalt.molten</fluid>
+    <temp>1495</temp>
+    <metal>Cobalt</metal>
+    <bonusID>87</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>2</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>manyullyn.molten</fluid>
+    <temp>2000</temp>
+    <metal>Manyullyn</metal>
+    <bonusID>87</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>2</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>aluminumbrass.molten</fluid>
+    <temp>940</temp>
+    <metal>AluminumBrass</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>2</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>alumite.molten</fluid>
+    <temp>1800</temp>
+    <metal>Alumite</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>2</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>platinum.molten</fluid>
+    <temp>1768</temp>
+    <metal>Platinum</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>2</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>invar.molten</fluid>
+    <temp>921</temp>
+    <metal>Invar</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>2</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>electrum.molten</fluid>
+    <temp>1000</temp>
+    <metal>Electrum</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>2</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.angmallen</fluid>
+    <temp>2000</temp>
+    <metal>Angmallen</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.damascus.steel</fluid>
+    <temp>750</temp>
+    <metal>Damascus Steel</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.hepatizon</fluid>
+    <temp>750</temp>
+    <metal>Hepatizon</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.manganese</fluid>
+    <temp>200</temp>
+    <metal>Manganese</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.brass</fluid>
+    <temp>1000</temp>
+    <metal>Brass</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.zinc</fluid>
+    <temp>1000</temp>
+    <metal>Zinc</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.amordrine</fluid>
+    <temp>2000</temp>
+    <metal>Amordrine</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.alduorite</fluid>
+    <temp>2000</temp>
+    <metal>Alduorite</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.ceruclase</fluid>
+    <temp>2000</temp>
+    <metal>Ceruclase</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.ignatius</fluid>
+    <temp>100</temp>
+    <metal>Ignatius</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.inolashite</fluid>
+    <temp>2000</temp>
+    <metal>Inolashite</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.kalendrite</fluid>
+    <temp>2000</temp>
+    <metal>Kalendrite</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.lemurite</fluid>
+    <temp>2000</temp>
+    <metal>Lemurite</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.midasium</fluid>
+    <temp>500</temp>
+    <metal>Midasium</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.sanguinite</fluid>
+    <temp>2000</temp>
+    <metal>Sanguinite</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.shadow.iron</fluid>
+    <temp>2000</temp>
+    <metal>Shadow Iron</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.shadow.steel</fluid>
+    <temp>2000</temp>
+    <metal>Shadow Steel</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.vulcanite</fluid>
+    <temp>2000</temp>
+    <metal>Vulcanite</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.vyroxeres</fluid>
+    <temp>2000</temp>
+    <metal>Vyroxeres</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.adamantine</fluid>
+    <temp>2000</temp>
+    <metal>Adamantine</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.astral.silver</fluid>
+    <temp>2000</temp>
+    <metal>Astral Silver</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.atlarus</fluid>
+    <temp>2000</temp>
+    <metal>Atlarus</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.black.steel</fluid>
+    <temp>2000</temp>
+    <metal>Black Steel</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.carmot</fluid>
+    <temp>2000</temp>
+    <metal>Carmot</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.celenegil</fluid>
+    <temp>2000</temp>
+    <metal>Celenegil</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.deep.iron</fluid>
+    <temp>2000</temp>
+    <metal>Deep Iron</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.haderoth</fluid>
+    <temp>2000</temp>
+    <metal>Haderoth</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.infuscolium</fluid>
+    <temp>2000</temp>
+    <metal>Infuscolium</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.mithril</fluid>
+    <temp>2000</temp>
+    <metal>Mithril</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.orichalcum</fluid>
+    <temp>2000</temp>
+    <metal>Orichalcum</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.oureclase</fluid>
+    <temp>2000</temp>
+    <metal>Oureclase</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.prometheum</fluid>
+    <temp>2000</temp>
+    <metal>Prometheum</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.quicksilver</fluid>
+    <temp>2000</temp>
+    <metal>Quicksilver</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.rubracium</fluid>
+    <temp>2000</temp>
+    <metal>Rubracium</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.tartarite</fluid>
+    <temp>2000</temp>
+    <metal>Tartarite</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.desichalkos</fluid>
+    <temp>2000</temp>
+    <metal>Desichalkos</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.eximite</fluid>
+    <temp>2000</temp>
+    <metal>Eximite</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.meutoite</fluid>
+    <temp>2000</temp>
+    <metal>Meutoite</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.refined.glowstone</fluid>
+    <temp>1000</temp>
+    <metal>Refined Glowstone</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
+  <melting type="metal">
+    <fluid>molten.osmium</fluid>
+    <temp>970</temp>
+    <metal>Osmium</metal>
+    <bonusID>1</bonusID>
+    <bonusMeta>0</bonusMeta>
+    <bonusChance>0</bonusChance>
+  </melting>
 </fluids>

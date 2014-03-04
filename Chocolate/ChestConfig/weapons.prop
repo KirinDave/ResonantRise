@@ -1,0 +1,27 @@
+#name = id, num_items, item_damage, item_weight
+#name: any name, just don't repeat them
+#id: item id
+#num_items: the amount of items per stack
+#item_damage: items metadata, by default 0
+#item_weight: the chance for the item to spawn (by default 1= uncommon, 100= common)
+
+forceWrench = 6294,1,0,5
+cHammer = 8457,1,0,80
+yWrench = 8790,1,0,10
+paxel = 11711,1,0,50
+thaum_h = 18317,1,0,15
+thaum_c = 18318,1,0,15
+thaum_l = 18319,1,0,15
+thaum_b = 18320,1,0,15
+thaum_s = 26117,1,0,15
+thaum_g = 26118,1,0,15
+lCrystal = 17259,1,0,25
+bSlate = 17263,32,0,80
+rSlate = 17264,16,0,40
+tCap = 18267,1,6,80
+gearWood = 19356,16,0,90
+gearStone = 19357,8,0,45
+gearIron = 19358,4,0,22
+gearGold = 19359,2,0,11
+gearDiamond = 19360,1,0,5
+wrench = 19362,1,0,80

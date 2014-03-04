@@ -1,0 +1,34 @@
+#Biomes, put biome names separated by comma, example:
+#biomes = Jungle, JungleHills
+
+biomes = Jungle, JungleHills, Bayou, Bog, DeadSwamp, Fen, LushSwamp, Mangrove, Quagmire, Rainforest, TropicalRainforest, Wetland, TemperateRainforest, Tropics
+
+#chance define the ratio at wich the dungeon spawn, if set to 0 the dungeon will be disabled.
+#The formula goes like that: every 5 chunks there is 1 between the number set to chance probabilities to spawn a dungeon.
+
+chance = 1
+
+
+#mob: defines the mob spawned in that dungeon, if the mob can't be fount the mod will spawn a mob based on distance from spawn
+mob = goblin
+
+#icon: used as the item icon intex in the dungeon spawner item. (look at textures/items/bd/ d1, d2..., only the number is required)
+icon = 1
+
+#Builder allows you to choose what builder does the dungeon use
+builder = jungleCave
+
+
+#Special data for jungleCave
+#size: cave width
+#height: cave height
+#floorBlock: block used as floor
+#vines: if true will place vine falling down
+#vegetation: if true will place vegetation(mushrooms, flowers, pumpkins, spawners, chests...)
+
+
+size = 48
+height = 50
+floorBlock = 2
+vines = true
+vegetation = true

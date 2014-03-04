@@ -1,0 +1,114 @@
+00006:02	Birch Sapling
+00023		Dispenser
+00057		Diamond Block
+00154		Hopper
+00158		Dropper
+00252		Ender Chest
+00322		Golden Apple
+00361		Pumpkin Seeds
+00362		Melon Seeds
+00368		Ender Pearl
+00384		Bottle o' Enchanting
+00388		Emerald
+00392		Potato
+00501:10	Automatic Dictionary Converter
+00615:11	Deployer
+00707		Alloy Smelter
+00716		Capacitor Bank
+00719		SAG Mill
+00720		Dimensional Transceiver
+00900:02	ME Controller
+00900:03	ME Drive
+00900:04	ME Pattern Encoder
+00900:05	ME Access Terminal
+00901:14	ME Cable
+01020		Planter
+01020:01	Fisher
+01020:02	Harvester
+01020:03	Rancher
+01022		Rubber Wood
+01024		Rubber Sapling
+01031:03	Deep Storage Unit
+01031:11	BioFuel Generator
+01046		Laser Drill
+01127		Gold Inlay
+01128		Iron Inlay
+01129		Redstone Inlay
+01468		Tool Forge
+01476:01	Grout
+01603		Blood Altar
+01860		Altar
+01861		Witches' Oven
+02477		Tinker Table
+02500		Angel Block
+02502		Chandelier
+02609:1		Silverwood Sapling
+02617		Crucible
+02623:1		Arcane Ear
+02702:5		Fluid Transposer
+02705:4		Resonant Energy Cell
+03004:6		Wind Turbine
+03005		Enrichment Chamber
+03005:3		Crusher
+03005:8		Metallurgic Infuser
+03005:9		Purification Chamber
+03005:10	Energized Smelter
+04085		Floodlight
+04361:2		ME 64k Storage
+04402:3		ME 64k Fkuid Storage
+06256		Force Gem
+06294		Force Wrench
+08457		Crescent Hammer
+08790		Yeta Wrench
+09264		Dark Iron Ingot
+10266		Division Sigil
+11711		Steel Paxel
+14030:1		Antimatter (1g)
+14361:2		Heart Canister
+16989		White Backpack
+17263		Blank Slate
+17259		Lava Crystal
+17264		Reinforced Slate
+17294		Master Blood Orb
+18267:6		Inert Thaumium Cap
+18317		Thaumium Helm
+18318		Thaumium Chestplate
+18319		Thaumium Leggings
+18320		Thaumium Boots
+18326		Boots of the Traveller
+18327		Sword of the Zephyr
+18328		Shovel of the Earthmover
+18329		Pickaxe of the Core
+18330		Axe of the Stream
+18331		Hoe of Growth
+18356:2		Thaumium Ingot
+18363		Air Shard
+18363:1		Fire Shard
+18363:2		Water Shard
+18363:3		Earth Shard
+18363:4		Order Shard
+18363:5		Entropy Shard
+18456		Ichor
+19356		Wooden Gear
+19357		Stone Gear
+19358		Iron Gear
+19359		Gold Gear
+19360		Diamond Gear
+19362		Wrench
+22262:4		Depleted Ancient Staff
+26117		Thaumium Scoop
+26118		Thaumium Grafter
+
+00265		Iron Ingot
+00266		Gold Ingot
+06257		Force Ingot
+25607		Platinum Ingot
+25657		Silver Ingot
+26357		Copper Ingot
+26557		Steel Ingot
+26607		Tin Ingot
+26807		Adamantine Ingot
+26907		Atlarus Ingot
+27257		Mithril Ingot
+27307		Orichalcum Ingot
+27857		Vulcanite Ingot
