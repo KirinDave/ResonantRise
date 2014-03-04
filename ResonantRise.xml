@@ -213,10 +213,6 @@
          name="EnderIO" type="mods" version="0.11.3.330"
          website="http://www.minecraftforum.net/topic/1937619-"
          description="An alternative, awesome, universal, concealable pipes for everything." />
-    <mod url="packs/ResonantRise/files/2.6/EnderNet-rc1.jar" file="EnderNet-rc1.jar" md5="7d38974b1d4fcd7e192fafbce8103dac" download="server"
-         name="EnderNet" type="mods" version="0.2.0.rc1" optional="yes" recommended="no" selected="no"
-         website="http://asie.pl/mods/endernet.html"
-         description="Like ForgeIRC for stuff." />
     <mod url="packs/ResonantRise/files/2.6/EnderStorage 1.4.3.6.jar" file="EnderStorage 1.4.3.6.jar" md5="924bcdbb14e0c9b1f64295d8091bc249" download="server" 
          name="Ender Storage" depends="CodeChickenCore"  type="mods"
          version="1.4.3.6" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Bigger, Better EnderChests and Tanks."  />
