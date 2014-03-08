@@ -60,11 +60,13 @@ ID,Unlocalised name,Class
 80,rtImbue.imbuePoison,lumien.randomthings.PotionEffects.ImbuePoison
 81,rtImbue.imbueWeakness,lumien.randomthings.PotionEffects.ImbueWeakness
 82,rtImbue.imbueWither,lumien.randomthings.PotionEffects.ImbueWither
-100,Drowning,WayofTime.alchemicalWizardry.PotionDrowning
-101,Boost,WayofTime.alchemicalWizardry.PotionBoost
-102,Whirlwind,WayofTime.alchemicalWizardry.PotionProjectileProtect
-103,Inhibit,WayofTime.alchemicalWizardry.PotionInhibit
-104,Flight,WayofTime.alchemicalWizardry.PotionFlight
-105,Reciprocation,WayofTime.alchemicalWizardry.PotionReciprocation
+100,Drowning,WayofTime.alchemicalWizardry.common.PotionDrowning
+101,Boost,WayofTime.alchemicalWizardry.common.PotionBoost
+102,Whirlwind,WayofTime.alchemicalWizardry.common.PotionProjectileProtect
+103,Inhibit,WayofTime.alchemicalWizardry.common.PotionInhibit
+104,Flight,WayofTime.alchemicalWizardry.common.PotionFlight
+105,Reciprocation,WayofTime.alchemicalWizardry.common.PotionReciprocation
+106,Flame Cloak,WayofTime.alchemicalWizardry.common.PotionFlameCloak
+107,Ice Cloak,WayofTime.alchemicalWizardry.common.PotionIceCloak
 110,grc.potion.tipsy,growthcraft.cellar.potion.PotionCellar
 256,Delirium,pixlepix.minechem.common.PotionProvider

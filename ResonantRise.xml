@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.7.0.0-RR</version>
+    <version>2.7.0.1-RR</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -130,14 +130,14 @@
          version="1.2.1.416"
          website="https://github.com/BiomesOPlenty/BiomesOPlenty/releases" donation="https://www.paypal.com/cgi-bin7webscr?cmd=_donations&amp;business=U58BHXTK8LLRQ&amp;lc=US&amp;item_name=Biomes%20O%27%20Plenty&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="More Everything." />
-    <mod url="packs/ResonantRise/files/2.6/Blood Magic v0.7.2b.zip" file="Blood Magic v0.7.2b.zip" md5="11f59970afb16aed3d932d615569a825" download="server"
-         name="Blood Magic" type="mods" website="http://www.minecraftforum.net/topic/1899223-" version="0.7.2b" description="Alphonse, not nose piercing."/>
+    <mod url="packs/ResonantRise/files/2-STABLE2/Blood Magic v0.7.3.zip" file="Blood Magic v0.7.3.zip" md5="ad46d3bacd2a3db0bd677735a84b3bbf" download="server" 
+         name="Blood Magic" type="mods" website="http://www.minecraftforum.net/topic/1899223-" version="0.7.3" description="Alphonse, not nose piercing."/>
 	<mod url="packs/ResonantRise/files/2.6/buildcraft-A-1.6.4-4.2.2.jar" file="buildcraft-A-1.6.4-4.2.2.jar" md5="3d2b0dad2291f1c0bb0c5b8c96303b68" download="server"
          name="Buildcraft" type="mods"  version="4.2.2"
          website="http://www.mod-buildcraft.com/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=KQWXKT6KK7SH4"
          description="Burning oil forever." />
-    <mod url="packs/ResonantRise/files/2.6/Calclavia Core-1.1.1.210-main.jar" file="Calclavia Core-1.1.1.210-main.jar" md5="883a663bfcab151a9216c3510b9aef8e" download="server" 
-         name="Calclavia Core" type="mods" version="1.1.1.210"
+    <mod url="packs/ResonantRise/files/2-STABLE2/Calclavia Core-1.1.1.233-main.jar" file="Calclavia Core-1.1.1.233-main.jar" md5="c1783db47be0b4028bf315ffbfdb6de0" download="server" 
+         name="Calclavia Core" type="mods" version="1.1.1.233"
          website="http://calclavia.com/calclavia-core/" donation="http://universalelectricity.com/"
          description="Base for all UE crafting."
          />
@@ -380,8 +380,8 @@
          name="Metallurgy" type="mods" version="3.3.2"
          website="http://www.minecraftforum.net/topic/744918-15x162forgesmp-metallurgy-putting-the-mine-back-in-minecraft/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Shadowclaimer2%40gmail%2ecom&amp;lc=US&amp;item_name=Metallurgy%20Software%EF%BF%BDcy_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="A bit of this, a bit of that." />
-    <mod url="packs/ResonantRise/files/2.6/Modular-Force-Field-System-3.6.2.45-core.jar" file="Modular-Force-Field-System-3.6.2.45-core.jar" md5="c026bf0f72e6e85f697f761b4caa1c48" download="server" 
-         name="MFFS" type="mods" version="3.6.2.45"
+    <mod url="packs/ResonantRise/files/2-STABLE2/Modular-Force-Field-System-3.6.2.47-core.jar" file="Modular-Force-Field-System-3.6.2.47-core.jar" md5="b5b828e6f86d39c6c77d30a38b2ebfdc" download="server" 
+         name="MFFS" type="mods" version="3.6.2.47"
          website="http://www.minecraftforum.net/topic/1703498-" donation="http://universalelectricity.com/mffs/"
          description="Calclavia's Forcefield System." />
     <mod name="MineChem" version="5.0.4"
@@ -441,8 +441,8 @@
          name="OpenBlocks" type="mods" version="1.2.5"
          website="http://openmods.info/"
          description="An amazing open source mode that does amazing things." />
-	<mod name="OpenComponents" version="dev27"
-		 url="packs/ResonantRise/files/2.6/OpenComponents-MC1.6.4-dev27.jar" file="OpenComponents-MC1.6.4-dev27.jar" md5="e239b6b36dcfa3c41866da2c748ac505" download="server" 
+	<mod name="OpenComponents" version="dev28"
+		 url="packs/ResonantRise/files/2-STABLE2/OpenComponents-MC1.6.4-dev28.jar" file="OpenComponents-MC1.6.4-dev28.jar" md5="a961ca297ccb57b55fdb2fdeace7ee32" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2201440-"
 		 description="Companion interface extension for OpenComputers." />
@@ -479,28 +479,28 @@
          name="PowerCrystals Core [Skyboy Fork]" type="mods" version="1.1.8-9"
          website="http://www.minecraftforum.net/topic/2016680-162164-"
          description="Originally by PowerCrystals" />
-	<mod url="packs/ResonantRise/files/2-STABLE/ProjectRedBase-1.6.4-4.2.2.19.jar" file="ProjectRedBase-1.6.4-4.2.2.19.jar" md5="b980fad71dd0dc377e66045db698ec71" download="server"
-         name="Project Red: Base" type="mods" version="4.2.2.19"
+	<mod url="packs/ResonantRise/files/2-STABLE2/ProjectRedBase-1.6.4-4.3.1.25.jar" file="ProjectRedBase-1.6.4-4.3.1.25.jar" md5="d2802e51c0e13f471f568c544050a71c" download="server" 
+         name="Project Red: Base" type="mods" version="4.3.1.25"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
-    <mod url="packs/ResonantRise/files/2-STABLE/ProjectRedCompat-1.6.4-4.2.2.19.jar" file="ProjectRedCompat-1.6.4-4.2.2.19.jar" md5="36b4d92ef35918b363898b41335778a5" download="server"
-         name="Project Red: Compat" type="mods" version="4.2.2.19"
+    <mod url="packs/ResonantRise/files/2-STABLE2/ProjectRedCompat-1.6.4-4.3.1.25.jar" file="ProjectRedCompat-1.6.4-4.3.1.25.jar" md5="4a869beb2d401fcdc92e9879b9dbe482" download="server" 
+         name="Project Red: Compat" type="mods" version="4.3.1.25"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
-    <mod url="packs/ResonantRise/files/2-STABLE/ProjectRedIntegration-1.6.4-4.2.2.19.jar" file="ProjectRedIntegration-1.6.4-4.2.2.19.jar" md5="b6d4b9082b0f00d37f3705663c1fc5c7" download="server"
-         name="Project Red: Integration" type="mods" version="4.2.2.19"
+    <mod url="packs/ResonantRise/files/2-STABLE2/ProjectRedIntegration-1.6.4-4.3.1.25.jar" file="ProjectRedIntegration-1.6.4-4.3.1.25.jar" md5="37fc0d05979b0862753563c55ad5ecac" download="server" 
+         name="Project Red: Integration" type="mods" version="4.3.1.25"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
-    <mod url="packs/ResonantRise/files/2-STABLE/ProjectRedLighting-1.6.4-4.2.2.19.jar" file="ProjectRedLighting-1.6.4-4.2.2.19.jar" md5="7d02992161fced5098cd825a3dc4d991" download="server"
-         name="Project Red: Lighting" type="mods" version="4.2.2.19"
+    <mod url="packs/ResonantRise/files/2-STABLE2/ProjectRedLighting-1.6.4-4.3.1.25.jar" file="ProjectRedLighting-1.6.4-4.3.1.25.jar" md5="d305b4a185840176fc313545683419dd" download="server" 
+         name="Project Red: Lighting" type="mods" version="4.3.1.25"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
-    <mod url="packs/ResonantRise/files/2-STABLE/ProjectRedMechanical-1.6.4-4.2.2.19.jar" file="ProjectRedMechanical-1.6.4-4.2.2.19.jar" md5="3a524f87599a3b9b5e8c9f7a9c5df8a0" download="server"
-         name="Project Red: Mechanical" type="mods" version="4.2.2.19"
+    <mod url="packs/ResonantRise/files/2-STABLE2/ProjectRedMechanical-BETA-1.6.4-4.3.1.25.jar" file="ProjectRedMechanical-BETA-1.6.4-4.3.1.25.jar" md5="cd769eeaccb08b6cbdaf4e824317753e" download="server" 
+         name="Project Red: Mechanical" type="mods" version="4.3.1.25"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
-    <mod url="packs/ResonantRise/files/2-STABLE/ProjectRedWorld-1.6.4-4.2.2.19.jar" file="ProjectRedWorld-1.6.4-4.2.2.19.jar" md5="086448d857d4cf3d95bf43de09170e0e" download="server"
-         name="Project Red: World" type="mods" version="4.2.2.19"
+    <mod url="packs/ResonantRise/files/2-STABLE2/ProjectRedWorld-1.6.4-4.3.1.25.jar" file="ProjectRedWorld-1.6.4-4.3.1.25.jar" md5="b515f06182dad774e19e4fafce9cb1a4" download="server" 
+         name="Project Red: World" type="mods" version="4.3.1.25"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
 	<mod url="packs/ResonantRise/files/2.6/QuarryPlus-1.6.4-1.0.3.jar" file="QuarryPlus-1.6.4-1.0.3.jar" md5="a073d103db6af48d6c380f45380bb5a5" download="server" 
@@ -576,8 +576,8 @@
          name="Sync" version="2.1.1" optional="yes"
          type="mods"
          website="http://ichun.us/mods/sync/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun" description="This mod provides clones, or as we like to call it, 'shells'. These shells are basically a new individual, with their own inventory, experience level, and even gamemode." />
-	<mod url="packs/ResonantRise/files/2.6/Thaumcraft4.1.0e.zip" file="Thaumcraft4.1.0e.zip" md5="fba24bccf31c3a2c3f2a6fd20f30e63c" download="server" 
-         name="Thaumcraft 4" version="4.1.0e"
+	<mod url="packs/ResonantRise/files/2-STABLE2/Thaumcraft4.1.0f.zip" file="Thaumcraft4.1.0f.zip" md5="aa89c00ebf0993ac8ecc2892f32a4a69" download="server" 
+         name="Thaumcraft 4" version="4.1.0f"
          type="mods" fileprefix="00001_"
          website="http://www.minecraftforum.net/topic/2011841-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=88PFJA73AEFFW&amp;lc=ZA&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
          authors="Azanor" description="This one won't creep you out, kids."
@@ -626,8 +626,8 @@
          name="Underground Biomes" type="mods" optional="yes" version="0.4.2c"
          website="http://www.minecraftforum.net/topic/1593704-"
          description="Turn that featureless grey stone into a horde of difficult-to-sort stones!" />
-    <mod url="packs/ResonantRise/files/2.6/Universal-Electricity-3.1.0.69-core.jar" file="Universal-Electricity-3.1.0.69-core.jar" md5="343737b9cacf33423ab9eec1ad924a7a" download="server" 
-         name="Universal Electricity API" type="mods" version="3.1.0.69"
+    <mod url="packs/ResonantRise/files/2-STABLE2/Universal-Electricity-3.1.0.71-core.jar" file="Universal-Electricity-3.1.0.71-core.jar" md5="b7232b05679e2d4e367c19d17eaed5f5" download="server" 
+         name="Universal Electricity API" type="mods" version="3.1.0.71"
          website="http://universalelectricity.com/" donation="http://universalelectricity.com/"
          description="Base for all UE mods."
          fileprefix="00000_" />
