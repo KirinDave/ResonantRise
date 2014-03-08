@@ -117,8 +117,8 @@
          version="1.1"
          website="http://www.bibliocraftmod.com/?page_id=50#bibliowoods"
          description="More wood colors for furniture."  />
-    <mod url="packs/ResonantRise/files/2.6/BigReactors-0.3.0rc2.jar" file="BigReactors-0.3.0rc2.jar" md5="f629cdaa1d1f2d94ab0650a91ab74b90" download="server"
-         name="Big Reactors" type="mods" version="0.3.0rc2"
+    <mod url="packs/ResonantRise/files/2-STABLE2/BigReactors-0.3.0rc3.jar" file="BigReactors-0.3.0rc3.jar" md5="9053e311701aa0d76481d62879cdbe08" download="server" 
+         name="Big Reactors" type="mods" version="0.3.0rc3"
          website="http://big-reactors.com/"
          description="Just in time for the 1.6.4 pack release! \o/" />
     <mod url="packs/ResonantRise/files/2.6/binnie-mods-1.8.0.jar" file="binnie-mods-1.8.0.jar" md5="67177d94f61104076432cf277631209a" download="server"
