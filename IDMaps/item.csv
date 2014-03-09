@@ -56,7 +56,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 55,Block,Minecraft,tile.redstoneDust,net.minecraft.block.BlockRedstoneWire
 56,Block,Minecraft,tile.oreDiamond,net.minecraft.block.BlockOre
 57,Block,Minecraft,tile.blockDiamond,factorization.oreprocessing.BlockOreStorageShatterable
-58,Block,RandomThings,tile.coloredCrafing,lumien.randomthings.Blocks.BlockColoredWorkBench
+58,Block,RandomThings,tile.workbench,lumien.randomthings.Blocks.BlockColoredWorkBench
 59,Block,Minecraft,tile.crops,net.minecraft.block.BlockCrops
 60,Block,Minecraft,tile.farmland,net.minecraft.block.BlockFarmland
 61,Block,Minecraft,tile.furnace,net.minecraft.block.BlockFurnace
@@ -932,10 +932,6 @@ ID,Block/Item,Mod,Unlocalised name,Class
 2009,Block,UndergroundBiomes,tile.igneousStone,exterminatorJeff.undergroundBiomes.common.block.BlockIgneousStone
 2010,Block,UndergroundBiomes,tile.metamorphicStone,exterminatorJeff.undergroundBiomes.common.block.BlockMetamorphicStone
 2011,Block,UndergroundBiomes,tile.sedimentaryStone,exterminatorJeff.undergroundBiomes.common.block.BlockSedimentaryStone
-2050,Block,endernet,tile.endernet.enderChatBox,pl.asie.endernet.block.BlockEnderChatBox
-2051,Block,endernet,tile.endernet.enderModem,pl.asie.endernet.block.BlockEnderModem
-2052,Block,endernet,tile.endernet.enderReceiver,pl.asie.endernet.block.BlockEnderReceiver
-2053,Block,endernet,tile.endernet.enderTransmitter,pl.asie.endernet.block.BlockEnderTransmitter
 2129,Block,ProjRed|Expansion,tile.projectred.expansion.machine1,mrtjp.projectred.expansion.BlockMachine
 2130,Block,ProjRed|Exploration,tile.projectred.exploration.ore,mrtjp.projectred.exploration.BlockOre
 2131,Block,ProjRed|Exploration,tile.projectred.exploration.stone,mrtjp.projectred.exploration.BlockSpecialStone
@@ -3683,7 +3679,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 24507,Item,totemic,item.null,totemic_commons.pokefenn.item.ItemTotems
 24511,Item,totemic,item.totemic:blazingChlorophyllCrystal,totemic_commons.pokefenn.item.ItemBlazingChlorophyllCrystal
 24512,Item,totemic,item.totemic:infusedTotemicStaff,totemic_commons.pokefenn.item.ItemInfusedTotemicStaff
-24513,Item,totemic,item.totempedia,totemic_commons.pokefenn.item.ItemTotempedia
+24513,Item,totemic,item.totemic:totempedia,totemic_commons.pokefenn.item.ItemTotempedia
 24857,Item,chococraft,item.chocoboSaddle,chococraft.common.items.ChocoboItem
 24858,Item,chococraft,item.gysahl_seeds,chococraft.common.items.ItemGysahlSeeds
 24859,Item,chococraft,item.gysahl_loverly,chococraft.common.items.ChocoboItem

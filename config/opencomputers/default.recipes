@@ -128,10 +128,17 @@ solarGeneratorUpgrade {
           ["oc:circuitTier3", "oc:craftingGenerator", "oc:circuitTier3"]]
 }
 
+# Note: iron ingot and nugget recipes are *only* registered if no other mod
+# already provides the same functionality.
 nuggetIron {
   type: shapeless
   input: ingotIron
   output: 9
+}
+ingotIron {
+  input: [[nuggetIron, nuggetIron, nuggetIron],
+          [nuggetIron, nuggetIron, nuggetIron],
+          [nuggetIron, nuggetIron, nuggetIron]]
 }
 disk {
   input: [["", nuggetIron, ""]
@@ -271,7 +278,7 @@ powerDistributor {
 rack {
   input: [["oc:circuitTier2", "oc:componentCardWLan", "oc:circuitTier2"]
           [fenceIron, chest, fenceIron]
-          ["oc:craftingRouter", "oc:craftingCircuitBoardPrinted","oc:craftingPowerDistributor"]]
+          ["oc:craftingRouter", "oc:craftingCircuitBoardPrinted", "oc:craftingPowerDistributor"]]
 }
 redstone {
   input: [[ingotIron, blockRedstone, ingotIron]
@@ -302,4 +309,14 @@ screen3 {
   input: [[obsidian, yellowDust, obsidian]
           [yellowDust, "oc:circuitTier3", glass]
           [obsidian, yellowDust, obsidian]]
+}
+hologram {
+  input: [[obsidian, glass, obsidian]
+          ["oc:craftingCircuitBoardPrinted", diamond, "oc:craftingCircuitBoardPrinted"]
+          ["oc:circuitTier3", blazeRod, "oc:circuitTier3"]]
+}
+wirelessRouter {
+  input: [[ingotIron, "oc:componentCardWLan", ingotIron]
+          ["oc:craftingCable", "oc:componentCardLan", "oc:craftingCable"]
+          [ingotIron, "oc:craftingCircuitBoardPrinted", ingotIron]]
 }
