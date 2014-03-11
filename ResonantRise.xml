@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.7.0.2-RR</version>
+    <version>2.7.0.3-RR</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -117,8 +117,8 @@
          version="1.1"
          website="http://www.bibliocraftmod.com/?page_id=50#bibliowoods"
          description="More wood colors for furniture."  />
-    <mod url="packs/ResonantRise/files/2-STABLE2/BigReactors-0.3.0rc3.jar" file="BigReactors-0.3.0rc3.jar" md5="9053e311701aa0d76481d62879cdbe08" download="server" 
-         name="Big Reactors" type="mods" version="0.3.0rc3"
+    <mod url="packs/ResonantRise/files/2-STABLE2/BigReactors-0.3.0A.jar" file="BigReactors-0.3.0A.jar" md5="01ba620929c78d6bd0080639e318096f" download="server" 
+         name="Big Reactors" type="mods" version="0.3.0A"
          website="http://big-reactors.com/"
          description="Just in time for the 1.6.4 pack release! \o/" />
     <mod url="packs/ResonantRise/files/2.6/binnie-mods-1.8.0.jar" file="binnie-mods-1.8.0.jar" md5="67177d94f61104076432cf277631209a" download="server"
@@ -205,8 +205,8 @@
          name="Dimensional Anchors" type="mods" version="57.1.95"
          website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/"
          description="Immibis's chunk loaders. Preferred."  />
-	<mod url="packs/ResonantRise/files/2.6/EmasherResource-1.2.3.3.zip" file="EmasherResource-1.2.3.3.zip" md5="0226eaf325f52ce207304da0cd624bc3" download="server" 
-         name="EmasherResource" type="mods" version="1.2.3.3"
+	<mod url="packs/ResonantRise/files/2-STABLE2/EmasherResource-1.2.3.4.zip" file="EmasherResource-1.2.3.4.zip" md5="25723b6d2f636ac5d0a1b3359d282ad8" download="server" 
+         name="EmasherResource" type="mods" version="1.2.3.4"
          website="http://emashersmods.wikispaces.com"
          description="Build big or build tiny." />
     <mod url="packs/ResonantRise/files/2.6/EnderIO-1.6.4-0.11.3.330.jar" file="EnderIO-1.6.4-0.11.3.330.jar" md5="ab8411e763d747a9d846ba1f2e6b4a79" download="server" 
@@ -216,8 +216,8 @@
     <mod url="packs/ResonantRise/files/2.6/EnderStorage 1.4.3.6.jar" file="EnderStorage 1.4.3.6.jar" md5="924bcdbb14e0c9b1f64295d8091bc249" download="server" 
          name="Ender Storage" depends="CodeChickenCore"  type="mods"
          version="1.4.3.6" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Bigger, Better EnderChests and Tanks."  />
-	<mod url="packs/ResonantRise/files/2.6/EngineersToolbox-1.1.8.1.zip" file="EngineersToolbox-1.1.8.1.zip" md5="d4ee9074ea08c55570ae5dec5962be07" download="server" 
-         name="Engineer's Toolbox" type="mods" version="1.1.8.1"
+	<mod url="packs/ResonantRise/files/2-STABLE2/EngineersToolbox-1.1.8.3.zip" file="EngineersToolbox-1.1.8.3.zip" md5="c8d590629a49ce695a64dd79ab0fa545" download="server" 
+         name="Engineer's Toolbox" type="mods" version="1.1.8.3"
          depends="EmasherResource"
          website="http://emashersmods.wikispaces.com"
          description="Build big or build tiny." />
@@ -225,8 +225,8 @@
          name="EnhancedPortals 3" type="mods" version="3.0.0b5d"
          website="http://www.minecraftforum.net/topic/2143651-"
          description="Custom teleportation that looks fancier!" />
-	<mod url="packs/ResonantRise/files/2.6/ExtraCells-1.6.8b.jar" file="ExtraCells-1.6.8b.jar" md5="63281154ca7de36524034d1497573785" download="server"
-         name="Extra Cells" depends="Applied Energistics"  type="mods" version="1.6.8b"
+	<mod url="packs/ResonantRise/files/2-STABLE2/ExtraCells-1.6.8e.jar" file="ExtraCells-1.6.8e.jar" md5="57f64fd35e49e8f2cb742e9eff2608b3" download="server" 
+         name="Extra Cells" depends="Applied Energistics"  type="mods" version="1.6.8e"
          website="http://www.minecraftforum.net/topic/1801643-m3gas-extracells-appliedenergistics-add-on/"
          description="A massive expansion to Applied Energistics. Store fluids and more."  />
     <mod url="packs/ResonantRise/files/2.6/ExtraTiC-1.6.4-0.7.6.jar" file="ExtraTiC-1.6.4-0.7.6.jar" md5="b13eeba85206afb771ed2a4f38081a3b" download="server"
@@ -576,15 +576,15 @@
          name="Sync" version="2.1.1" optional="yes"
          type="mods"
          website="http://ichun.us/mods/sync/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun" description="This mod provides clones, or as we like to call it, 'shells'. These shells are basically a new individual, with their own inventory, experience level, and even gamemode." />
-	<mod url="packs/ResonantRise/files/2-STABLE2/Thaumcraft4.1.0f.zip" file="Thaumcraft4.1.0f.zip" md5="aa89c00ebf0993ac8ecc2892f32a4a69" download="server" 
-         name="Thaumcraft 4" version="4.1.0f"
+	<mod url="packs/ResonantRise/files/2-STABLE2/Thaumcraft4.1.0g.zip" file="Thaumcraft4.1.0g.zip" md5="9760bb78fc71eb7f449bf3c8ad8cfb34" download="server" 
+         name="Thaumcraft 4" version="4.1.0g"
          type="mods" fileprefix="00001_"
          website="http://www.minecraftforum.net/topic/2011841-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=88PFJA73AEFFW&amp;lc=ZA&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
          authors="Azanor" description="This one won't creep you out, kids."
          />
-	<mod url="packs/ResonantRise/files/2.6/ThaumicTinkerer-2.3-130.jar" file="ThaumicTinkerer-2.3-130.jar" md5="8f7c16bbd6a7fc916c17d71cafffb3de" download="server" 
+	<mod url="packs/ResonantRise/files/2-STABLE2/ThaumicTinkerer-2.3-136.jar" file="ThaumicTinkerer-2.3-136.jar" md5="3bb7b59d04e0b508e34464482baab896" download="server" 
          name="Thaumic Tinkerer" type="mods"
-         version="2.3-130" depends="Thaumcraft 4"
+         version="2.3-136" depends="Thaumcraft 4"
          website="http://www.minecraftforum.net/topic/1813058-" description="Because Thaumcraft has a dearth of content."
          />
 	<mod url="packs/ResonantRise/files/2.6/ThaumicTinkererKAMI_j6.jar" file="ThaumicTinkererKAMI_j6.jar" md5="03bea04d5b4db84e77c027c3c5c21466" download="server"
