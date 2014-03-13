@@ -1,7 +1,6 @@
 # Use this file to tell Mekanism which blocks should not be picked up by a cardboard box.
 # Proper syntax is "ID:META". Example (for stone):
 # 1:0
-
 720:0
 2416:0
 2530:0
