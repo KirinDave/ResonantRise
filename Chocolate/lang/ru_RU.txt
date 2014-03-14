@@ -1,0 +1,132 @@
+#Translated by ZaratUshtrA.2.0
+#Blocks
+tile.BannerHolder.name = Держатель знамени
+tile.bdTable.name = Стол
+tile.bdArmorStand.name = Стенд для брони
+#Items
+item.spikedGloves.name = Шипастые перчатки
+item.ironHeavyBoots.name = Тяжёлые железные сапоги
+item.ironHeavyPants.name = Тяжёлые железные поножи
+item.ironHeavyPlate.name = Тяжёлый железны нагрудник
+item.ironHeavyHelmet.name = Тяжёлый железный шлем
+item.diamondHeavyBoots.name = Тяжелые алмазные сапоги
+item.diamondHeavyPants.name = Тяжёлые алмазные поножи
+item.diamondHeavyPlate.name = Тяжёлый алмазный нагрудник
+item.diamondHeavyHelmet.name = Тяжёлый алмазный шлем
+item.translocator.name = Телепортатор эндера
+item.PathMarker.name = Маркер пути
+item.golemController.name = Котроллёр Робоголема
+item.controller.name = Контроллёр наёмников
+
+item.mechaGolem.name = Робоголем
+item.spearGun.name = Копьемёт
+item.dragonHelmet.name = Шлем Дракона
+item.swordWind.name = Меч Ветра
+item.grenade.name = Бомбочка
+item.grenadeSmall.name = Граната
+item.grenadeSticky.name = Липкая граната
+item.healingPotion.name = Зелье Жизни
+item.bullHelmet.name = Шлем Ледяного быка
+item.lichRobe.name = Балахон Лича
+item.mageRobe.name = Балахон Мага
+item.kingArmor.name = Королевская защита
+item.bubbleGun.name = Бабблган
+item.quiver.name = Колчан
+item.longBow.name = Длинный лук
+item.revolver.name = Револьвер
+item.bullet.name = Пуля
+item.staffLife.name = Посох Жизни
+item.staffPoison.name = Посох Яда
+item.staffFire.name = Посох Огня
+item.staffDark.name = Посох Тьмы
+item.staffWind.name = Посох Ветра
+item.ninjaDagger.name = Кинжал Ниндзя
+item.walkerSword.name = Меч Уолкера
+item.swordMonking.name = Меч Короля Обезьян
+item.goldenFeather.name = Золотое перо
+item.cursedBone.name = Проклятая кость
+item.hookshoot.name = Гарпун
+item.longshoot.name = Улучшенный гарпун
+item.manualshoot.name = Управляемый гарпун
+item.spiderhook.name = Паучий гарпун
+item.ScrollOfEscape.name = Свиток побега
+item.cloudBoots.name = Облачные башмаки
+item.turtleHelmet.name = Черепаший шлем
+item.turtlePlate.name = Черепашья рубаха
+item.turtlePants.name = Черепашьи штаны
+item.turtleBoots.name = Черепашьи башмаки
+item.shied.name = Щит
+item.banner.name = Знамя
+item.dwarfSpear.name = Копьё дварфа
+item.daggerIron.name = Железный кинжал
+item.daggerDiamond.name = Алмазный кинжал
+item.spearIron.name = Железное копьё
+item.spearDiamond.name = Алмазное копьё
+item.bigswordIron.name = Железный двуручник
+item.bigswordDiamond.name = Алмазный двуручник
+item.staff.name = Посох
+item.turtleScale.name = Панцирь черепахи
+item.handle.name = Рукоять
+item.earthSword.name = Земледробитель
+item.defenseSword.name = Утреннее сияние
+item.moonSword.name = Луносвет
+item.pirateDagger.name = Кинжал пирата
+item.arrowPoison.name = Отравленная стрела
+item.banner.name = Знамя
+item.shied.name = Щит
+
+#Bosses
+entity.BetterDungeons.SpiderBoss.name = Шелоб
+entity.BetterDungeons.Monking.name = Король Обезьян
+entity.BetterDungeons.SlimeBoss.name = Гигантский Слизень
+entity.BetterDungeons.TurtleBoss.name = Гигантская Черепаха
+entity.BetterDungeons.IceBull.name = Ледяной Бык
+entity.BetterDungeons.GolemBoss.name = Автоматизированный прототип терминатора
+entity.BetterDungeons.Necromancer.name = Некромант
+entity.BetterDungeons.Liche.name = Лич
+entity.BetterDungeons.PigMage.name = Свиномаг
+entity.BetterDungeons.PirateBoss.name = Капитан Пиратов
+entity.BetterDungeons.WalkerBoss.name = Король Уолкер
+entity.BetterDungeons.dwarfBoss.name = Дварф Инженер
+entity.BetterDungeons.dragonChinese.name = Адский Дракон
+entity.BetterDungeons.greenDragon.name = Зелёный Дракон
+
+#Entities
+entity.BetterDungeons.SummonedUndead.name = Призванная нежить
+entity.BetterDungeons.ArmoredSkeleton.name = Скелет
+entity.BetterDungeons.ArmoredZombie.name = Зомби
+entity.BetterDungeons.Dwarf.name = Дварф
+entity.BetterDungeons.Pirate.name = Пират
+entity.BetterDungeons.ArmoredPigZombie.name = Свинозомби
+entity.BetterDungeons.Walker.name = Уолкер
+entity.BetterDungeons.Specter.name = Призрак
+entity.BetterDungeons.Goblin.name = Гоблин
+entity.BetterDungeons.SnowGoblin.name = Снежный Гоблин
+entity.BetterDungeons.Triton.name = Тритон
+entity.BetterDungeons.Monkey.name = Обезьяна
+entity.BetterDungeons.Gremlin.name = Гремлин
+entity.BetterDungeons.GolemSmall.name = Голем
+entity.BetterDungeons.OgreArmored.name = Огр
+entity.BetterDungeons.MinotaurArmored.name = Минотавр
+entity.BetterDungeons.ArmoredEnderman.name = Эндермен
+entity.BetterDungeons.SpecterBoss.name = Лорд-Призрак
+entity.BetterDungeons.GremlinBoss.name = Гремлин-Шаман
+entity.BetterDungeons.MinotaurBoss.name = Минотавр-Босс
+entity.BetterDungeons.orcArmored.name = Орк
+entity.BetterDungeons.mecha.name = Прототип терминатора
+
+#Classes
+bd.defender = Защитник
+bd.grenadier = Гренадер
+bd.healer = Целитель
+bd.archer = Стрелок
+bd.gunner = Артиллерист
+bd.bannerman = Знаменосец
+bd.berseker.name = Берсерк
+bd.assasin =  Ниндзя
+bd.spearman = Копьеносец
+bd.hooker = Проститутка
+
+#Creative tabs
+itemGroup.dungeonGenerators = Генераторы данжей
+itemGroup.adventureItems = Предметы приключения
