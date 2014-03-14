@@ -161,8 +161,8 @@
          name="ChocoCraft" type="mods" version="3.0.3"
          website="http://www.minecraftforum.net/topic/1119809-"
          description="Wark?" />
-	<mod name="Chocolate Quest" version="2.08"
-		 url="packs/ResonantRise/files/2-STABLE2/BetterDungeons208.zip" file="BetterDungeons208.zip" md5="4e3c579a22e0f58c8c1334232763402c" download="server" 
+	<mod name="Chocolate Quest" version="2.09"
+		 url="packs/ResonantRise/files/2-STABLE2/BetterDungeons209.zip" file="BetterDungeons209.zip" md5="59a3f6781f5b0eb37803ceb6e4a320f6" download="server" 
 		 type="mods" website="http://www.minecraftforum.net/topic/746330-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=marsalada_saladamar%40hotmail%2ecom&amp;lc=US&amp;no_note=0&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest" authors="Chocolatin"
 		 description="The star of the RR 2.7 show! Finally some real adventures!" />
 	<mod url="packs/ResonantRise/files/2.6/CodeChickenCore 0.9.0.9.jar" file="CodeChickenCore 0.9.0.9.jar" md5="d8800f201da7fe01ba1f8127a9a568ff" download="server" 
@@ -582,9 +582,9 @@
          website="http://www.minecraftforum.net/topic/2011841-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=88PFJA73AEFFW&amp;lc=ZA&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
          authors="Azanor" description="This one won't creep you out, kids."
          />
-	<mod url="packs/ResonantRise/files/2-STABLE2/ThaumicTinkerer-2.3-136.jar" file="ThaumicTinkerer-2.3-136.jar" md5="3bb7b59d04e0b508e34464482baab896" download="server" 
+	<mod url="packs/ResonantRise/files/2-STABLE2/ThaumicTinkerer-2.3-137.jar" file="ThaumicTinkerer-2.3-137.jar" md5="75a90498abd402451e95387217f37b6d" download="server" 
          name="Thaumic Tinkerer" type="mods"
-         version="2.3-136" depends="Thaumcraft 4"
+         version="2.3-137" depends="Thaumcraft 4"
          website="http://www.minecraftforum.net/topic/1813058-" description="Because Thaumcraft has a dearth of content."
          />
 	<mod url="packs/ResonantRise/files/2.6/ThaumicTinkererKAMI_j6.jar" file="ThaumicTinkererKAMI_j6.jar" md5="03bea04d5b4db84e77c027c3c5c21466" download="server"
