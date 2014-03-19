@@ -1,3 +1,5 @@
+entity.NetherOres.netherOresHellfish.name = Hellfish
+
 tile.netherores.hellfish.name = Netherrack
 tile.netherores.ore.coal.name = Nether Coal Ore
 tile.netherores.ore.diamond.name = Nether Diamond Ore
@@ -17,6 +19,16 @@ tile.netherores.ore.peridot.name = Nether Peridot Ore
 tile.netherores.ore.sapphire.name = Nether Sapphire Ore
 tile.netherores.ore.platinum.name = Nether Platinum Ore 
 tile.netherores.ore.nickel.name = Nether Ferrous Ore
-tile.netherores.ore.pigiron.name = Nether Pig Iron Ore
+tile.netherores.ore.steel.name = Nether Pig Iron Ore
 tile.netherores.ore.iridium.name = Nether Iridium Ore
 tile.netherores.ore.osmium.name = Nether Osmium Ore
+tile.netherores.ore.sulfur.name = Nether Sulfur Ore
+tile.netherores.ore.titanium.name = Nether Titanium Ore
+tile.netherores.ore.mythril.name = Nether Mythril Ore
+tile.netherores.ore.adamantium.name = Nether Adamantium Ore
+tile.netherores.ore.rutile.name = Nether Rutile Ore
+tile.netherores.ore.tungsten.name = Nether Tungsten Ore
+tile.netherores.ore.amber.name = Nether Amber Ore
+tile.netherores.ore.tennantite.name = Nether Tennantite Ore
+tile.netherores.ore.salt.name = Nether Salt Ore
+tile.netherores.ore.saltpeter.name = Nether Saltpeter Ore

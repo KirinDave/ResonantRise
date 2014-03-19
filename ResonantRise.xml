@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.7.0.3-RR</version>
+    <version>2.7.1.0-RR</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -89,8 +89,8 @@
          name="AutoUtils [Chisel Libs]" type="mods" version="1.0.1"
          website="http://www.minecraftforum.net/topic/1749374-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=NS64FL5ZXYG3N&amp;lc=RU&amp;item_name=I%20write%20mods%20for%20minecraft&amp;item_number=minecraft&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="Chisel Util Mod" />
-    <mod url="packs/ResonantRise/files/2-STABLE/backpack-1.26.29-1.6.x.jar" file="backpack-1.26.29-1.6.x.jar" md5="72f64a21506a64b09cdf8e1ee2409997" download="server"
-         name="Backpacks" version="1.26.29" type="mods"
+    <mod url="packs/ResonantRise/files/backpack-1.27.34-1.6.x.jar" file="backpack-1.27.34-1.6.x.jar" md5="b7c847583ce5f2d7117a2d04c60edc8c" download="server" 
+         name="Backpacks" version="1.27.34" type="mods"
          website="http://www.minecraftforum.net/topic/1492661-15x-16x-backpacks-v-11213/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=CCEHF29WUSQVJ"
          description="Baggy leather in your inventory." />
 	<mod url="packs/ResonantRise/files/2.6/bdlib-mc164-1.1.0.21.jar" file="bdlib-mc164-1.1.0.21.jar" md5="5f04c3670a6215a75f0552263cbf6899" download="server"
@@ -141,8 +141,8 @@
          website="http://calclavia.com/calclavia-core/" donation="http://universalelectricity.com/"
          description="Base for all UE crafting."
          />
-	<mod url="packs/ResonantRise/files/2.6/Carpenters Blocks v2.0.4 - MC 1.6.zip" file="Carpenters Blocks v2.0.4 - MC 1.6.zip" md5="64a78372d800998fbfed2ca829b1f4fa" download="server" 
-         name="Carpenter's Blocks" type="mods" version="2.0.4"
+	<mod url="packs/ResonantRise/files/Carpenters Blocks v2.0.6 - MC 1.6.zip" file="Carpenters Blocks v2.0.6 - MC 1.6.zip" md5="178a7f20c7d97a159d2f84ca63d3d7e9" download="server" 
+         name="Carpenter's Blocks" type="mods" version="2.0.6"
          website="http://www.minecraftforum.net/topic/1790919-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=YGAB8YNHMQPLQ&amp;lc=US&amp;item_name=Minecraft%20Modding&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"
          description="Angles!" />
     <mod url="packs/ResonantRise/files/2-STABLE/CCTransport-1.0.1.jar" file="CCTransport-1.0.1.jar" md5="afd7267ba8d5c275fe3b586c886894d6" download="server"
@@ -209,8 +209,8 @@
          name="EmasherResource" type="mods" version="1.2.3.4"
          website="http://emashersmods.wikispaces.com"
          description="Build big or build tiny." />
-    <mod url="packs/ResonantRise/files/2.6/EnderIO-1.6.4-0.11.3.330.jar" file="EnderIO-1.6.4-0.11.3.330.jar" md5="ab8411e763d747a9d846ba1f2e6b4a79" download="server" 
-         name="EnderIO" type="mods" version="0.11.3.330"
+    <mod url="packs/ResonantRise/files/EnderIO-1.6.4-0.11.4.340.jar" file="EnderIO-1.6.4-0.11.4.340.jar" md5="ecb1371b69e5b489caecda48692eadb1" download="server" 
+         name="EnderIO" type="mods" version="0.11.4.340"
          website="http://www.minecraftforum.net/topic/1937619-"
          description="An alternative, awesome, universal, concealable pipes for everything." />
     <mod url="packs/ResonantRise/files/2.6/EnderStorage 1.4.3.6.jar" file="EnderStorage 1.4.3.6.jar" md5="924bcdbb14e0c9b1f64295d8091bc249" download="server" 
@@ -233,8 +233,8 @@
          name="ExtraTiC" depends="Tinker's Construct"  type="mods" version="0.7.6"
          website="http://www.minecraftforum.net/topic/1985397-"
          description="So many metals, so many gods."  />
-    <mod url="packs/ResonantRise/files/2.6/extrautils-1.0.3a.zip" file="extrautils-1.0.3a.zip" md5="711fd193bdaa8b9cadaa5dd0a8fea474" download="server" 
-         name="Extra Utilities"  type="mods" version="1.0.3a"
+    <mod url="packs/ResonantRise/files/extrautils-1.0.3b.zip" file="extrautils-1.0.3b.zip" md5="3e133546c6653c8aaf8b9b178c323b8e" download="server" 
+         name="Extra Utilities"  type="mods" version="1.0.3b"
          website="http://www.minecraftforum.net/topic/1776056-15xforge-extra-utilities-v024d/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=AAJGAD54WB7RQ"
          description="Angel Blocks? Angel Blocks!" />
     <mod url="packs/ResonantRise/files/2.6/Factorization-0.8.34.jar" file="Factorization-0.8.34.jar" md5="87941dcfbff76e94bb4a9fd1f5099d6f" download="server" 
@@ -246,8 +246,8 @@
          website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/"
          description="Signs on every surface."
          />
-    <mod name="Forbidden Magic" version="pr0.31"
-		 url="packs/ResonantRise/files/2.6/ForbiddenMagic pr0.31.jar" file="ForbiddenMagic pr0.31.jar" md5="ffb806def952daa51d574f21bf2ec8b4" download="server" 
+    <mod name="Forbidden Magic" version="pr0.32"
+		 url="packs/ResonantRise/files/ForbiddenMagic pr0.32.jar" file="ForbiddenMagic pr0.32.jar" md5="737f3e331411436d3a29a99e52069e33" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2305054-"
 		 description="Magic on the shadier side of the street for Thaumcraft!" />
@@ -303,7 +303,7 @@
 		 url="packs/ResonantRise/files/2.6/growthcraft-rice-1.6.4-2.0.4.zip" file="growthcraft-rice-1.6.4-2.0.4.zip" md5="851d49f03e9c9b68ff513208001ccad0" download="server"
 		 website="http://www.minecraftforum.net/topic/1510394-"
 		 description="JAPANESE BEER." />
-	<mod url="packs/ResonantRise/files/2-STABLE2/HardcoreEnderExpansion_1.4.3.zip" file="HardcoreEnderExpansion_1.4.3.zip" md5="32971b639452f25f62efa42e2e55d0bd" download="server" 
+	<mod url="packs/ResonantRise/files/HardcoreEnderExpansion_1.4.3.zip" file="HardcoreEnderExpansion_1.4.3.zip" md5="4a51f4d249ada5a69078be13460fcd07" download="server" 
          name="Hardcore Ender Expansion" type="mods" version="1.4.3"
          website="http://hardcore-enderdragon.wikia.com/wiki/Home"
          description="The Ender Dragon Is Not Happy With You."
@@ -332,8 +332,8 @@
          version="5.4.1.702"
          website="http://www.minecraftforum.net/topic/981855-15-and-up-forge-universalironchests-50-minecraft-15-update/"
          description="The Best Chest Upgrades" />
-    <mod url="packs/ResonantRise/files/2.6/JABBA_1.1.1a.zip" file="JABBA_1.1.1a.zip" md5="a17a9c4ddf840482b916c59e3806c49f" download="server" 
-         name="Jabba" type="mods" version="1.1.1a"
+    <mod url="packs/ResonantRise/files/JABBA_1.1.2a.zip" file="JABBA_1.1.2a.zip" md5="23030a35caaa01a1a9bf6fccfe208edb" download="server" 
+         name="Jabba" type="mods" version="1.1.2a"
          website="http://profmobius.blogspot.fr/2013/11/jabba-100.html"
          donation="http://profmobius.blogspot.fr/"
          description="Just a Better Barrel Addon." />
@@ -389,8 +389,8 @@
 		 type="mods"
 		 website="http://www.minechemmod.com/joomla/" authors="pixlepix"
 		 description="Chemical industry in Minecraft!" />
-	<mod url="packs/ResonantRise/files/2.6/MineFactoryReloaded-2.7.5-352.jar" file="MineFactoryReloaded-2.7.5-352.jar" md5="4bfaffa17f83bb0567ad93f6ae639a3d" download="server"
-         name="MineFactory Reloaded [Skyboy Fork]" type="mods" version="2.7.5-352"
+	<mod url="packs/ResonantRise/files/MineFactoryReloaded-2.7.6-448.jar" file="MineFactoryReloaded-2.7.6-448.jar" md5="3e11013ae7e327d4fb5f1d9bdef10fcd" download="server" 
+         name="MineFactory Reloaded [Skyboy Fork]" type="mods" version="2.7.6-448"
          website="http://www.minecraftforum.net/topic/2016680-162164-"
          description="Originally by PowerCrystals"
          fileprefix="00000_" />
@@ -419,8 +419,8 @@
          name="NEI Addons" type="mods" version="1.10.4.64"
          website="http://www.minecraftforum.net/topic/1803460-nei-addons-v181-with-forestry-2280-support/"
          description="Non-critical UI improvements." />
-    <mod url="packs/ResonantRise/files/2-STABLE/NetherOres-2.2.1-14.jar" file="NetherOres-2.2.1-14.jar" md5="3bb3bba8316b3999eab6f3e15ae4e44d" download="server"
-         name="Nether Ores [Skyboy Fork]" type="mods" version="2.2.1-14"
+    <mod url="packs/ResonantRise/files/NetherOres-2.2.2-55.jar" file="NetherOres-2.2.2-55.jar" md5="af4af435c35bc6ff81d43d070c29baaf" download="server" 
+         name="Nether Ores [Skyboy Fork]" type="mods" version="2.2.2-55"
          website="http://www.minecraftforum.net/topic/2016680-162164-"
          description="Originally by PowerCrystals" />
     <mod url="packs/ResonantRise/files/2.6/NotEnoughItems 1.6.1.9.jar" file="NotEnoughItems 1.6.1.9.jar" md5="a24b36e61c41a75d0622fe0c6ba535b7" download="server" 
@@ -437,8 +437,8 @@
          name="Obsidiplates" type="mods"  version="2.0.0.15"
          website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/"
          description="Improved pressure plates. Creepers will never open your door again."  />
-    <mod url="packs/ResonantRise/files/2.6/OpenBlocks-1.2.5.jar" file="OpenBlocks-1.2.5.jar" md5="fdec4dc4885782c5e29470603be374fb" download="server" 
-         name="OpenBlocks" type="mods" version="1.2.5"
+    <mod url="packs/ResonantRise/files/OpenBlocks-1.2.7.jar" file="OpenBlocks-1.2.7.jar" md5="2c4e7c19bf58d93abef3ada1de4b1354" download="server" 
+         name="OpenBlocks" type="mods" version="1.2.7"
          website="http://openmods.info/"
          description="An amazing open source mode that does amazing things." />
 	<mod name="OpenComponents" version="dev28"
@@ -451,15 +451,15 @@
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2201440-"
 		 description="Computers for hipsters and bytecode leethaxxors." />
-	<mod url="packs/ResonantRise/files/2.6/OpenModsLib-0.2.jar" file="OpenModsLib-0.2.jar" md5="b46b34811e34cdb25fd8b62788a46211" download="server" 
-         name="OpenModsLib" type="mods" version="0.2"
+	<mod url="packs/ResonantRise/files/OpenModsLib-0.4.jar" file="OpenModsLib-0.4.jar" md5="7c945b8f7e12e525aa55eb7e1ee49c74" download="server" 
+         name="OpenModsLib" type="mods" version="0.4"
          website="http://openmods.info/"
          description="A new coremod for Open Mods!" />
-    <mod url="packs/ResonantRise/files/2.6/OpenPeripheralAddons-0.1.1.jar" file="OpenPeripheralAddons-0.1.1.jar" md5="85befeb544fb50ad404f613c6a2bddc5" download="server" 
-         name="OpenPeripheral Addons" version="0.1.1"
+    <mod url="packs/ResonantRise/files/OpenPeripheralAddons-0.1.3.jar" file="OpenPeripheralAddons-0.1.3.jar" md5="9e3afe19616904f6862534658d900f31" download="server" 
+         name="OpenPeripheral Addons" version="0.1.3"
          website="http://www.openperipheral.info/" description="Addons for OpenPeripheral!" type="mods" />
-	<mod url="packs/ResonantRise/files/2.6/OpenPeripheralCore-0.3.1.jar" file="OpenPeripheralCore-0.3.1.jar" md5="6349c189460f0c88c4b6d31b8c7e939d" download="server" 
-         name="OpenPeripheral Core" version="0.3.1"
+	<mod url="packs/ResonantRise/files/OpenPeripheralCore-0.3.3.jar" file="OpenPeripheralCore-0.3.3.jar" md5="0441edc6fad9d5a6a11c903df77934fe" download="server" 
+         name="OpenPeripheral Core" version="0.3.3"
          website="http://www.openperipheral.info/" description="Open source improved ComputerCraft peripherals. Includes the beloved AR goggles." type="mods" />
 	<mod url="packs/ResonantRise/files/2.6/Opis_1.1.3a_alpha.zip" file="Opis_1.1.3a_alpha.zip" md5="52e7c75fded3da8353458c1611218daf" download="server"
          name="Opis" type="mods" group="Cartographer" depends="Mobius Core" version="1.1.3a_alpha"
@@ -622,6 +622,10 @@
          name="TubeStuff" type="mods" version="57.1.3"
          website="http://www.minecraftforum.net/topic/1001131-"
          description="Honestly no one is even sure anymore." />
+	<mod url="packs/ResonantRise/files/twilightforest-1.6.4-1.20.4.jar" file="twilightforest-1.6.4-1.20.4.jar" md5="1e0365894a46ce4da37ee10c292f5220" download="server"
+		 name="The Twilight Forest" type="mods" version="1.20.4" 
+		 website="http://www.minecraftforum.net/topic/561673-" authors="Benimatic (Ben Mazur)" 
+		 description="An enchanted forest dimension." />
     <mod url="packs/ResonantRise/files/2-STABLE/UndergroundBiomes%201.6.x%20-%200.4.2c.zip" file="UndergroundBiomes 1.6.x - 0.4.2c.zip" md5="35a3048ba53b34cf5300d9e008fc7f03" download="server"
          name="Underground Biomes" type="mods" optional="yes" version="0.4.2c"
          website="http://www.minecraftforum.net/topic/1593704-"
@@ -641,8 +645,8 @@
          website="http://www.minecraftforum.net/topic/1846244-152-waila-134-block-and-mod-info-ingame/"
          donation="http://profmobius.blogspot.fr/"
          description="What am I looking at?" />
-    <mod url="packs/ResonantRise/files/2.6/Witchery_0-15-1_164.zip" file="Witchery_0-15-1_164.zip" md5="5d52fc6bb32ed614dfa193fda629c06d" download="server" 
-         name="Witchery" type="mods" version="0.15.1"
+    <mod url="packs/ResonantRise/files/Witchery_0-16-3_164.zip" file="Witchery_0-16-3_164.zip" md5="e8b7eeadd6f8c665f071161891f88dc9" download="server" 
+         name="Witchery" type="mods" version="0.16.3"
          website="https://sites.google.com/site/witcherymod/home" description="More magic with a witch's bent!"
          />
     <mod url="packs/ResonantRise/files/2.6/WR-CBE 1.4.0.7.jar" file="WR-CBE 1.4.0.7.jar" md5="4eda736a4fb702d585ed1e96ef460bc2" download="server" 
@@ -700,22 +704,6 @@
          donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HCQMGHQ4D5GQ4"
          description="Choo Choo Buckaroo and also boilers."
          depends="Buildcraft"/>
-    <mod url="http://adf.ly/Zvi5J"
-         md5="F36991512E147B9A1CABE1A0E8FF9049"
-         file="twilightforest-1.20.3.jar"
-         download="browser"
-         name="Twilight Forest"
-         type="mods"
-         version="1.20.3"
-         website="http://www.minecraftforum.net/topic/561673-152-the-twilight-forest-v1182-lost-halls-of-the-knights/"
-         description="A whole new world."  />
-	
-	<!-- Remote Downloads (Client Mods) -->
-	<mod url="http://journeymap.techbrew.net/download" file="JourneyMap3.3.2_Unlimited_MC1.6.4.jar" md5="8B77758FB97A88CFA9126B88CACEE537" download="browser"
-         name="JourneyMap"  type="mods" server="no" optional="yes" selected="yes" recommended="yes" group="Cartographer"
-         version="3.3.2"
-         website="http://journeymap.techbrew.net/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=D5KK9FRAQG6DE"
-         description="Pair this with Rei's or Zan's Minimap for best results!" />
 	
   </mods>
 </version>
