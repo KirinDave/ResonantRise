@@ -497,7 +497,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1002,Block,factorization,tile.factorization.ResourceBlock,factorization.common.BlockResource
 1003,Block,factorization,tile.bedrock,net.minecraft.block.Block
 1004,Block,factorization,tile.factorization:darkIronOre,factorization.darkiron.BlockDarkIronOre
-1010,Block,NetherOres,tile.netherores.hellfish,powercrystals.netherores.world.BlockHellfish
+1010,Block,Minecraft,tile.netherores.hellfish,powercrystals.netherores.world.BlockHellfish
 1011,Block,NetherOres,tile.netherores.ore.0,powercrystals.netherores.ores.BlockNetherOres
 1012,Block,NetherOres,tile.netherores.ore.1,powercrystals.netherores.ores.BlockNetherOres
 1020,Block,MineFactoryReloaded,tile.mfr.machine.0,powercrystals.minefactoryreloaded.block.BlockFactoryMachine
@@ -788,6 +788,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 1730,Block,Metallurgy3Machines,tile.Metallurgy:machines/enchanter/Enchanter,rebelkeithy.mods.metallurgy.machines.enchanter.BlockMetallurgyEnchantmentTable
 1753,Block,MagicBees,tile.effectJar,magicbees.block.BlockEffectJar
 1754,Block,MagicBees,tile.hive,magicbees.block.BlockHive
+1846,Block,witchery,tile.witcheryDemonHeart,com.emoniph.witchery.blocks.BlockDemonHeart
 1847,Block,witchery,tile.witcherySpiritPortal,com.emoniph.witchery.blocks.BlockSpiritPortal
 1848,Block,witchery,tile.witcherySpinningWheel,com.emoniph.witchery.blocks.BlockSpinningWheel
 1849,Block,witchery,tile.witcherySomnianCotton,com.emoniph.witchery.blocks.BlockCotton
@@ -1171,6 +1172,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 2573,Block,OpenBlocks,tile.openblocks.projector,openblocks.common.block.BlockProjector
 2574,Block,OpenBlocks,tile.openblocks.drawingtable,openblocks.common.block.BlockDrawingTable
 2577,Block,OpenBlocks,tile.openblocks.radio,openblocks.common.block.BlockRadio
+2578,Block,OpenBlocks,tile.openblocks.sky,openblocks.common.block.BlockSky
+2579,Block,OpenBlocks,tile.openblocks.xpshower,openblocks.common.block.BlockXPShower
 2600,Block,Thaumcraft,tile.blockAiry,thaumcraft.common.blocks.BlockAiry
 2601,Block,Thaumcraft,tile.blockArcaneDoor,thaumcraft.common.blocks.BlockArcaneDoor
 2602,Block,Thaumcraft,tile.blockArcaneFurnace,thaumcraft.common.blocks.BlockArcaneFurnace
@@ -1854,6 +1857,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 4614,Item,standardcrops,item.SeedsTomato,magicalcrops.standardCrops.SeedsTomato
 4615,Item,standardcrops,item.FoodProduce,magicalcrops.standardCrops.FoodProduce
 4616,Item,standardcrops,item.FoodMagic,magicalcrops.standardCrops.FoodMagic
+4617,Item,standardcrops,item.SeedsSugarCane,magicalcrops.standardCrops.SeedsSugarCane
 4628,Item,standardcrops,item.FoodJuice,magicalcrops.standardCrops.FoodJuice
 4629,Item,standardcrops,item.FoodEssenceBread,magicalcrops.standardCrops.FoodEssenceBread
 4630,Item,standardcrops,item.FoodRaw,magicalcrops.standardCrops.FoodRaw
@@ -2404,6 +2408,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 10271,Item,ExtraUtilities,item.extrautils:golden_bag,extrautils.item.ItemGoldenBag
 10272,Item,ExtraUtilities,item.extrautils:scanner,extrautils.item.scanner.ItemScanner
 10273,Item,ExtraUtilities,item.extrautils:microblocks,extrautils.multipart.microblock.ItemMicroBlock
+10274,Item,ExtraUtilities,item.extrautils:shears,extrautils.item.ItemPrecisionShears
 10356,Item,Additional-Buildcraft-Objects,item.ItemGateSettingsDuplicator,abo.items.ItemGateSettingsDuplicator
 10456,Item,Additional-Buildcraft-Objects,item.PipeFluidsValve,buildcraft.transport.ItemPipe
 10457,Item,Additional-Buildcraft-Objects,item.PipeFluidsGoldenIron,buildcraft.transport.ItemPipe
@@ -2448,6 +2453,11 @@ ID,Block/Item,Mod,Unlocalised name,Class
 10900,Item,witchery,item.witcheryLouse,com.emoniph.witchery.item.ItemParasyticLouse
 10901,Item,witchery,item.witcheryBucketSpirit,com.emoniph.witchery.item.ItemBucketSpirit
 10902,Item,witchery,item.witcheryBitingBelt,com.emoniph.witchery.item.ItemWitchesClothes
+10903,Item,witchery,item.witcheryBrewBag,com.emoniph.witchery.item.ItemBrewBag
+10904,Item,witchery,item.witcheryBarkBelt,com.emoniph.witchery.item.ItemWitchesClothes
+10905,Item,witchery,item.witcheryRubySlippers,com.emoniph.witchery.item.ItemWitchesClothes
+10906,Item,witchery,item.witcherySeepingShoes,com.emoniph.witchery.item.ItemWitchesClothes
+10907,Item,witchery,item.witcheryHuntsmanSpear,com.emoniph.witchery.item.ItemHuntsmanSpear
 11387,Item,MFFS,item.mffs:remoteController,mffs.item.ItemRemoteController
 11388,Item,MFFS,item.mffs:focusMatrix,mffs.base.ItemMFFS
 11389,Item,MFFS,item.mffs:modeCube,mffs.item.mode.ItemModeCube
@@ -3237,6 +3247,8 @@ ID,Block/Item,Mod,Unlocalised name,Class
 18671,Item,ForbiddenMagic,item.WandCaps,com.spiteful.forbidden.items.ItemWandCaps
 18672,Item,ForbiddenMagic,item.GluttonyShard,com.spiteful.forbidden.items.ItemGluttonyShard
 18673,Item,ForbiddenMagic,item.Bloodwell,com.spiteful.forbidden.items.ItemBloodwell
+18674,Item,ForbiddenMagic,item.Crystalwell,com.spiteful.forbidden.items.ItemCrystalwell
+18675,Item,ForbiddenMagic,item.RidingCrop,com.spiteful.forbidden.items.ItemRidingCrop
 18789,Item,AdvancedThaumaturgy,item.at.mercurialrod,net.ixios.advancedthaumaturgy.items.ItemMercurialRodBase
 18790,Item,AdvancedThaumaturgy,item.null,net.ixios.advancedthaumaturgy.items.ItemMercurialWand
 18791,Item,AdvancedThaumaturgy,item.null,net.ixios.advancedthaumaturgy.items.ItemInfusedThaumium
@@ -3479,6 +3491,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 21301,Item,MineFactoryReloaded,item.mfr.rocketlauncher,powercrystals.minefactoryreloaded.item.ItemRocketLauncher
 21302,Item,MineFactoryReloaded,item.mfr.rocket,powercrystals.minefactoryreloaded.item.ItemRocket
 21305,Item,MineFactoryReloaded,item.mfr.plastic.bag,powercrystals.minefactoryreloaded.item.ItemFactoryBag
+21306,Item,MineFactoryReloaded,item.mfr.armor.boots.plastic,powercrystals.minefactoryreloaded.item.ItemPlasticBoots
 21404,Item,MineFactoryReloaded,item.mfr.fishingrod,powercrystals.minefactoryreloaded.item.ItemFishingRod
 21443,Item,MineFactoryReloaded,item.mfr.hammer,powercrystals.minefactoryreloaded.item.ItemFactoryHammer
 21448,Item,MineFactoryReloaded,item.mfr.fertilizer,powercrystals.minefactoryreloaded.item.ItemFactory

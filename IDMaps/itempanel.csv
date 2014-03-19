@@ -1,129 +1,32 @@
 Item ID,Item meta,Has NBT,Display Name
-3101,0,false,DNA Extractor
-3102,0,false,Syringe Sanitizer
-3103,0,false,Computer Mainframe
-3104,0,false,Gene Sequencer
-3105,0,false,Cryogenic Freezer
-3106,0,false,Genome Incubator
-3107,0,false,Disgusting Meat Cube
-3108,0,false,Cryogenic Tube
-3110,0,false,Thermosonic Bonder
-3111,0,false,Data Reel Duplicator
-3112,0,false,Liquid DNA
-3113,0,false,Liquid Mutant DNA
-3114,0,false,Abomination Egg
-3115,0,false,Block of Enderslime
-3116,0,false,Soniclocator Device
-4098,32,false,Priest Memory Reel
-4098,64,false,Farmer Memory Reel
-4098,128,false,Butcher Memory Reel
-4098,256,false,Blacksmith Memory Reel
-4098,512,false,Librarian Memory Reel
-21501,0,false,Bucket of Liquid DNA
-21502,0,false,Bucket of Liquid Mutant DNA
-21503,0,false,Empty Data Reel
-21506,0,false,Sequenced Cave Spider Genome
-21507,0,false,Sequenced Chicken Genome
-21508,0,false,Sequenced Cow Genome
-21509,0,false,Sequenced Creeper Genome
-21510,0,false,Sequenced Bat Genome
-21511,0,false,Sequenced Enderman Genome
-21512,0,false,Sequenced Ghast Genome
-21513,0,false,Sequenced Horse Genome
-21514,0,false,Sequenced Mushroom Cow Genome
-21515,0,false,Sequenced Ocelot Genome
-21516,0,false,Sequenced Pig Genome
-21517,0,false,Sequenced Pig Zombie Genome
-21518,0,false,Sequenced Sheep Genome
-21519,0,false,Sequenced Skeleton Genome
-21520,0,false,Sequenced Spider Genome
-21521,0,false,Sequenced Slime Genome
-21522,0,false,Sequenced Squid Genome
-21523,0,false,Sequenced Villager Genome
-21524,0,false,Sequenced Witch Genome
-21525,0,false,Sequenced Wolf Genome
-21526,0,false,Sequenced Zombie Genome
-21527,51,false,Werewolf Genome
-21527,52,false,Disgusting Meat Cube
-21527,53,false,Creeper Cow Genome
-21527,54,false,Wooly Cow Genome
-21527,55,false,Shoggoth Genome
-21527,56,false,Abomination Genome
-21527,57,false,Wither Skeleton Genome
-21527,58,false,Villager Genome
-21527,59,false,Skeleton Horse Genome
-21527,60,false,Zombie Horse Genome
-21527,61,false,Ender Squid Genome
-21527,62,false,Enderslime Genome
-21534,0,false,Empty Syringe
-21535,0,false,Filled Syringe of Cave Spider DNA
-21536,0,false,Filled Syringe of Chicken DNA
-21537,0,false,Filled Syringe of Cow DNA
-21538,0,false,Filled Syringe of Creeper DNA
-21539,0,false,Filled Syringe of Bat DNA
-21540,0,false,Filled Syringe of Enderman DNA
-21541,0,false,Filled Syringe of Horse DNA
-21542,0,false,Filled Syringe of Mushroom Cow DNA
-21543,0,false,Filled Syringe of Ocelot DNA
-21544,0,false,Filled Syringe of Pig DNA
-21545,0,false,Filled Syringe of Sheep DNA
-21546,0,false,Filled Syringe of Spider DNA
-21547,0,false,Filled Syringe of Squid DNA
-21548,0,false,Filled Syringe of Villager DNA
-21549,0,false,Filled Syringe of Witch DNA
-21550,0,false,Filled Syringe of Wolf DNA
-21551,0,false,Filled Syringe of Zombie DNA
-21552,0,false,Filled Syringe of Mutant DNA
-21553,0,false,Dirty Syringe
-21554,0,false,Sample of Cave Spider DNA
-21555,0,false,Sample of Chicken DNA
-21556,0,false,Sample of Cow DNA
-21557,0,false,Sample of Creeper DNA
-21558,0,false,Sample of Bat DNA
-21559,0,false,Sample of Enderman DNA
-21560,0,false,Sample of Ghast DNA
-21561,0,false,Sample of Horse DNA
-21562,0,false,Sample of Mushroom Cow DNA
-21563,0,false,Sample of Ocelot DNA
-21564,0,false,Sample of Pig DNA
-21566,0,false,Sample of Sheep DNA
-21567,0,false,Sample of Skeleton DNA
-21568,0,false,Sample of Spider DNA
-21569,0,false,Sample of Slime DNA
-21570,0,false,Sample of Squid DNA
-21571,0,false,Sample of Villager DNA
-21572,0,false,Sample of Witch DNA
-21573,0,false,Sample of Wolf DNA
-21574,0,false,Sample of Zombie DNA
-21656,51,false,Werewolf
-21656,53,false,Creeper Cow
-21656,54,false,Wooly Cow
-21656,55,false,Shoggoth
-21656,56,false,Abomination
-21656,57,false,Skeleton
-21656,58,false,Zombie
-21656,59,false,Horse
-21656,60,false,Horse
-21656,61,false,Ender Squid
-21656,62,false,Enderslime
-21659,0,false,Comparator Circuit Component
-21660,0,false,Diamond Circuit Component
-21661,0,false,Emerald Circuit Component
-21662,0,false,Ender Eye Circuit Component
-21663,0,false,Ender Pearl Circuit Component
-21664,0,false,Glowstone Circuit Component
-21665,0,false,Redstone Circuit Component
-21666,0,false,Spider Eye Circuit Component
-21707,0,false,Case Component
-21708,0,false,Computer Component
-21709,0,false,CPU Component
-21710,0,false,Fan Component
-21711,0,false,Fused Quartz Component
-21712,0,false,Magnetic Tape Component
-21713,0,false,Power Supply Component
-21714,0,false,RAM Component
-21715,0,false,Screen Component
-21716,0,false,Silicon Wafer Component
-21717,0,false,Transistor Component
-21718,0,false,Thumper
-21719,0,false,Enderslime
+1011,0,false,Nether Coal Ore
+1011,1,false,Nether Diamond Ore
+1011,2,false,Nether Gold Ore
+1011,3,false,Nether Iron Ore
+1011,4,false,Nether Lapis Ore
+1011,5,false,Nether Redstone Ore
+1011,6,false,Nether Copper Ore
+1011,7,false,Nether Tin Ore
+1011,8,false,Nether Emerald Ore
+1011,9,false,Nether Silver Ore
+1011,10,false,Nether Lead Ore
+1011,11,false,Nether Uranium Ore
+1011,12,false,Nether Nikolite Ore
+1011,13,false,Nether Ruby Ore
+1011,14,false,Nether Peridot Ore
+1011,15,false,Nether Sapphire Ore
+1012,0,false,Nether Platinum Ore
+1012,1,false,Nether Ferrous Ore
+1012,2,false,Nether Pig Iron Ore
+1012,3,false,Nether Iridium Ore
+1012,4,false,Nether Osmium Ore
+1012,5,false,Nether Sulfur Ore
+1012,6,false,Nether Titanium Ore
+1012,7,false,Nether Mythril Ore
+1012,8,false,Nether Adamantium Ore
+1012,9,false,Nether Rutile Ore
+1012,10,false,Nether Tungsten Ore
+1012,11,false,Nether Amber Ore
+1012,12,false,Nether Tennantite Ore
+1012,13,false,Nether Salt Ore
+1012,14,false,Nether Saltpeter Ore

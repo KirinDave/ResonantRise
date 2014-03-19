@@ -72,7 +72,9 @@ ID,Unlocalised name,Type,Min Level,Max Level,Class
 153,enchantment.haste,armor,1,3,thaumcraft.common.lib.enchantment.EnchantmentHaste
 154,enchantment.repair,all,1,2,thaumcraft.common.lib.enchantment.EnchantmentRepair
 188,Reading,armor_head,1,1,jds.bibliocraft.EnchantmentReading
-190,enchantment.openblocks.explosive,armor,1,3,openblocks.common.EnchantmentExplosive
+190,enchantment.openblocks.explosive,armor,1,3,openblocks.enchantments.EnchantmentExplosive
+191,enchantment.openblocks.flimflam,all,1,4,openblocks.enchantments.EnchantmentFlimFlam
+192,enchantment.openblocks.laststand,armor,1,2,openblocks.enchantments.EnchantmentLastStand
 200,enchantment.blink,all,1,3,mariculture.magic.enchantments.EnchantmentBlink
 201,enchantment.clock,all,1,1,mariculture.magic.enchantments.EnchantmentClock
 202,enchantment.fall,all,1,4,mariculture.magic.enchantments.EnchantmentFallDamage
