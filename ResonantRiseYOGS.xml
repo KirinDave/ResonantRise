@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.7.1.1-RR-YOGS</version>
+    <version>2.7.1.2-RR-YOGS</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -85,8 +85,8 @@
          name="Atomic Science" type="mods" version="1.1.0.53"
          website="http://universalelectricity.com/" donation="http://universalelectricity.com/"
          description="Nuclear steam power!" />
-    <mod url="packs/YogscraftCompletePack/files/mods/autoutils-1.6.4-1.0.1.jar" file="autoutils-1.6.4-1.0.1.jar" md5="a1ba0914e3b6047906214f3b63ba59d6" download="server"
-         name="AutoUtils [Chisel Libs]" type="mods" version="1.0.1"
+    <mod url="packs/YogscraftCompletePack/files/mods/autoutils-1.6.4-1.0.1a.jar" file="autoutils-1.6.4-1.0.1a.jar" md5="a1ba0914e3b6047906214f3b63ba59d6" download="server" 
+         name="AutoUtils [Chisel Libs]" type="mods" version="1.0.1a"
          website="http://www.minecraftforum.net/topic/1749374-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=NS64FL5ZXYG3N&amp;lc=RU&amp;item_name=I%20write%20mods%20for%20minecraft&amp;item_number=minecraft&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="Chisel Util Mod" />
     <mod url="packs/YogscraftCompletePack/files/mods/backpack-1.27.34-1.6.x.jar" file="backpack-1.27.34-1.6.x.jar" md5="b7c847583ce5f2d7117a2d04c60edc8c" download="server" 
@@ -153,8 +153,8 @@
 		 website="http://www.minecraftforum.net/topic/909223-"
 		 donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" authors="ChickenBones"
 		 description="Advanced chunkloading management" />
-	<mod url="packs/YogscraftCompletePack/files/mods/chisel-1.6.4-1.5.0fix.jar" file="chisel-1.6.4-1.5.0fix.jar" md5="643a4cce13eab1af9a378977febc609b" download="server"
-         name="Chisel" type="mods" version="1.5.0fix"
+	<mod url="packs/YogscraftCompletePack/files/mods/Chisel-1.6.4-1.6.0.1.zip" file="Chisel-1.6.4-1.6.0.1.zip" md5="0d7aa3ec92499a0aa3e5a37b333f22cd" download="server" 
+         name="Chisel" type="mods" version="1.6.0.1"
          website="http://www.minecraftforum.net/topic/1749374-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=NS64FL5ZXYG3N&amp;lc=RU&amp;item_name=I%20write%20mods%20for%20minecraft&amp;item_number=minecraft&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="Basically the best decorative mod ever." />
 	<mod name="Chocolate Quest" version="2.09"
@@ -735,6 +735,11 @@
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/1114866-"
 		 description="Furniture with a crayfish's aesthetic." />
+	<mod name="qCraft" version="1.1"
+		 url="packs/YogscraftCompletePack/files/yogs-extras/qCraft1.1.jar" file="qCraft1.1.jar" md5="e0f19659847c65b3aa280ad2847bd1a8" download="server"
+		 type="mods"
+		 website="http://www.qcraft.org" authors="Daniel Ratcliffe,TeacherGaming LLC"
+		 description="Quantum Mechanics meets Minecraft!" />
 	<mod name="The SecretRoomsMod" version="4.6.2.323"
 		 url="packs/YogscraftCompletePack/files/yogs-extras/SecretRoomsMod-universal-1.6.4-4.6.2.323.jar" file="SecretRoomsMod-universal-1.6.4-4.6.2.323.jar" md5="34eb87483ddb911aefbe26b5489369b0" download="server"
 		 type="mods"
