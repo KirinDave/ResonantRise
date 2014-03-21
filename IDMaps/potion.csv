@@ -69,5 +69,7 @@ ID,Unlocalised name,Class
 105,Reciprocation,WayofTime.alchemicalWizardry.common.PotionReciprocation
 106,Flame Cloak,WayofTime.alchemicalWizardry.common.PotionFlameCloak
 107,Ice Cloak,WayofTime.alchemicalWizardry.common.PotionIceCloak
-110,grc.potion.tipsy,growthcraft.cellar.potion.PotionCellar
+108,Heavy Heart,WayofTime.alchemicalWizardry.common.PotionHeavyHeart
+109,Fire Fuse,WayofTime.alchemicalWizardry.common.PotionFireFuse
+110,Planar Binding,WayofTime.alchemicalWizardry.common.PotionPlanarBinding
 256,Delirium,pixlepix.minechem.common.PotionProvider
