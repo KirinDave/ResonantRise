@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.7.2.2-RR</version>
+    <version>2.7.2.3-RR</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -706,16 +706,17 @@
          depends="Buildcraft"/>
 		 
 	<!-- Config Modes -->
-	<mod name="Game Mode: Make Powergen Fair" version="n/a"
-		 url="packs/ResonantRise/files/config-switches/power_default.zip" file="power_default.zip" md5="2107b9c27ebc89616e7ab728032412d7" download="server"
-		 type="extract" extractto="root" optional="yes" selected="yes" group="PowerMode"
-		 website="http://resonant-rise.com"
-		 description="Standard power settings." />
+        <!-- One mode MUST be a default. -->
 	<mod name="Game Mode: Make Powergen Fun" version="n/a"
 		 url="packs/ResonantRise/files/config-switches/power_fun.zip" file="power_fun.zip" md5="222558f05e50fcba209b8fb5bca80144" download="server" 
-		 type="extract" extractto="root" optional="yes" selected="no" group="PowerMode"
+		 type="extract" extractto="root" optional="no"
 		 website="http://resonant-rise.com"
-		 description="Fun power settings closer to the originals for RR. More investment, more reward!" />
+		 description="Fun power mode incresaes the output of reactors by 5-11x. Build a reactor and stop worrying!" />
+	<mod name="Game Mode: Make Powergen Fair" version="n/a"
+		 url="packs/ResonantRise/files/config-switches/power_default.zip" file="power_default.zip" md5="2107b9c27ebc89616e7ab728032412d7" download="server"
+		 type="extract" extractto="root" optional="yes" selected="no"
+		 website="http://resonant-rise.com"
+		 description="Standard power settings." />
 	
   </mods>
 </version>
