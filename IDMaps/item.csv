@@ -1687,7 +1687,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3786,Block,AtomicScience,tile.atomicscience:quantumAssembler,atomicscience.particle.quantum.BlockQuantumAssembler
 3788,Block,AtomicScience,tile.atomicscience:toxicWaste,atomicscience.fission.reactor.BlockToxicWaste
 3789,Block,AtomicScience,tile.atomicscience:reactorDrain,atomicscience.fission.reactor.BlockReactorDrain
-3790,Block,AtomicScience,tile.atomicscience:uraniumOre,atomicscience.fission.BlockUraniumOre
+3790,Block,minechem,tile.minechem.uraniumOre,pixlepix.minechem.common.blocks.OreUranium
 3802,Block,minechem,tile.minechem.blockMicroscope,pixlepix.minechem.common.blocks.BlockMicroscope
 3803,Block,minechem,tile.blockChemicalDecomposer,pixlepix.minechem.common.blocks.BlockDecomposer
 3804,Block,minechem,tile.minechem.blockSynthesis,pixlepix.minechem.common.blocks.BlockSynthesis
@@ -1700,7 +1700,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 3812,Block,minechem-particlephysics,tile.Infinite Emitter,pixlepix.minechem.particlephysics.blocks.InfiniteEmitter
 3818,Block,minechem-particlephysics,tile.Emitter,pixlepix.minechem.particlephysics.blocks.Emitter
 3819,Block,minechem-particlephysics,tile.Polarized Glass,pixlepix.minechem.particlephysics.blocks.PolarizedGlass
-3830,Block,minechem,tile.minechem.uraniumOre,pixlepix.minechem.common.blocks.OreUranium
+3830,Block,AtomicScience,tile.atomicscience:uraniumOre,atomicscience.fission.BlockUraniumOre
 3901,Block,HardcoreEnderExpansion,tile.templeEndPortal,chylex.hee.block.BlockTempleEndPortal
 3902,Block,HardcoreEnderExpansion,tile.mobSpawner,chylex.hee.block.BlockCustomSpawner
 3903,Block,HardcoreEnderExpansion,tile.laserBeam,chylex.hee.block.BlockLaserBeam
@@ -2218,6 +2218,7 @@ ID,Block/Item,Mod,Unlocalised name,Class
 7822,Item,Railcraft,item.railcraft.tool.whistle.tuner,mods.railcraft.common.items.ItemWhistleTuner
 7900,Item,rcdusts,item.Copper Dust,rcDusts.items.ItemDust
 8067,Item,chisel,item.chisel.chisel,info.jbcs.minecraft.chisel.items.ItemChisel
+8068,Item,chisel,item.chisel.diamondchisel,info.jbcs.minecraft.chisel.items.ItemChiselDiamond
 8069,Item,chisel,item.chisel.cloudinabottle,info.jbcs.minecraft.chisel.items.ItemCloudInABottle
 8070,Item,chisel,item.chisel.ballomoss,info.jbcs.minecraft.chisel.items.ItemBallOMoss
 8100,Item,BetterDungeons,item.Egg,chocolate.mods.BD.items.ItemEggBD

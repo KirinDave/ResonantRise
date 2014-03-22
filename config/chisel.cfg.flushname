@@ -226,7 +226,7 @@ general {
     B:"Flip Chisel Recipe"=false
 
     # If true,chisels now have limited uses and no longer instantly break chisel blocks
-    B:Hardmode=false
+    B:Hardmode=true
 
     # Set to true to allow vertically connected textures to rotate and connect on the horizonal if connected on the horizontal
     B:"Rotate vertical connected textures"=true

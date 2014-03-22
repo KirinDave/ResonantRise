@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.7.2.1-RR</version>
+    <version>2.7.2.2-RR</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -161,8 +161,8 @@
          name="ChocoCraft" type="mods" version="3.0.3"
          website="http://www.minecraftforum.net/topic/1119809-"
          description="Wark?" />
-	<mod name="Chocolate Quest" version="2.09"
-		 url="packs/ResonantRise/files/2-STABLE2/BetterDungeons209.zip" file="BetterDungeons209.zip" md5="59a3f6781f5b0eb37803ceb6e4a320f6" download="server" 
+	<mod name="Chocolate Quest" version="2.091"
+		 url="packs/ResonantRise/files/2-STABLE2/BetterDungeons2091.zip" file="BetterDungeons2091.zip" md5="b7918aa5210ff6a317f9a3ded449f94a" download="server" 
 		 type="mods" website="http://www.minecraftforum.net/topic/746330-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=marsalada_saladamar%40hotmail%2ecom&amp;lc=US&amp;no_note=0&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHostedGuest" authors="Chocolatin"
 		 description="The star of the RR 2.7 show! Finally some real adventures!" />
 	<mod url="packs/ResonantRise/files/2.6/CodeChickenCore 0.9.0.9.jar" file="CodeChickenCore 0.9.0.9.jar" md5="d8800f201da7fe01ba1f8127a9a568ff" download="server" 
@@ -221,8 +221,8 @@
          depends="EmasherResource"
          website="http://emashersmods.wikispaces.com"
          description="Build big or build tiny." />
-    <mod url="packs/ResonantRise/files/2.6/EnhancedPortals-1.6.4-3.0.0b5d.jar" file="EnhancedPortals-1.6.4-3.0.0b5d.jar" md5="58da1d4b612a581176654fea14ef133e" download="server" 
-         name="EnhancedPortals 3" type="mods" version="3.0.0b5d"
+    <mod url="packs/ResonantRise/files/2-STABLE2/EnhancedPortals-1.6.4-3.0.0b5e.jar" file="EnhancedPortals-1.6.4-3.0.0b5e.jar" md5="d29f2f0dd37222bf79ad154cbd0a0551" download="server" 
+         name="EnhancedPortals 3" type="mods" version="3.0.0b5e"
          website="http://www.minecraftforum.net/topic/2143651-"
          description="Custom teleportation that looks fancier!" />
 	<mod url="packs/ResonantRise/files/2-STABLE2/ExtraCells-1.6.8e.jar" file="ExtraCells-1.6.8e.jar" md5="57f64fd35e49e8f2cb742e9eff2608b3" download="server" 
@@ -344,8 +344,8 @@
     <mod url="packs/ResonantRise/files/2-STABLE2/liquid-xp-57.1.2.jar" file="liquid-xp-57.1.2.jar" md5="74b3a1edae1362578f4141e9fd1d5e1e" download="server"
          name="Liquid XP" depends="ImmibisCore"  type="mods"
          version="57.1.2" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="Advanced use of XP for auto-enchanting."  />
-    <mod url="packs/ResonantRise/files/2-STABLE2/LogisticsPipes-MC1.6.4-0.7.4.dev.117.jar" file="LogisticsPipes-MC1.6.4-0.7.4.dev.117.jar" md5="952e7742427914573226fb044257ba9b" download="server" 
-         name="Logistics Pipes" type="mods" version="0.7.4.dev.117"
+    <mod url="packs/ResonantRise/files/2-STABLE2/LogisticsPipes-MC1.6.4-0.7.4.dev.118.jar" file="LogisticsPipes-MC1.6.4-0.7.4.dev.118.jar" md5="ef40307e3794a813cca78b350ac08063" download="server" 
+         name="Logistics Pipes" type="mods" version="0.7.4.dev.118"
          website="http://www.minecraftforum.net/topic/1831791-152buildcraft-logistics-pipes/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HMEH9HF4Q2RFJ"
          description="Even more amazing pipes." />
     <mod name="Mad Science" version="1.00.98"
