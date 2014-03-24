@@ -1,1 +1,966 @@
 Item ID,Item meta,Has NBT,Display Name
+24,1,false,Chiseled Sandstone
+98,3,false,Chiseled Stone Bricks
+155,1,false,Chiseled Quartz Block
+461,8,false,Chiseled Stone Brick Wall
+461,12,false,Chiseled Sandstone Wall
+463,1,false,Chiseled Quartz Wall
+500,6,false,Chiseled Limestone
+902,9,false,Certus Quartz Chiseled Block
+1395,0,true,Farm Block
+1395,0,true,Farm Block
+1395,0,true,Farm Block
+1395,2,true,Farm Gearbox
+1395,2,true,Farm Gearbox
+1395,2,true,Farm Gearbox
+1395,3,true,Farm Hatch
+1395,3,true,Farm Hatch
+1395,3,true,Farm Hatch
+1395,4,true,Farm Valve
+1395,4,true,Farm Valve
+1395,4,true,Farm Valve
+1395,5,true,Farm Control
+1395,5,true,Farm Control
+1395,5,true,Farm Control
+1474,10,false,Chiseled Seared Bricks
+1489,6,false,Chiseled Brownstone
+2165,2,false,Chiseled Mazestone
+2651,1,false,Chiseled Smokey Quartz Block
+2761,0,false,Marble
+2761,1,false,Marble
+2761,2,false,Marble
+2761,3,false,Marble
+2761,4,false,Marble
+2761,5,false,Marble
+2761,6,false,Marble
+2761,7,false,Marble
+2761,8,false,Marble
+2761,9,false,Marble
+2761,10,false,Marble
+2761,11,false,Marble
+2761,12,false,Marble
+2761,13,false,Marble
+2761,14,false,Marble
+2761,15,false,Marble
+2762,0,false,Limestone
+2762,1,false,Limestone
+2762,2,false,Limestone
+2762,3,false,Limestone
+2762,4,false,Limestone
+2762,5,false,Limestone
+2762,6,false,Limestone
+2762,7,false,Limestone
+2762,8,false,Limestone
+2762,9,false,Limestone
+2762,10,false,Limestone
+2762,11,false,Limestone
+2762,12,false,Limestone
+2762,13,false,Limestone
+2762,14,false,Limestone
+2762,15,false,Limestone
+2763,0,false,Marble Slab
+2763,1,false,Marble Slab
+2763,2,false,Marble Slab
+2763,3,false,Marble Slab
+2763,4,false,Marble Slab
+2763,5,false,Marble Slab
+2763,6,false,Marble Slab
+2763,7,false,Marble Slab
+2763,8,false,Marble Slab
+2763,9,false,Marble Slab
+2763,10,false,Marble Slab
+2763,11,false,Marble Slab
+2763,12,false,Marble Slab
+2763,13,false,Marble Slab
+2763,14,false,Marble Slab
+2763,15,false,Marble Slab
+2764,0,false,Limestone Slab
+2764,1,false,Limestone Slab
+2764,2,false,Limestone Slab
+2764,3,false,Limestone Slab
+2764,4,false,Limestone Slab
+2764,5,false,Limestone Slab
+2764,6,false,Limestone Slab
+2764,7,false,Limestone Slab
+2764,8,false,Limestone Slab
+2764,9,false,Limestone Slab
+2764,10,false,Limestone Slab
+2764,11,false,Limestone Slab
+2764,12,false,Limestone Slab
+2764,13,false,Limestone Slab
+2764,14,false,Limestone Slab
+2764,15,false,Limestone Slab
+2765,0,false,Marble Pillar
+2765,1,false,Marble Pillar
+2765,2,false,Marble Pillar
+2765,3,false,Marble Pillar
+2765,4,false,Marble Pillar
+2765,5,false,Marble Pillar
+2765,6,false,Marble Pillar
+2765,7,false,Marble Pillar
+2765,8,false,Marble Pillar
+2765,9,false,Marble Pillar
+2765,10,false,Marble Pillar
+2765,11,false,Marble Pillar
+2765,12,false,Marble Pillar
+2765,13,false,Marble Pillar
+2765,14,false,Marble Pillar
+2765,15,false,Marble Pillar
+2766,0,false,Marble Pillar Slab
+2766,1,false,Marble Pillar Slab
+2766,2,false,Marble Pillar Slab
+2766,3,false,Marble Pillar Slab
+2766,4,false,Marble Pillar Slab
+2766,5,false,Marble Pillar Slab
+2766,6,false,Marble Pillar Slab
+2766,7,false,Marble Pillar Slab
+2766,8,false,Marble Pillar Slab
+2766,9,false,Marble Pillar Slab
+2766,10,false,Marble Pillar Slab
+2766,11,false,Marble Pillar Slab
+2766,12,false,Marble Pillar Slab
+2766,13,false,Marble Pillar Slab
+2766,14,false,Marble Pillar Slab
+2766,15,false,Marble Pillar Slab
+2775,0,false,Ice Pillar
+2775,1,false,Ice Pillar
+2775,2,false,Ice Pillar
+2775,3,false,Ice Pillar
+2775,4,false,Ice Pillar
+2775,5,false,Ice Pillar
+2775,6,false,Ice Pillar
+2775,7,false,Ice Pillar
+2775,8,false,Ice Pillar
+2775,9,false,Ice Pillar
+2775,10,false,Ice Pillar
+2775,11,false,Ice Pillar
+2775,12,false,Ice Pillar
+2775,13,false,Ice Pillar
+2775,14,false,Ice Pillar
+2775,15,false,Ice Pillar
+2777,1,false,Oak Wood Planks
+2777,2,false,Oak Wood Planks
+2777,3,false,Oak Wood Planks
+2777,4,false,Oak Wood Planks
+2777,5,false,Oak Wood Planks
+2777,6,false,Oak Wood Planks
+2777,7,false,Oak Wood Planks
+2777,8,false,Oak Wood Planks
+2777,9,false,Oak Wood Planks
+2777,10,false,Oak Wood Planks
+2777,11,false,Oak Wood Planks
+2777,12,false,Oak Wood Planks
+2777,13,false,Oak Wood Planks
+2777,14,false,Oak Wood Planks
+2777,15,false,Oak Wood Planks
+2778,1,false,Spruce Wood Planks
+2778,2,false,Spruce Wood Planks
+2778,3,false,Spruce Wood Planks
+2778,4,false,Spruce Wood Planks
+2778,5,false,Spruce Wood Planks
+2778,6,false,Spruce Wood Planks
+2778,7,false,Spruce Wood Planks
+2778,8,false,Spruce Wood Planks
+2778,9,false,Spruce Wood Planks
+2778,10,false,Spruce Wood Planks
+2778,11,false,Spruce Wood Planks
+2778,12,false,Spruce Wood Planks
+2778,13,false,Spruce Wood Planks
+2778,14,false,Spruce Wood Planks
+2778,15,false,Spruce Wood Planks
+2779,1,false,Birch Wood Planks
+2779,2,false,Birch Wood Planks
+2779,3,false,Birch Wood Planks
+2779,4,false,Birch Wood Planks
+2779,5,false,Birch Wood Planks
+2779,6,false,Birch Wood Planks
+2779,7,false,Birch Wood Planks
+2779,8,false,Birch Wood Planks
+2779,9,false,Birch Wood Planks
+2779,10,false,Birch Wood Planks
+2779,11,false,Birch Wood Planks
+2779,12,false,Birch Wood Planks
+2779,13,false,Birch Wood Planks
+2779,14,false,Birch Wood Planks
+2779,15,false,Birch Wood Planks
+2780,0,false,Sandstone scribbles
+2780,1,false,Sandstone scribbles
+2780,2,false,Sandstone scribbles
+2780,3,false,Sandstone scribbles
+2780,4,false,Sandstone scribbles
+2780,5,false,Sandstone scribbles
+2780,6,false,Sandstone scribbles
+2780,7,false,Sandstone scribbles
+2780,8,false,Sandstone scribbles
+2780,9,false,Sandstone scribbles
+2780,10,false,Sandstone scribbles
+2780,11,false,Sandstone scribbles
+2780,12,false,Sandstone scribbles
+2780,13,false,Sandstone scribbles
+2780,14,false,Sandstone scribbles
+2780,15,false,Sandstone scribbles
+2781,0,false,Concrete
+2781,1,false,Concrete
+2781,2,false,Concrete
+2781,3,false,Concrete
+2781,4,false,Concrete
+2781,5,false,Concrete
+2781,6,false,Concrete
+2781,7,false,Concrete
+2781,8,false,Concrete
+2781,9,false,Concrete
+2781,10,false,Concrete
+2782,0,false,Road lines
+2783,1,false,Stone snake block head
+2783,13,false,Stone snake block body
+2784,1,false,Sandstone snake block head
+2784,13,false,Sandstone snake block body
+2785,1,false,Obsidian snakestone head
+2785,13,false,Obsidian snakestone body
+2787,1,false,Cobblestone
+2787,2,false,Cobblestone
+2787,3,false,Cobblestone
+2787,4,false,Cobblestone
+2787,5,false,Cobblestone
+2787,6,false,Cobblestone
+2787,7,false,Cobblestone
+2787,8,false,Cobblestone
+2787,9,false,Cobblestone
+2787,10,false,Cobblestone
+2787,11,false,Cobblestone
+2787,12,false,Cobblestone
+2787,13,false,Cobblestone
+2787,14,false,Cobblestone
+2787,15,false,Cobblestone
+2788,1,false,Glass
+2788,2,false,Glass
+2788,3,false,Glass
+2788,4,false,Glass
+2788,5,false,Glass
+2788,6,false,Glass
+2788,7,false,Glass
+2788,8,false,Glass
+2788,9,false,Glass
+2788,10,false,Glass
+2788,11,false,Glass
+2788,12,false,Glass
+2788,13,false,Glass
+2788,14,false,Glass
+2788,15,false,Glass
+2789,3,false,Sandstone
+2789,4,false,Sandstone
+2789,5,false,Sandstone
+2789,6,false,Sandstone
+2789,7,false,Sandstone
+2789,8,false,Sandstone
+2789,9,false,Sandstone
+2789,10,false,Sandstone
+2789,11,false,Sandstone
+2789,12,false,Sandstone
+2789,13,false,Sandstone
+2789,14,false,Sandstone
+2789,15,false,Sandstone
+2790,1,false,Block of Iron
+2790,2,false,Block of Iron
+2790,3,false,Block of Iron
+2790,4,false,Block of Iron
+2790,5,false,Block of Iron
+2790,6,false,Block of Iron
+2790,7,false,Block of Iron
+2790,8,false,Block of Iron
+2790,9,false,Block of Iron
+2790,10,false,Block of Iron
+2790,11,false,Block of Iron
+2790,12,false,Block of Iron
+2790,13,false,Block of Iron
+2790,14,false,Block of Iron
+2790,15,false,Block of Iron
+2792,1,false,Block of Diamond
+2792,2,false,Block of Diamond
+2792,3,false,Block of Diamond
+2792,4,false,Block of Diamond
+2792,5,false,Block of Diamond
+2792,6,false,Block of Diamond
+2792,7,false,Block of Diamond
+2792,8,false,Block of Diamond
+2792,9,false,Block of Diamond
+2792,10,false,Block of Diamond
+2792,11,false,Block of Diamond
+2792,12,false,Block of Diamond
+2793,1,false,Glowstone
+2793,2,false,Glowstone
+2793,3,false,Glowstone
+2793,4,false,Glowstone
+2793,5,false,Glowstone
+2793,6,false,Glowstone
+2793,7,false,Glowstone
+2793,8,false,Glowstone
+2793,9,false,Glowstone
+2793,10,false,Glowstone
+2793,11,false,Glowstone
+2793,12,false,Glowstone
+2793,13,false,Glowstone
+2793,14,false,Glowstone
+2793,15,false,Glowstone
+2794,1,false,Lapis Lazuli Block
+2794,2,false,Lapis Lazuli Block
+2794,3,false,Lapis Lazuli Block
+2794,4,false,Lapis Lazuli Block
+2794,5,false,Lapis Lazuli Block
+2794,6,false,Lapis Lazuli Block
+2794,7,false,Lapis Lazuli Block
+2794,8,false,Lapis Lazuli Block
+2795,1,false,Block of Emerald
+2795,2,false,Block of Emerald
+2795,3,false,Block of Emerald
+2795,4,false,Block of Emerald
+2795,5,false,Block of Emerald
+2795,6,false,Block of Emerald
+2795,7,false,Block of Emerald
+2795,8,false,Block of Emerald
+2795,9,false,Block of Emerald
+2795,10,false,Block of Emerald
+2795,11,false,Block of Emerald
+2796,1,false,Nether Brick
+2796,2,false,Nether Brick
+2796,3,false,Nether Brick
+2796,4,false,Nether Brick
+2796,5,false,Nether Brick
+2796,6,false,Nether Brick
+2796,7,false,Nether Brick
+2796,8,false,Nether Brick
+2796,9,false,Nether Brick
+2796,10,false,Nether Brick
+2796,11,false,Nether Brick
+2796,12,false,Nether Brick
+2796,13,false,Nether Brick
+2796,14,false,Nether Brick
+2796,15,false,Nether Brick
+2797,1,false,Netherrack
+2797,2,false,Netherrack
+2797,3,false,Netherrack
+2797,4,false,Netherrack
+2797,5,false,Netherrack
+2797,6,false,Netherrack
+2797,7,false,Netherrack
+2797,8,false,Netherrack
+2797,9,false,Netherrack
+2797,10,false,Netherrack
+2797,11,false,Netherrack
+2797,12,false,Netherrack
+2797,13,false,Netherrack
+2797,14,false,Netherrack
+2798,1,false,Moss Stone
+2798,2,false,Moss Stone
+2798,3,false,Moss Stone
+2798,4,false,Moss Stone
+2798,5,false,Moss Stone
+2798,6,false,Moss Stone
+2798,7,false,Moss Stone
+2798,8,false,Moss Stone
+2798,9,false,Moss Stone
+2798,10,false,Moss Stone
+2798,11,false,Moss Stone
+2798,12,false,Moss Stone
+2798,13,false,Moss Stone
+2798,14,false,Moss Stone
+2798,15,false,Moss Stone
+2799,4,false,Stone Bricks
+2799,5,false,Stone Bricks
+2799,6,false,Stone Bricks
+2799,7,false,Stone Bricks
+2799,8,false,Stone Bricks
+2799,9,false,Stone Bricks
+2799,10,false,Stone Bricks
+2799,11,false,Stone Bricks
+2799,12,false,Stone Bricks
+2799,13,false,Stone Bricks
+2799,14,false,Stone Bricks
+2799,15,false,Stone Bricks
+2800,1,false,Ice
+2800,2,false,Ice
+2800,3,false,Ice
+2800,4,false,Ice
+2800,5,false,Ice
+2800,6,false,Ice
+2800,7,false,Ice
+2800,8,false,Ice
+2800,9,false,Ice
+2800,10,false,Ice
+2800,11,false,Ice
+2800,12,false,Ice
+2800,13,false,Ice
+2800,14,false,Ice
+2800,15,false,Ice
+2801,1,false,Obsidian
+2801,2,false,Obsidian
+2801,3,false,Obsidian
+2801,4,false,Obsidian
+2801,5,false,Obsidian
+2801,6,false,Obsidian
+2801,7,false,Obsidian
+2801,8,false,Obsidian
+2801,9,false,Obsidian
+2801,10,false,Obsidian
+2801,11,false,Obsidian
+2801,12,false,Obsidian
+2801,13,false,Obsidian
+2801,14,false,Obsidian
+2801,15,false,Obsidian
+2802,1,false,Iron Bars
+2802,2,false,Iron Bars
+2802,3,false,Iron Bars
+2802,4,false,Iron Bars
+2802,5,false,Iron Bars
+2802,6,false,Iron Bars
+2802,7,false,Iron Bars
+2802,8,false,Iron Bars
+2802,9,false,Iron Bars
+2803,1,false,Glass Pane
+2803,2,false,Glass Pane
+2803,3,false,Glass Pane
+2803,4,false,Glass Pane
+2803,12,false,Glass Pane
+2803,13,false,Glass Pane
+2803,14,false,Glass Pane
+2803,15,false,Glass Pane
+2804,1,false,Block of Gold
+2804,2,false,Block of Gold
+2804,3,false,Block of Gold
+2804,4,false,Block of Gold
+2804,5,false,Block of Gold
+2804,6,false,Block of Gold
+2804,7,false,Block of Gold
+2804,8,false,Block of Gold
+2804,9,false,Block of Gold
+2804,10,false,Block of Gold
+2804,11,false,Block of Gold
+2804,12,false,Block of Gold
+2804,13,false,Block of Gold
+2804,14,false,Block of Gold
+2805,0,false,item.tile.null.0.name
+2805,1,false,item.tile.null.1.name
+2805,2,false,item.tile.null.2.name
+2805,3,false,item.tile.null.3.name
+2805,4,false,item.tile.null.4.name
+2805,5,false,item.tile.null.5.name
+2805,6,false,item.tile.null.6.name
+2805,7,false,item.tile.null.7.name
+2805,8,false,item.tile.null.8.name
+2805,9,false,item.tile.null.9.name
+2805,10,false,item.tile.null.10.name
+2805,11,false,item.tile.null.11.name
+2805,12,false,item.tile.null.12.name
+2805,13,false,item.tile.null.13.name
+2805,14,false,item.tile.null.14.name
+2805,15,false,item.tile.null.15.name
+2806,0,false,item.tile.null.0.name
+2806,1,false,item.tile.null.1.name
+2806,2,false,item.tile.null.2.name
+2806,3,false,item.tile.null.3.name
+2806,4,false,item.tile.null.4.name
+2806,5,false,item.tile.null.5.name
+2806,6,false,item.tile.null.6.name
+2806,7,false,item.tile.null.7.name
+2806,8,false,item.tile.null.8.name
+2806,9,false,item.tile.null.9.name
+2806,10,false,item.tile.null.10.name
+2806,11,false,item.tile.null.11.name
+2806,12,false,item.tile.null.12.name
+2806,13,false,item.tile.null.13.name
+2806,14,false,item.tile.null.14.name
+2806,15,false,item.tile.null.15.name
+2807,0,false,item.tile.null.0.name
+2807,1,false,item.tile.null.1.name
+2807,2,false,item.tile.null.2.name
+2807,3,false,item.tile.null.3.name
+2807,4,false,item.tile.null.4.name
+2807,5,false,item.tile.null.5.name
+2807,6,false,item.tile.null.6.name
+2807,7,false,item.tile.null.7.name
+2807,8,false,item.tile.null.8.name
+2807,9,false,item.tile.null.9.name
+2807,10,false,item.tile.null.10.name
+2807,11,false,item.tile.null.11.name
+2807,12,false,item.tile.null.12.name
+2807,13,false,item.tile.null.13.name
+2807,14,false,item.tile.null.14.name
+2807,15,false,item.tile.null.15.name
+2808,0,false,Marble Stairs
+2808,8,false,Marble Stairs
+2809,0,false,Marble Stairs
+2809,8,false,Marble Stairs
+2810,0,false,Marble Stairs
+2810,8,false,Marble Stairs
+2811,0,false,Marble Stairs
+2811,8,false,Marble Stairs
+2812,0,false,Marble Stairs
+2812,8,false,Marble Stairs
+2813,0,false,Marble Stairs
+2813,8,false,Marble Stairs
+2814,0,false,Marble Stairs
+2814,8,false,Marble Stairs
+2815,0,false,Marble Stairs
+2815,8,false,Marble Stairs
+2816,0,false,Limestone Stairs
+2816,8,false,Limestone Stairs
+2817,0,false,Limestone Stairs
+2817,8,false,Limestone Stairs
+2818,0,false,Limestone Stairs
+2818,8,false,Limestone Stairs
+2819,0,false,Limestone Stairs
+2819,8,false,Limestone Stairs
+2820,0,false,Limestone Stairs
+2820,8,false,Limestone Stairs
+2821,0,false,Limestone Stairs
+2821,8,false,Limestone Stairs
+2822,0,false,Limestone Stairs
+2822,8,false,Limestone Stairs
+2823,0,false,Limestone Stairs
+2823,8,false,Limestone Stairs
+2824,0,false,Ice Stairs
+2824,8,false,Ice Stairs
+2825,0,false,Ice Stairs
+2825,8,false,Ice Stairs
+2826,0,false,Ice Stairs
+2826,8,false,Ice Stairs
+2827,0,false,Ice Stairs
+2827,8,false,Ice Stairs
+2828,0,false,Ice Stairs
+2828,8,false,Ice Stairs
+2829,0,false,Ice Stairs
+2829,8,false,Ice Stairs
+2830,0,false,Ice Stairs
+2830,8,false,Ice Stairs
+2831,0,false,Ice Stairs
+2831,8,false,Ice Stairs
+2832,1,false,Block of Redstone
+2832,2,false,Block of Redstone
+2832,3,false,Block of Redstone
+2832,4,false,Block of Redstone
+2832,5,false,Block of Redstone
+2832,6,false,Block of Redstone
+2832,7,false,Block of Redstone
+2832,8,false,Block of Redstone
+2832,9,false,Block of Redstone
+2832,10,false,Block of Redstone
+2832,11,false,Block of Redstone
+2832,12,false,Block of Redstone
+2832,13,false,Block of Redstone
+2832,14,false,Block of Redstone
+2832,15,false,Block of Redstone
+2833,0,false,Holystone
+2833,1,false,Holystone
+2833,2,false,Holystone
+2833,3,false,Holystone
+2833,4,false,Holystone
+2833,5,false,Holystone
+2833,6,false,Holystone
+2833,7,false,Holystone
+2833,8,false,Holystone
+2833,9,false,Holystone
+2833,10,false,Holystone
+2833,11,false,Holystone
+2833,12,false,Holystone
+2833,13,false,Holystone
+2834,0,false,Lavastone
+2834,1,false,Lavastone
+2834,2,false,Lavastone
+2834,3,false,Lavastone
+2834,4,false,Lavastone
+2834,5,false,Lavastone
+2834,6,false,Lavastone
+2835,0,false,Fantasy Block
+2835,1,false,Fantasy Block
+2835,2,false,Fantasy Block
+2835,3,false,Fantasy Block
+2835,4,false,Fantasy Block
+2835,5,false,Fantasy Block
+2835,6,false,Fantasy Block
+2835,7,false,Fantasy Block
+2835,8,false,Fantasy Block
+2835,9,false,Fantasy Block
+2835,10,false,Fantasy Block
+2835,11,false,Fantasy Block
+2835,12,false,Fantasy Block
+2835,13,false,Fantasy Block
+2835,14,false,Fantasy Block
+2835,15,false,Fantasy Block
+2836,0,false,Carpet Block
+2836,1,false,Carpet Block
+2836,2,false,Carpet Block
+2836,3,false,Carpet Block
+2836,4,false,Carpet Block
+2836,5,false,Carpet Block
+2836,6,false,Carpet Block
+2836,7,false,Carpet Block
+2836,8,false,Carpet Block
+2836,9,false,Carpet Block
+2836,10,false,Carpet Block
+2836,11,false,Carpet Block
+2836,12,false,Carpet Block
+2836,13,false,Carpet Block
+2836,14,false,Carpet Block
+2836,15,false,Carpet Block
+2837,1,false,Bookshelf
+2837,2,false,Bookshelf
+2837,3,false,Bookshelf
+2837,4,false,Bookshelf
+2837,5,false,Bookshelf
+2837,6,false,Bookshelf
+2837,7,false,Bookshelf
+2837,8,false,Bookshelf
+2838,0,false,Futuristic Armor Plating Block
+2838,1,false,Futuristic Armor Plating Block
+2838,2,false,Futuristic Armor Plating Block
+2838,3,false,Futuristic Armor Plating Block
+2838,4,false,Futuristic Armor Plating Block
+2838,5,false,Futuristic Armor Plating Block
+2838,6,false,Futuristic Armor Plating Block
+2838,7,false,Futuristic Armor Plating Block
+2838,8,false,Futuristic Armor Plating Block
+2838,9,false,Futuristic Armor Plating Block
+2838,10,false,Futuristic Armor Plating Block
+2838,11,false,Futuristic Armor Plating Block
+2838,12,false,Futuristic Armor Plating Block
+2838,13,false,Futuristic Armor Plating Block
+2838,14,false,Futuristic Armor Plating Block
+2838,15,false,Futuristic Armor Plating Block
+2839,1,false,Dirt
+2839,2,false,Dirt
+2839,3,false,Dirt
+2839,4,false,Dirt
+2839,5,false,Dirt
+2839,6,false,Dirt
+2839,7,false,Dirt
+2839,8,false,Dirt
+2839,9,false,Dirt
+2839,10,false,Dirt
+2839,11,false,Dirt
+2839,12,false,Dirt
+2839,13,false,Dirt
+2840,1,false,Jungle Wood Planks
+2840,2,false,Jungle Wood Planks
+2840,3,false,Jungle Wood Planks
+2840,4,false,Jungle Wood Planks
+2840,5,false,Jungle Wood Planks
+2840,6,false,Jungle Wood Planks
+2840,7,false,Jungle Wood Planks
+2840,8,false,Jungle Wood Planks
+2840,9,false,Jungle Wood Planks
+2840,10,false,Jungle Wood Planks
+2840,11,false,Jungle Wood Planks
+2840,12,false,Jungle Wood Planks
+2840,13,false,Jungle Wood Planks
+2840,14,false,Jungle Wood Planks
+2840,15,false,Jungle Wood Planks
+2841,0,false,Mossy Temple Block
+2841,1,false,Mossy Temple Block
+2841,2,false,Mossy Temple Block
+2841,3,false,Mossy Temple Block
+2841,4,false,Mossy Temple Block
+2841,5,false,Mossy Temple Block
+2841,6,false,Mossy Temple Block
+2841,7,false,Mossy Temple Block
+2841,8,false,Mossy Temple Block
+2841,9,false,Mossy Temple Block
+2841,10,false,Mossy Temple Block
+2841,11,false,Mossy Temple Block
+2841,12,false,Mossy Temple Block
+2841,13,false,Mossy Temple Block
+2841,14,false,Mossy Temple Block
+2841,15,false,Mossy Temple Block
+2842,0,false,Cloud block
+2843,0,false,Factory Block
+2843,1,false,Factory Block
+2843,2,false,Factory Block
+2843,3,false,Factory Block
+2843,4,false,Factory Block
+2843,5,false,Factory Block
+2843,6,false,Factory Block
+2843,7,false,Factory Block
+2843,8,false,Factory Block
+2843,9,false,Factory Block
+2843,10,false,Factory Block
+2843,11,false,Factory Block
+2843,12,false,Factory Block
+2843,13,false,Factory Block
+2843,14,false,Factory Block
+2843,15,false,Factory Block
+2844,0,false,Carpet
+2844,1,false,Carpet
+2844,2,false,Carpet
+2844,3,false,Carpet
+2844,4,false,Carpet
+2844,5,false,Carpet
+2844,6,false,Carpet
+2844,7,false,Carpet
+2844,8,false,Carpet
+2844,9,false,Carpet
+2844,10,false,Carpet
+2844,11,false,Carpet
+2844,12,false,Carpet
+2844,13,false,Carpet
+2844,14,false,Carpet
+2844,15,false,Carpet
+2845,0,false,Temple Block
+2845,1,false,Temple Block
+2845,2,false,Temple Block
+2845,3,false,Temple Block
+2845,4,false,Temple Block
+2845,5,false,Temple Block
+2845,6,false,Temple Block
+2845,7,false,Temple Block
+2845,8,false,Temple Block
+2845,9,false,Temple Block
+2845,10,false,Temple Block
+2845,11,false,Temple Block
+2845,12,false,Temple Block
+2845,13,false,Temple Block
+2845,14,false,Temple Block
+2845,15,false,Temple Block
+3187,10,false,Chiseled Seared Bricks
+3230,6,false,Chiseled Seared Slab
+3231,6,false,Chiseled Brownstone Slab
+3702,7,false,Chiseled Stone Bricks
+3708,0,false,Chiseled Brick
+3708,1,false,Chiseled Brick
+3708,2,false,Chiseled Brick
+3708,3,false,Chiseled Brick
+3708,4,false,Chiseled Brick
+3708,5,false,Chiseled Brick
+3708,6,false,Chiseled Brick
+3708,7,false,Chiseled Brick
+3708,8,false,Chiseled Brick
+3708,9,false,Chiseled Brick
+3708,10,false,Chiseled Brick
+3708,11,false,Chiseled Brick
+3916,1,false,Chiseled Glowing Obsidian
+3917,1,false,Chiseled Obsidian
+5402,0,false,Carpenter's Chisel
+8067,0,false,Chisel
+8069,0,false,Cloud in a bottle
+8070,0,false,Ball O' Moss
+10273,0,true,Chiseled Seared Bricks Pipe Jacket
+10273,0,true,Chiseled Limestone Pipe Jacket
+10273,0,true,Chiseled Quartz Block Pipe Jacket
+10273,0,true,Chiseled Sandstone Pipe Jacket
+10273,0,true,Chiseled Stone Bricks Pipe Jacket
+10273,0,true,Chiseled Smokey Quartz Block Pipe Jacket
+10273,1,true,Chiseled Seared Bricks Fence
+10273,1,true,Chiseled Limestone Fence
+10273,1,true,Chiseled Quartz Block Fence
+10273,1,true,Chiseled Sandstone Fence
+10273,1,true,Chiseled Stone Bricks Fence
+10273,1,true,Chiseled Smokey Quartz Block Fence
+14279,13,false,Chisel Head Pattern
+14280,13,false,Chisel Head Cast
+14295,0,false,Wooden Chisel Head
+14295,1,false,Stone Chisel Head
+14295,2,false,Iron Chisel Head
+14295,3,false,Flint Chisel Head
+14295,4,false,Cactus Chisel Head
+14295,5,false,Bone Chisel Head
+14295,6,false,Obsidian Chisel Head
+14295,7,false,Netherrack Chisel Head
+14295,8,false,Slime Chisel Head
+14295,9,false,Paper Chisel Head
+14295,10,false,Cobalt Chisel Head
+14295,11,false,Ardite Chisel Head
+14295,12,false,Manyullyn Chisel Head
+14295,13,false,Copper Chisel Head
+14295,14,false,Bronze Chisel Head
+14295,15,false,Alumite Chisel Head
+14295,16,false,Steel Chisel Head
+14295,17,false,Slime Chisel Head
+14295,18,false,Pig Iron Chisel Head
+14295,31,false,Thaumium Chisel Head
+14322,0,true,Ghostwood Chisel
+14322,0,true,Wooden Chisel
+14322,0,true,Fusewood Chisel
+14322,0,true,Stone Chisel
+14322,0,true,Refined Glowstone Chisel
+14322,0,true,Iron Chisel
+14322,0,true,Nether Quartz Chisel
+14322,0,true,Flint Chisel
+14322,0,true,Pokefennium Chisel
+14322,0,true,Cactus Chisel
+14322,0,true,Osmium Chisel
+14322,0,true,Bone Chisel
+14322,0,true,Certus Quartz Chisel
+14322,0,true,Obsidian Chisel
+14322,0,true,Fairy Chisel
+14322,0,true,Netherrack Chisel
+14322,0,true,Prometheum Chisel
+14322,0,true,Slime Chisel
+14322,0,true,Oureclase Chisel
+14322,0,true,Paper Chisel
+14322,0,true,Tartarite Chisel
+14322,0,true,Cobalt Chisel
+14322,0,true,Quicksilver Chisel
+14322,0,true,Ardite Chisel
+14322,0,true,Eximite Chisel
+14322,0,true,Manyullyn Chisel
+14322,0,true,Desichalkos Chisel
+14322,0,true,Copper Chisel
+14322,0,true,Darkwood Chisel
+14322,0,true,Bronze Chisel
+14322,0,true,Bloodwood Chisel
+14322,0,true,Alumite Chisel
+14322,0,true,Slime Chisel
+14322,0,true,Steel Chisel
+14322,0,true,Pig Iron Chisel
+14322,0,true,Amethyst Chisel
+14322,0,true,Thaumium Chisel
+14322,0,true,Titanium Chisel
+14322,0,true,Hepatizon Chisel
+14322,0,true,Brass Chisel
+14322,0,true,Angmallen Chisel
+14322,0,true,Damascus Steel Chisel
+14322,0,true,Inolashite Chisel
+14322,0,true,Kalendrite Chisel
+14322,0,true,Ceruclase Chisel
+14322,0,true,Ignatius Chisel
+14322,0,true,Silver Chisel
+14322,0,true,Amordrine Chisel
+14322,0,true,Electrum Chisel
+14322,0,true,Platinum Chisel
+14322,0,true,Astral Silver Chisel
+14322,0,true,Adamantine Chisel
+14322,0,true,Vyroxeres Chisel
+14322,0,true,Vulcanite Chisel
+14322,0,true,Shadow Steel Chisel
+14322,0,true,Shadow Iron Chisel
+14322,0,true,Sanguinite Chisel
+14322,0,true,Midasium Chisel
+14322,0,true,Orichalcum Chisel
+14322,0,true,Mithril Chisel
+14322,0,true,Haderoth Chisel
+14322,0,true,Deep Iron Chisel
+14322,0,true,Celenegil Chisel
+14322,0,true,Carmot Chisel
+14322,0,true,Black Steel Chisel
+14322,0,true,Atlarus Chisel
+19397,0,true,Facade: Chiseled Seared Bricks
+19397,0,true,Facade: Chiseled Brownstone
+19397,0,true,Facade: Chiseled Sandstone
+19397,0,true,Facade: Chiseled Stone Bricks
+19397,0,true,Facade: Chiseled Quartz Block
+19960,100,false,Angamallen Chisel Head
+19960,101,false,Damascus Steel Chisel Head
+19960,102,false,Hepatizon Chisel Head
+19960,103,false,Brass Chisel Head
+19960,104,false,Electrum Chisel Head
+19960,105,false,Platinum Chisel Head
+19960,106,false,Silver Chisel Head
+19960,107,false,Amordrine Chisel Head
+19960,108,false,Ceruclase Chisel Head
+19960,109,false,Ignatius Chisel Head
+19960,110,false,Inolashite Chisel Head
+19960,111,false,Kalendrite Chisel Head
+19960,112,false,Midasium Chisel Head
+19960,113,false,Sanguinite Chisel Head
+19960,114,false,Shadow Iron Chisel Head
+19960,115,false,Shadow Steel Chisel Head
+19960,116,false,Vulcanite Chisel Head
+19960,117,false,Vyroxeres Chisel Head
+19960,118,false,Adamantine Chisel Head
+19960,119,false,Astral Silver Chisel Head
+19960,120,false,Atarus Chisel Head
+19960,121,false,Black Steel Chisel Head
+19960,122,false,Carmot Chisel Head
+19960,123,false,Celengil Chisel Head
+19960,124,false,Deep Iron Chisel Head
+19960,125,false,Haderoth Chisel Head
+19960,126,false,Mithril Chisel Head
+19960,127,false,Orichalcum Chisel Head
+19960,128,false,Oureclase Chisel Head
+19960,129,false,Prometheum Chisel Head
+19960,130,false,Quicksilver Chisel Head
+19960,131,false,Tartarite Chisel Head
+19960,132,false,Desichalkos Chisel Head
+19960,133,false,Eximite Chisel Head
+19960,134,false,Bloodwood Chisel Head
+19960,135,false,Darkwood Chisel Head
+19960,136,false,Fusewood Chisel Head
+19960,137,false,Ghostwood Chisel Head
+19960,138,false,Nether Quartz Chisel Head
+19960,139,false,Refined Glowstone Chisel Head
+19960,140,false,Osmium Chisel Head
+19960,141,false,Pokefennium Chisel Head
+19960,142,false,Fairy Chisel Head
+19960,143,false,Certus Quartz Chisel Head
+19960,144,false,Amethyst Chisel Head
+25131,1,true,Chiseled Seared Bricks Cover
+25131,1,true,Chiseled Limestone Cover
+25131,1,true,Chiseled Quartz Block Cover
+25131,1,true,Chiseled Sandstone Cover
+25131,1,true,Chiseled Stone Bricks Cover
+25131,1,true,Chiseled Smokey Quartz Block Cover
+25131,2,true,Chiseled Seared Bricks Panel
+25131,2,true,Chiseled Limestone Panel
+25131,2,true,Chiseled Quartz Block Panel
+25131,2,true,Chiseled Sandstone Panel
+25131,2,true,Chiseled Stone Bricks Panel
+25131,2,true,Chiseled Smokey Quartz Block Panel
+25131,4,true,Chiseled Seared Bricks Slab
+25131,4,true,Chiseled Limestone Slab
+25131,4,true,Chiseled Quartz Block Slab
+25131,4,true,Chiseled Sandstone Slab
+25131,4,true,Chiseled Stone Bricks Slab
+25131,4,true,Chiseled Smokey Quartz Block Slab
+25131,257,true,Hollow Chiseled Seared Bricks Cover
+25131,257,true,Hollow Chiseled Limestone Cover
+25131,257,true,Hollow Chiseled Quartz Block Cover
+25131,257,true,Hollow Chiseled Sandstone Cover
+25131,257,true,Hollow Chiseled Stone Bricks Cover
+25131,257,true,Hollow Chiseled Smokey Quartz Block Cover
+25131,258,true,Hollow Chiseled Seared Bricks Panel
+25131,258,true,Hollow Chiseled Limestone Panel
+25131,258,true,Hollow Chiseled Quartz Block Panel
+25131,258,true,Hollow Chiseled Sandstone Panel
+25131,258,true,Hollow Chiseled Stone Bricks Panel
+25131,258,true,Hollow Chiseled Smokey Quartz Block Panel
+25131,260,true,Hollow Chiseled Seared Bricks Slab
+25131,260,true,Hollow Chiseled Limestone Slab
+25131,260,true,Hollow Chiseled Quartz Block Slab
+25131,260,true,Hollow Chiseled Sandstone Slab
+25131,260,true,Hollow Chiseled Stone Bricks Slab
+25131,260,true,Hollow Chiseled Smokey Quartz Block Slab
+25131,513,true,Chiseled Seared Bricks Nook
+25131,513,true,Chiseled Limestone Nook
+25131,513,true,Chiseled Quartz Block Nook
+25131,513,true,Chiseled Sandstone Nook
+25131,513,true,Chiseled Stone Bricks Nook
+25131,513,true,Chiseled Smokey Quartz Block Nook
+25131,514,true,Chiseled Seared Bricks Corner
+25131,514,true,Chiseled Limestone Corner
+25131,514,true,Chiseled Quartz Block Corner
+25131,514,true,Chiseled Sandstone Corner
+25131,514,true,Chiseled Stone Bricks Corner
+25131,514,true,Chiseled Smokey Quartz Block Corner
+25131,516,true,Chiseled Seared Bricks Notch
+25131,516,true,Chiseled Limestone Notch
+25131,516,true,Chiseled Quartz Block Notch
+25131,516,true,Chiseled Sandstone Notch
+25131,516,true,Chiseled Stone Bricks Notch
+25131,516,true,Chiseled Smokey Quartz Block Notch
+25131,769,true,Chiseled Seared Bricks Strip
+25131,769,true,Chiseled Limestone Strip
+25131,769,true,Chiseled Quartz Block Strip
+25131,769,true,Chiseled Sandstone Strip
+25131,769,true,Chiseled Stone Bricks Strip
+25131,769,true,Chiseled Smokey Quartz Block Strip
+25131,770,true,Chiseled Seared Bricks Post
+25131,770,true,Chiseled Limestone Post
+25131,770,true,Chiseled Quartz Block Post
+25131,770,true,Chiseled Sandstone Post
+25131,770,true,Chiseled Stone Bricks Post
+25131,770,true,Chiseled Smokey Quartz Block Post
+25131,772,true,Chiseled Seared Bricks Pillar
+25131,772,true,Chiseled Limestone Pillar
+25131,772,true,Chiseled Quartz Block Pillar
+25131,772,true,Chiseled Sandstone Pillar
+25131,772,true,Chiseled Stone Bricks Pillar
+25131,772,true,Chiseled Smokey Quartz Block Pillar
+29365,0,false,Titanium Chisel Head
