@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.7.2.5-RR</version>
+    <version>2.7.2.6-RR</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -484,28 +484,28 @@
          name="PowerCrystals Core [Skyboy Fork]" type="mods" version="1.1.8-9"
          website="http://www.minecraftforum.net/topic/2016680-162164-"
          description="Originally by PowerCrystals" />
-	<mod url="packs/ResonantRise/files/2-STABLE2/ProjectRedBase-1.6.4-4.3.4.29.jar" file="ProjectRedBase-1.6.4-4.3.4.29.jar" md5="96a7488e7a40e89f76ce9c72a79affbc" download="server" 
-         name="Project Red: Base" type="mods" version="4.3.4.29"
+	<mod url="packs/ResonantRise/files/2-STABLE2/ProjectRedBase-1.6.4-4.3.2.26.jar" file="ProjectRedBase-1.6.4-4.3.2.26.jar" md5="091562a0e5d22a0c0930f383af838bf8" download="server" 
+         name="Project Red: Base" type="mods" version="4.3.2.26"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
-    <mod url="packs/ResonantRise/files/2-STABLE2/ProjectRedCompat-1.6.4-4.3.4.29.jar" file="ProjectRedCompat-1.6.4-4.3.4.29.jar" md5="54b1b7a40b0eccf65ad7036606241b0a" download="server" 
-         name="Project Red: Compat" type="mods" version="4.3.4.29"
+    <mod url="packs/ResonantRise/files/2-STABLE2/ProjectRedCompat-1.6.4-4.3.2.26.jar" file="ProjectRedCompat-1.6.4-4.3.2.26.jar" md5="3681f78cb93257dc85f597027baf55fe" download="server" 
+         name="Project Red: Compat" type="mods" version="4.3.2.26"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
-    <mod url="packs/ResonantRise/files/2-STABLE2/ProjectRedIntegration-1.6.4-4.3.4.29.jar" file="ProjectRedIntegration-1.6.4-4.3.4.29.jar" md5="ed65616639caaf61ddfd3e616e01df8e" download="server" 
-         name="Project Red: Integration" type="mods" version="4.3.4.29"
+    <mod url="packs/ResonantRise/files/2-STABLE2/ProjectRedIntegration-1.6.4-4.3.2.26.jar" file="ProjectRedIntegration-1.6.4-4.3.2.26.jar" md5="b3d29f58cb2c81807954a00074a3a480" download="server" 
+         name="Project Red: Integration" type="mods" version="4.3.2.26"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
-    <mod url="packs/ResonantRise/files/2-STABLE2/ProjectRedLighting-1.6.4-4.3.4.29.jar" file="ProjectRedLighting-1.6.4-4.3.4.29.jar" md5="fd27d7559121c3ff92905e4c59dd1ad5" download="server" 
-         name="Project Red: Lighting" type="mods" version="4.3.4.29"
+    <mod url="packs/ResonantRise/files/2-STABLE2/ProjectRedLighting-1.6.4-4.3.2.26.jar" file="ProjectRedLighting-1.6.4-4.3.2.26.jar" md5="b72e16a9fcd0269ae3e5d168b7108ce3" download="server" 
+         name="Project Red: Lighting" type="mods" version="4.3.2.26"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
-    <mod url="packs/ResonantRise/files/2-STABLE2/ProjectRedMechanical-BETA-1.6.4-4.3.4.29.jar" file="ProjectRedMechanical-BETA-1.6.4-4.3.4.29.jar" md5="15e2d714f0e9ca9b449e3e5b8e97808c" download="server" 
-         name="Project Red: Mechanical" type="mods" version="4.3.4.29"
+    <mod url="packs/ResonantRise/files/2-STABLE2/ProjectRedMechanical-BETA-1.6.4-4.3.2.26.jar" file="ProjectRedMechanical-BETA-1.6.4-4.3.2.26.jar" md5="8b5c8afaa6ef0233ac313d3ac7572c43" download="server" 
+         name="Project Red: Mechanical" type="mods" version="4.3.2.26"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
-    <mod url="packs/ResonantRise/files/2-STABLE2/ProjectRedWorld-1.6.4-4.3.4.29.jar" file="ProjectRedWorld-1.6.4-4.3.4.29.jar" md5="b5e7debd15866c9043722991fd5f754d" download="server" 
-         name="Project Red: World" type="mods" version="4.3.4.29"
+    <mod url="packs/ResonantRise/files/2-STABLE2/ProjectRedWorld-1.6.4-4.3.2.26.jar" file="ProjectRedWorld-1.6.4-4.3.2.26.jar" md5="e5d2185c1f2ce4c25aed3fab139cada0" download="server" 
+         name="Project Red: World" type="mods" version="4.3.2.26"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
 	<mod url="packs/ResonantRise/files/2.6/QuarryPlus-1.6.4-1.0.3.jar" file="QuarryPlus-1.6.4-1.0.3.jar" md5="a073d103db6af48d6c380f45380bb5a5" download="server" 
