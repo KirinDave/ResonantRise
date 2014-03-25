@@ -496,7 +496,7 @@
          name="Project Red: Lighting" type="mods" version="4.3.4.29"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
-    <modurl="packs/ResonantRise/files/2-STABLE2/ProjectRedMechanical-BETA-1.6.4-4.3.4.29.jar" file="ProjectRedMechanical-BETA-1.6.4-4.3.4.29.jar" md5="15e2d714f0e9ca9b449e3e5b8e97808c" download="server" 
+    <mod url="packs/ResonantRise/files/2-STABLE2/ProjectRedMechanical-BETA-1.6.4-4.3.4.29.jar" file="ProjectRedMechanical-BETA-1.6.4-4.3.4.29.jar" md5="15e2d714f0e9ca9b449e3e5b8e97808c" download="server" 
          name="Project Red: Mechanical" type="mods" version="4.3.4.29"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
