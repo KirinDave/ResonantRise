@@ -85,6 +85,10 @@
          name="Atomic Science" type="mods" version="1.1.0.53" optional="yes"
          website="http://universalelectricity.com/" donation="http://universalelectricity.com/"
          description="Nuclear steam power!" />
+	<mod url="packs/ResonantRise/files/2-STABLE/autoutils-1.6.4-1.0.1.jar" file="autoutils-1.6.4-1.0.1.jar" md5="a1ba0914e3b6047906214f3b63ba59d6" download="server" 
+         name="AutoUtils [Chisel Libs]" type="mods" version="1.0.1"
+         website="http://www.minecraftforum.net/topic/1749374-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=NS64FL5ZXYG3N&amp;lc=RU&amp;item_name=I%20write%20mods%20for%20minecraft&amp;item_number=minecraft&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
+         description="Chisel Util Mod" />
     <mod url="packs/ResonantRise/files/2-STABLE2/backpack-1.27.34-1.6.x.jar" file="backpack-1.27.34-1.6.x.jar" md5="b7c847583ce5f2d7117a2d04c60edc8c" download="server" 
          name="Backpacks" version="1.27.34" type="mods"
          website="http://www.minecraftforum.net/topic/1492661-15x-16x-backpacks-v-11213/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=CCEHF29WUSQVJ"
