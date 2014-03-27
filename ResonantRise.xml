@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.7.2.6-RR</version>
+    <version>2.7.2.6-RR-MAIN</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -24,8 +24,8 @@
     <!-- Forge and MCPC -->
     <mod url="packs/ResonantRise/files/forgelibs/forge-1.6.4-9.11.1.965-universal.jar" file="forge-1.6.4-9.11.1.965-universal.jar" md5="02efbef58dbd39fccead94777b611fce" download="server"
          name="Forge" type="forge" version="9.11.1.965" website="http://www.minecraftforge.com" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=Z5MLLA62HSUM2" description="The Core." />
-    <mod url="packs/ResonantRise/files/forgelibs/mcpc-plus-1.6.4-R2.1-forge965-B246.jar" file="mcpc-plus-1.6.4-R2.1-forge965-B246.jar" md5="2f07677f7a7b1253cf7ea3ec09c50275" download="server" 
-         name="MCPC+" type="mcpc" version="B246"
+    <mod url="packs/ResonantRise/files/forgelibs/mcpc-plus-1.6.4-R2.1-forge965-B251.jar" file="mcpc-plus-1.6.4-R2.1-forge965-B251.jar" md5="b74e80e2d015d612f9f1a316727d49cd" download="server" 
+         name="MCPC+" type="mcpc" version="B251"
          website="http://ci.md-5.net/job/MCPC-Plus/"
          description="Server superweapon!"
          optional="yes" client="no"/>
