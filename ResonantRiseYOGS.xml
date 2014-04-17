@@ -830,6 +830,11 @@
 		 type="extract" extractto="root" client="no" server="yes"
 		 website="http://resonant-rise.com"
 		 description="Server-specific configs for EiraIRC." />
+	<mod name="MineTweaker Server Patch" version="n/a"
+		 url="packs/YogscastCompletePack/files/config-switches/minetweaker_default_2.8.3.3.zip" file="minetweaker_default_2.8.3.3.zip" md5="4a92609574948cb35dbc8f24a004d4bd" download="server" 
+		 type="mods" client="no" server="yes"
+		 website="http://resonant-rise.com"
+		 description="This correctly applies the MineTweaker changes to servers." />
 
 		 
   </mods>

@@ -798,6 +798,11 @@
 		 type="extract" extractto="root" optional="yes" selected="no" recommended="no"
 		 website="http://resonant-rise.com"
 		 description="Ore generation is slashed by half AND Copper, Tin and Gold are moved; for people who hate themselves." />
+	<mod name="MineTweaker Server Patch" version="n/a"
+		 url="packs/ResonantRise/files/config-switches/minetweaker_default_2.8.3.3.zip" file="minetweaker_default_2.8.3.3.zip" md5="03b13d667646568ca333f641a9db0291" download="server"
+		 type="mods" client="no" server="yes"
+		 website="http://resonant-rise.com"
+		 description="This correctly applies the MineTweaker changes to servers." />	 
 	
 		<!-- Special Mode Configs -->
 	<mod name="EiraIRC Client Config" version="n/a"
