@@ -489,7 +489,7 @@
          description="Originally by PowerCrystals" />
     <mod name="Not Enough Codecs" version="0.1"
 		 url="packs/YogscastCompletePack/files/mods/NotEnoughCodecs-0.1.jar" file="NotEnoughCodecs-0.1.jar" md5="a8cf90bc7356bbffaeafcd19b18ec0be" download="server"
-		 type="mods" optional="yes" recommended="no"
+		 type="mods" optional="yes" server="no" recommended="no"
 		 website="http://openmods.info/"
 		 description="Adds MP3/AAC support to OpenBlocks, enabling its radio station system." />
 	<mod url="packs/YogscastCompletePack/files/mods/NotEnoughItems 1.6.1.9.jar" file="NotEnoughItems 1.6.1.9.jar" md5="a24b36e61c41a75d0622fe0c6ba535b7" download="server" 
