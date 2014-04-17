@@ -138,7 +138,7 @@
 		 website="http://www.minecraftforum.net/topic/1728544-" authors="Maexx97"
 		 description="Adding chargeable tools and more to Buildcraft" />
 	<mod url="packs/YogscastCompletePack/files/mods/Calclavia-Core-1.2.0.324-universal.jar" file="Calclavia-Core-1.2.0.324-universal.jar" md5="1a5d1885c75e69b9e4e9125b7d3ff990" download="server" 
-         name="Calclavia Core" type="mods" version="1.2.0.324" optional="yes" recommended="no"
+         name="Calclavia Core" type="mods" version="1.2.0.324" optional="no" recommended="no"
          website="http://calclavia.com/calclavia-core/" donation="http://universalelectricity.com/"
          description="Base for all UE crafting."
          />
@@ -244,12 +244,12 @@
          description="Custom teleportation that looks fancier!" />
 	<mod name="Ex Aliquo" version="0.10.5"
 		 url="packs/YogscastCompletePack/files/mods/exaliquo_0.10.5.zip" file="exaliquo_0.10.5.zip" md5="9d15bce2c912b35dc7f213c1ce9f3329" download="server"
-		 type="mods" depends="Ex Nihilo" optional="yes"
+		 type="mods" depends="Ex Nihilo" optional="no"
 		 website="http://www.minecraftforum.net/topic/2391195-" authors="Zerokyuuni"
 		 description="From nothing to everything, a bridge of welcome distance." />
 	<mod name="Ex Nihilo" version="1.28"
 		 url="packs/YogscastCompletePack/files/mods/crowley-skyblock-v1.28.jar" file="crowley-skyblock-v1.28.jar" md5="dbf67a307f00586f9a3c4101cf89677c" download="server"
-		 type="mods" optional="yes"
+		 type="mods" optional="no"
 		 website="http://www.minecraftforum.net/topic/1981778-" authors="Erasmus_Crowley"
 		 description="Helper mod mainly used for SkyBlock type maps to help with SkyBlock maps" />
 	<mod url="packs/YogscastCompletePack/files/mods/ExtraCells-1.6.8f.jar" file="ExtraCells-1.6.8f.jar" md5="08a536151bd95d06deb2f63a10137d0f" download="server" 
@@ -425,7 +425,7 @@
          website="http://www.minecraftforum.net/topic/744918-15x162forgesmp-metallurgy-putting-the-mine-back-in-minecraft/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Shadowclaimer2%40gmail%2ecom&amp;lc=US&amp;item_name=Metallurgy%20Software%EF%BF%BDcy_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="A bit of this, a bit of that." />
     <mod url="packs/YogscastCompletePack/files/mods/Modular-Force-Field-System-3.6.2.66-core.jar" file="Modular-Force-Field-System-3.6.2.66-core.jar" md5="b3965d48efaae2a4b9cbb54d745949f5" download="server" 
-         name="MFFS" type="mods" version="3.6.2.66" depends="Calclavia Core" optional="yes" recommended="no"
+         name="MFFS" type="mods" version="3.6.2.66" depends="Calclavia Core" optional="no" recommended="no"
          website="http://www.minecraftforum.net/topic/1703498-" donation="http://universalelectricity.com/mffs/"
          description="Calclavia's Forcefield System." />
     <mod name="Micdoodle8 Core" version="2.0.12.1010"
@@ -489,7 +489,7 @@
          description="Originally by PowerCrystals" />
     <mod name="Not Enough Codecs" version="0.1"
 		 url="packs/YogscastCompletePack/files/mods/NotEnoughCodecs-0.1.jar" file="NotEnoughCodecs-0.1.jar" md5="a8cf90bc7356bbffaeafcd19b18ec0be" download="server"
-		 type="mods" optional="yes" recommended="no"
+		 type="mods" optional="no" recommended="no"
 		 website="http://openmods.info/"
 		 description="Adds MP3/AAC support to OpenBlocks, enabling its radio station system." />
 	<mod url="packs/YogscastCompletePack/files/mods/NotEnoughItems 1.6.1.9.jar" file="NotEnoughItems 1.6.1.9.jar" md5="a24b36e61c41a75d0622fe0c6ba535b7" download="server" 
@@ -612,7 +612,7 @@
          description="Xenophobic legacies in a compelling collection."  />
     <mod name="Remain in Motion" version="1.0.3"
 		 url="packs/YogscastCompletePack/files/mods/RemainInMotion_1.0.3.zip" file="RemainInMotion_1.0.3.zip" md5="b7328678b7e448c2f7b7e8a34c2ed24d" download="server"
-		 type="mods" optional="yes"
+		 type="mods" optional="no"
 		 website="http://forums.technicpack.net/topic/59545-" authors="jakj, planetguy"
 		 description="The black arts of frames endure." />
       <mod url="packs/YogscastCompletePack/files/mods/rcDusts-0.0.6d.zip" file="rcDusts-0.0.6d.zip" md5="809f22811df064620ad2ce47f9bff62b" download="server"
@@ -686,7 +686,7 @@
          />
 	<mod url="packs/YogscastCompletePack/files/mods/ThaumicTinkererKAMI_j6.jar" file="ThaumicTinkererKAMI_j6.jar" md5="03bea04d5b4db84e77c027c3c5c21466" download="server"
          name="Thaumic Tinkerer KAMI" type="mods"
-         version="n/a" depends="Thaumic Tinkerer" optional="yes"
+         version="n/a" depends="Thaumic Tinkerer" optional="no"
          website="http://www.minecraftforum.net/topic/1813058-" description="PHENOMENAL COSMIC POWER. Strictly optional."
          />
     <mod url="packs/YogscastCompletePack/files/mods/ThermalExpansion-3.0.0.2.jar" file="ThermalExpansion-3.0.0.2.jar" md5="3dec4e88dfbb07b7c79f41d89a7faca5" download="server"
@@ -719,7 +719,7 @@
          version="1.1.0.15" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Pew pew pew lazors."  />
     <mod name="Truss Mod"
          version="32" url="packs/YogscastCompletePack/files/mods/TrussMod-beta-1.6.4-32.jar" file="TrussMod-beta-1.6.4-32.jar" md5="84411e610e23e7018175f9097f8a87e2" download="server"
-         type="mods" optional="yes" website="http://www.minecraftforum.net/topic/1852349-" authors="RainWarrior" description="A mod that adds RP2-style frames" />
+         type="mods" optional="no" website="http://www.minecraftforum.net/topic/1852349-" authors="RainWarrior" description="A mod that adds RP2-style frames" />
     <mod url="packs/YogscastCompletePack/files/mods/tubestuff-57.1.3.jar" file="tubestuff-57.1.3.jar" md5="c7b971f9b42254faca0039eeac2a3691" download="server"
          name="TubeStuff" type="mods" version="57.1.3"
          website="http://www.minecraftforum.net/topic/1001131-"
