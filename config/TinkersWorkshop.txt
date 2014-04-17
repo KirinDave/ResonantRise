@@ -145,6 +145,7 @@ block {
     B:"Keep levels on death"=true
     B:"Lower bronze output to 2 ingots"=false
     B:"Modifiers increase Mining Level"=true
+    B:"Remove Vanilla Tool Effectiveness"=false
     B:"Remove Vanilla Tool Recipes"=false
     B:"Spawn beginner book"=true
 }
@@ -156,7 +157,7 @@ block {
 
 dimblacklist {
     # True: slime islands wont generate in any ages other than overworld(if enabled); False: will generate in all non-blackisted ages
-    B:GenerateSlimeIslandInDim0Only=false
+    B:GenerateSlimeIslandInDim0Only=true
 
     # Add dimension ID's to prevent slime islands from generating in them
     I:SlimeIslandDimBlacklist <
@@ -253,6 +254,7 @@ looks {
     I:"Armor Pattern"=14025
     I:"Blank Patterns"=14019
     I:Buckets=14101
+    I:"Creative Modifier Item"=14120
     I:"Essence Crystal"=14114
     I:"Golden Head"=14113
     I:Jerky=14115

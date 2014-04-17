@@ -63,6 +63,8 @@ ID,Unlocalised name,Type,Min Level,Max Level,Class
 69,enchantment.consuming,digger,1,1,com.spiteful.forbidden.enchantments.EnchantmentConsuming
 70,enchantment.educational,weapon,1,5,com.spiteful.forbidden.enchantments.EnchantmentEducational
 71,enchantment.corrupting,digger,1,1,com.spiteful.forbidden.enchantments.EnchantmentCorrupting
+72,enchantment.eternal,digger,1,1,com.spiteful.forbidden.enchantments.EnchantmentEternal
+85,Soul Stealer,weapon,1,5,SoulSReborn.enchant.SoulStealer
 100,enchantment.magicresist,armor,1,5,am2.enchantments.EnchantMagicResist
 104,enchantment.soulbound,all,1,1,am2.enchantments.EnchantmentSoulbound
 136,enchantment.tfFireReact,armor,1,1,twilightforest.EnchantmentTFFireReact

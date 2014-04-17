@@ -1,6 +1,6 @@
 <version>
   <pack>
-    <version>2.7.2.6-RR-YOGS</version>
+    <version>2.8.3.3-RR-YOGS</version>
     <minecraft>1.6.4</minecraft>
     <memory>2048</memory>
     <permgen>256</permgen>
@@ -63,11 +63,11 @@
          description="More pipes, more tools." />
 	<mod name="Advanced Genetics" version="1.4.1"
 		 url="packs/YogscastCompletePack/files/mods/advancedGenetics_v1.4.1.jar" file="advancedGenetics_v1.4.1.jar" md5="adeea1a98698c22535fedf4bdea38146" download="server"
-		 type="mods"
+		 type="mods" optional="yes"
 		 website="http://ag.teamdna.de/"
 		 description="Custom eldritch horrors of your very own! (Or custom mobs if you're the more boring type.)" />
-	<mod name="Advanced Thaumaturgy" version="0.0.25"
-		 url="packs/YogscastCompletePack/files/mods/AdvancedThaumaturgy-1.6.4-0.0.25.jar" file="AdvancedThaumaturgy-1.6.4-0.0.25.jar" md5="e2bef7c0f47f34558e1a786ac52a8812" download="server" 
+	<mod name="Advanced Thaumaturgy" version="0.0.28"
+		 url="packs/YogscastCompletePack/files/mods/AdvancedThaumaturgy-1.6.4-0.0.28.jar" file="AdvancedThaumaturgy-1.6.4-0.0.28.jar" md5="435c97b62b4dc1f8ba0eb3e064d117e3" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2079654-"
 		 description="High-end tweaks and additions for Thaumcraft!" />
@@ -81,20 +81,16 @@
          version="1.1.2b"
          website="http://www.minecraftforum.net/topic/2028696-ars-magica-2-162164-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=AX7QDYVEP7E2J&amp;lc=CA&amp;item_name=Qor%20Concept%20Entertainment&amp;item_number=Ars%20Magica&amp;currency_code=CAD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
          description="This one might creep you out. A comprehensive magic system." />
-    <mod url="packs/YogscastCompletePack/files/mods/Atomic-Science-1.1.0.53-core.jar" file="Atomic-Science-1.1.0.53-core.jar" md5="84aaf864f4852738a74d2c097041ea82" download="server" 
-         name="Atomic Science" type="mods" version="1.1.0.53" optional="yes"
-         website="http://universalelectricity.com/" donation="http://universalelectricity.com/"
-         description="Nuclear steam power!" />
 	<mod url="packs/YogscastCompletePack/files/mods/autoutils-1.6.4-1.0.1.jar" file="autoutils-1.6.4-1.0.1.jar" md5="a1ba0914e3b6047906214f3b63ba59d6" download="server" 
          name="AutoUtils [Chisel Libs]" type="mods" version="1.0.1"
          website="http://www.minecraftforum.net/topic/1749374-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=NS64FL5ZXYG3N&amp;lc=RU&amp;item_name=I%20write%20mods%20for%20minecraft&amp;item_number=minecraft&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="Chisel Util Mod" />
-    <mod url="packs/YogscastCompletePack/files/mods/backpack-1.27.34-1.6.x.jar" file="backpack-1.27.34-1.6.x.jar" md5="b7c847583ce5f2d7117a2d04c60edc8c" download="server" 
-         name="Backpacks" version="1.27.34" type="mods"
+    <mod url="packs/YogscastCompletePack/files/mods/backpack-1.28.37-1.6.x.jar" file="backpack-1.28.37-1.6.x.jar" md5="59b768ea73762cd15df1c746308ff2f9" download="server"
+         name="Backpacks" version="1.28.37" type="mods"
          website="http://www.minecraftforum.net/topic/1492661-15x-16x-backpacks-v-11213/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=CCEHF29WUSQVJ"
          description="Baggy leather in your inventory." />
-	<mod url="packs/YogscastCompletePack/files/mods/bdlib-mc164-1.1.0.21.jar" file="bdlib-mc164-1.1.0.21.jar" md5="5f04c3670a6215a75f0552263cbf6899" download="server"
-         name="BDLib" type="mods" version="1.1.0.21"
+	<mod url="packs/YogscastCompletePack/files/mods/bdlib-mc164-1.2.0.38.jar" file="bdlib-mc164-1.2.0.38.jar" md5="e272418c7ca409d3564692e9053e10c3" download="server" 
+         name="BDLib" type="mods" version="1.2.0.38"
          website="http://bdew.net/gendustry"
          description="Library for Gendustry." />
 	<mod url="packs/YogscastCompletePack/files/mods/BiblioCraft[v1.5.5].zip" file="BiblioCraft[v1.5.5].zip" md5="cd7736872df8af0fb2625be67d1968be" download="server" 
@@ -117,8 +113,8 @@
          version="1.1"
          website="http://www.bibliocraftmod.com/?page_id=50#bibliowoods"
          description="More wood colors for furniture."  />
-    <mod url="packs/YogscastCompletePack/files/mods/BigReactors-0.3.0A.jar" file="BigReactors-0.3.0A.jar" md5="01ba620929c78d6bd0080639e318096f" download="server" 
-         name="Big Reactors" type="mods" version="0.3.0A" optional="yes"
+    <mod url="packs/YogscastCompletePack/files/mods/BigReactors-0.3.1A.jar" file="BigReactors-0.3.1A.jar" md5="258187263f5435bd5658e35d3f713f0f" download="server"
+         name="Big Reactors" type="mods" version="0.3.1A" optional="no"
          website="http://big-reactors.com/"
          description="Just in time for the 1.6.4 pack release! \o/" />
     <mod url="packs/YogscastCompletePack/files/mods/binnie-mods-1.8.0.jar" file="binnie-mods-1.8.0.jar" md5="67177d94f61104076432cf277631209a" download="server"
@@ -130,31 +126,41 @@
          version="1.2.1.416"
          website="https://github.com/BiomesOPlenty/BiomesOPlenty/releases" donation="https://www.paypal.com/cgi-bin7webscr?cmd=_donations&amp;business=U58BHXTK8LLRQ&amp;lc=US&amp;item_name=Biomes%20O%27%20Plenty&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="More Everything." />
-    <mod url="packs/YogscastCompletePack/files/mods/Blood Magic v1.0.0.zip" file="Blood Magic v1.0.0.zip" md5="6b7c0da5a5ea2724e875d7036a63b0cb" download="server"  
-         name="Blood Magic" type="mods" website="http://www.minecraftforum.net/topic/1899223-" version="1.0.0" description="Alphonse, not nose piercing."/>
+    <mod url="packs/YogscastCompletePack/files/mods/Blood Magic v1.0.1b.zip" file="Blood Magic v1.0.1b.zip" md5="94541f42cce0e3a079bfdd1cbdb1f172" download="server" 
+         name="Blood Magic" type="mods" website="http://www.minecraftforum.net/topic/1899223-" version="1.0.1b" description="Alphonse, not nose piercing."/>
 	<mod url="packs/YogscastCompletePack/files/mods/buildcraft-A-1.6.4-4.2.2.jar" file="buildcraft-A-1.6.4-4.2.2.jar" md5="3d2b0dad2291f1c0bb0c5b8c96303b68" download="server"
          name="Buildcraft" type="mods"  version="4.2.2"
          website="http://www.mod-buildcraft.com/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=KQWXKT6KK7SH4"
          description="Burning oil forever." />
-    <mod url="packs/YogscastCompletePack/files/mods/Calclavia Core-1.1.1.210-main.jar" file="Calclavia Core-1.1.1.210-main.jar" md5="883a663bfcab151a9216c3510b9aef8e" download="server" 
-         name="Calclavia Core" type="mods" version="1.1.1.210"
+    <mod name="Buildcraft Tools" version="1.4-a-17"
+		 url="packs/YogscastCompletePack/files/mods/bcTools-v1.4-a-17.jar" file="bcTools-v1.4-a-17.jar" md5="ff33d80df924800db97595609e98defd" download="server"
+		 type="mods"
+		 website="http://www.minecraftforum.net/topic/1728544-" authors="Maexx97"
+		 description="Adding chargeable tools and more to Buildcraft" />
+	<mod url="packs/YogscastCompletePack/files/mods/Calclavia-Core-1.2.0.324-universal.jar" file="Calclavia-Core-1.2.0.324-universal.jar" md5="1a5d1885c75e69b9e4e9125b7d3ff990" download="server" 
+         name="Calclavia Core" type="mods" version="1.2.0.324" optional="yes" recommended="no"
          website="http://calclavia.com/calclavia-core/" donation="http://universalelectricity.com/"
          description="Base for all UE crafting."
          />
-	<mod url="packs/YogscastCompletePack/files/mods/Carpenters Blocks v2.0.7 - MC 1.6.zip" file="Carpenters Blocks v2.0.7 - MC 1.6.zip" md5="a3d476a168ebbce556c298a72937de95" download="server" 
-         name="Carpenter's Blocks" type="mods" version="2.0.7"
+	<mod url="packs/YogscastCompletePack/files/mods/Carpenters Blocks v2.0.8 - MC 1.6.zip" file="Carpenters Blocks v2.0.8 - MC 1.6.zip" md5="d47676f5081f03503006efbf32c8f089" download="server" 
+         name="Carpenter's Blocks" type="mods" version="2.0.8"
          website="http://www.minecraftforum.net/topic/1790919-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=YGAB8YNHMQPLQ&amp;lc=US&amp;item_name=Minecraft%20Modding&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"
          description="Angles!" />
     <mod url="packs/YogscastCompletePack/files/mods/CCTransport-1.0.1.jar" file="CCTransport-1.0.1.jar" md5="afd7267ba8d5c275fe3b586c886894d6" download="server"
          name="CCTransport" type="mods"  version="1.0.1" website="http://www.computercraft.info/forums2/index.php?/topic/15384-cctransport-v101-inventory-management-add-on-for-openperipherals/"
          description="Automate all the things with lua" />
-    <mod url="packs/YogscastCompletePack/files/mods/ChickenChunks 1.3.3.4.jar" file="ChickenChunks 1.3.3.4.jar" md5="7029bffe7b251c028098834ab61ee344" download="server" 
+    <mod name="Charlotte's Utilities" version="0.3.0"
+		 url="packs/YogscastCompletePack/files/mods/CharlottesUtilities-0.3.0.zip" file="CharlottesUtilities-0.3.0.zip" md5="b80cbba52907fd8ec78538ef6d64270c" download="server" 
+		 type="mods"
+		 website="http://www.minecraftforum.net/topic/2546260-"  authors="Sharshar"
+		 description="Layout guides and prospecting!" />
+	<mod url="packs/YogscastCompletePack/files/mods/ChickenChunks 1.3.3.4.jar" file="ChickenChunks 1.3.3.4.jar" md5="7029bffe7b251c028098834ab61ee344" download="server" 
 		 name="ChickenChunks" version="1.3.3.4" type="mods"
 		 website="http://www.minecraftforum.net/topic/909223-"
 		 donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" authors="ChickenBones"
 		 description="Advanced chunkloading management" />
-	<mod url="packs/YogscastCompletePack/files/mods/chisel-1.6.4-1.5.0fix.jar" file="chisel-1.6.4-1.5.0fix.jar" md5="643a4cce13eab1af9a378977febc609b" download="server" 
-         name="Chisel" type="mods" version="1.5.0.fix"
+	<mod url="packs/YogscastCompletePack/files/mods/chisel-1.5.1.jar" file="chisel-1.5.1.jar" md5="17b473f330487ae706f722d5fe1368e2" download="server" 
+         name="Chisel [Asie]" type="mods" version="1.5.1"
          website="http://www.minecraftforum.net/topic/1749374-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=NS64FL5ZXYG3N&amp;lc=RU&amp;item_name=I%20write%20mods%20for%20minecraft&amp;item_number=minecraft&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="Basically the best decorative mod ever." />
 	<mod name="Chocolate Quest" version="2.091"
@@ -169,11 +175,11 @@
          website="http://teamcofh.com/"
          description="The hero's great legacy follows him."
          fileprefix="00002_" />
-    <mod url="packs/YogscastCompletePack/files/mods/ComputerCraft1.58.zip" file="ComputerCraft1.58.zip" md5="e2bed275489ffa7741ee247a11dbf142" download="server"
-         name="ComputerCraft" type="mods"  version="1.58" website="http://computercraft.info/" donation="http://www.computercraft.info/donate/"
+    <mod url="packs/YogscastCompletePack/files/mods/ComputerCraft1.63.jar" file="ComputerCraft1.63.jar" md5="e0107b4a4e2acd92b7a6d6b750f20856" download="server"
+         name="ComputerCraft" type="mods"  version="1.63" website="http://computercraft.info/" donation="http://www.computercraft.info/donate/"
          description="Lua interpreters in a block." />
-    <mod url="packs/YogscastCompletePack/files/mods/DartCraft Beta 0.2.17.jar" file="DartCraft Beta 0.2.17.jar" md5="d4044265c1b7a72f32b37e84e06ff12c" download="server"
-         name="DartCraft" type="mods"  version="0.2.17"
+    <mod url="packs/YogscastCompletePack/files/mods/DartCraft Beta 0.2.18.jar" file="DartCraft Beta 0.2.18.jar" md5="30ae9f56c9a9582012147c024aa545ae" download="server"
+         name="DartCraft" type="mods"  version="0.2.18"
          website="http://www.minecraftforum.net/topic/1686840-151-152-dartcraft-beta-0118/"
          description="Convenience is king."
          fileprefix="00001_" />
@@ -182,7 +188,7 @@
          website="http://forum.feed-the-beast.com/threads/dartpatch-mfr-planter-harvester-support-for-dartcraft.28832/"
          description="Proper compatibility is queen." />
     <mod url="packs/YogscastCompletePack/files/mods/1.6.4 DamageIndicatorsv2.9.2.3.zip" file="1.6.4 DamageIndicatorsv2.9.2.3.zip" md5="d0f4ea50f36ba82fc867c5122c3c07fe" download="server"
-         name="Damage Indicators [by rich1051414]" type="mods" optional="yes" selected="yes" server="no" version="2.9.2.3"
+         name="Damage Indicators [by rich1051414]" type="mods" optional="yes" recommended="yes" selected="yes" server="no" version="2.9.2.3"
          website="http://www.minecraftforum.net/topic/1536685-"
          description="UI to put health bars and numeric life indicators for minecraft."  />
     <mod url="packs/YogscastCompletePack/files/mods/denLib-1.6.4-3.1.35.jar" file="denLib-1.6.4-3.1.35.jar" md5="7b414345b971a82117da2ae3872991a7" download="server"
@@ -197,16 +203,31 @@
          name="DenPipes-Forestry" type="mods" version="1.1.8"
          website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=INpureProjects%40gmail%2ecom&amp;lc=US&amp;item_name=denoflions%20mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="Improvements to buildcraft pipes with bees and trees in mind." />
-    <mod url="packs/YogscastCompletePack/files/mods/dimensional-anchor-57.1.95.jar" file="dimensional-anchor-57.1.95.jar" md5="4f13c7e2aab8ca767ab5b0f67f07aaf8" download="server" 
-         name="Dimensional Anchors" type="mods" version="57.1.95"
+    <mod url="packs/YogscastCompletePack/files/mods/dimensional-anchor-57.1.96.jar" file="dimensional-anchor-57.1.96.jar" md5="08e1d4694cb59b9cc5ab1ca8be6322ad" download="server" 
+         name="Dimensional Anchors" type="mods" version="57.1.96"
          website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/"
          description="Immibis's chunk loaders. Preferred."  />
+	<mod name="Dynamic Lights" version="1.6.4"
+         url="packs/YogscastCompletePack/files/mods/DynamicLights_1.6.4.zip" file="DynamicLights_1.6.4.zip" md5="f40c3bd0b844585c5b5239fa08f35138" download="server" 
+         type="mods"
+         website="http://www.minecraftforum.net/topic/184426-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=6T5E6P8L7N6L6" authors="AtomicStryker"
+         description="At long last, intuitive torch gameplay!" />
+	<mod name="EiraIRC" version="mc1.6.4-v1.6.2"
+		 url="packs/YogscastCompletePack/files/mods/EiraIRC-mc1.6.4-v1.6.2.jar" file="EiraIRC-mc1.6.4-v1.6.2.jar" md5="bb471e4b0c7cbb08fedd20cff243773d" download="server"
+		 type="mods" optional="yes" selected="no" recommended="no"
+		 website="http://www.minecraftforum.net/topic/1964989-" authors="blay09"
+		 description="An IRC Connector that works both on clients and servers independently, with some neat special features." />
 	<mod url="packs/YogscastCompletePack/files/mods/EmasherResource-1.2.3.4.zip" file="EmasherResource-1.2.3.4.zip" md5="25723b6d2f636ac5d0a1b3359d282ad8" download="server" 
          name="EmasherResource" type="mods" version="1.2.3.4"
          website="http://emashersmods.wikispaces.com"
          description="Build big or build tiny." />
-    <mod url="packs/YogscastCompletePack/files/mods/EnderIO-1.6.4-0.11.4.340.jar" file="EnderIO-1.6.4-0.11.4.340.jar" md5="ecb1371b69e5b489caecda48692eadb1" download="server" 
-         name="EnderIO" type="mods" version="0.11.4.340"
+    <mod url="packs/YogscastCompletePack/files/mods/Enchiridion-1.6.4-1.1.jar" file="Enchiridion-1.6.4-1.1.jar" md5="45d1e0eb10f71dd7444b6c34332541e6" download="server"
+		 name="Enchiridion" version="1.1"
+		 type="mods"
+		 website="http://www.minecraftforum.net/topic/2049315-"
+		 description="Custom book mod" />
+	<mod url="packs/YogscastCompletePack/files/mods/EnderIO-1.6.4-1.0.1.353.jar" file="EnderIO-1.6.4-1.0.1.353.jar" md5="19b4fa37d869b692b3bd2f0be670560e" download="server"
+         name="EnderIO" type="mods" version="1.0.1.353"
          website="http://www.minecraftforum.net/topic/1937619-"
          description="An alternative, awesome, universal, concealable pipes for everything." />
     <mod url="packs/YogscastCompletePack/files/mods/EnderStorage 1.4.3.6.jar" file="EnderStorage 1.4.3.6.jar" md5="924bcdbb14e0c9b1f64295d8091bc249" download="server" 
@@ -221,12 +242,22 @@
          name="EnhancedPortals 3" type="mods" version="3.0.0b5e"
          website="http://www.minecraftforum.net/topic/2143651-"
          description="Custom teleportation that looks fancier!" />
-	<mod url="packs/YogscastCompletePack/files/mods/ExtraCells-1.6.8e.jar" file="ExtraCells-1.6.8e.jar" md5="57f64fd35e49e8f2cb742e9eff2608b3" download="server" 
-         name="Extra Cells" depends="Applied Energistics"  type="mods" version="1.6.8e"
+	<mod name="Ex Aliquo" version="0.10.5"
+		 url="packs/YogscastCompletePack/files/mods/exaliquo_0.10.5.zip" file="exaliquo_0.10.5.zip" md5="9d15bce2c912b35dc7f213c1ce9f3329" download="server"
+		 type="mods" depends="Ex Nihilo" optional="yes"
+		 website="http://www.minecraftforum.net/topic/2391195-" authors="Zerokyuuni"
+		 description="From nothing to everything, a bridge of welcome distance." />
+	<mod name="Ex Nihilo" version="1.28"
+		 url="packs/YogscastCompletePack/files/mods/crowley-skyblock-v1.28.jar" file="crowley-skyblock-v1.28.jar" md5="dbf67a307f00586f9a3c4101cf89677c" download="server"
+		 type="mods" optional="yes"
+		 website="http://www.minecraftforum.net/topic/1981778-" authors="Erasmus_Crowley"
+		 description="Helper mod mainly used for SkyBlock type maps to help with SkyBlock maps" />
+	<mod url="packs/YogscastCompletePack/files/mods/ExtraCells-1.6.8f.jar" file="ExtraCells-1.6.8f.jar" md5="08a536151bd95d06deb2f63a10137d0f" download="server" 
+         name="Extra Cells" depends="Applied Energistics"  type="mods" version="1.6.8f"
          website="http://www.minecraftforum.net/topic/1801643-m3gas-extracells-appliedenergistics-add-on/"
          description="A massive expansion to Applied Energistics. Store fluids and more."  />
-    <mod url="packs/YogscastCompletePack/files/mods/ExtraTiC-1.6.4-0.7.6.jar" file="ExtraTiC-1.6.4-0.7.6.jar" md5="b13eeba85206afb771ed2a4f38081a3b" download="server"
-         name="ExtraTiC" depends="Tinker's Construct"  type="mods" version="0.7.6"
+    <mod url="packs/YogscastCompletePack/files/mods/ExtraTiC-1.6.4-0.8.0.jar" file="ExtraTiC-1.6.4-0.8.0.jar" md5="f1f70dcc5d7f3c70a71aaf00c3b87437" download="server" 
+         name="ExtraTiC" depends="Tinker's Construct"  type="mods" version="0.8.0"
          website="http://www.minecraftforum.net/topic/1985397-"
          description="So many metals, so many gods."  />
     <mod url="packs/YogscastCompletePack/files/mods/extrautils-1.0.3c.zip" file="extrautils-1.0.3c.zip" md5="9eb5200ff895be6b95c62a26ba7d9a53" download="server"
@@ -237,13 +268,18 @@
          name="Factorization" type="mods" version="0.8.34"
          website="http://www.minecraftforum.net/topic/1351802-"
          description="Unquantifably Awesome. Power that munches and crunches better than Gurgi ever could." />
-    <mod url="packs/YogscastCompletePack/files/mods/flatsigns-1.6.2-universal-1.4.0.15.jar" file="flatsigns-1.6.2-universal-1.4.0.15.jar" md5="581bf79ecbda0132101ffcd0ba165fa0" download="server"
+    <mod name="Finndus Fillies" version="1.0.0.7"
+		 url="packs/YogscastCompletePack/files/mods/FinndusFillies-1.6.2-universal-1.0.0.7.jar" file="FinndusFillies-1.6.2-universal-1.0.0.7.jar" md5="ad00608137b33bf07083dd2be7df1f65" download="server"
+		 type="mods"
+		 website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/" authors="Myrathi"
+		 description="lol horsemeat scandal" />
+	<mod url="packs/YogscastCompletePack/files/mods/flatsigns-1.6.2-universal-1.4.0.15.jar" file="flatsigns-1.6.2-universal-1.4.0.15.jar" md5="581bf79ecbda0132101ffcd0ba165fa0" download="server"
          name="Flat Signs" type="mods" version="1.4.0.15"
          website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/"
          description="Signs on every surface."
          />
-    <mod name="Forbidden Magic" version="pr0.32"
-		 url="packs/YogscastCompletePack/files/mods/ForbiddenMagic pr0.32.jar" file="ForbiddenMagic pr0.32.jar" md5="737f3e331411436d3a29a99e52069e33" download="server" 
+    <mod name="Forbidden Magic" version="pr0.333"
+		 url="packs/YogscastCompletePack/files/mods/ForbiddenMagic pr0.333.jar" file="ForbiddenMagic pr0.333.jar" md5="dfad59a73fcfe43359a3ef56deb36be6" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2305054-"
 		 description="Magic on the shadier side of the street for Thaumcraft!" />
@@ -251,55 +287,75 @@
          name="Forestry" type="mods"  version="2.3.1.1"
          website="http://forestry.sengir.net/wiki.new/" donation="http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads#donations"
          description="Bees, Trees, and Automate-ables."  />
-    <mod url="packs/YogscastCompletePack/files/mods/GasCraft-2.0.4.3.zip" file="GasCraft-2.0.4.3.zip" md5="d40441f39af2a8cb6ae708804c94ca16" download="server" 
+    <mod name="Galacticraft Core" version="2.0.12.1010"
+         url="packs/YogscastCompletePack/files/mods/Galacticraft-1.6.4-2.0.12.1010.jar" file="Galacticraft-1.6.4-2.0.12.1010.jar" md5="5d6f7c9c662207f8832faffdf00baebe" download="server" 
+         type="mods"
+         website="http://www.micdoodle8.com/mods/galacticraft" donation="http://www.micdoodle8.com/" authors="micdoodle8"
+         description="An advanced space travel mod for Minecraft 1.6" />
+    <mod name="Galacticraft Mars" version="2.0.12.1010"
+         url="packs/YogscastCompletePack/files/mods/Galacticraft-Planets-1.6.4-2.0.12.1010.jar" file="Galacticraft-Planets-1.6.4-2.0.12.1010.jar" md5="07bcd703283b20ba7231c19f87810538" download="server"
+         type="mods"
+         website="http://www.micdoodle8.com/mods/galacticraft" donation="http://www.micdoodle8.com/" authors="micdoodle8"
+         description="Mars addon for Galacticraft." />
+	<mod url="packs/YogscastCompletePack/files/mods/GasCraft-2.0.4.3.zip" file="GasCraft-2.0.4.3.zip" md5="d40441f39af2a8cb6ae708804c94ca16" download="server" 
          name="GasCraft" type="mods" version="2.0.4.3"
          website="http://emashersmods.wikispaces.com/Downloads"
          description="Flutey Toot." />
-	<mod url="packs/YogscastCompletePack/files/mods/gendustry-mc164-1.0.3.41.jar" file="gendustry-mc164-1.0.3.41.jar" md5="7d4e653a2fa86a092e0c95b42879d172" download="server"
-         name="Gendustry" type="mods" version="1.0.3.41"
+	<mod url="packs/YogscastCompletePack/files/mods/gendustry-mc164-1.1.0.61.jar" file="gendustry-mc164-1.1.0.61.jar" md5="599c916d41927a5b2489a70b5745db7a" download="server" 
+         name="Gendustry" type="mods" version="1.1.0.61"
          website="http://bdew.net/gendustry"
          description="The new darling of the Buildcraft fan scene." />
     <mod url="packs/YogscastCompletePack/files/mods/GravityGun2.0.0.zip" file="GravityGun2.0.0.zip" md5="befe475831348a070dc5dd45de4dd94f" download="server"
-		 name="GraviGun" version="2.0.0"  type="mods" optional="yes"
+		 name="GraviGun" version="2.0.0"  type="mods" optional="no"
 		 website="http://ichun.us/mods/gravity-gun/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun"
 		 description="Adds the HL2 Gravity Gun to Minecraft" />
 	<mod url="packs/YogscastCompletePack/files/mods/GregsLighting-1.9.1-mc1.6.4.jar" file="GregsLighting-1.9.1-mc1.6.4.jar" md5="344f0d30e56e544ec793a905cb616558" download="server"
 		 name="Greg&apos;s Lighting" version="1.9.1" type="mods"
 		 website="http://www.minecraftforum.net/topic/1357011-" authors="Greg_Ewing"
 		 description="Cheap floodlights! \o/" />
-	<mod name="GrowthCraft [Apples]" version="2.0.4" type="mods"
-		 url="packs/YogscastCompletePack/files/mods/growthcraft-apples-1.6.4-2.0.4.zip" file="growthcraft-apples-1.6.4-2.0.4.zip" md5="4f753be34f2403b9fad380139944c954" download="server"
+	<mod name="GrowthCraft [Apples]" version="2.0.5" type="mods"
+		 url="packs/YogscastCompletePack/files/mods/growthcraft-apples-1.6.4-2.0.5.zip" file="growthcraft-apples-1.6.4-2.0.5.zip" md5="80eff1f485815e3fbfcfb508dd5eacab" download="server"
 		 website="http://www.minecraftforum.net/topic/1510394-"
 		 description="Cedar salad." />
-	<mod name="GrowthCraft [Bamboo]" version="2.0.4" type="mods"
-		 url="packs/YogscastCompletePack/files/mods/growthcraft-bamboo-1.6.4-2.0.4.zip" file="growthcraft-bamboo-1.6.4-2.0.4.zip" md5="32082232abcba5586cb0e2dcfb28affe" download="server"
+	<mod name="GrowthCraft [Bamboo]" version="2.0.5" type="mods"
+		 url="packs/YogscastCompletePack/files/mods/growthcraft-bamboo-1.6.4-2.0.5.zip" file="growthcraft-bamboo-1.6.4-2.0.5.zip" md5="9140cb8e865573c7a920f6ec5324b876" download="server" 
 		 website="http://www.minecraftforum.net/topic/1510394-"
 		 description="Giant reeds of crafting." />
 	<mod name="GrowthCraft [Cellar]" version="2.0.5" type="mods"
-		 url="packs/YogscastCompletePack/files/mods/growthcraft-cellar-1.6.4-2.0.5.zip" file="growthcraft-cellar-1.6.4-2.0.5.zip" md5="42aa3ae7156f2595dd18ffcdf96f951a" download="server" 
+		 url="packs/YogscastCompletePack/files/mods/growthcraft-cellar-1.6.4-2.0.6.zip" file="growthcraft-cellar-1.6.4-2.0.6.zip" md5="bcc6d6ef7d7dc70d28b1baa5e9fcdd20" download="server"  
 		 website="http://www.minecraftforum.net/topic/1510394-"
 		 description="BREW YOUR OWN BEER. Need I say more?" />
-	<mod name="GrowthCraft [Core]" version="2.0.4" type="mods"
-		 url="packs/YogscastCompletePack/files/mods/growthcraft-core-1.6.4-2.0.4.zip" file="growthcraft-core-1.6.4-2.0.4.zip" md5="13009f3254fd1192b32cefdd3ee2dec2" download="server"
+	<mod name="GrowthCraft [Core]" version="2.0.5" type="mods"
+		 url="packs/YogscastCompletePack/files/mods/growthcraft-core-1.6.4-2.0.5.zip" file="growthcraft-core-1.6.4-2.0.5.zip" md5="9ae0ab39c2ff59844674de5886bd8514" download="server" 
 		 website="http://www.minecraftforum.net/topic/1510394-"
 		 description="Farmhouse core files." />
-	<mod name="GrowthCraft [Grapes]" version="2.0.4" type="mods"
-		 url="packs/YogscastCompletePack/files/mods/growthcraft-grapes-1.6.4-2.0.4.zip" file="growthcraft-grapes-1.6.4-2.0.4.zip" md5="cda720f2a8b4fd7350657c95d9ec8036" download="server"
+	<mod name="GrowthCraft [Grapes]" version="2.0.5" type="mods"
+		 url="packs/YogscastCompletePack/files/mods/growthcraft-grapes-1.6.4-2.0.5.zip" file="growthcraft-grapes-1.6.4-2.0.5.zip" md5="08f7dd29a6d6eb6e71617bf2fbe883df" download="server" 
 		 website="http://www.minecraftforum.net/topic/1510394-"
 		 description="Wine tasting?" />
-	<mod name="GrowthCraft [Hops]" version="2.0.4" type="mods"
-		 url="packs/YogscastCompletePack/files/mods/growthcraft-hops-1.6.4-2.0.4.zip" file="growthcraft-hops-1.6.4-2.0.4.zip" md5="f42c0a3dfcc9d88bfa7f5cff2c80b219" download="server"
+	<mod name="GrowthCraft [Hops]" version="2.0.5" type="mods"
+		 url="packs/YogscastCompletePack/files/mods/growthcraft-hops-1.6.4-2.0.5.zip" file="growthcraft-hops-1.6.4-2.0.5.zip" md5="9377eba451c7dc0b6dd77c932427570a" download="server"
 		 website="http://www.minecraftforum.net/topic/1510394-"
 		 description="GLORIOUS DWARVEN ALE." />
-	<mod name="GrowthCraft [Rice]" version="2.0.4" type="mods"
-		 url="packs/YogscastCompletePack/files/mods/growthcraft-rice-1.6.4-2.0.4.zip" file="growthcraft-rice-1.6.4-2.0.4.zip" md5="851d49f03e9c9b68ff513208001ccad0" download="server"
+	<mod name="GrowthCraft [Rice]" version="2.0.5" type="mods"
+		 url="packs/YogscastCompletePack/files/mods/growthcraft-rice-1.6.4-2.0.5.zip" file="growthcraft-rice-1.6.4-2.0.5.zip" md5="bbbc1cb52da409299819f7298a123595" download="server" 
 		 website="http://www.minecraftforum.net/topic/1510394-"
 		 description="JAPANESE BEER." />
-	<mod url="packs/YogscastCompletePack/files/mods/HardcoreEnderExpansion_1.4.3a.zip" file="HardcoreEnderExpansion_1.4.3a.zip" md5="4a51f4d249ada5a69078be13460fcd07" download="server" 
-         name="Hardcore Ender Expansion" type="mods" version="1.4.3a"
+	<mod url="packs/YogscastCompletePack/files/mods/HardcoreEnderExpansion_1.5.zip" file="HardcoreEnderExpansion_1.5.zip" md5="1648dab9bc9378418a419983458b0f6d" download="server"
+         name="Hardcore Ender Expansion" type="mods" version="1.5"
          website="http://hardcore-enderdragon.wikia.com/wiki/Home"
          description="The Ender Dragon Is Not Happy With You."
          />
+	<mod name="Hats" version="2.1.5"
+		 url="packs/YogscastCompletePack/files/mods/Hats2.1.5.zip" file="Hats2.1.5.zip" md5="a26ec6ca48ce728f84a3b94f5e5ec1a9" download="server" 
+         type="mods"
+         website="http://ichun.us/mods/hats/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun"
+         description="Adds a bunch of hats, as wells as the ability to add more, into Minecraft" />
+    <mod name="HatStand" version="2.1.0"
+         url="packs/YogscastCompletePack/files/mods/HatStand2.1.0.zip" file="HatStand2.1.0.zip" md5="0282a216a45e9ad3aa13133e82a2c35f" download="server"
+         type="mods"
+         website="http://ichun.us/mods/hats/hatstand/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun"
+         description="Addon for Hats, a Hat Stand block to display hats." />
     <mod url="packs/YogscastCompletePack/files/mods/HexWool-0.2.2-mc1.6.2.jar" file="HexWool-0.2.2-mc1.6.2.jar" md5="c75adfcb6fdd8723cbae7c91cd928edb" download="server"
          name="HexWool" type="mods" version="0.2.2"
          website="https://github.com/Techjar/HexWool"
@@ -308,12 +364,12 @@
 		 name="iChunUtil" version="2.4.0"  type="mods"
 		 website="http://www.ichun.us/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun"
 		 description="Shared library mod required by several of iChun&apos;s Mods." />
-	<mod url="packs/YogscastCompletePack/files/mods/immibis-core-57.1.94.jar" file="immibis-core-57.1.94.jar" md5="2989d097cfb46adb908e6a9871cf74a1" download="server"
+	<mod url="packs/YogscastCompletePack/files/mods/immibis-core-57.2.0.jar" file="immibis-core-57.2.0.jar" md5="29326efb35a7b637ae7646477534c6d8" download="server" 
          name="Immibis Core"  type="mods"
-         version="57.1.94" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="Core mod for Immibis's suite." />
-    <mod url="packs/YogscastCompletePack/files/mods/immibis-peripherals-57.0.1.jar" file="immibis-peripherals-57.0.1.jar" md5="c1a415f2fd83845b9bbc4d56afec0d36" download="server"
+         version="57.2.0" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="Core mod for Immibis's suite." />
+    <mod url="packs/YogscastCompletePack/files/mods/immibis-peripherals-57.1.0.jar" file="immibis-peripherals-57.1.0.jar" md5="1ea8182b125ef89aa56dd684bd4bf2f2" download="server" 
          name="Immibis Peripherals" depends="ImmibisCore,ComputerCraft"  type="mods"
-         version="57.0.1"
+         version="57.1.0"
          website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/"
          description="Cool sensor modes for ComputerCraft."  />
     <mod url="packs/YogscastCompletePack/files/mods/infinitubes-57.0.5.jar" file="infinitubes-57.0.5.jar" md5="0bbd903117ed9142e687f4e4de462520" download="server"
@@ -324,8 +380,8 @@
          version="5.4.1.702"
          website="http://www.minecraftforum.net/topic/981855-15-and-up-forge-universalironchests-50-minecraft-15-update/"
          description="The Best Chest Upgrades" />
-    <mod url="packs/YogscastCompletePack/files/mods/JABBA_1.1.2a.zip" file="JABBA_1.1.2a.zip" md5="23030a35caaa01a1a9bf6fccfe208edb" download="server" 
-         name="Jabba" type="mods" version="1.1.2a"
+    <mod url="packs/YogscastCompletePack/files/mods/JABBA_1.1.2c.zip" file="JABBA_1.1.2c.zip" md5="8f611797f0bbb61968f70b8effb41cd0" download="server" 
+         name="Jabba" type="mods" version="1.1.2c"
          website="http://profmobius.blogspot.fr/2013/11/jabba-100.html"
          donation="http://profmobius.blogspot.fr/"
          description="Just a Better Barrel Addon." />
@@ -336,72 +392,88 @@
     <mod url="packs/YogscastCompletePack/files/mods/liquid-xp-57.1.2.jar" file="liquid-xp-57.1.2.jar" md5="74b3a1edae1362578f4141e9fd1d5e1e" download="server"
          name="Liquid XP" depends="ImmibisCore"  type="mods"
          version="57.1.2" website="http://www.minecraftforum.net/topic/1001131-162-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/" description="Advanced use of XP for auto-enchanting."  />
-    <mod url="packs/YogscastCompletePack/files/mods/LogisticsPipes-MC1.6.4-0.7.4.dev.118.jar" file="LogisticsPipes-MC1.6.4-0.7.4.dev.118.jar" md5="ef40307e3794a813cca78b350ac08063" download="server" 
-         name="Logistics Pipes" type="mods" version="0.7.4.dev.118"
-         website="http://www.minecraftforum.net/topic/1831791-152buildcraft-logistics-pipes/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HMEH9HF4Q2RFJ"
-         description="Even more amazing pipes." />
-    <mod name="Mad Science" version="1.00.98"
-		 url="packs/YogscastCompletePack/files/mods/MadScience-MC1.6.4-F9.11.1.964_v1.00.98-universal.jar" file="MadScience-MC1.6.4-F9.11.1.964_v1.00.98-universal.jar" md5="64944d1a39461da31fd3ecfd8a31e7b6" download="server" 
+    <mod name="Mad Science" version="1.00.141"
+		 url="packs/YogscastCompletePack/files/mods/MadScience-MC1.6.4-F9.11.1.964_v1.00.141-universal.jar" file="MadScience-MC1.6.4-F9.11.1.964_v1.00.141-universal.jar" md5="fe13de02876f00d236caf55e3089c4b9" download="server" 
 		 type="mods"
 		 website="http://madsciencemod.com/"
 		 description="Universal Insanity." />
 	<mod name="Magical Crops" version="3.2.0_BETA_15a"
 		 url="packs/YogscastCompletePack/files/mods/magical_crops_1.6.4_3.2.0_BETA_15a.zip" file="magical_crops_1.6.4_3.2.0_BETA_15a.zip" md5="6173ccef97d9771df20b9a15f101ae99" download="server" 
-		 type="mods"
+		 type="mods" optional="no"
 		 website="http://www.minecraftforum.net/topic/1633516-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3K6MLFGJKHTW8"
 		 authors="Mark719" description="Free loot through farming." />
 	<mod url="packs/YogscastCompletePack/files/mods/magicbees-2.1.12.jar" file="magicbees-2.1.12.jar" md5="86b02f6be1d0cc4fd6d67e87cfe43417" download="server" 
          name="Magic Bees" type="mods" version="2.1.12"
          website="http://www.minecraftforum.net/topic/1627856-magic-bees-magic-themed-bees-for-forestry-the-successor-to-thaumicbees/"
          description="Bees in the trap." />
-    <mod url="packs/YogscastCompletePack/files/mods/Mariculture-1.6.4-1.2.0i.jar" file="Mariculture-1.6.4-1.2.0i.jar" md5="3d551937d3aa12d9a003e7bcb90e954e" download="server" 
-         name="Mariculture" version="1.2.0i"
+    <mod url="packs/YogscastCompletePack/files/mods/Mariculture-1.6.4-1.2.1e.jar" file="Mariculture-1.6.4-1.2.1e.jar" md5="c18a248e9a76b682018dbe626a99c96f" download="server" 
+         name="Mariculture" version="1.2.1e"
          website="http://www.minecraftforum.net/topic/2049315-" description="If you're looking for me, look under the sea, because that is where you'll find me." type="mods" />
-    <mod url="packs/YogscastCompletePack/files/mods/Mekanism-6.0.4.31.jar" file="Mekanism-6.0.4.31.jar" md5="4f42b2fb07e05d1094e9ae244a308383" download="server" 
-         name="Mekanism" type="mods" version="6.0.4.31" website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism"
+    <mod url="packs/YogscastCompletePack/files/mods/Mekanism-6.0.4.35.jar" file="Mekanism-6.0.4.35.jar" md5="c08a15758edd149b9991b092ab4e122a" download="server" 
+         name="Mekanism" type="mods" version="6.0.4.35" website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism"
 		 description="Osmium also cures light wounds."  />
-    <mod url="packs/YogscastCompletePack/files/mods/MekanismGenerators-6.0.4.31.jar" file="MekanismGenerators-6.0.4.31.jar" md5="c7cfba9d2f9d8c43604e6ca01322f5a4" download="server" 
-		 name="Mekanism Generators" type="mods" version="6.0.4.31"
+    <mod url="packs/YogscastCompletePack/files/mods/MekanismGenerators-6.0.4.35.jar" file="MekanismGenerators-6.0.4.35.jar" md5="0a7c659feff685b23d8b791a2ebd98e4" download="server"
+		 name="Mekanism Generators" type="mods" version="6.0.4.35"
 		 depends="Mekanism"
 		 website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" description="Infinite water is infinite power!" />
-    <mod url="packs/YogscastCompletePack/files/mods/MekanismTools-6.0.4.31.jar" file="MekanismTools-6.0.4.31.jar" md5="1fba8e22a706d274f4a1553242d6bee1" download="server" 
-         name="Mekanism Tools" type="mods" version="6.0.4.31"
+    <mod url="packs/YogscastCompletePack/files/mods/MekanismTools-6.0.4.35.jar" file="MekanismTools-6.0.4.35.jar" md5="0071ad831ed2b3d0a737063b2bbd19cd" download="server"
+         name="Mekanism Tools" type="mods" version="6.0.4.35"
          depends="Mekanism"
 		 website="http://universalelectricity.com/mekanism" donation="http://universalelectricity.com/mekanism" description="Paxel perfect." />
     <mod url="packs/YogscastCompletePack/files/mods/Metallurgy-1.6.4-3.3.2.jar" file="Metallurgy-1.6.4-3.3.2.jar" md5="65d79483f757cc4170f25461e811e6a9" download="server"
          name="Metallurgy" type="mods" version="3.3.2"
          website="http://www.minecraftforum.net/topic/744918-15x162forgesmp-metallurgy-putting-the-mine-back-in-minecraft/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Shadowclaimer2%40gmail%2ecom&amp;lc=US&amp;item_name=Metallurgy%20Software%EF%BF%BDcy_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="A bit of this, a bit of that." />
-    <mod url="packs/YogscastCompletePack/files/mods/Modular-Force-Field-System-3.6.2.45-core.jar" file="Modular-Force-Field-System-3.6.2.45-core.jar" md5="c026bf0f72e6e85f697f761b4caa1c48" download="server" 
-         name="MFFS" type="mods" version="3.6.2.45"
+    <mod url="packs/YogscastCompletePack/files/mods/Modular-Force-Field-System-3.6.2.66-core.jar" file="Modular-Force-Field-System-3.6.2.66-core.jar" md5="b3965d48efaae2a4b9cbb54d745949f5" download="server" 
+         name="MFFS" type="mods" version="3.6.2.66" depends="Calclavia Core" optional="yes" recommended="no"
          website="http://www.minecraftforum.net/topic/1703498-" donation="http://universalelectricity.com/mffs/"
          description="Calclavia's Forcefield System." />
-    <mod name="MineChem" version="5.0.4"
+    <mod name="Micdoodle8 Core" version="2.0.12.1010"
+         url="packs/YogscastCompletePack/files/mods/MicdoodleCore-1.6.4-2.0.12.1010.jar" file="MicdoodleCore-1.6.4-2.0.12.1010.jar" md5="2d5d73465411dfbeb5cf7e2f756ca1fc" download="server" 
+         type="mods"
+         website="http://www.micdoodle8.com/" donation="http://www.micdoodle8.com/" authors="micdoodle8"
+         description="Galacticraft libraries!" />
+	<mod name="MineChem" version="5.0.4"
 		 url="packs/YogscastCompletePack/files/mods/Minechem-5.0.4.jar" file="Minechem-5.0.4.jar" md5="a92694e7c048c94f757039b61d915e5f" download="server" 
 		 type="mods"
 		 website="http://www.minechemmod.com/joomla/" authors="pixlepix"
 		 description="Chemical industry in Minecraft!" />
-	<mod url="packs/YogscastCompletePack/files/mods/MineFactoryReloaded-2.7.6-448.jar" file="MineFactoryReloaded-2.7.6-448.jar" md5="3e11013ae7e327d4fb5f1d9bdef10fcd" download="server" 
-         name="MineFactory Reloaded [Skyboy Fork]" type="mods" version="2.7.6-448"
+	<mod url="packs/YogscastCompletePack/files/mods/MineFactoryReloaded-2.7.8-482.jar" file="MineFactoryReloaded-2.7.8-482.jar" md5="f705f88a918e9c3b87397deab96e5d81" download="server" 
+         name="MineFactory Reloaded [Skyboy Fork]" type="mods" version="2.7.8-482"
          website="http://www.minecraftforum.net/topic/2016680-162164-"
          description="Originally by PowerCrystals"
          fileprefix="00000_" />
-    <mod url="packs/YogscastCompletePack/files/mods/MobiusCore_1.0.5.jar" file="MobiusCore_1.0.5.jar" md5="7738647e9a2e058db52bb840c639d470" download="server"
-         name="Mobius Core" type="mods" version="1.0.5"
+    <mod name="MineTweaker" version="2.3.1"
+		 url="packs/YogscastCompletePack/files/mods/zMineTweaker-1.6.4-2.3.1.jar" file="zMineTweaker-1.6.4-2.3.1.jar" md5="bd791dc35cf920f5b4813d235ab67d52" download="server"
+		 type="mods"
+		 website="http://www.minecraftforum.net/topic/1886008-" authors="Stan Hebben"
+		 description="Modpack and server tool enabling the addition and removal of recipes" />
+	<mod url="packs/YogscastCompletePack/files/mods/MobiusCore_1.2.0.jar" file="MobiusCore_1.2.0.jar" md5="70eb20174ff3ed6ce277035bdcaa808c" download="server" 
+         name="Mobius Core" type="mods" version="1.2.0"
          website="http://www.minecraftforum.net/topic/2104497-"
          donation="http://profmobius.blogspot.fr/"
          description="The doctor's toolkit."
-         optional="yes" />
-    <mod url="packs/YogscastCompletePack/files/mods/ModularPowersuits-1.6.4-0.10.0-91.jar" file="ModularPowersuits-1.6.4-0.10.0-91.jar" md5="d31b58a526d5adcb5fcf4d26b657b04c" download="server"
-         name="Modular Powersuits" type="mods" version="0.10.0-91"
+         optional="yes" recommended="no" />
+    <mod url="packs/YogscastCompletePack/files/mods/ModularPowersuits-1.6.4-0.10.0-100.jar" file="ModularPowersuits-1.6.4-0.10.0-100.jar" md5="1bb44bf7856068fa12f0db8af04d26f5" download="server" 
+         name="Modular Powersuits" type="mods" version="0.10.0-100"
          website="http://www.machinemuse.net"
          description="Jarvis not included." />
     <mod url="packs/YogscastCompletePack/files/mods/powersuitaddons-1.6.4-884.jar" file="powersuitaddons-1.6.4-884.jar" md5="23f9bace54fc9b776473cc5ccb7f57b6" download="server"
          name="Modular Powersuits Addons" type="mods" version="1.6.4-884"
-		 depends="Modular Powersuits" optional="yes"
+		 depends="Modular Powersuits" optional="no"
 		 website="http://www.minecraftforum.net/topic/2287651-" description="Unofficial fork of the long-lost addon suite for MPS!"  />
+	<mod name="Morph" version="0.7.1"
+		 url="packs/YogscastCompletePack/files/mods/Morph-Beta-0.7.1.zip" file="Morph-Beta-0.7.1.zip" md5="9271b81d01c7b80de3f1e89580902b1e" download="server"
+		 type="mods" optional="yes" selected="no" recommended="no"
+		 website="http://ichun.us/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun"
+		 description="Morph mod, made for ModJam 2. Allows players to acquire the morph skill and turn into other mobs." />
+	<mod name="MrCrayfish's Furniture Mod" version="3.2.9.2"
+         url="packs/YogscastCompletePack/files/mods/[Forge]FurnitureModv3.2.9.2(1.6.4).zip" file="[Forge]FurnitureModv3.2.9.2(1.6.4).zip" md5="d202ca6cbc897f00e21eed96a1ab81aa" download="server" 
+         type="mods"
+         website="http://www.minecraftforum.net/topic/1114866-"
+         description="Furniture with a crayfish's aesthetic." />
 	<mod url="packs/YogscastCompletePack/files/mods/mystcraft-uni-1.6.4-0.10.12.01.zip" file="mystcraft-uni-1.6.4-0.10.12.01.zip" md5="8a97e3cc318feac11e9b19b8a3f825a5" download="server"
-         name="MystCraft" type="mods" optional="yes" selected="yes" version="0.10.12.01"
+         name="MystCraft" type="mods" optional="yes" recommended="no" version="0.10.12.01"
          website="http://binarymage.com/"
          description="You know it, you love it." />
     <mod url="packs/YogscastCompletePack/files/mods/Natura_mc1.6.X_2.1.14.jar" file="Natura_mc1.6.X_2.1.14.jar" md5="0b0712e9741829681964e5ab682c74f1" download="server"
@@ -417,7 +489,7 @@
          description="Originally by PowerCrystals" />
     <mod name="Not Enough Codecs" version="0.1"
 		 url="packs/YogscastCompletePack/files/mods/NotEnoughCodecs-0.1.jar" file="NotEnoughCodecs-0.1.jar" md5="a8cf90bc7356bbffaeafcd19b18ec0be" download="server"
-		 type="mods" optional="yes"
+		 type="mods" optional="yes" recommended="no"
 		 website="http://openmods.info/"
 		 description="Adds MP3/AAC support to OpenBlocks, enabling its radio station system." />
 	<mod url="packs/YogscastCompletePack/files/mods/NotEnoughItems 1.6.1.9.jar" file="NotEnoughItems 1.6.1.9.jar" md5="a24b36e61c41a75d0622fe0c6ba535b7" download="server" 
@@ -426,80 +498,90 @@
     <mod url="packs/YogscastCompletePack/files/mods/NotEnoughKeys-1.6.4-0.0.4.jar" file="NotEnoughKeys-1.6.4-0.0.4.jar" md5="1b9f6f8785e38d50bbfff129dbf90ec2" download="server"
          name="Not Enough Keys" type="mods"
          version="0.0.4" website="http://www.minecraftforum.net/topic/2189371-" description="Critical keybinding configuration improvements."  />
-    <mod url="packs/YogscastCompletePack/files/mods/Numina-1.6.2-0.1.2-55.jar" file="Numina-1.6.2-0.1.2-55.jar" md5="0a487c7f69e2cd14d40883ab88a5c091" download="server"
-         name="Numina" type="mods" version="0.1.2-55"
+    <mod url="packs/YogscastCompletePack/files/mods/Numina-1.6.2-0.1.2-57.jar" file="Numina-1.6.2-0.1.2-57.jar" md5="fdd0a02085331e7736d683414e12187d" download="server" 
+         name="Numina" type="mods" version="0.1.2-57"
          website="http://www.machinemuse.net"
          description="MachineMuse's new API for her mods" />
     <mod url="packs/YogscastCompletePack/files/mods/obsidiplates-1.6.2-universal-2.0.0.15.jar" file="obsidiplates-1.6.2-universal-2.0.0.15.jar" md5="c64ea8742cd60ef359d36bb84d4b10a5" download="server"
          name="Obsidiplates" type="mods"  version="2.0.0.15"
          website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/"
          description="Improved pressure plates. Creepers will never open your door again."  />
-    <mod url="packs/YogscastCompletePack/files/mods/OpenBlocks-1.2.7.jar" file="OpenBlocks-1.2.7.jar" md5="2c4e7c19bf58d93abef3ada1de4b1354" download="server" 
-         name="OpenBlocks" type="mods" version="1.2.7"
+    <mod url="packs/YogscastCompletePack/files/mods/OpenBlocks-1.2.7-snapshot-364.jar" file="OpenBlocks-1.2.7-snapshot-364.jar" md5="49d4f2e0adc484edebc01701cc1da504" download="server" 
+         name="OpenBlocks" type="mods" version="1.2.7-snap-364"
          website="http://openmods.info/"
          description="An amazing open source mode that does amazing things." />
-	<mod name="OpenComponents" version="dev28"
-		 url="packs/YogscastCompletePack/files/mods/OpenComponents-MC1.6.4-dev28.jar" file="OpenComponents-MC1.6.4-dev28.jar" md5="a961ca297ccb57b55fdb2fdeace7ee32" download="server" 
+	<mod name="OpenComponents" version="0.1.1.37"
+		 url="packs/YogscastCompletePack/files/mods/OpenComponents-MC1.6.4-0.1.1.37-universal.jar" file="OpenComponents-MC1.6.4-0.1.1.37-universal.jar" md5="bdcfde35d8628a8518cf6a3050026cca" download="server" 
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2201440-"
 		 description="Companion interface extension for OpenComputers." />
-	<mod name="OpenComputers" version="1.2.2.224"
-		 url="packs/YogscastCompletePack/files/mods/OpenComputers-MC1.6.4-1.2.2.224.jar" file="OpenComputers-MC1.6.4-1.2.2.224.jar" md5="0ac826e9974d2f23985329e02f9abd2c" download="server" 
+	<mod name="OpenComputers" version="1.2.7.340"
+		 url="packs/YogscastCompletePack/files/mods/OpenComputers-MC1.6.4-1.2.7.340-universal.jar" file="OpenComputers-MC1.6.4-1.2.7.340-universal.jar" md5="e723c50219f33b29cf85b0a0204c120f" download="server"
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/2201440-"
 		 description="Computers for hipsters and bytecode leethaxxors." />
-	<mod url="packs/YogscastCompletePack/files/mods/OpenModsLib-0.4b.jar" file="OpenModsLib-0.4b.jar" md5="46fcd35cde478787362475e5b917a202" download="server" 
-         name="OpenModsLib" type="mods" version="0.4b"
+	<mod url="packs/YogscastCompletePack/files/mods/OpenModsLib-0.4-snapshot-184.jar" file="OpenModsLib-0.4-snapshot-184.jar" md5="d54fbd0f6c5f4592407ef4e4b7f04961" download="server" 
+         name="OpenModsLib" type="mods" version="0.4-snap-184"
          website="http://openmods.info/"
          description="A new coremod for Open Mods!" />
-    <mod url="packs/YogscastCompletePack/files/mods/OpenPeripheralAddons-0.1.3.jar" file="OpenPeripheralAddons-0.1.3.jar" md5="9e3afe19616904f6862534658d900f31" download="server" 
-         name="OpenPeripheral Addons" version="0.1.3"
+    <mod url="packs/YogscastCompletePack/files/mods/OpenPeripheralAddons-0.1.3-snapshot-95.jar" file="OpenPeripheralAddons-0.1.3-snapshot-95.jar" md5="d6eac152806aed5edef67a4cc69abb23" download="server" 
+         name="OpenPeripheral Addons" version="0.1.3-snap-95"
          website="http://www.openperipheral.info/" description="Addons for OpenPeripheral!" type="mods" />
-	<mod url="packs/YogscastCompletePack/files/mods/OpenPeripheralCore-0.3.3.jar" file="OpenPeripheralCore-0.3.3.jar" md5="0441edc6fad9d5a6a11c903df77934fe" download="server" 
-         name="OpenPeripheral Core" version="0.3.3"
+	<mod url="packs/YogscastCompletePack/files/mods/OpenPeripheralCore-0.3.3-snapshot-118.jar" file="OpenPeripheralCore-0.3.3-snapshot-118.jar" md5="17047c247ead69b230c578a403202116" download="server" 
+         name="OpenPeripheral Core" version="0.3.3-snap-118"
          website="http://www.openperipheral.info/" description="Open source improved ComputerCraft peripherals. Includes the beloved AR goggles." type="mods" />
-	<mod url="packs/YogscastCompletePack/files/mods/Opis_1.1.3a_alpha.zip" file="Opis_1.1.3a_alpha.zip" md5="52e7c75fded3da8353458c1611218daf" download="server"
-         name="Opis" type="mods" group="Cartographer" depends="Mobius Core" version="1.1.3a_alpha"
+	<mod url="packs/YogscastCompletePack/files/mods/Opis_1.2.1.zip" file="Opis_1.2.1.zip" md5="84ba665595d9415081b3dec6bea471a2" download="server" 
+         name="Opis" type="mods" group="Cartographer" depends="Mobius Core" version="1.2.1"
          website="http://www.minecraftforum.net/topic/2104497-"
          donation="http://profmobius.blogspot.fr/"
          description="Opal Map Scanner. Server Doctor. Healer."
          optional="yes" recommended="no" />
-    <mod url="packs/YogscastCompletePack/files/mods/PluginsforForestry-1.6.4-3.2.30.jar" file="PluginsforForestry-1.6.4-3.2.30.jar" md5="6ffc845319e8289c5bbbb89c78de0044" download="server"
-         name="Plugins for Forestry" type="mods" version="3.2.30"
+	<mod name="Ore Dictionary Converter" version="1.4.3"
+		 url="packs/YogscastCompletePack/files/mods/OreDictionaryConverter-1.4.3.jar" file="OreDictionaryConverter-1.4.3.jar" md5="1a4842e7820fab7b1448ef60249744fd" download="server"
+		 type="mods"
+		 website="http://www.minecraftforum.net/topic/1580364-"
+		 description="Where was this when we were in BETA?!" />
+    <mod url="packs/YogscastCompletePack/files/mods/PluginsforForestry-1.6.4-3.2.30-hotfix.jar" file="PluginsforForestry-1.6.4-3.2.30-hotfix.jar" md5="2e707afa16e35138d3c41a2111639c4a" download="server"
+         name="Plugins for Forestry" type="mods" version="3.2.30-hotfix"
          website="http://www.minecraftforum.net/topic/1253666-152forge-denoflions-mods-threads-condensed/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=INpureProjects%40gmail%2ecom&amp;lc=US&amp;item_name=denoflions%20mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="UI and content improvements for forestry." />
     <mod url="packs/YogscastCompletePack/files/mods/PortalGun2.0.2.zip" file="PortalGun2.0.2.zip" md5="076162ae7debc0dae697534e439ff499" download="server"
-		 name="PortalGun" version="2.0.2" type="mods" optional="yes"
+		 name="PortalGun" version="2.0.2" type="mods" optional="no"
 		 website="http://www.minecraftforum.net/topic/199391-/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun"
 		 description="Add the portal gun and many other portal elements into Minecraft." />
 	<mod url="packs/YogscastCompletePack/files/mods/PowerCrystalsCore-1.1.8-9.jar" file="PowerCrystalsCore-1.1.8-9.jar" md5="11ce6aeaa3a73761580f9a541345ef4b" download="server"
          name="PowerCrystals Core [Skyboy Fork]" type="mods" version="1.1.8-9"
          website="http://www.minecraftforum.net/topic/2016680-162164-"
          description="Originally by PowerCrystals" />
-	<mod url="packs/YogscastCompletePack/files/mods/ProjectRedBase-1.6.4-4.3.2.26.jar" file="ProjectRedBase-1.6.4-4.3.2.26.jar" md5="091562a0e5d22a0c0930f383af838bf8" download="server" 
-         name="Project Red: Base" type="mods" version="4.3.2.26"
+	<mod url="packs/YogscastCompletePack/files/mods/ProjectRedBase-1.6.4-4.3.5.30.jar" file="ProjectRedBase-1.6.4-4.3.5.30.jar" md5="4060a98b28e0a2e496c42c340cfe0f92" download="server" 
+         name="Project Red: Base" type="mods" version="4.3.5.30"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
-    <mod url="packs/YogscastCompletePack/files/mods/ProjectRedCompat-1.6.4-4.3.2.26.jar" file="ProjectRedCompat-1.6.4-4.3.2.26.jar" md5="3681f78cb93257dc85f597027baf55fe" download="server" 
-         name="Project Red: Compat" type="mods" version="4.3.2.26"
+    <mod url="packs/YogscastCompletePack/files/mods/ProjectRedCompat-1.6.4-4.3.5.30.jar" file="ProjectRedCompat-1.6.4-4.3.5.30.jar" md5="4ef9ce69d0508d8d21e2e0c01242a11b" download="server"
+         name="Project Red: Compat" type="mods" version="4.3.5.30"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
-    <mod url="packs/YogscastCompletePack/files/mods/ProjectRedIntegration-1.6.4-4.3.2.26.jar" file="ProjectRedIntegration-1.6.4-4.3.2.26.jar" md5="b3d29f58cb2c81807954a00074a3a480" download="server" 
-         name="Project Red: Integration" type="mods" version="4.3.2.26"
+    <mod url="packs/YogscastCompletePack/files/mods/ProjectRedIntegration-1.6.4-4.3.5.30.jar" file="ProjectRedIntegration-1.6.4-4.3.5.30.jar" md5="9d5024c0b9979c47d516dd46300f230e" download="server" 
+         name="Project Red: Integration" type="mods" version="4.3.5.30"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
-    <mod url="packs/YogscastCompletePack/files/mods/ProjectRedLighting-1.6.4-4.3.2.26.jar" file="ProjectRedLighting-1.6.4-4.3.2.26.jar" md5="b72e16a9fcd0269ae3e5d168b7108ce3" download="server" 
-         name="Project Red: Lighting" type="mods" version="4.3.2.26"
+    <mod url="packs/YogscastCompletePack/files/mods/ProjectRedLighting-1.6.4-4.3.5.30.jar" file="ProjectRedLighting-1.6.4-4.3.5.30.jar" md5="b72dbbd067949866cf953582a89e11cd" download="server" 
+         name="Project Red: Lighting" type="mods" version="4.3.5.30"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
-    <mod url="packs/YogscastCompletePack/files/mods/ProjectRedMechanical-BETA-1.6.4-4.3.2.26.jar" file="ProjectRedMechanical-BETA-1.6.4-4.3.2.26.jar" md5="8b5c8afaa6ef0233ac313d3ac7572c43" download="server" 
-         name="Project Red: Mechanical" type="mods" version="4.3.2.26"
+    <mod url="packs/YogscastCompletePack/files/mods/ProjectRedMechanical-BETA-1.6.4-4.3.5.30.jar" file="ProjectRedMechanical-BETA-1.6.4-4.3.5.30.jar" md5="f15fc44e0011acf8810b39a2b049df77" download="server" 
+         name="Project Red: Mechanical" type="mods" version="4.3.5.30"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
-    <mod url="packs/YogscastCompletePack/files/mods/ProjectRedWorld-1.6.4-4.3.2.26.jar" file="ProjectRedWorld-1.6.4-4.3.2.26.jar" md5="e5d2185c1f2ce4c25aed3fab139cada0" download="server" 
-         name="Project Red: World" type="mods" version="4.3.2.26"
+    <mod url="packs/YogscastCompletePack/files/mods/ProjectRedWorld-1.6.4-4.3.5.30.jar" file="ProjectRedWorld-1.6.4-4.3.5.30.jar" md5="973f02f4811b5f43ced1590e1838f0b2" download="server" 
+         name="Project Red: World" type="mods" version="4.3.5.30"
          website="http://projectred.endermedia.org/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;amp;hosted_button_id=8PG9EUSGL5Z9N"
          description="RedPower2 Clone" />
+    <mod name="qCraft" version="1.1"
+         url="packs/YogscastCompletePack/files/mods/qCraft1.1.jar" file="qCraft1.1.jar" md5="e0f19659847c65b3aa280ad2847bd1a8" download="server"
+         type="mods"
+         website="http://www.qcraft.org" authors="Daniel Ratcliffe,TeacherGaming LLC"
+         description="Quantum Mechanics meets Minecraft!" />
 	<mod url="packs/YogscastCompletePack/files/mods/QuarryPlus-1.6.4-1.0.3.jar" file="QuarryPlus-1.6.4-1.0.3.jar" md5="a073d103db6af48d6c380f45380bb5a5" download="server" 
 		 name="QuarryPlus" version="DOL-1.0.3" type="mods"
 		 website="http://www.minecraftforum.net/topic/1756982-" authors="yogpstop, denoflions"
@@ -519,25 +601,33 @@
          version="1.5.1"
          website="http://minecraft.curseforge.com/mc-mods/redstone-paste/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=XD2DPUTDZEW6U"
          description="Pastey." />
-    <mod url="packs/YogscastCompletePack/files/mods/Reliquary-1.1.2b.jar" file="Reliquary-1.1.2b.jar" md5="d46ce2bcaa99091f8bc550795d6c18ee" download="server" 
+    <mod name="Refined Relocation" version="1.0.1"
+		 url="packs/YogscastCompletePack/files/mods/RefinedRelocation-1.6.4-1.0.1.jar" file="RefinedRelocation-1.6.4-1.0.1.jar" md5="6c7a3029e9c69c1fe33a0a75b74bfcbb" download="server" 
+		 type="mods"
+		 website="http://www.minecraftforum.net/topic/2210752-" authors="Dynious"
+		 description="Logistics for the timid novice." />
+	<mod url="packs/YogscastCompletePack/files/mods/Reliquary-1.1.2b.jar" file="Reliquary-1.1.2b.jar" md5="d46ce2bcaa99091f8bc550795d6c18ee" download="server" 
          name="Reliquary"  type="mods" version="1.1.2b"
          website="https://github.com/TrainerGuy22/Reliquary"
          description="Xenophobic legacies in a compelling collection."  />
-    <mod url="packs/YogscastCompletePack/files/mods/RemoteIO-universal-1.6.4-1.11.jar" file="RemoteIO-universal-1.6.4-1.11.jar" md5="37794b9ada73c7ee03b0214e92caa4f0" download="server" 
-         name="Remote IO" version="1.11" type="mods"
-         website="http://www.minecraftforum.net/topic/2038242-"
-         donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=K78KZ37HLU4X2&amp;lc=US&amp;item_name=dmillerw%27s%20Mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted" authors="dmillerw"
-                 description="The Remote IO&apos;s can be linked to any block with an inventory... imagine this: four separate quarries all outputting into a unique Remote IO linked to a single chest. Gone are the days of pipes! You are also able to link the Remote IO to machines and even use them with fluids! " />
-	<mod url="packs/YogscastCompletePack/files/mods/rcDusts-0.0.6d.zip" file="rcDusts-0.0.6d.zip" md5="809f22811df064620ad2ce47f9bff62b" download="server"
-		 name="Rock Crusher Metal Dusts Add-On" version="0.0.6d" type="mods"
+    <mod name="Remain in Motion" version="1.0.3"
+		 url="packs/YogscastCompletePack/files/mods/RemainInMotion_1.0.3.zip" file="RemainInMotion_1.0.3.zip" md5="b7328678b7e448c2f7b7e8a34c2ed24d" download="server"
+		 type="mods" optional="yes"
+		 website="http://forums.technicpack.net/topic/59545-" authors="jakj, planetguy"
+		 description="The black arts of frames endure." />
+      <mod url="packs/YogscastCompletePack/files/mods/rcDusts-0.0.6d.zip" file="rcDusts-0.0.6d.zip" md5="809f22811df064620ad2ce47f9bff62b" download="server"
+		 name="Rock Crusher Metal Dusts Add-On" version="0.0.6d" type="mods" depends="Railcraft" optional="no"
 		 website="http://www.minecraftforum.net/topic/2030952-" authors="wha-ha-ha"
 		 description="Make the Rock Crusher slightly less terrible." />
-	<mod url="packs/YogscastCompletePack/files/mods/RRUtility-1.0.3.jar" file="RRUtility-1.0.3.jar" md5="befb49cdfaeb40a2dacc9f4a2b830f66" download="server"
-         name="RRUtility" type="mods" version="1.0.3" website="http://www.resonant-rise.com" description="Our recipe manipulator mod. Use with care."  />
-    <mod url="packs/YogscastCompletePack/files/mods/simple-recycling-57.1.0.jar" file="simple-recycling-57.1.0.jar" md5="1394ae168c158d7d0141c0f949c6fde5" download="server"
-         name="Simple Recycling" type="mods" version="57.1.0"
+	<mod url="packs/YogscastCompletePack/files/mods/simple-recycling-57.2.0.jar" file="simple-recycling-57.2.0.jar" md5="1a7a0eb31e94c8b6dd4e95ad66028b2c" download="server" 
+         name="Simple Recycling" type="mods" version="57.2.0"
          website="http://www.minecraftforum.net/topic/1001131-"
          description="Greg-free and easy." />
+	<mod name="Simply Jetpacks" version="0.1.1"
+		 url="packs/YogscastCompletePack/files/mods/SimplyJetpacks-0.1.1.jar" file="SimplyJetpacks-0.1.1.jar" md5="4974af813b951b6bfc7ce89a4b8202fd" download="server"
+		 type="mods"
+		 website="http://www.minecraftforum.net/topic/2548594-" authors="tonius11"
+		 description="Jetpacks for Thermal Expansion." />
 	<mod url="packs/YogscastCompletePack/files/mods/slick-util.jar" file="slick-util.jar" md5="0b9db0b296b5eb1df8d11eb30dc87b8f" download="server"
          name="Slick Util [MPS]" type="mods" version="?"
          website="http://www.machinemuse.net"
@@ -546,6 +636,11 @@
          name="Small Boats" type="mods" version="0.10.6"
          website="http://www.minecraftforum.net/topic/1599100-"
          description="Adds some bigger, better boats. Try the punt."  />
+	<mod name="Soul Shards Reborn" version="0.8c"
+		 url="packs/YogscastCompletePack/files/mods/SSR_v0.8c.zip" file="SSR_v0.8c.zip" md5="4b6ef045ce9d2aaa52cdc0e6ad29fb48" download="server"
+		 type="mods"
+		 website="http://www.minecraftforum.net/topic/2379399-"
+		 description="They're back and they're still gloriously cheaty!" />
     <mod name="Statues" version="2.1.1"
 		 url="packs/YogscastCompletePack/files/mods/statues-1.6.4-2.1.1.jar" file="statues-1.6.4-2.1.1.jar" md5="1e47c5f4290fb2649d998f52e58e61bc" download="server"
 		 type="mods" 
@@ -569,19 +664,24 @@
 		 type="mods"
 		 website="http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/" authors="Myrathi"
 		 description="Switches provides alternative switch designs and lever/switch piston-activation." />
-	<mod url="packs/YogscastCompletePack/files/mods/Sync2.1.1.zip" file="Sync2.1.1.zip" md5="1d3ec17d87859740ca270d75a7642ef1" download="server"
-         name="Sync" version="2.1.1" optional="yes"
+	<mod url="packs/YogscastCompletePack/files/mods/Sync2.2.1.zip" file="Sync2.2.1.zip" md5="e2d3f4c362d75a62959c0447ef6f64eb" download="server" 
+         name="Sync" version="2.2.1" optional="yes"
          type="mods"
          website="http://ichun.us/mods/sync/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun" description="This mod provides clones, or as we like to call it, 'shells'. These shells are basically a new individual, with their own inventory, experience level, and even gamemode." />
+	<mod name="Technomancy" version="0.3.2"
+		 url="packs/YogscastCompletePack/files/mods/Technomancy 0.3.2.zip" file="Technomancy 0.3.2.zip" md5="fb48d6fdfffc6d158863af4a280689aa" download="server"
+         type="mods"
+         website="http://www.minecraftforum.net/topic/2468149-"
+         description="Technical applications of magical resources."/>
 	<mod url="packs/YogscastCompletePack/files/mods/Thaumcraft4.1.0g.zip" file="Thaumcraft4.1.0g.zip" md5="9760bb78fc71eb7f449bf3c8ad8cfb34" download="server" 
          name="Thaumcraft 4" version="4.1.0g"
          type="mods" fileprefix="00001_"
          website="http://www.minecraftforum.net/topic/2011841-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=88PFJA73AEFFW&amp;lc=ZA&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
          authors="Azanor" description="This one won't creep you out, kids."
          />
-	<mod url="packs/YogscastCompletePack/files/mods/ThaumicTinkerer-2.3-137.jar" file="ThaumicTinkerer-2.3-137.jar" md5="75a90498abd402451e95387217f37b6d" download="server" 
+	<mod url="packs/YogscastCompletePack/files/mods/ThaumicTinkerer-2.3-139.jar" file="ThaumicTinkerer-2.3-139.jar" md5="0b93dc6565cf1d26aa62a83c90d226d6" download="server" 
          name="Thaumic Tinkerer" type="mods"
-         version="2.3-137" depends="Thaumcraft 4"
+         version="2.3-139" depends="Thaumcraft 4"
          website="http://www.minecraftforum.net/topic/1813058-" description="Because Thaumcraft has a dearth of content."
          />
 	<mod url="packs/YogscastCompletePack/files/mods/ThaumicTinkererKAMI_j6.jar" file="ThaumicTinkererKAMI_j6.jar" md5="03bea04d5b4db84e77c027c3c5c21466" download="server"
@@ -594,14 +694,19 @@
          website="http://teamcofh.com/"
          description="The hero returns."
          fileprefix="ZZZZY_" />
-    <mod url="packs/YogscastCompletePack/files/mods/TConstruct_mc1.6.4_1.5.3.jar" file="TConstruct_mc1.6.4_1.5.3.jar" md5="f77a1f5217f2d89b0d319e50ca2520b0" download="server" 
+    <mod name="The SecretRoomsMod" version="4.6.2.324"
+         url="packs/YogscastCompletePack/files/mods/SecretRoomsMod-universal-1.6.4-4.6.2.324.jar" file="SecretRoomsMod-universal-1.6.4-4.6.2.324.jar" md5="624cecd961d8ca0fa73922a5cfc864c5" download="server"
+         type="mods"
+         website="http://www.minecraftforum.net/topic/546192-" authors="AbrarSyed,alexbegt"
+         description="Diggy diggy a secret hole with +20 Can't Touch This." />
+	<mod url="packs/YogscastCompletePack/files/mods/TConstruct_mc1.6.4_1.5.4.jar" file="TConstruct_mc1.6.4_1.5.4.jar" md5="badcb916b0ddbf1efc6a642263453244" download="server" 
          name="Tinker's Construct"  type="mods"
-         version="1.5.3"
+         version="1.5.4"
          website="http://www.minecraftforum.net/topic/1659892-15xtinkers-construct/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=56Q7K92KRPW2N&amp;lc=US&amp;item_name=Tinkers%20Construct&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
          description="Dat Glass, Dem Tools" />
-    <mod url="packs/YogscastCompletePack/files/mods/TMechworks_mc1.6.4_0.1.4.2.jar" file="TMechworks_mc1.6.4_0.1.4.2.jar" md5="e5f2e12dee4bf9fa88c3ca97ce6911db" download="server" 
+    <mod url="packs/YogscastCompletePack/files/mods/TMechworks_mc1.6.4_0.1.6.jar" file="TMechworks_mc1.6.4_0.1.6.jar" md5="52b8cf82577bb9e391eb8bc1da7dd2d0" download="server" 
          name="Tinker's Mechworks" type="mods"
-         version="0.1.4.2"
+         version="0.1.6"
          website="http://www.minecraftforum.net/topic/1659892-15xtinkers-construct/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=56Q7K92KRPW2N&amp;lc=US&amp;item_name=Tinkers%20Construct&amp;bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted"
          description="Dat Torque" />
     <mod name="Totemic" version="0.3.0a"
@@ -614,7 +719,7 @@
          version="1.1.0.15" website="http://www.minecraftforum.net/topic/909223-147152-smp-chickenbones-mods/" donation="http://www.chickenbones.craftsaddle.org/Pages/donate.php" description="Pew pew pew lazors."  />
     <mod name="Truss Mod"
          version="32" url="packs/YogscastCompletePack/files/mods/TrussMod-beta-1.6.4-32.jar" file="TrussMod-beta-1.6.4-32.jar" md5="84411e610e23e7018175f9097f8a87e2" download="server"
-         type="mods" website="http://www.minecraftforum.net/topic/1852349-" authors="RainWarrior" description="A mod that adds RP2-style frames" />
+         type="mods" optional="yes" website="http://www.minecraftforum.net/topic/1852349-" authors="RainWarrior" description="A mod that adds RP2-style frames" />
     <mod url="packs/YogscastCompletePack/files/mods/tubestuff-57.1.3.jar" file="tubestuff-57.1.3.jar" md5="c7b971f9b42254faca0039eeac2a3691" download="server"
          name="TubeStuff" type="mods" version="57.1.3"
          website="http://www.minecraftforum.net/topic/1001131-"
@@ -623,12 +728,8 @@
 		 name="The Twilight Forest" type="mods" version="1.20.5" 
 		 website="http://www.minecraftforum.net/topic/561673-" authors="Benimatic (Ben Mazur)" 
 		 description="An enchanted forest dimension." />
-    <mod url="packs/YogscastCompletePack/files/mods/UndergroundBiomes%201.6.x%20-%200.4.2c.zip" file="UndergroundBiomes 1.6.x - 0.4.2c.zip" md5="35a3048ba53b34cf5300d9e008fc7f03" download="server"
-         name="Underground Biomes" type="mods" optional="yes" version="0.4.2c"
-         website="http://www.minecraftforum.net/topic/1593704-"
-         description="Turn that featureless grey stone into a horde of difficult-to-sort stones!" />
-    <mod url="packs/YogscastCompletePack/files/mods/Universal-Electricity-3.1.0.71-core.jar" file="Universal-Electricity-3.1.0.71-core.jar" md5="b7232b05679e2d4e367c19d17eaed5f5" download="server" 
-         name="Universal Electricity API" type="mods" version="3.1.0.71"
+    <mod url="packs/YogscastCompletePack/files/mods/Universal-Electricity-3.1.0.82-core.jar" file="Universal-Electricity-3.1.0.82-core.jar" md5="e288b215def4af8d5602355847c11de5" download="server" 
+         name="Universal Electricity API" type="mods" version="3.1.0.82"
          website="http://universalelectricity.com/" donation="http://universalelectricity.com/"
          description="Base for all UE mods."
          fileprefix="00000_" />
@@ -637,13 +738,13 @@
 		 type="mods"
 		 website="http://www.minecraftforum.net/topic/1747810-"
 		 authors="AUTOMATIC_MAIDEN" description="Adds a vending block that lets you sell items." />
-	<mod url="packs/YogscastCompletePack/files/mods/Waila_1.5.1a.zip" file="Waila_1.5.1a.zip" md5="42790277280a0ef1ac66f2be1af82f43" download="server" 
-         name="Waila" type="mods" version="1.5.1a" fileprefix="00000_"
+	<mod url="packs/YogscastCompletePack/files/mods/Waila_1.5.2.zip" file="Waila_1.5.2.zip" md5="e726fd142961520830155620f2190033" download="server" 
+         name="Waila" type="mods" version="1.5.2" fileprefix="00000_"
          website="http://www.minecraftforum.net/topic/1846244-152-waila-134-block-and-mod-info-ingame/"
          donation="http://profmobius.blogspot.fr/"
          description="What am I looking at?" />
-    <mod url="packs/YogscastCompletePack/files/mods/Witchery_0-16-3_164.zip" file="Witchery_0-16-3_164.zip" md5="e8b7eeadd6f8c665f071161891f88dc9" download="server" 
-         name="Witchery" type="mods" version="0.16.3"
+    <mod url="packs/YogscastCompletePack/files/mods/Witchery_0-17-2_164.zip" file="Witchery_0-17-2_164.zip" md5="a5d211b837b279dc2f30f790b5a9b704" download="server"
+         name="Witchery" type="mods" version="0.17.2"
          website="https://sites.google.com/site/witcherymod/home" description="More magic with a witch's bent!"
          />
     <mod url="packs/YogscastCompletePack/files/mods/WR-CBE 1.4.0.7.jar" file="WR-CBE 1.4.0.7.jar" md5="4eda736a4fb702d585ed1e96ef460bc2" download="server" 
@@ -672,89 +773,64 @@
          website="https://bitbucket.org/mistaqur/nei_plugins/wiki/Home"
          description="Even more improvments to Applied Energistics." />
     <mod url="packs/YogscastCompletePack/files/mods/[1.6.4]ReiMinimap_v3.4_01.zip" file="[1.6.4]ReiMinimap_v3.4_01.zip" md5="d263cc04f492cee0e7b17ea1ef628bc9" download="server"
-         name="Rei's Minimap"  type="mods" server="no" optional="yes" recommended="no" group="Minimap"
+         name="Rei's Minimap"  type="mods" server="no" optional="yes" recommended="yes" group="Minimap"
          version="3.4_01"
          website="http://www.minecraftforum.net/topic/482147-"
          description="Multiple minimap options ahoy!" />
-	<mod url="packs/YogscastCompletePack/files/mods/1.6.4_TabbyChat_1.10.00.litemod" file="1.6.4_TabbyChat_1.10.00.litemod" md5="3f0fcb6f395045f1510140489658fddf" download="server"
-         name="TabbyChat" type="mods" server="no" version="1.10.00"
-         website="http://www.minecraftforum.net/topic/1540451-" donation="http://www.minecraftforum.net/topic/1540451-"
-         description="Minecraft chat customisation at long last!" />
+	<mod name="TiC Tooltips" version="1.1.4"
+		 url="packs/YogscastCompletePack/files/mods/TiCTooltips-mc1.6.4-1.1.4.jar" file="TiCTooltips-mc1.6.4-1.1.4.jar" md5="6dec6ecd369fedf82c14563f3471b638" download="server" 
+		 type="mods" server="no"
+		 website="http://www.minecraftforum.net/topic/2509840-"
+		 description="The tooltips you've always wanted for your fancy tools!" />
     <mod url="packs/YogscastCompletePack/files/mods/ZansMinimap1.6.4.zip" file="ZansMinimap1.6.4.zip" md5="97a9934f12a01986bcdc6ec8eba97336" download="server"
-         name="VoxelMap (aka Zan's Minimap)"  type="mods" server="no" optional="yes" selected="yes" recommended="yes" group="Minimap"
+         name="VoxelMap (aka Zan's Minimap)"  type="mods" server="no" optional="yes" selected="no" recommended="no" group="Minimap"
          version="1.6.4"
          website="http://www.minecraftforum.net/topic/1116564-"
          description="Velo's minimap of choice! Some consider it cheaty." />
 
-		 
-		<!-- Remote Downloads (General) -->
+
+    <!-- Remote Downloads (General) -->
     <mod url="http://adf.ly/e3B3b"
          md5="83C9166BEDF370B7CB393ECA8A8C9C7F"
          file="Railcraft_1.6.4-8.4.0.0.jar"
          download="browser"
          name="Railcraft"
-         type="mods" optional="yes"
+         type="mods" optional="no"
          version="8.4.0.0"
          website="http://www.railcraft.info/"
          donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HCQMGHQ4D5GQ4"
          description="Choo Choo Buckaroo and also boilers."
          depends="Buildcraft"/>
-		 		 
-        <!-- Remote Downloads (Client) -->
 
-        <!-- Yogscast Extras-->
-        <mod name="Dynamic Lights" version="1.6.4"
-                 url="packs/YogscastCompletePack/files/yogs-extras/DynamicLights_1.6.4.zip" file="DynamicLights_1.6.4.zip" md5="f40c3bd0b844585c5b5239fa08f35138" download="server"
-                 type="mods"
-                 website="http://www.minecraftforum.net/topic/184426-" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=6T5E6P8L7N6L6" authors="AtomicStryker"
-                 description="At long last, intuitive torch gameplay!" />
-        <mod name="Galacticraft Core" version="2.0.11.978"
-                 url="packs/YogscastCompletePack/files/yogs-extras/Galacticraft-1.6.4-2.0.11.978.jar" file="Galacticraft-1.6.4-2.0.11.978.jar" md5="f68a0335d3aa28078ab2d14244d84aae" download="server"
-                 type="mods"
-                 website="http://www.micdoodle8.com/mods/galacticraft" donation="http://www.micdoodle8.com/" authors="micdoodle8"
-                 description="An advanced space travel mod for Minecraft 1.6" />
-        <mod name="Galacticraft Mars" version="2.0.11.978"
-                 url="packs/YogscastCompletePack/files/yogs-extras/Galacticraft-Planets-1.6.4-2.0.11.978.jar" file="Galacticraft-Planets-1.6.4-2.0.11.978.jar" md5="5c8eed3db5801cca577d7ddc66aa4908" download="server"
-                 type="mods"
-                 website="http://www.micdoodle8.com/mods/galacticraft" donation="http://www.micdoodle8.com/" authors="micdoodle8"
-                 description="Mars addon for Galacticraft." />
-        <mod name="Hats" version="2.1.4"
-                 url="packs/YogscastCompletePack/files/yogs-extras/Hats2.1.4.zip" file="Hats2.1.4.zip" md5="63bb46844039c011a19deb95d8049b36" download="server"
-                 type="mods"
-                 website="http://ichun.us/mods/hats/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun"
-                 description="Adds a bunch of hats, as wells as the ability to add more, into Minecraft" />
-        <mod name="HatStand" version="2.1.0"
-                 url="packs/YogscastCompletePack/files/yogs-extras/HatStand2.1.0.zip" file="HatStand2.1.0.zip" md5="0282a216a45e9ad3aa13133e82a2c35f" download="server"
-                 type="mods"
-                 website="http://ichun.us/mods/hats/hatstand/" donation="http://pitchinbox.com/redirect.php?id=5757827081" authors="iChun"
-                 description="Addon for Hats, a Hat Stand block to display hats." />
-        <mod name="Micdoodle8 Core" version="2.0.11.978"
-                 url="packs/YogscastCompletePack/files/yogs-extras/MicdoodleCore-1.6.4-2.0.11.978.jar" file="MicdoodleCore-1.6.4-2.0.11.978.jar" md5="f71b952c19bf869d739cc46e1c2068a2" download="server"
-                 type="mods"
-                 website="http://www.micdoodle8.com/" donation="http://www.micdoodle8.com/" authors="micdoodle8"
-                 description="Galacticraft libraries!" />
-        <mod name="MrCrayfish's Furniture Mod" version="3.2.9.1"
-                 url="packs/YogscastCompletePack/files/yogs-extras/[Forge]FurnitureModv3.2.9.1(1.6.4).zip" file="[Forge]FurnitureModv3.2.9.1(1.6.4).zip" md5="07537fee2ee4463e13475301e74dd1d6" download="server"
-                 type="mods"
-                 website="http://www.minecraftforum.net/topic/1114866-"
-                 description="Furniture with a crayfish's aesthetic." />
-        <mod name="qCraft" version="1.1"
-                 url="packs/YogscastCompletePack/files/yogs-extras/qCraft1.1.jar" file="qCraft1.1.jar" md5="e0f19659847c65b3aa280ad2847bd1a8" download="server"
-                 type="mods"
-                 website="http://www.qcraft.org" authors="Daniel Ratcliffe,TeacherGaming LLC"
-                 description="Quantum Mechanics meets Minecraft!" />
-        <mod name="The SecretRoomsMod" version="4.6.2.323"
-                 url="packs/YogscastCompletePack/files/yogs-extras/SecretRoomsMod-universal-1.6.4-4.6.2.323.jar" file="SecretRoomsMod-universal-1.6.4-4.6.2.323.jar" md5="34eb87483ddb911aefbe26b5489369b0" download="server"
-                 type="mods"
-                 website="http://www.minecraftforum.net/topic/546192-" authors="AbrarSyed,alexbegt"
-                 description="Diggy diggy a secret hole with +20 Can't Touch This." />
+		 
+	<!-- Config Modes -->
+        <!-- One mode MUST be a default. -->
+		<!-- Power Settings -->
+	<mod name="Game Mode: Make Powergen Fair" version="n/a"
+		 url="packs/YogscastCompletePack/files/config-switches/power_fair_2.8.0.0.zip" file="power_fair_2.8.0.0.zip" md5="cf14b43040ff8b2e9f7e71b0e5908b93" download="server" 
+		 type="extract" extractto="root" optional="no" selected="yes" recommended="yes"
+		 website="http://resonant-rise.com"
+		 description="Standard power settings." />
+		 
+		<!-- Oregen Settings -->
+	<mod name="Game Mode: Make Oregen Plentiful" version="n/a"
+		 url="packs/YogscastCompletePack/files/config-switches/oregen_plentiful_2.8.3.0.zip" file="oregen_plentiful_2.8.3.0.zip" md5="d6e8338c86e9ea74ddde56ada56e25ab" download="server" 
+		 type="extract" extractto="root" optional="no" selected="yes" recommended="yes"
+		 website="http://resonant-rise.com"
+		 description="Standard ore generation designed to be accomodating to novices (and fun)!" />
+	
+		<!-- Special Mode Configs -->
+	<mod name="EiraIRC Client Config" version="n/a"
+		 url="packs/YogscastCompletePack/files/config-switches/eira_client_2.8.3.1.zip" file="eira_client_2.8.3.1.zip" md5="2ffd49cb67a834d81a8020a31984d07e" download="server"
+		 type="extract" extractto="root" client="yes" server="no"
+		 website="http://resonant-rise.com"
+		 description="Client-specific configs for EiraIRC." />
+	<mod name="EiraIRC Server Config" version="n/a"
+		 url="packs/YogscastCompletePack/files/config-switches/eira_server_2.8.3.1.zip" file="eira_server_2.8.3.1.zip" md5="2f5a8cb89b6a3b09656391230b930d3d" download="server"
+		 type="extract" extractto="root" client="no" server="yes"
+		 website="http://resonant-rise.com"
+		 description="Server-specific configs for EiraIRC." />
 
-<!-- Finally we need a power mode. -->
-        <mod name="Game Mode: Make Powergen Fair" version="n/a"
-                 url="packs/YogscastCompletePack/files/config-switches/power_default.zip" file="power_default.zip" md5="2107b9c27ebc89616e7ab728032412d7" download="server"
-                 type="extract" extractto="root"
-                 website="http://resonant-rise.com"
-                 description="Standard power settings." />
-      
+		 
   </mods>
 </version>

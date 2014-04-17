@@ -3,6 +3,30 @@
     <!-- TODO MODS -->
     <!-- 
 
+	<mod url="packs/ResonantRise/files/2.6/RemoteIO-universal-1.6.4-1.11.jar" file="RemoteIO-universal-1.6.4-1.11.jar" md5="37794b9ada73c7ee03b0214e92caa4f0" download="server" 
+         name="Remote IO" version="1.11" type="mods"
+         website="http://www.minecraftforum.net/topic/2038242-"
+         donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=K78KZ37HLU4X2&amp;lc=US&amp;item_name=dmillerw%27s%20Mods&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted" authors="dmillerw"
+                 description="The Remote IO&apos;s can be linked to any block with an inventory... imagine this: four separate quarries all outputting into a unique Remote IO linked to a single chest. Gone are the days of pipes! You are also able to link the Remote IO to machines and even use them with fluids! " />
+
+	<mod url="packs/ResonantRise/files/2-STABLE/RRUtility-1.0.3.jar" file="RRUtility-1.0.3.jar" md5="befb49cdfaeb40a2dacc9f4a2b830f66" download="server"
+         name="RRUtility" type="mods" version="1.0.3" website="http://www.resonant-rise.com" description="Our recipe manipulator mod. Use with care."  />
+
+	<mod url="packs/ResonantRise/files/2.8/Atomic Science-1.2.0.99-universal.jar" file="Atomic Science-1.2.0.99-universal.jar" md5="1d6ddcd8418e04fc1b330f22e4436997" download="server" 
+         name="Atomic Science" type="mods" version="1.2.0.99" optional="yes"
+         website="http://universalelectricity.com/" donation="http://universalelectricity.com/"
+         description="Nuclear steam power!" />
+		 
+	<mod url="packs/ResonantRise/files/2-STABLE/forgeirc-1.6.2-cpwbuild2.jar" file="forgeirc-1.6.2-cpwbuild2.jar" md5="1ec01792f4c40ada5b1761262ea25fdd" download="server"
+         name="ForgeIRC" optional="yes" recommended="no" selected="no" type="mods" version="1.6.2-cpwbuild2"
+         website="http://www.minecraftforum.net/topic/1475847-"
+         description="ForgeIRC returns!" />			 
+	
+	<mod url="packs/ResonantRise/files/2-STABLE/1.6.4_TabbyChat_1.10.00.litemod" file="1.6.4_TabbyChat_1.10.00.litemod" md5="3f0fcb6f395045f1510140489658fddf" download="server"
+         name="TabbyChat" type="mods" server="no" version="1.10.00"
+         website="http://www.minecraftforum.net/topic/1540451-" donation="http://www.minecraftforum.net/topic/1540451-"
+         description="Minecraft chat customisation at long last!" />
+				 
 	<mod name="Agriculture" version="1.2.13"
 		 url="packs/ResonantRise/files/2.6/Agriculture-1.6.4-1.2.13.jar" file="Agriculture-1.6.4-1.2.13.jar" md5="b15b09c322a888550b5a19bef706c01e" download="server" 
 		 type="mods"

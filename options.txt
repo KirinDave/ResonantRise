@@ -12,7 +12,7 @@ anaglyph3d:false
 advancedOpengl:false
 fpsLimit:0
 difficulty:2
-fancyGraphics:false
+fancyGraphics:true
 ao:0
 clouds:false
 skin:Default
@@ -33,7 +33,7 @@ showCape:true
 touchscreen:false
 overrideWidth:0
 overrideHeight:0
-heldItemTooltips:false
+heldItemTooltips:true
 chatHeightFocused:1.0
 chatHeightUnfocused:0.44366196
 chatScale:1.0

@@ -19,7 +19,7 @@ ID,Unlocalised name,Class
 18,potion.weakness,net.minecraft.potion.PotionAttackDamage
 19,potion.poison,net.minecraft.potion.Potion
 20,potion.wither,net.minecraft.potion.Potion
-21,potion.radiation,calclavia.lib.prefab.poison.PotionRadiation
+21,potion.healthBoost,net.minecraft.potion.PotionHealthBoost
 22,potion.absorption,net.minecraft.potion.PotionAbsoption
 23,potion.saturation,net.minecraft.potion.PotionHealth
 25,Bat Flight,totemic_commons.pokefenn.potion.PotionBatFlying
@@ -73,4 +73,4 @@ ID,Unlocalised name,Class
 109,Fire Fuse,WayofTime.alchemicalWizardry.common.PotionFireFuse
 110,grc.potion.tipsy,growthcraft.cellar.potion.PotionCellar
 111,Planar Binding,WayofTime.alchemicalWizardry.common.PotionPlanarBinding
-256,Delirium,pixlepix.minechem.common.PotionProvider
+288,Delirium,pixlepix.minechem.common.PotionProvider
