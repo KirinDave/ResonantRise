@@ -138,7 +138,7 @@
 		 website="http://www.minecraftforum.net/topic/1728544-" authors="Maexx97"
 		 description="Adding chargeable tools and more to Buildcraft" />
 	<mod url="packs/YogscastCompletePack/files/mods/Calclavia-Core-1.2.0.324-universal.jar" file="Calclavia-Core-1.2.0.324-universal.jar" md5="1a5d1885c75e69b9e4e9125b7d3ff990" download="server" 
-         name="Calclavia Core" type="mods" version="1.2.0.324" optional="no" recommended="no"
+         name="Calclavia Core" type="mods" version="1.2.0.324" optional="no" recommended="yes"
          website="http://calclavia.com/calclavia-core/" donation="http://universalelectricity.com/"
          description="Base for all UE crafting."
          />
@@ -425,7 +425,7 @@
          website="http://www.minecraftforum.net/topic/744918-15x162forgesmp-metallurgy-putting-the-mine-back-in-minecraft/" donation="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=Shadowclaimer2%40gmail%2ecom&amp;lc=US&amp;item_name=Metallurgy%20Software%EF%BF%BDcy_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"
          description="A bit of this, a bit of that." />
     <mod url="packs/YogscastCompletePack/files/mods/Modular-Force-Field-System-3.6.2.66-core.jar" file="Modular-Force-Field-System-3.6.2.66-core.jar" md5="b3965d48efaae2a4b9cbb54d745949f5" download="server" 
-         name="MFFS" type="mods" version="3.6.2.66" depends="Calclavia Core" optional="no" recommended="no"
+         name="MFFS" type="mods" version="3.6.2.66" depends="Calclavia Core" optional="no" recommended="yes"
          website="http://www.minecraftforum.net/topic/1703498-" donation="http://universalelectricity.com/mffs/"
          description="Calclavia's Forcefield System." />
     <mod name="Micdoodle8 Core" version="2.0.12.1010"
@@ -489,7 +489,7 @@
          description="Originally by PowerCrystals" />
     <mod name="Not Enough Codecs" version="0.1"
 		 url="packs/YogscastCompletePack/files/mods/NotEnoughCodecs-0.1.jar" file="NotEnoughCodecs-0.1.jar" md5="a8cf90bc7356bbffaeafcd19b18ec0be" download="server"
-		 type="mods" optional="no" recommended="no"
+		 type="mods" optional="yes" server="no" recommended="no"
 		 website="http://openmods.info/"
 		 description="Adds MP3/AAC support to OpenBlocks, enabling its radio station system." />
 	<mod url="packs/YogscastCompletePack/files/mods/NotEnoughItems 1.6.1.9.jar" file="NotEnoughItems 1.6.1.9.jar" md5="a24b36e61c41a75d0622fe0c6ba535b7" download="server" 

@@ -463,7 +463,7 @@
          description="Originally by PowerCrystals" />
     <mod name="Not Enough Codecs" version="0.1"
 		 url="packs/ResonantRise/files/2-STABLE2/NotEnoughCodecs-0.1.jar" file="NotEnoughCodecs-0.1.jar" md5="a8cf90bc7356bbffaeafcd19b18ec0be" download="server"
-		 type="mods" optional="yes"
+		 type="mods" optional="yes" server="no"
 		 website="http://openmods.info/"
 		 description="Adds MP3/AAC support to OpenBlocks, enabling its radio station system." />
 	<mod url="packs/ResonantRise/files/2.6/NotEnoughItems 1.6.1.9.jar" file="NotEnoughItems 1.6.1.9.jar" md5="a24b36e61c41a75d0622fe0c6ba535b7" download="server" 
@@ -798,11 +798,7 @@
 		 type="extract" extractto="root" optional="yes" selected="no" recommended="no"
 		 website="http://resonant-rise.com"
 		 description="Ore generation is slashed by half AND Copper, Tin and Gold are moved; for people who hate themselves." />
-	<mod name="MineTweaker Server Patch" version="n/a"
-		 url="packs/ResonantRise/files/config-switches/minetweaker_default_2.8.3.3.zip" file="minetweaker_default_2.8.3.3.zip" md5="03b13d667646568ca333f641a9db0291" download="server"
-		 type="mods" client="no" server="yes"
-		 website="http://resonant-rise.com"
-		 description="This correctly applies the MineTweaker changes to servers." />	 
+	 
 	
 		<!-- Special Mode Configs -->
 	<mod name="EiraIRC Client Config" version="n/a"
@@ -815,7 +811,11 @@
 		 type="extract" extractto="root" client="no" server="yes"
 		 website="http://resonant-rise.com"
 		 description="Server-specific configs for EiraIRC." />
-
+	<mod name="MineTweaker Server Patch" version="n/a"
+		 url="packs/ResonantRise/files/config-switches/minetweaker_default_2.8.3.3.zip" file="minetweaker_default_2.8.3.3.zip" md5="4a92609574948cb35dbc8f24a004d4bd" download="server" 
+		 type="mods" client="no" server="yes"
+		 website="http://resonant-rise.com"
+		 description="This correctly applies the MineTweaker changes to servers." />
 		 
   </mods>
 </version>
